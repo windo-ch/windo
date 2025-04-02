@@ -13,14 +13,14 @@ import PageTransition from '../components/PageTransition';
 
 const Index = () => {
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen relative">
       <PageTransition />
       <Navbar />
       <Hero />
       <Services />
       <Portfolio />
-      <Testimonials />
       <About />
+      <Testimonials />
       <CallToAction />
       <Contact />
       <Footer />
