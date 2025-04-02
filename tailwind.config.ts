@@ -64,8 +64,12 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				windo: {
-					blue: "#0F4C81",
-					lightblue: "#E0EBF5",
+					orange: "#F97316",
+					deeporange: "#EA580C",
+					yellow: "#FACC15",
+					amber: "#F59E0B",
+					light: "#FEF7CD",
+					softOrange: "#FEC6A1",
 					gray: "#F5F5F7",
 					darkgray: "#333333"
 				}
@@ -99,13 +103,59 @@ export default {
 				'fade-in-right': {
 					'0%': { opacity: '0', transform: 'translateX(10px)' },
 					'100%': { opacity: '1', transform: 'translateX(0)' }
+				},
+				'window-open': {
+					'0%': { 
+						transform: 'scaleY(0)', 
+						opacity: '0',
+						transformOrigin: 'center top' 
+					},
+					'30%': { 
+						transform: 'scaleY(0.03)', 
+						opacity: '1',
+						transformOrigin: 'center top' 
+					},
+					'100%': { 
+						transform: 'scaleY(1)', 
+						opacity: '1',
+						transformOrigin: 'center top' 
+					}
+				},
+				'window-reveal': {
+					'0%': { 
+						opacity: '0',
+						transform: 'translateY(20px)'
+					},
+					'100%': { 
+						opacity: '1',
+						transform: 'translateY(0)'
+					}
+				},
+				'float': {
+					'0%, 100%': { transform: 'translateY(0)' },
+					'50%': { transform: 'translateY(-10px)' }
+				},
+				'pulse-slow': {
+					'0%, 100%': { opacity: '1' },
+					'50%': { opacity: '0.8' }
 				}
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
 				'accordion-up': 'accordion-up 0.2s ease-out',
 				'fade-in': 'fade-in 0.5s ease-out',
-				'fade-in-right': 'fade-in-right 0.5s ease-out'
+				'fade-in-right': 'fade-in-right 0.5s ease-out',
+				'window-open': 'window-open 1.2s ease-out',
+				'window-reveal': 'window-reveal 0.8s ease-out 0.8s both',
+				'float': 'float 6s ease-in-out infinite',
+				'pulse-slow': 'pulse-slow 3s ease-in-out infinite'
+			},
+			backgroundImage: {
+				'orange-gradient': 'linear-gradient(90deg, hsla(29, 92%, 70%, 1) 0%, hsla(0, 87%, 73%, 1) 100%)',
+				'yellow-gradient': 'linear-gradient(90deg, hsla(39, 100%, 77%, 1) 0%, hsla(22, 90%, 57%, 1) 100%)',
+				'peach-gradient': 'linear-gradient(90deg, hsla(24, 100%, 83%, 1) 0%, hsla(341, 91%, 68%, 1) 100%)',
+				'sunrise-gradient': 'linear-gradient(to right, #ee9ca7, #ffdde1)',
+				'sunset-gradient': 'linear-gradient(90.5deg, rgba(255,207,139,0.50) 1.1%, rgba(255,207,139,1) 81.3%)',
 			}
 		}
 	},

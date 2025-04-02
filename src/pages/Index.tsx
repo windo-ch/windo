@@ -9,10 +9,12 @@ import Testimonials from '../components/Testimonials';
 import CallToAction from '../components/CallToAction';
 import Contact from '../components/Contact';
 import Footer from '../components/Footer';
+import PageTransition from '../components/PageTransition';
 
 const Index = () => {
   return (
     <div className="min-h-screen">
+      <PageTransition />
       <Navbar />
       <Hero />
       <Services />
