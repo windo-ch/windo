@@ -1,6 +1,7 @@
 
 import React from 'react';
 import { ArrowRight } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 const Hero = () => {
   return (
@@ -18,12 +19,12 @@ const Hero = () => {
               We create beautiful, functional websites that help your business stand out and succeed online.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 animate-fade-in" style={{ animationDelay: "0.4s" }}>
-              <a 
-                href="#contact" 
+              <Link 
+                to="/project-questionnaire" 
                 className="bg-orange-gradient text-white px-6 py-3 rounded-lg font-medium inline-flex items-center justify-center gap-2 hover:shadow-lg transition-all duration-300"
               >
                 Start a project <ArrowRight size={20} className="ml-1" />
-              </a>
+              </Link>
               <a 
                 href="#portfolio" 
                 className="bg-white text-windo-orange px-6 py-3 rounded-lg font-medium hover:bg-gray-100 hover:shadow-md transition-all duration-300"
