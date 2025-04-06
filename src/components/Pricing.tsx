@@ -1,35 +1,26 @@
 
-import React, { useState } from 'react';
+import React from 'react';
 import { Check, Package, File, Layout, Globe } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
-import { Switch } from '@/components/ui/switch';
 
 const PricingCard = ({ 
   title, 
   price, 
-  annualPrice,
   annualFee, 
   features, 
   icon, 
   accentColor, 
-  popularPlan = false,
-  isAnnual = false,
-  savings = ""
+  popularPlan = false 
 }: { 
   title: string; 
   price: string; 
-  annualPrice?: string;
   annualFee?: string; 
   features: string[]; 
   icon: React.ReactNode; 
   accentColor: string;
   popularPlan?: boolean;
-  isAnnual?: boolean;
-  savings?: string;
 }) => {
-  const displayPrice = isAnnual && annualPrice ? annualPrice : price;
-  
   return (
     <Card className={`border overflow-hidden relative transition-all duration-300 ${
       popularPlan ? 'shadow-xl scale-105 z-10' : 'hover:shadow-lg hover:-translate-y-1'
@@ -37,11 +28,6 @@ const PricingCard = ({
       {popularPlan && (
         <div className="absolute top-0 right-0 bg-windo-orange text-white px-4 py-1 text-xs font-medium uppercase tracking-wider">
           Popular
-        </div>
-      )}
-      {savings && isAnnual && (
-        <div className="absolute top-0 left-0 bg-green-500 text-white px-3 py-1 text-xs font-medium uppercase tracking-wider">
-          Save {savings}
         </div>
       )}
       <div className={`h-2 ${accentColor}`}></div>
@@ -54,14 +40,8 @@ const PricingCard = ({
         </div>
         
         <div className="mt-4 mb-6">
-          <div className="text-3xl font-bold text-windo-darkgray">{displayPrice}</div>
-          {isAnnual ? (
-            <div className="text-gray-600 mt-1">Billed annually</div>
-          ) : (
-            <div className="text-gray-600 mt-1">One-time payment</div>
-          )}
-          
-          {isAnnual && annualFee && (
+          <div className="text-3xl font-bold text-windo-darkgray">{price}</div>
+          {annualFee && (
             <div className="text-gray-600 mt-1">+ {annualFee} annual fee</div>
           )}
         </div>
@@ -90,13 +70,10 @@ const PricingCard = ({
 };
 
 const Pricing = () => {
-  const [isAnnual, setIsAnnual] = useState(false);
-  
   const pricingPlans = [
     {
       title: "One Pager",
       price: "CHF 690",
-      annualPrice: "CHF 690",
       features: [
         "Single beautifully designed page",
         "Mobile responsive design",
@@ -106,13 +83,11 @@ const Pricing = () => {
       ],
       icon: <Layout size={24} />,
       accentColor: "bg-yellow-400",
-      popularPlan: false,
-      savings: ""
+      popularPlan: false
     },
     {
       title: "Small Website",
       price: "CHF 960",
-      annualPrice: "CHF 960",
       annualFee: "CHF 200",
       features: [
         "Up to 3 content pages",
@@ -124,13 +99,11 @@ const Pricing = () => {
       ],
       icon: <File size={24} />,
       accentColor: "bg-orange-400",
-      popularPlan: true,
-      savings: "15%"
+      popularPlan: true
     },
     {
       title: "Medium Website",
       price: "CHF 1,490",
-      annualPrice: "CHF 1,490",
       annualFee: "CHF 300",
       features: [
         "Up to 10 content pages",
@@ -142,13 +115,11 @@ const Pricing = () => {
       ],
       icon: <Package size={24} />,
       accentColor: "bg-amber-500",
-      popularPlan: false,
-      savings: "18%"
+      popularPlan: false
     },
     {
       title: "Big Website",
       price: "CHF 2,490",
-      annualPrice: "CHF 2,490",
       annualFee: "CHF 400",
       features: [
         "Up to 20 content pages",
@@ -161,8 +132,7 @@ const Pricing = () => {
       ],
       icon: <Globe size={24} />,
       accentColor: "bg-red-400",
-      popularPlan: false,
-      savings: "20%"
+      popularPlan: false
     }
   ];
 
@@ -177,24 +147,9 @@ const Pricing = () => {
           <h2 className="text-3xl md:text-4xl font-bold text-windo-darkgray mb-4">
             Choose Your <span className="text-transparent bg-clip-text bg-orange-gradient">Perfect Plan</span>
           </h2>
-          <p className="text-gray-600 max-w-2xl mx-auto mb-8">
+          <p className="text-gray-600 max-w-2xl mx-auto">
             Transparent pricing with no hidden fees. All plans include high-quality design, responsive layouts, and ongoing support.
           </p>
-          
-          <div className="flex items-center justify-center space-x-4 mb-8">
-            <span className={`font-medium ${!isAnnual ? 'text-windo-darkgray' : 'text-gray-500'}`}>One-time payment</span>
-            <div className="flex items-center">
-              <Switch
-                checked={isAnnual}
-                onCheckedChange={setIsAnnual}
-                className="data-[state=checked]:bg-orange-gradient"
-              />
-            </div>
-            <span className={`font-medium ${isAnnual ? 'text-windo-darkgray' : 'text-gray-500'}`}>Annual billing</span>
-            <span className="bg-green-100 text-green-800 text-xs font-semibold px-2.5 py-0.5 rounded-full ml-2 animate-pulse">
-              Save up to 20%
-            </span>
-          </div>
         </div>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-4">
@@ -203,14 +158,11 @@ const Pricing = () => {
               <PricingCard
                 title={plan.title}
                 price={plan.price}
-                annualPrice={plan.annualPrice}
                 annualFee={plan.annualFee}
                 features={plan.features}
                 icon={plan.icon}
                 accentColor={plan.accentColor}
                 popularPlan={plan.popularPlan}
-                isAnnual={isAnnual}
-                savings={plan.savings}
               />
             </div>
           ))}
