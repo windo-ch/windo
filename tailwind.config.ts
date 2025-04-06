@@ -131,6 +131,23 @@ export default {
 						transform: 'translateY(0)'
 					}
 				},
+                'window-swing': {
+                    '0%': {
+                        transform: 'rotateY(0deg)',
+                    },
+                    '70%': {
+                        transform: 'rotateY(-85deg)',
+                    },
+                    '80%': {
+                        transform: 'rotateY(-75deg)',
+                    },
+                    '90%': {
+                        transform: 'rotateY(-82deg)',
+                    },
+                    '100%': {
+                        transform: 'rotateY(-80deg)',
+                    }
+                },
 				'float': {
 					'0%, 100%': { transform: 'translateY(0)' },
 					'50%': { transform: 'translateY(-10px)' }
