@@ -41,7 +41,8 @@ const NavigationButtons: React.FC<NavigationButtonsProps> = ({
         </Button>
       ) : (
         <Button 
-          type="submit" 
+          type="submit"
+          form="questionnaire-form"
           className="flex-1 bg-orange-gradient text-white"
         >
           Submit Questionnaire

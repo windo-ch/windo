@@ -126,7 +126,7 @@ const ProjectQuestionnaire = () => {
             
             <div className="bg-white rounded-lg shadow-md p-6 md:p-8">
               <Form {...form}>
-                <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-8">
+                <form id="questionnaire-form" onSubmit={form.handleSubmit(onSubmit)} className="space-y-8">
                   {/* Render the current step */}
                   {stepComponents[currentStep]}
                   
