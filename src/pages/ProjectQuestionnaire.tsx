@@ -10,14 +10,14 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import PageTransition from '@/components/PageTransition';
 
-// Import components
-import BusinessInfoStep from './projectQuestionnaire/BusinessInfoStep';
-import GoalsFeaturesStep from './projectQuestionnaire/GoalsFeaturesStep';
-import DesignContentStep from './projectQuestionnaire/DesignContentStep';
-import TechnicalContactStep from './projectQuestionnaire/TechnicalContactStep';
-import StepIndicator from './projectQuestionnaire/StepIndicator';
-import NavigationButtons from './projectQuestionnaire/NavigationButtons';
-import { formSchema, FormValues, steps } from './projectQuestionnaire/FormSchema';
+// Import components from restructured folders
+import BusinessInfoStep from './projectQuestionnaire/components/BusinessInfoStep';
+import GoalsFeaturesStep from './projectQuestionnaire/components/GoalsFeaturesStep';
+import DesignContentStep from './projectQuestionnaire/components/DesignContentStep';
+import TechnicalContactStep from './projectQuestionnaire/components/TechnicalContactStep';
+import StepIndicator from './projectQuestionnaire/components/StepIndicator';
+import NavigationButtons from './projectQuestionnaire/components/NavigationButtons';
+import { formSchema, FormValues, steps } from './projectQuestionnaire/schema/FormSchema';
 
 const ProjectQuestionnaire = () => {
   const [currentStep, setCurrentStep] = useState(0);
