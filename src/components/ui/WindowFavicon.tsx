@@ -1,0 +1,76 @@
+import React from 'react';
+
+/**
+ * This component renders an SVG favicon based on the Windo logo design
+ * The SVG can be used to generate favicon files
+ */
+const WindowFavicon: React.FC = () => {
+  return (
+    <svg 
+      width="32" 
+      height="32" 
+      viewBox="0 0 32 32" 
+      xmlns="http://www.w3.org/2000/svg"
+      style={{ display: 'none' }}
+    >
+      {/* Rounded square with orange gradient */}
+      <rect 
+        x="1" 
+        y="1" 
+        width="30" 
+        height="30" 
+        rx="6" 
+        fill="url(#gradientFill)"
+        stroke="none"
+      />
+      
+      {/* Inner white area */}
+      <rect 
+        x="5" 
+        y="5" 
+        width="22" 
+        height="22" 
+        rx="4" 
+        fill="white" 
+      />
+      
+      {/* Horizontal line */}
+      <rect 
+        x="5" 
+        y="13" 
+        width="22" 
+        height="6" 
+        fill="url(#horizontalGradient)" 
+      />
+      
+      {/* Vertical line */}
+      <rect 
+        x="13" 
+        y="5" 
+        width="6" 
+        height="22" 
+        fill="url(#verticalGradient)" 
+      />
+      
+      {/* Gradients */}
+      <defs>
+        <linearGradient id="gradientFill" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+          <stop offset="0%" stopColor="#FF5800" />
+          <stop offset="100%" stopColor="#FF8A00" />
+        </linearGradient>
+        
+        <linearGradient id="horizontalGradient" x1="0" y1="0" x2="32" y2="0" gradientUnits="userSpaceOnUse">
+          <stop offset="0%" stopColor="#FF5800" />
+          <stop offset="100%" stopColor="#FF8A00" />
+        </linearGradient>
+        
+        <linearGradient id="verticalGradient" x1="0" y1="0" x2="0" y2="32" gradientUnits="userSpaceOnUse">
+          <stop offset="0%" stopColor="#FF8A00" />
+          <stop offset="100%" stopColor="#FF5800" />
+        </linearGradient>
+      </defs>
+    </svg>
+  );
+};
+
+export default WindowFavicon; 
