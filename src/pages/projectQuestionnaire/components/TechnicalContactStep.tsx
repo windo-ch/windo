@@ -3,7 +3,7 @@ import { FormField, FormItem, FormLabel, FormControl, FormMessage, FormDescripti
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { Checkbox } from '@/components/ui/checkbox';
-import { User, Mail, Phone, Building, Calendar, Check, Coins, Plus, Trash2, Globe, Clock } from 'lucide-react';
+import { User, Mail, Phone, Building, Calendar, Check, Coins, Plus, Trash2, Globe, Clock, AlertCircle } from 'lucide-react';
 import { Slider } from '@/components/ui/slider';
 import { Button } from '@/components/ui/button';
 import { useFormContext } from 'react-hook-form';
@@ -100,13 +100,20 @@ export function TechnicalContactStep() {
           {t('questionnaire.technical.subtitle')}
         </p>
       </div>
+      
+      <div className="mb-4 p-3 bg-gray-50 dark:bg-gray-800 rounded-md border border-gray-200 dark:border-gray-700">
+        <div className="flex items-center text-sm text-gray-600 dark:text-gray-400">
+          <AlertCircle className="h-4 w-4 mr-2 text-red-500" />
+          <span>Fields marked with <span className="text-red-500 font-bold">*</span> are required</span>
+        </div>
+      </div>
 
       <div className="space-y-6">
         {/* Hosting Options */}
         <div className="space-y-4">
           <h3 className="text-lg font-medium flex items-center space-x-2">
             <Building className="w-5 h-5 text-windo-orange" />
-            <span>{t('questionnaire.technical.hosting.title')}</span>
+            <span>{t('questionnaire.technical.hosting.title')} <span className="text-red-500">*</span></span>
           </h3>
           <FormField
             name="hostingOption"
@@ -141,7 +148,7 @@ export function TechnicalContactStep() {
         <div className="space-y-4">
           <h3 className="text-lg font-medium flex items-center space-x-2">
             <Globe className="w-5 h-5 text-windo-orange" />
-            <span>{t('questionnaire.technical.domain.title')}</span>
+            <span>{t('questionnaire.technical.domain.title')} <span className="text-red-500">*</span></span>
           </h3>
           <FormField
             name="domainOption"
@@ -221,40 +228,62 @@ export function TechnicalContactStep() {
           />
         </div>
 
-        {/* Technical Contact */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          <div className="space-y-4">
-            <h3 className="text-lg font-medium flex items-center space-x-2">
-              <User className="w-5 h-5 text-windo-orange" />
-              <span>{t('questionnaire.technical.contact.title')}</span>
-            </h3>
+        {/* Contact Information */}
+        <div className="space-y-4">
+          <h3 className="text-lg font-medium flex items-center space-x-2">
+            <User className="w-5 h-5 text-windo-orange" />
+            <span>Contact Information <span className="text-red-500">*</span></span>
+          </h3>
 
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <FormField
-              name="technicalContactName"
-              render={({ field }) => (
+              name="name"
+              render={({ field, fieldState }) => (
                 <FormItem>
-                  <FormLabel>{t('questionnaire.technical.contact.name.label')}</FormLabel>
+                  <FormLabel className={fieldState.invalid && fieldState.isTouched ? 'text-red-500' : ''}>
+                    Name <span className="text-red-500">*</span>
+                  </FormLabel>
                   <FormControl>
                     <Input
-                      placeholder={t('questionnaire.technical.contact.name.placeholder')}
-                      className="bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 focus:border-windo-orange focus:ring-windo-orange"
+                      placeholder="Your name"
+                      className={`bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 focus:border-windo-orange focus:ring-windo-orange ${fieldState.invalid && fieldState.isTouched ? 'border-red-500' : ''}`}
                       {...field}
                     />
                   </FormControl>
-                  <FormMessage />
+                  {fieldState.invalid && fieldState.isTouched && <FormMessage />}
                 </FormItem>
               )}
             />
 
             <FormField
-              name="technicalContactEmail"
-              render={({ field }) => (
+              name="email"
+              render={({ field, fieldState }) => (
                 <FormItem>
-                  <FormLabel>{t('questionnaire.technical.contact.email.label')}</FormLabel>
+                  <FormLabel className={fieldState.invalid && fieldState.isTouched ? 'text-red-500' : ''}>
+                    Email <span className="text-red-500">*</span>
+                  </FormLabel>
                   <FormControl>
                     <Input
                       type="email"
-                      placeholder={t('questionnaire.technical.contact.email.placeholder')}
+                      placeholder="Your email address"
+                      className={`bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 focus:border-windo-orange focus:ring-windo-orange ${fieldState.invalid && fieldState.isTouched ? 'border-red-500' : ''}`}
+                      {...field}
+                    />
+                  </FormControl>
+                  {fieldState.invalid && fieldState.isTouched && <FormMessage />}
+                </FormItem>
+              )}
+            />
+
+            <FormField
+              name="phone"
+              render={({ field }) => (
+                <FormItem>
+                  <FormLabel>Phone</FormLabel>
+                  <FormControl>
+                    <Input
+                      type="tel"
+                      placeholder="Your phone number"
                       className="bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 focus:border-windo-orange focus:ring-windo-orange"
                       {...field}
                     />
@@ -265,14 +294,13 @@ export function TechnicalContactStep() {
             />
 
             <FormField
-              name="technicalContactPhone"
+              name="company"
               render={({ field }) => (
                 <FormItem>
-                  <FormLabel>{t('questionnaire.technical.contact.phone.label')}</FormLabel>
+                  <FormLabel>Company</FormLabel>
                   <FormControl>
                     <Input
-                      type="tel"
-                      placeholder={t('questionnaire.technical.contact.phone.placeholder')}
+                      placeholder="Your company name"
                       className="bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 focus:border-windo-orange focus:ring-windo-orange"
                       {...field}
                     />
@@ -290,7 +318,7 @@ export function TechnicalContactStep() {
       <div className="space-y-4">
         <h3 className="text-lg font-medium flex items-center space-x-2">
           <Coins className="w-5 h-5 text-windo-orange" />
-          <span>{t('questionnaire.technical.budget.title')}</span>
+          <span>{t('questionnaire.technical.budget.title')} <span className="text-red-500">*</span></span>
         </h3>
         <FormField
           control={form.control}
@@ -328,29 +356,36 @@ export function TechnicalContactStep() {
         />
       </div>
 
-      <FormField
-        control={form.control}
-        name="termsAgreed"
-        render={({ field }) => (
-          <FormItem className="flex flex-row items-start space-x-3 space-y-0">
-            <FormControl>
-              <Checkbox
-                checked={field.value}
-                onCheckedChange={field.onChange}
-                className="border-windo-orange data-[state=checked]:bg-windo-orange data-[state=checked]:text-white"
-              />
-            </FormControl>
-            <div className="space-y-1 leading-none">
-              <FormLabel>
-                {t('questionnaire.terms.agreement.label')}
-              </FormLabel>
-              <FormDescription>
-                {t('questionnaire.terms.agreement.description')}
-              </FormDescription>
-            </div>
-          </FormItem>
-        )}
-      />
+      {/* Add Terms & Conditions Checkbox - without red styling until error */}
+      <div className="space-y-4">
+        <h3 className="text-lg font-medium flex items-center space-x-2">
+          <Check className="w-5 h-5 text-windo-orange" />
+          <span>Terms & Conditions <span className="text-red-500">*</span></span>
+        </h3>
+        <FormField
+          name="termsAgreed"
+          render={({ field, fieldState }) => (
+            <FormItem className="flex flex-row items-start space-x-3 space-y-0">
+              <FormControl>
+                <Checkbox
+                  checked={field.value}
+                  onCheckedChange={field.onChange}
+                  className={`text-windo-orange border-windo-orange data-[state=checked]:bg-windo-orange ${fieldState.invalid ? 'border-red-500' : ''}`}
+                />
+              </FormControl>
+              <div className="space-y-1 leading-none">
+                <FormLabel className={fieldState.invalid ? 'text-red-500' : ''}>
+                  I agree to the terms and conditions <span className="text-red-500">*</span>
+                </FormLabel>
+                <FormDescription>
+                  By checking this box, you agree to our <a href="/legal/terms" className="text-windo-orange hover:underline">terms of service</a> and <a href="/legal/privacy" className="text-windo-orange hover:underline">privacy policy</a>
+                </FormDescription>
+                <FormMessage />
+              </div>
+            </FormItem>
+          )}
+        />
+      </div>
     </div>
   );
 }

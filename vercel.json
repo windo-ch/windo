@@ -2,10 +2,9 @@
   "version": 2,
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
-  "outputDirectory": "build",
+  "outputDirectory": "dist",
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "/api/$1.js" },
-    { "source": "/(.*)", "destination": "/index.html" }
+    { "source": "/(.*)", "destination": "/" }
   ],
   "headers": [
     {
@@ -40,5 +39,8 @@
     }
   ],
   "trailingSlash": false,
-  "framework": "vite"
+  "framework": "vite",
+  "github": {
+    "silent": true
+  }
 } 

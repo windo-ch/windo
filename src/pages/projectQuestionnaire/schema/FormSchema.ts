@@ -43,15 +43,50 @@ export const formSchema = z.object({
   }),
   
   // Step 4: Technical & Contact
-  domain: z.string({
+  domainOption: z.string({
     required_error: "Please select your domain status",
   }),
-  name: z.string().min(2, {
-    message: "Please enter your name",
-  }).optional().or(z.literal("")),
-  email: z.string().email({
-    message: "Please enter a valid email address",
-  }).optional().or(z.literal("")),
+  hostingOption: z.string({
+    required_error: "Please select your hosting preference",
+  }),
+  existingDomain: z.string().optional(),
+  technicalRequirements: z.string().optional(),
+  // Optional technical contact fields that only validate if filled
+  technicalContactName: z.string().optional().refine(val => !val || val.length >= 2, {
+    message: "Name must be at least 2 characters if provided"
+  }),
+  technicalContactEmail: z.string().optional().refine(val => !val || /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val), {
+    message: "Please enter a valid email address if provided"
+  }),
+  technicalContactPhone: z.string().optional(),
+  // Required contact fields
+  name: z.string().superRefine((val, ctx) => {
+    // Only validate if the field has been touched or submitted
+    if (val === "") return; // Empty is fine initially
+    
+    if (val.length < 2) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.too_small,
+        minimum: 2,
+        type: "string",
+        inclusive: true,
+        message: "Please enter your name",
+      });
+    }
+  }),
+  email: z.string().superRefine((val, ctx) => {
+    // Only validate if the field has been touched or submitted
+    if (val === "") return; // Empty is fine initially
+    
+    // Basic email validation
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val)) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.invalid_string,
+        validation: "email",
+        message: "Please enter a valid email address",
+      });
+    }
+  }),
   phone: z.string().optional(),
   company: z.string().optional(),
   projectTimeline: z.array(z.object({
@@ -90,7 +125,11 @@ export const steps = [
   },
   { 
     title: "Technical & Contact", 
-    fields: ["domain", "name", "email", "phone", "company", "projectTimeline", "budget", "termsAgreed"],
+    fields: [
+      "domainOption", "hostingOption", "existingDomain", "technicalRequirements", 
+      "technicalContactName", "technicalContactEmail", "technicalContactPhone",
+      "name", "email", "phone", "company", "projectTimeline", "budget", "termsAgreed"
+    ],
     icon: 'Settings' as const
   },
 ];
