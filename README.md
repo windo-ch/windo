@@ -71,4 +71,39 @@ Yes it is!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
-# windo
+
+## Vercel Postgres Setup
+
+This project uses Vercel Postgres to store form submissions. To set up:
+
+1. Install Vercel CLI:
+   ```
+   npm install -g vercel
+   ```
+
+2. Log in to Vercel:
+   ```
+   vercel login
+   ```
+
+3. Link your project:
+   ```
+   vercel link
+   ```
+
+4. Create a Postgres database:
+   ```
+   vercel postgres create
+   ```
+
+5. Pull environment variables:
+   ```
+   vercel env pull
+   ```
+
+6. Initialize database schema:
+   ```
+   cat sql/schema.sql | vercel postgres
+   ```
+
+The form submissions will be automatically stored in the database when users submit the form.
