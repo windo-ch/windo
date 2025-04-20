@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Check } from 'lucide-react';
 
@@ -32,33 +31,6 @@ const About = () => {
             <p className="text-gray-600">
               We are a Swiss web design studio focused on creating exceptional digital experiences that help businesses succeed online. With over 10 years of industry experience, we combine technical expertise with creative design to deliver websites that stand out.
             </p>
-            
-            <div className="space-y-3">
-              <div className="flex items-center">
-                <div className="bg-windo-light p-1 rounded-full mr-3">
-                  <Check className="text-windo-orange" size={18} />
-                </div>
-                <span className="text-gray-700">Tailored solutions for each client's unique needs</span>
-              </div>
-              <div className="flex items-center">
-                <div className="bg-windo-light p-1 rounded-full mr-3">
-                  <Check className="text-windo-orange" size={18} />
-                </div>
-                <span className="text-gray-700">Focus on performance, accessibility and user experience</span>
-              </div>
-              <div className="flex items-center">
-                <div className="bg-windo-light p-1 rounded-full mr-3">
-                  <Check className="text-windo-orange" size={18} />
-                </div>
-                <span className="text-gray-700">Clear communication and transparent process</span>
-              </div>
-              <div className="flex items-center">
-                <div className="bg-windo-light p-1 rounded-full mr-3">
-                  <Check className="text-windo-orange" size={18} />
-                </div>
-                <span className="text-gray-700">Ongoing support and maintenance</span>
-              </div>
-            </div>
             
             <div className="pt-4">
               <a 

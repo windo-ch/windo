@@ -1,94 +1,101 @@
-
 import React from 'react';
-import { Building } from 'lucide-react';
-import { useFormContext } from 'react-hook-form';
-import {
-  FormField,
-  FormItem,
-  FormLabel,
-  FormControl,
-  FormMessage,
-} from '@/components/ui/form';
+import { Building2 } from 'lucide-react';
+import { FormField, FormItem, FormLabel, FormControl, FormMessage, FormDescription } from '@/components/ui/form';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
+import { useLanguage } from '../../../contexts/LanguageContext';
 
 const BusinessInfoStep = () => {
-  const form = useFormContext();
-
+  const { t } = useLanguage();
+  
   return (
-    <div className="space-y-6">
-      <div className="flex items-center gap-3 mb-4">
-        <Building className="h-6 w-6 text-windo-orange" />
-        <h2 className="text-2xl font-bold">Tell us about your business</h2>
+    <div className="space-y-8">
+      <div className="text-center mb-8">
+        <div className="inline-flex items-center justify-center w-12 h-12 rounded-full bg-gray-100 dark:bg-gray-800 mb-4">
+          <Building2 className="w-6 h-6 text-windo-orange" />
+        </div>
+        <h2 className="text-2xl font-semibold mb-2">{t('questionnaire.businessInfo.title')}</h2>
+        <p className="text-gray-600 dark:text-gray-400">
+          {t('questionnaire.businessInfo.subtitle')}
+        </p>
       </div>
-      <p className="text-gray-600 mb-4">This helps us understand your business context and needs.</p>
-      
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+
+      <div className="space-y-6">
         <FormField
-          control={form.control}
           name="industry"
           render={({ field }) => (
             <FormItem>
-              <FormLabel>What industry are you in?</FormLabel>
+              <FormLabel>{t('questionnaire.businessInfo.industry.label')}</FormLabel>
               <FormControl>
-                <Input placeholder="E.g., Healthcare, Retail, Education..." {...field} />
+                <Input 
+                  placeholder={t('questionnaire.businessInfo.industry.placeholder')}
+                  className="bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 focus:border-windo-orange focus:ring-windo-orange hover:border-windo-orange/50"
+                  {...field} 
+                />
               </FormControl>
+              <FormDescription>
+                {t('questionnaire.businessInfo.industry.description')}
+              </FormDescription>
               <FormMessage />
             </FormItem>
           )}
         />
-        
+
         <FormField
-          control={form.control}
           name="servicesProducts"
           render={({ field }) => (
             <FormItem>
-              <FormLabel>What products or services do you offer?</FormLabel>
+              <FormLabel>{t('questionnaire.businessInfo.services.label')}</FormLabel>
               <FormControl>
                 <Textarea 
-                  placeholder="Describe your main products or services..." 
-                  className="min-h-[80px]"
+                  placeholder={t('questionnaire.businessInfo.services.placeholder')}
+                  className="bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 focus:border-windo-orange focus:ring-windo-orange hover:border-windo-orange/50 min-h-[100px]"
                   {...field} 
                 />
               </FormControl>
+              <FormDescription>
+                {t('questionnaire.businessInfo.services.description')}
+              </FormDescription>
               <FormMessage />
             </FormItem>
           )}
         />
-      </div>
-      
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+
         <FormField
-          control={form.control}
           name="targetAudience"
           render={({ field }) => (
             <FormItem>
-              <FormLabel>Who is your target audience?</FormLabel>
+              <FormLabel>{t('questionnaire.businessInfo.audience.label')}</FormLabel>
               <FormControl>
                 <Textarea 
-                  placeholder="Describe your ideal customers or clients..." 
-                  className="min-h-[80px]"
+                  placeholder={t('questionnaire.businessInfo.audience.placeholder')}
+                  className="bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 focus:border-windo-orange focus:ring-windo-orange hover:border-windo-orange/50 min-h-[100px]"
                   {...field} 
                 />
               </FormControl>
+              <FormDescription>
+                {t('questionnaire.businessInfo.audience.description')}
+              </FormDescription>
               <FormMessage />
             </FormItem>
           )}
         />
-        
+
         <FormField
-          control={form.control}
           name="brandValues"
           render={({ field }) => (
             <FormItem>
-              <FormLabel>What are your core brand values?</FormLabel>
+              <FormLabel>{t('questionnaire.businessInfo.values.label')}</FormLabel>
               <FormControl>
                 <Textarea 
-                  placeholder="E.g., Innovation, Reliability, Sustainability..." 
-                  className="min-h-[80px]"
+                  placeholder={t('questionnaire.businessInfo.values.placeholder')}
+                  className="bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 focus:border-windo-orange focus:ring-windo-orange hover:border-windo-orange/50 min-h-[100px]"
                   {...field} 
                 />
               </FormControl>
+              <FormDescription>
+                {t('questionnaire.businessInfo.values.description')}
+              </FormDescription>
               <FormMessage />
             </FormItem>
           )}

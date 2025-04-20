@@ -1,69 +1,66 @@
-
 import React from 'react';
-import { Check, LucideIcon } from 'lucide-react';
+import { Building, Target, Paintbrush, Settings } from 'lucide-react';
+import { cn } from '@/lib/utils';
+import { useLanguage } from '../../../contexts/LanguageContext';
 
 interface StepIndicatorProps {
-  steps: {
-    title: string;
-    icon: LucideIcon;
-  }[];
   currentStep: number;
-  setCurrentStep: (step: number) => void;
+  totalSteps: number;
 }
 
-const StepIndicator: React.FC<StepIndicatorProps> = ({ steps, currentStep, setCurrentStep }) => {
-  // Calculate progress percentage
-  const progress = ((currentStep) / (steps.length - 1)) * 100;
+const StepIndicator: React.FC<StepIndicatorProps> = ({ currentStep, totalSteps }) => {
+  const { t } = useLanguage();
+  
+  const steps = [
+    { icon: Building, label: t('questionnaire.business_info.title') },
+    { icon: Target, label: t('questionnaire.goals.title') },
+    { icon: Paintbrush, label: t('questionnaire.design.title') },
+    { icon: Settings, label: t('questionnaire.technical.title') },
+  ];
 
   return (
-    <>
-      {/* Progress bar */}
-      <div className="w-full bg-gray-200 h-2 rounded-full mb-6">
-        <div 
-          className="bg-orange-gradient h-full rounded-full transition-all duration-300" 
-          style={{ width: `${progress}%` }}
-        ></div>
-      </div>
-      
-      {/* Step indicators */}
-      <div className="flex justify-between mb-8 py-2">
-        {steps.map((step, index) => {
-          const StepIcon = step.icon;
-          return (
-            <div 
-              key={index}
-              className={`flex flex-col items-center cursor-pointer transition-colors ${
-                index === currentStep 
-                  ? 'text-windo-orange' 
-                  : index < currentStep 
-                    ? 'text-gray-500 hover:text-windo-orange' 
-                    : 'text-gray-300'
-              }`}
-              onClick={() => {
-                if (index < currentStep) {
-                  setCurrentStep(index);
-                }
-              }}
-            >
-              <div className={`w-12 h-12 flex items-center justify-center rounded-full mb-1 ${
-                index === currentStep 
-                  ? 'bg-windo-orange text-white' 
-                  : index < currentStep 
-                    ? 'bg-gray-200 text-gray-500 hover:bg-gray-300' 
-                    : 'bg-gray-100 text-gray-300'
-              }`}>
-                {index < currentStep ? (
-                  <Check size={20} /> 
-                ) : (
-                  <StepIcon size={20} />
+    <div className="flex justify-between items-center mb-8">
+      {steps.map((step, index) => {
+        const Icon = step.icon;
+        const isActive = index === currentStep;
+        const isCompleted = index < currentStep;
+
+        return (
+          <React.Fragment key={index}>
+            <div className="flex flex-col items-center">
+              <div
+                className={cn(
+                  'w-12 h-12 rounded-full flex items-center justify-center mb-2 transition-all duration-300',
+                  isActive ? 'bg-orange-gradient text-white' : 
+                  isCompleted ? 'bg-orange-gradient text-white' : 
+                  'bg-gray-100 dark:bg-gray-800 text-gray-400'
                 )}
+              >
+                <Icon className="w-6 h-6" />
               </div>
-              <span className="text-sm font-medium">{step.title}</span>
+              <span
+                className={cn(
+                  'text-sm font-medium transition-colors duration-300',
+                  isActive ? 'text-windo-orange' : 
+                  isCompleted ? 'text-windo-orange' : 
+                  'text-gray-500 dark:text-gray-400'
+                )}
+              >
+                {step.label}
+              </span>
             </div>
-          );
-        })}
-      </div>
-    </>
+            {index < steps.length - 1 && (
+              <div
+                className={cn(
+                  'flex-1 h-1 mx-4 transition-colors duration-300',
+                  isCompleted ? 'bg-orange-gradient' : 'bg-gray-200 dark:bg-gray-700'
+                )}
+              />
+            )}
+          </React.Fragment>
+        );
+      })}
+    </div>
   );
 };
 
