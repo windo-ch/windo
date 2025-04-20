@@ -47,19 +47,19 @@ export async function handleFormSubmission(
       logSubmissionToLocalStorage(submissionData);
     }
 
-    // Submit to API endpoint if in production
-    if (process.env.NODE_ENV === 'production' && endpoint) {
-      const response = await fetch(endpoint, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(submissionData),
-      });
+    // Submit to API endpoint (always submit regardless of environment)
+    const response = await fetch(endpoint, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(submissionData),
+    });
 
-      if (!response.ok) {
-        throw new Error(`Form submission failed: ${response.statusText}`);
-      }
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({}));
+      const errorMessage = errorData.message || response.statusText;
+      throw new Error(`Form submission failed: ${errorMessage}`);
     }
 
     // Return success

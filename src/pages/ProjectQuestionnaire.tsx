@@ -149,7 +149,7 @@ const ProjectQuestionnaire = () => {
     try {
       // Use the new form submission service
       const result = await handleFormSubmission(data, {
-        endpoint: '/api/submit-questionnaire',
+        endpoint: '/api/form-submission',
         logToConsole: true,
         logToLocalStorage: true
       });

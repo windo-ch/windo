@@ -1,5 +1,7 @@
 import React, { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
+import { Analytics as VercelAnalytics } from '@vercel/analytics/react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 const Analytics: React.FC = () => {
   const location = useLocation();
@@ -24,8 +26,13 @@ const Analytics: React.FC = () => {
     trackPageView();
   }, [location]);
 
-  // This component doesn't render anything visible
-  return null;
+  // Return Vercel Analytics and SpeedInsights components
+  return (
+    <>
+      <VercelAnalytics />
+      <SpeedInsights />
+    </>
+  );
 };
 
 export default Analytics; 

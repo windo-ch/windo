@@ -9,6 +9,7 @@ import Footer from '@/components/Footer';
 import ScrollToTop from './components/ScrollToTop';
 import PageTransition from './components/PageTransition';
 import CookieConsent from './components/ui/CookieConsent';
+import Analytics from './components/Analytics';
 import routes from './routes';
 
 // AppRoutes component to use the routes configuration
@@ -33,6 +34,7 @@ function App() {
                 <Footer />
                 <Toaster position="top-right" />
                 <CookieConsent />
+                <Analytics />
               </div>
             </PageTransition>
           </Router>

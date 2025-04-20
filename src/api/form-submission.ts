@@ -1,6 +1,10 @@
 import { sql } from '@vercel/postgres';
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 
+/**
+ * API handler for form submissions
+ * Stores form data in Vercel Postgres database
+ */
 export default async function handler(
   req: VercelRequest,
   res: VercelResponse
