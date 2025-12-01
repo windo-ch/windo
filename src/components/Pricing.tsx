@@ -7,7 +7,10 @@ import { Card, CardContent } from '@/components/ui/card';
 const PricingCard = ({ 
   title, 
   price, 
+  priceNote,
+  priceBreakdown,
   annualFee, 
+  example,
   features, 
   icon, 
   accentColor, 
@@ -15,19 +18,22 @@ const PricingCard = ({
 }: { 
   title: string; 
   price: string; 
+  priceNote?: string;
+  priceBreakdown?: string;
   annualFee?: string; 
+  example?: string;
   features: string[]; 
   icon: React.ReactNode; 
   accentColor: string;
   popularPlan?: boolean;
 }) => {
   return (
-    <Card className={`border overflow-hidden relative transition-all duration-300 ${
-      popularPlan ? 'shadow-xl scale-105 z-10' : 'hover:shadow-lg hover:-translate-y-1'
+    <Card className={`border overflow-hidden relative transition-all duration-300 dark:bg-gray-900 ${
+      popularPlan ? 'shadow-xl scale-105 z-10 border-windo-orange' : 'hover:shadow-lg hover:-translate-y-1'
     }`}>
       {popularPlan && (
         <div className="absolute top-0 right-0 bg-windo-orange text-white px-4 py-1 text-xs font-medium uppercase tracking-wider">
-          Popular
+          Beliebt
         </div>
       )}
       <div className={`h-2 ${accentColor}`}></div>
@@ -36,21 +42,31 @@ const PricingCard = ({
           <div className={`w-12 h-12 flex items-center justify-center rounded-lg text-white ${accentColor}`}>
             {icon}
           </div>
-          <h3 className="text-xl font-semibold text-windo-darkgray">{title}</h3>
+          <h3 className="text-xl font-semibold text-windo-darkgray dark:text-white">{title}</h3>
         </div>
         
-        <div className="mt-4 mb-6">
-          <div className="text-3xl font-bold text-windo-darkgray">{price}</div>
+        {example && (
+          <p className="text-sm text-gray-500 dark:text-gray-400 mb-3 italic">{example}</p>
+        )}
+        
+        <div className="mt-4 mb-4">
+          <div className="text-3xl font-bold text-windo-darkgray dark:text-white">{price}</div>
+          {priceNote && (
+            <div className="text-gray-600 dark:text-gray-400 mt-1 text-sm">{priceNote}</div>
+          )}
+          {priceBreakdown && (
+            <div className="text-gray-500 dark:text-gray-500 mt-2 text-xs">{priceBreakdown}</div>
+          )}
           {annualFee && (
-            <div className="text-gray-600 mt-1">+ {annualFee} annual fee</div>
+            <div className="text-gray-600 dark:text-gray-400 mt-2 text-sm font-medium">Ab Jahr 2: {annualFee}</div>
           )}
         </div>
         
         <div className="space-y-3 mb-8">
           {features.map((feature, index) => (
             <div key={index} className="flex items-start">
-              <Check className="text-windo-orange mr-2 mt-0.5 flex-shrink-0" size={18} />
-              <span className="text-gray-600">{feature}</span>
+              <Check className="text-windo-orange dark:text-orange-400 mr-2 mt-0.5 flex-shrink-0" size={18} />
+              <span className="text-gray-600 dark:text-gray-300 text-sm">{feature}</span>
             </div>
           ))}
         </div>
@@ -59,10 +75,10 @@ const PricingCard = ({
           className={`w-full ${
             popularPlan 
               ? 'bg-orange-gradient hover:bg-opacity-90 text-white' 
-              : 'bg-white text-windo-orange border border-windo-orange hover:bg-orange-50'
+              : 'bg-white dark:bg-gray-800 text-windo-orange border border-windo-orange hover:bg-orange-50 dark:hover:bg-orange-950/20'
           }`}
         >
-          Choose Plan
+          Jetzt starten
         </Button>
       </CardContent>
     </Card>
@@ -72,66 +88,61 @@ const PricingCard = ({
 const Pricing = () => {
   const pricingPlans = [
     {
-      title: "One Pager",
-      price: "CHF 690",
+      title: "Kleine Website",
+      price: "CHF 500",
+      priceNote: "pro Jahr",
+      example: "z.B. topcutbarber.ch",
       features: [
-        "Single beautifully designed page",
-        "Mobile responsive design",
-        "Contact form integration",
-        "Basic SEO optimization",
-        "4 content updates per year"
-      ],
-      icon: <Layout size={24} />,
-      accentColor: "bg-yellow-400",
-      popularPlan: false
-    },
-    {
-      title: "Small Website",
-      price: "CHF 960",
-      annualFee: "CHF 200",
-      features: [
-        "Up to 3 content pages",
-        "Mobile responsive design",
-        "Contact form integration",
-        "Basic SEO optimization",
-        "4 content updates per year",
-        "Custom domain setup"
+        "Moderne, responsive Website",
+        "Persönlicher Support & Betreuung",
+        "Hosting & Domain inklusive",
+        "Regelmässige Updates & Wartung",
+        "SEO-Optimierung",
+        "Kontaktformular",
+        "Keine versteckten Kosten"
       ],
       icon: <File size={24} />,
-      accentColor: "bg-orange-400",
+      accentColor: "bg-yellow-400",
       popularPlan: true
     },
     {
-      title: "Medium Website",
-      price: "CHF 1,490",
-      annualFee: "CHF 300",
+      title: "Mittlere Website",
+      price: "CHF 2,250",
+      priceNote: "im ersten Jahr",
+      priceBreakdown: "CHF 2,000 einmalig + CHF 500/Jahr",
+      annualFee: "CHF 500/Jahr",
+      example: "z.B. zahnarzt-neumann.ch",
       features: [
-        "Up to 10 content pages",
-        "Mobile responsive design",
-        "Advanced contact features",
-        "Enhanced SEO optimization",
-        "4 content updates per year",
-        "Custom domain setup"
+        "Professionelle Website mit mehreren Seiten",
+        "Persönlicher Support & Betreuung",
+        "Hosting & Domain inklusive",
+        "Regelmässige Updates & Wartung",
+        "Erweiterte SEO-Optimierung",
+        "Kontaktformular & Terminbuchung",
+        "Langfristige Betreuung"
       ],
       icon: <Package size={24} />,
-      accentColor: "bg-amber-500",
+      accentColor: "bg-orange-400",
       popularPlan: false
     },
     {
-      title: "Big Website",
-      price: "CHF 2,490",
-      annualFee: "CHF 400",
+      title: "Grosse Website",
+      price: "CHF 3,750",
+      priceNote: "im ersten Jahr",
+      priceBreakdown: "CHF 3,500 einmalig + CHF 500/Jahr",
+      annualFee: "CHF 500/Jahr",
+      example: "z.B. storeofvalue.ch",
       features: [
-        "Up to 20 content pages",
-        "Mobile responsive design",
-        "Advanced contact features",
-        "Enhanced SEO optimization",
-        "4 content updates per year",
-        "Custom domain setup",
-        "Premium support"
+        "Umfangreiche Website mit vielen Seiten",
+        "Persönlicher Support & Betreuung",
+        "Hosting & Domain inklusive",
+        "Regelmässige Updates & Wartung",
+        "Premium SEO-Optimierung",
+        "Erweiterte Funktionen",
+        "Prioritätssupport"
       ],
       icon: <Globe size={24} />,
-      accentColor: "bg-red-400",
+      accentColor: "bg-amber-500",
       popularPlan: false
     }
   ];
@@ -143,22 +154,27 @@ const Pricing = () => {
       
       <div className="container mx-auto px-6 relative z-10">
         <div className="text-center mb-16">
-          <div className="inline-block bg-white px-4 py-2 rounded-full text-windo-deeporange font-medium text-sm mb-2">Our Packages</div>
-          <h2 className="text-3xl md:text-4xl font-bold text-windo-darkgray mb-4">
-            Choose Your <span className="text-transparent bg-clip-text bg-orange-gradient">Perfect Plan</span>
+          <div className="inline-block bg-white dark:bg-gray-800 px-4 py-2 rounded-full text-windo-deeporange dark:text-orange-400 font-medium text-sm mb-2 animate-fade-in">
+            Preise
+          </div>
+          <h2 className="text-3xl md:text-4xl font-bold text-windo-darkgray dark:text-white mb-4 animate-fade-in" style={{animationDelay: "0.1s"}}>
+            Einfache <span className="text-transparent bg-clip-text bg-orange-gradient">Preise</span>
           </h2>
-          <p className="text-gray-600 max-w-2xl mx-auto">
-            Transparent pricing with no hidden fees. All plans include high-quality design, responsive layouts, and ongoing support.
+          <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto animate-fade-in" style={{animationDelay: "0.2s"}}>
+            Managed Websites für kleine Unternehmen. Kein Stress, kein Aufwand – wir kümmern uns um alles. Transparente Preise, keine versteckten Kosten.
           </p>
         </div>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 lg:gap-6">
           {pricingPlans.map((plan, index) => (
             <div key={index} className="animate-fade-in" style={{animationDelay: `${0.1 * (index + 1)}s`}}>
               <PricingCard
                 title={plan.title}
                 price={plan.price}
+                priceNote={plan.priceNote}
+                priceBreakdown={plan.priceBreakdown}
                 annualFee={plan.annualFee}
+                example={plan.example}
                 features={plan.features}
                 icon={plan.icon}
                 accentColor={plan.accentColor}
@@ -168,14 +184,14 @@ const Pricing = () => {
           ))}
         </div>
 
-        <div className="mt-16 text-center p-8 bg-white rounded-xl shadow-md max-w-3xl mx-auto animate-fade-in" style={{animationDelay: "0.5s"}}>
-          <h3 className="text-xl font-semibold text-windo-darkgray mb-3">Need Additional Updates?</h3>
-          <p className="text-gray-600 mb-4">
-            After using your included 4 updates per year, additional content updates are available for CHF 100 per update. 
-            Custom maintenance packages are also available for clients with frequent update needs.
+        <div className="mt-16 text-center p-8 bg-white dark:bg-gray-800 rounded-xl shadow-md max-w-3xl mx-auto animate-fade-in" style={{animationDelay: "0.5s"}}>
+          <h3 className="text-xl font-semibold text-windo-darkgray dark:text-white mb-3">Was bedeutet "Managed Website"?</h3>
+          <p className="text-gray-600 dark:text-gray-300 mb-4">
+            Sie haben einen direkten Ansprechpartner (kein Call-Center), wir kümmern uns um Hosting, Updates, Sicherheit und Wartung. 
+            Sie können sich auf Ihr Geschäft konzentrieren – wir kümmern uns um Ihre Website.
           </p>
-          <Button className="bg-windo-amber text-white hover:bg-opacity-90">
-            Contact Us for Custom Options
+          <Button className="bg-orange-gradient hover:bg-opacity-90 text-white">
+            Kostenlose Beratung
           </Button>
         </div>
       </div>

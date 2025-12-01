@@ -3,9 +3,21 @@ import { Link } from 'react-router-dom';
 import SEO from '../components/SEO';
 import { useLanguage } from '../contexts/LanguageContext';
 import AnimatedGradientText from '../components/ui/AnimatedGradientText';
+import CaseStudies from '../components/CaseStudies';
+import Testimonials from '../components/Testimonials';
+import CallToAction from '../components/CallToAction';
+import Services from '../components/Services';
 
 const Index = () => {
   const { t } = useLanguage();
+
+  const scrollToServices = (e: React.MouseEvent<HTMLAnchorElement>) => {
+    e.preventDefault();
+    const servicesSection = document.getElementById('services');
+    if (servicesSection) {
+      servicesSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  };
 
   const structuredData = {
     "@context": "https://schema.org",
@@ -37,21 +49,28 @@ const Index = () => {
             </h1>
             <p className="text-xl text-gray-600 dark:text-gray-400 mb-10">{t('hero.description')}</p>
             <div className="flex flex-col sm:flex-row gap-5 justify-center">
-              <Link className="inline-flex items-center space-x-2 bg-white dark:bg-gray-800 text-windo-orange border border-windo-orange px-6 py-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors" to="/services">
+              <a 
+                href="#services" 
+                onClick={scrollToServices}
+                className="inline-flex items-center space-x-2 bg-white dark:bg-gray-800 text-windo-orange border border-windo-orange px-6 py-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+              >
                 <span>{t('hero.discover_services')}</span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="lucide lucide-arrow-right w-5 h-5">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-arrow-right w-5 h-5">
                   <path d="M5 12h14"></path>
                   <path d="m12 5 7 7-7 7"></path>
                 </svg>
-              </Link>
-              <Link className="inline-flex items-center space-x-2 bg-windo-orange text-white px-6 py-3 rounded-lg hover:bg-windo-deeporange transition-colors" to="/project">
+              </a>
+              <Link className="inline-flex items-center space-x-2 bg-windo-orange text-white px-6 py-3 rounded-lg hover:bg-windo-deeporange transition-colors" to="/contact">
                 <span>{t('hero.cta')}</span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="lucide lucide-arrow-right w-5 h-5">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-arrow-right w-5 h-5">
                   <path d="M5 12h14"></path>
                   <path d="m12 5 7 7-7 7"></path>
                 </svg>
               </Link>
             </div>
+            <p className="text-gray-500 dark:text-gray-400 text-sm mt-6">
+              {t('hero.price_tag')}
+            </p>
           </div>
           <div className="mt-16 md:mt-20 text-center">
             <div className="flex flex-wrap justify-center gap-3 md:gap-4">
@@ -104,6 +123,10 @@ const Index = () => {
           </div>
         </div>
       </div>
+      <Services />
+      <CaseStudies />
+      <Testimonials />
+      <CallToAction />
     </>
   );
 };

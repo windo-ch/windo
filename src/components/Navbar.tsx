@@ -13,8 +13,6 @@ const Navbar = () => {
   const languages = [
     { code: 'en', label: 'EN' },
     { code: 'de', label: 'DE' },
-    { code: 'fr', label: 'FR' },
-    { code: 'it', label: 'IT' },
   ];
 
   return (

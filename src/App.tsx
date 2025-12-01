@@ -9,6 +9,7 @@ import Footer from '@/components/Footer';
 import ScrollToTop from './components/ScrollToTop';
 import PageTransition from './components/PageTransition';
 import CookieConsent from './components/ui/CookieConsent';
+import FloatingCTA from './components/FloatingCTA';
 import routes from './routes';
 
 // AppRoutes component to use the routes configuration
@@ -31,6 +32,7 @@ function App() {
                   <AppRoutes />
                 </main>
                 <Footer />
+                <FloatingCTA />
                 <Toaster position="top-right" />
                 <CookieConsent />
               </div>

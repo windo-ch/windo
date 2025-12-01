@@ -9,12 +9,14 @@ export const heroTranslations: LanguageTranslations = {
     'hero.description': 'We create beautiful, functional websites that help your business stand out online.',
     'hero.cta': 'Start Your Project',
     'hero.discover_services': 'Discover Services',
+    'hero.price_tag': 'From CHF 500/year • Personal Support • Everything Included',
   },
   de: {
     'hero.title': 'Ihr Fenster ins Internet',
-    'hero.description': 'Wir erstellen schöne, funktionale Websites, die Ihr Unternehmen online hervorheben.',
-    'hero.cta': 'Projekt starten',
-    'hero.discover_services': 'Dienste entdecken',
+    'hero.description': 'Managed Websites für kleine Unternehmen. Kein Stress, kein Aufwand – wir kümmern uns um alles.',
+    'hero.cta': 'Kostenlose Beratung',
+    'hero.discover_services': 'Dienstleistungen',
+    'hero.price_tag': 'Ab CHF 500/Jahr • Persönlicher Support • Alles inklusive',
   },
   fr: {
     'hero.title': 'Votre Fenêtre sur Internet',

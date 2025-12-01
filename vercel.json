@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "trailingSlash": false
+  "trailingSlash": false,
+  "framework": "vite",
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/.*", "dest": "/index.html" }
+  ]
 } 

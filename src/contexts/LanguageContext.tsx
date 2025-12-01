@@ -6,6 +6,12 @@ import { heroTranslations } from '../translations/hero';
 import { navigationTranslations } from '../translations/navigation';
 import { businessTypesTranslations } from '../translations/businessTypes';
 import { servicesTranslations } from '../translations/services';
+import { serviceDetailsTranslations } from '../translations/serviceDetails';
+import { contactTranslations } from '../translations/contact';
+import { homepageTranslations } from '../translations/homepage';
+import { serviceCardsTranslations } from '../translations/serviceCards';
+import { caseStudiesTranslations } from '../translations/caseStudies';
+import { testimonialsTranslations } from '../translations/testimonials';
 import { seoTranslations } from '../translations/seo';
 import { getIndustryTranslations } from '../translations/industries';
 import { questionnaireCoreTranslations } from '../translations/questionnaire/core';
@@ -14,7 +20,7 @@ import { questionnaireGoalsFeaturesTranslations } from '../translations/question
 import { questionnaireDesignContentTranslations } from '../translations/questionnaire/designContent';
 import { questionnaireTechnicalContactTranslations } from '../translations/questionnaire/technicalContact';
 
-export type Language = 'en' | 'de' | 'fr' | 'it';
+export type Language = 'en' | 'de';
 
 interface LanguageContextType {
   language: Language;
@@ -53,6 +59,12 @@ export const LanguageProvider: React.FC<LanguageProviderProps> = ({ children }) 
     navigationTranslations.en,
     businessTypesTranslations.en,
     servicesTranslations.en,
+    serviceDetailsTranslations.en,
+    contactTranslations.en,
+    homepageTranslations.en,
+    serviceCardsTranslations.en,
+    caseStudiesTranslations.en,
+    testimonialsTranslations.en,
     seoTranslations.en,
     getIndustryTranslations('en'),
     questionnaireCoreTranslations.en,
@@ -70,6 +82,12 @@ export const LanguageProvider: React.FC<LanguageProviderProps> = ({ children }) 
       ...navigationTranslations.de,
       ...businessTypesTranslations.de,
       ...servicesTranslations.de,
+      ...serviceDetailsTranslations.de,
+      ...contactTranslations.de,
+      ...homepageTranslations.de,
+      ...serviceCardsTranslations.de,
+      ...caseStudiesTranslations.de,
+      ...testimonialsTranslations.de,
       ...seoTranslations.de,
       ...getIndustryTranslations('de'),
       ...questionnaireCoreTranslations.de,
@@ -77,34 +95,6 @@ export const LanguageProvider: React.FC<LanguageProviderProps> = ({ children }) 
       ...questionnaireGoalsFeaturesTranslations.de,
       ...questionnaireDesignContentTranslations.de,
       ...questionnaireTechnicalContactTranslations.de,
-    },
-    fr: {
-      ...combinedBaseTranslations,
-      ...heroTranslations.fr,
-      ...navigationTranslations.fr,
-      ...businessTypesTranslations.fr,
-      ...servicesTranslations.fr,
-      ...seoTranslations.fr,
-      ...getIndustryTranslations('fr'),
-      ...questionnaireCoreTranslations.fr,
-      ...questionnaireGeneralInfoTranslations.fr,
-      ...questionnaireGoalsFeaturesTranslations.fr,
-      ...questionnaireDesignContentTranslations.fr,
-      ...questionnaireTechnicalContactTranslations.fr,
-    },
-    it: {
-      ...combinedBaseTranslations,
-      ...heroTranslations.it,
-      ...navigationTranslations.it,
-      ...businessTypesTranslations.it,
-      ...servicesTranslations.it,
-      ...seoTranslations.it,
-      ...getIndustryTranslations('it'),
-      ...questionnaireCoreTranslations.it,
-      ...questionnaireGeneralInfoTranslations.it,
-      ...questionnaireGoalsFeaturesTranslations.it,
-      ...questionnaireDesignContentTranslations.it,
-      ...questionnaireTechnicalContactTranslations.it,
     },
   };
 

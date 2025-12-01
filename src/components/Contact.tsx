@@ -1,43 +1,38 @@
 import React, { useState, useEffect } from 'react';
-import { Mail, Phone, MapPin, Send, Check, ArrowRight } from 'lucide-react';
+import { Mail, Phone, Send, Check, ArrowRight } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { toast } from "sonner";
 import { handleFormSubmission } from '@/lib/formService';
 import { updateSEO } from '@/lib/seo';
-
-// Structured data for SEO
-const contactStructuredData = {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "windo.ch",
-  "url": "https://windo.ch",
-  "logo": "https://windo.ch/logo.png",
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+41-44-123-4567",
-    "contactType": "customer service",
-    "email": "hello@windo.ch",
-    "areaServed": "CH",
-    "availableLanguage": ["English", "German", "French"]
-  },
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Bahnhofstrasse 42",
-    "addressLocality": "Zug",
-    "postalCode": "6300",
-    "addressCountry": "CH"
-  },
-  "sameAs": [
-    "https://twitter.com/windo_ch",
-    "https://www.facebook.com/windoch",
-    "https://www.linkedin.com/company/windo-ch",
-    "https://www.instagram.com/windo.ch"
-  ]
-};
+import { useLanguage } from '../contexts/LanguageContext';
 
 const Contact = () => {
+  const { t } = useLanguage();
+  
+  // Structured data for SEO
+  const contactStructuredData = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "windo.ch",
+    "url": "https://windo.ch",
+    "logo": "https://windo.ch/logo.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+41-79-175-20-20",
+        "contactType": "customer service",
+        "email": "hello@windo.ch",
+        "areaServed": "CH",
+        "availableLanguage": ["English", "German"]
+      },
+    "sameAs": [
+      "https://twitter.com/windo_ch",
+      "https://www.facebook.com/windoch",
+      "https://www.linkedin.com/company/windo-ch",
+      "https://www.instagram.com/windo.ch"
+    ]
+  };
   const [formData, setFormData] = useState({
     name: '',
     email: '',
@@ -81,7 +76,7 @@ const Contact = () => {
       });
       
       if (result.success) {
-        toast.success("Message sent successfully! We'll get back to you soon.");
+        toast.success(t('contact.form.success'));
         // Reset form
         setFormData({
           name: '',
@@ -98,7 +93,7 @@ const Contact = () => {
         throw new Error(result.message || 'Form submission failed');
       }
     } catch (error) {
-      toast.error("Something went wrong. Please try again or contact us directly.");
+      toast.error(t('contact.form.error'));
       console.error('Contact form submission error:', error);
     } finally {
       setIsSubmitting(false);
@@ -118,24 +113,22 @@ const Contact = () => {
       
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
-          <div className="inline-block bg-windo-light dark:bg-orange-950/30 px-4 py-2 rounded-full text-windo-deeporange dark:text-orange-400 font-medium text-sm mb-2 animate-fade-in">Contact Us</div>
-          <h2 className="text-3xl md:text-4xl font-bold text-windo-darkgray dark:text-white mb-4 animate-fade-in" style={{animationDelay: "0.1s"}}>
-            Get in <span className="text-transparent bg-clip-text bg-orange-gradient">Touch</span>
-          </h2>
+          <div className="inline-block bg-windo-light dark:bg-orange-950/30 px-4 py-2 rounded-full text-windo-deeporange dark:text-orange-400 font-medium text-sm mb-2 animate-fade-in">{t('contact.badge')}</div>
+          <h2 className="text-3xl md:text-4xl font-bold text-windo-darkgray dark:text-white mb-4 animate-fade-in" style={{animationDelay: "0.1s"}} dangerouslySetInnerHTML={{ __html: t('contact.title') }} />
           <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto animate-fade-in" style={{animationDelay: "0.2s"}}>
-            Have a project in mind or want to learn more about our services? We'd love to hear from you.
+            {t('contact.subtitle')}
           </p>
         </div>
         
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
           <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-8 animate-fade-in" style={{animationDelay: "0.3s"}}>
-            <h3 className="text-2xl font-semibold mb-6 text-windo-darkgray dark:text-white">Send us a message</h3>
+            <h3 className="text-2xl font-semibold mb-6 text-windo-darkgray dark:text-white">{t('contact.form.title')}</h3>
             
             <form onSubmit={handleSubmit} className="space-y-6">
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div>
                   <label htmlFor="name" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-                    Your Name *
+                    {t('contact.form.name.label')} {t('contact.form.required')}
                   </label>
                   <Input
                     type="text"
@@ -143,7 +136,7 @@ const Contact = () => {
                     name="name"
                     value={formData.name}
                     onChange={handleChange}
-                    placeholder="John Doe"
+                    placeholder={t('contact.form.name.placeholder')}
                     required
                     aria-required="true"
                     className="w-full dark:bg-gray-700 dark:border-gray-600"
@@ -152,7 +145,7 @@ const Contact = () => {
                 
                 <div>
                   <label htmlFor="email" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-                    Email Address *
+                    {t('contact.form.email.label')} {t('contact.form.required')}
                   </label>
                   <Input
                     type="email"
@@ -160,7 +153,7 @@ const Contact = () => {
                     name="email"
                     value={formData.email}
                     onChange={handleChange}
-                    placeholder="john@example.com"
+                    placeholder={t('contact.form.email.placeholder')}
                     required
                     aria-required="true"
                     className="w-full dark:bg-gray-700 dark:border-gray-600"
@@ -172,7 +165,7 @@ const Contact = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div>
                     <label htmlFor="phone" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-                      Phone Number
+                      {t('contact.form.phone.label')}
                     </label>
                     <Input
                       type="tel"
@@ -180,14 +173,14 @@ const Contact = () => {
                       name="phone"
                       value={formData.phone}
                       onChange={handleChange}
-                      placeholder="+41 44 123 45 67"
+                      placeholder={t('contact.form.phone.placeholder')}
                       className="w-full dark:bg-gray-700 dark:border-gray-600"
                     />
                   </div>
                   
                   <div>
                     <label htmlFor="company" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-                      Company
+                      {t('contact.form.company.label')}
                     </label>
                     <Input
                       type="text"
@@ -195,7 +188,7 @@ const Contact = () => {
                       name="company"
                       value={formData.company}
                       onChange={handleChange}
-                      placeholder="Your Company"
+                      placeholder={t('contact.form.company.placeholder')}
                       className="w-full dark:bg-gray-700 dark:border-gray-600"
                     />
                   </div>
@@ -204,7 +197,7 @@ const Contact = () => {
               
               <div>
                 <label htmlFor="subject" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-                  Subject *
+                  {t('contact.form.subject.label')} {t('contact.form.required')}
                 </label>
                 <Input
                   type="text"
@@ -212,7 +205,7 @@ const Contact = () => {
                   name="subject"
                   value={formData.subject}
                   onChange={handleChange}
-                  placeholder="Project inquiry"
+                  placeholder={t('contact.form.subject.placeholder')}
                   required
                   aria-required="true"
                   className="w-full dark:bg-gray-700 dark:border-gray-600"
@@ -223,7 +216,7 @@ const Contact = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div>
                     <label htmlFor="budget" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-                      Budget
+                      {t('contact.form.budget.label')}
                     </label>
                     <select
                       id="budget"
@@ -232,17 +225,17 @@ const Contact = () => {
                       onChange={handleChange}
                       className="w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 dark:bg-gray-700 dark:border-gray-600"
                     >
-                      <option value="">Select budget range</option>
-                      <option value="less-than-5000">Less than $5,000</option>
-                      <option value="5000-10000">$5,000 - $10,000</option>
-                      <option value="10000-25000">$10,000 - $25,000</option>
-                      <option value="25000-plus">$25,000+</option>
+                      <option value="">{t('contact.form.budget.placeholder')}</option>
+                      <option value="less-than-5000">Less than CHF 5,000</option>
+                      <option value="5000-10000">CHF 5,000 - CHF 10,000</option>
+                      <option value="10000-25000">CHF 10,000 - CHF 25,000</option>
+                      <option value="25000-plus">CHF 25,000+</option>
                     </select>
                   </div>
                   
                   <div>
                     <label htmlFor="timeframe" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-                      Timeframe
+                      {t('contact.form.timeframe.label')}
                     </label>
                     <select
                       id="timeframe"
@@ -251,7 +244,7 @@ const Contact = () => {
                       onChange={handleChange}
                       className="w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 dark:bg-gray-700 dark:border-gray-600"
                     >
-                      <option value="">Select timeframe</option>
+                      <option value="">{t('contact.form.timeframe.placeholder')}</option>
                       <option value="asap">As soon as possible</option>
                       <option value="1-month">Within 1 month</option>
                       <option value="1-3-months">1-3 months</option>
@@ -263,14 +256,14 @@ const Contact = () => {
               
               <div>
                 <label htmlFor="message" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-                  Message *
+                  {t('contact.form.message.label')} {t('contact.form.required')}
                 </label>
                 <Textarea
                   id="message"
                   name="message"
                   value={formData.message}
                   onChange={handleChange}
-                  placeholder="Tell us about your project..."
+                  placeholder={t('contact.form.message.placeholder')}
                   required
                   aria-required="true"
                   rows={5}
@@ -285,7 +278,7 @@ const Contact = () => {
                   className="w-full border-windo-orange text-windo-orange hover:bg-windo-orange/10 dark:border-orange-400 dark:text-orange-400"
                   onClick={() => setShowDetails(true)}
                 >
-                  Add More Details <ArrowRight className="ml-2" size={16} />
+                  {t('contact.form.showDetails')} <ArrowRight className="ml-2" size={16} />
                 </Button>
               )}
               
@@ -295,7 +288,7 @@ const Contact = () => {
                 disabled={isSubmitting}
                 aria-busy={isSubmitting}
               >
-                {isSubmitting ? 'Sending...' : 'Send Message'} 
+                {isSubmitting ? t('contact.form.submitting') : t('contact.form.submit')} 
                 <Send className="ml-2" size={18} />
               </Button>
               
@@ -311,9 +304,10 @@ const Contact = () => {
                 <Mail className="text-windo-orange dark:text-orange-400" />
               </div>
               <div>
-                <h4 className="text-lg font-semibold text-windo-darkgray dark:text-white">Email Us</h4>
-                <a href="mailto:hello@windo.ch" className="text-gray-600 dark:text-gray-300 mt-1 hover:text-windo-orange dark:hover:text-orange-400 transition-colors">hello@windo.ch</a>
-                <a href="mailto:support@windo.ch" className="block text-gray-600 dark:text-gray-300 hover:text-windo-orange dark:hover:text-orange-400 transition-colors">support@windo.ch</a>
+                <h4 className="text-lg font-semibold text-windo-darkgray dark:text-white">{t('contact.email.title')}</h4>
+                <a href="mailto:hello@windo.ch" className="text-gray-600 dark:text-gray-300 mt-1 hover:text-windo-orange dark:hover:text-orange-400 transition-colors">
+                  hello@windo.ch
+                </a>
               </div>
             </div>
             
@@ -322,43 +316,31 @@ const Contact = () => {
                 <Phone className="text-windo-orange dark:text-orange-400" />
               </div>
               <div>
-                <h4 className="text-lg font-semibold text-windo-darkgray dark:text-white">Call Us</h4>
-                <a href="tel:+41441234567" className="text-gray-600 dark:text-gray-300 mt-1 hover:text-windo-orange dark:hover:text-orange-400 transition-colors">+41 44 123 45 67</a>
-                <p className="text-gray-600 dark:text-gray-400">Monday-Friday, 9am-6pm</p>
-              </div>
-            </div>
-            
-            <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 flex items-start">
-              <div className="bg-windo-light dark:bg-orange-950/30 p-3 rounded-full mr-4">
-                <MapPin className="text-windo-orange dark:text-orange-400" />
-              </div>
-              <div>
-                <h4 className="text-lg font-semibold text-windo-darkgray dark:text-white">Visit Us</h4>
-                <address className="text-gray-600 dark:text-gray-300 mt-1 not-italic">
-                  Bahnhofstrasse 42<br />
-                  6300 Zug, Switzerland
-                </address>
+                <h4 className="text-lg font-semibold text-windo-darkgray dark:text-white">{t('contact.phone.title')}</h4>
+                <a href="tel:+41791752020" className="text-gray-600 dark:text-gray-300 mt-1 hover:text-windo-orange dark:hover:text-orange-400 transition-colors">
+                  +41 79 175 20 20
+                </a>
               </div>
             </div>
             
             <div className="bg-orange-gradient text-white rounded-xl shadow-lg p-6">
-              <h4 className="text-lg font-semibold">Why Choose Us</h4>
+              <h4 className="text-lg font-semibold">{t('contact.why.title')}</h4>
               <ul className="mt-3 space-y-2">
                 <li className="flex items-center">
                   <Check className="mr-2 flex-shrink-0" size={16} />
-                  <span>Professional and experienced team</span>
+                  <span>{t('contact.why.feature1')}</span>
                 </li>
                 <li className="flex items-center">
                   <Check className="mr-2 flex-shrink-0" size={16} />
-                  <span>Custom solutions tailored to your needs</span>
+                  <span>{t('contact.why.feature2')}</span>
                 </li>
                 <li className="flex items-center">
                   <Check className="mr-2 flex-shrink-0" size={16} />
-                  <span>Transparent pricing and process</span>
+                  <span>{t('contact.why.feature3')}</span>
                 </li>
                 <li className="flex items-center">
                   <Check className="mr-2 flex-shrink-0" size={16} />
-                  <span>Ongoing support after launch</span>
+                  <span>{t('contact.why.feature4')}</span>
                 </li>
               </ul>
             </div>

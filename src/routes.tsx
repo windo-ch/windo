@@ -5,6 +5,11 @@ import { RouteObject } from 'react-router-dom';
 const Index = lazy(() => import('./pages/Index'));
 const ProjectQuestionnaire = lazy(() => import('./pages/ProjectQuestionnaire'));
 const Services = lazy(() => import('./pages/services/Services'));
+const ModerneWebsite = lazy(() => import('./pages/services/ModerneWebsite'));
+const PersonlicherSupport = lazy(() => import('./pages/services/PersonlicherSupport'));
+const HostingWartung = lazy(() => import('./pages/services/HostingWartung'));
+const SEOOptimierung = lazy(() => import('./pages/services/SEOOptimierung'));
+const Contact = lazy(() => import('./pages/contact/Contact'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 
 // Industry pages
@@ -60,6 +65,26 @@ export const routes: RouteObject[] = [
   {
     path: '/services',
     element: <SuspenseWrapper><Services /></SuspenseWrapper>,
+  },
+  {
+    path: '/services/moderne-website',
+    element: <SuspenseWrapper><ModerneWebsite /></SuspenseWrapper>,
+  },
+  {
+    path: '/services/personlicher-support',
+    element: <SuspenseWrapper><PersonlicherSupport /></SuspenseWrapper>,
+  },
+  {
+    path: '/services/hosting-wartung',
+    element: <SuspenseWrapper><HostingWartung /></SuspenseWrapper>,
+  },
+  {
+    path: '/services/seo-optimierung',
+    element: <SuspenseWrapper><SEOOptimierung /></SuspenseWrapper>,
+  },
+  {
+    path: '/contact',
+    element: <SuspenseWrapper><Contact /></SuspenseWrapper>,
   },
   {
     path: '/project',

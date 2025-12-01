@@ -20,6 +20,8 @@ export default defineConfig(({ mode }) => ({
     },
   },
   build: {
+    // Set output directory to "build" instead of the default "dist"
+    outDir: "build",
     // Increase chunk size warning limit
     chunkSizeWarningLimit: 800,
     rollupOptions: {
