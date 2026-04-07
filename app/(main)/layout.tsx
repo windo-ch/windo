@@ -6,11 +6,11 @@ import JsonLd from "@/components/JsonLd";
 export const metadata: Metadata = {
   title: "windo.ch — Professionelle Websites für Schweizer KMU.",
   description:
-    "Neue Website in 10 Arbeitstagen. Fixpreis, direkt von Henry — keine Agentur, kein Ticket-System. Persönliche Betreuung, 100/100 PageSpeed.",
+    "Neue Website in 10 Arbeitstagen. Fixpreis, direkt von Henry — keine Agentur, kein Ticket-System. Persönliche Betreuung, schnelle Seiten.",
   openGraph: {
     title: "windo.ch — Professionelle Websites für Schweizer KMU.",
     description:
-      "Neue Website in 10 Arbeitstagen. Fixpreis, direkt von Henry — keine Agentur, kein Ticket-System. Persönliche Betreuung, 100/100 PageSpeed.",
+      "Neue Website in 10 Arbeitstagen. Fixpreis, direkt von Henry — keine Agentur, kein Ticket-System. Persönliche Betreuung, schnelle Seiten.",
     url: "https://www.windo.ch",
     siteName: "windo.ch",
     locale: "de_CH",
