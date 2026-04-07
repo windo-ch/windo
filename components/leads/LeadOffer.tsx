@@ -5,7 +5,7 @@ const SETUP_FEATURES = [
   "Individuelles Design — keine Vorlage",
   "Professionelle Texte inklusive",
   "Responsive — perfekt auf jedem Gerät",
-  "SEO-Grundlagen & Schema-Markup",
+  "Auffindbar auf Google & KI-Suchen",
   "In 10 Arbeitstagen online",
 ];
 
