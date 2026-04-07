@@ -55,12 +55,14 @@ export default function Footer() {
               henry.marketing
             </a>
           </span>
-          <a
-            href="/localsearch-vergleich"
-            className="hover:text-gray-400 transition-colors underline underline-offset-2 mt-1 sm:mt-0"
-          >
-            Vergleich mit localsearch
-          </a>
+          <div className="flex gap-4 mt-1 sm:mt-0">
+            <a href="/localsearch-vergleich" className="hover:text-gray-400 transition-colors underline underline-offset-2">
+              Vergleich mit localsearch
+            </a>
+            <a href="/datenschutz" className="hover:text-gray-400 transition-colors underline underline-offset-2">
+              Datenschutz
+            </a>
+          </div>
         </div>
       </div>
     </footer>
