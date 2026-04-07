@@ -4,12 +4,12 @@ import Footer from "@/components/layout/Footer";
 import JsonLd from "@/components/JsonLd";
 
 export const metadata: Metadata = {
-  title: "windo.ch — Ihre Website verliert Kunden. Jeden Tag.",
+  title: "windo.ch — Eine Website, die für Sie arbeitet.",
   description:
-    "97% aller Kunden googeln. Wenn Ihre Website nicht überzeugt, buchen sie woanders. Gratis Website-Check in 60 Sekunden.",
+    "Professionelle Websites für Schweizer KMU. Fertig in 10 Arbeitstagen, direkt von Henry — keine Agentur.",
   openGraph: {
-    title: "windo.ch — Ihre Website verliert Kunden. Jeden Tag.",
-    description: "97% aller Kunden googeln. Gratis Website-Check in 60 Sekunden.",
+    title: "windo.ch — Eine Website, die für Sie arbeitet.",
+    description: "Professionelle Websites für Schweizer KMU. Fertig in 10 Arbeitstagen, direkt von Henry.",
     url: "https://www.windo.ch",
     siteName: "windo.ch",
     locale: "de_CH",
