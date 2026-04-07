@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet kaum detaillierte Beispiele oder Referenzprojekte von realisierten Bedachungen, was potenziellen Kunden das Vertrauen in die Expertise erschwert.",
+    "Es fehlen klare Angaben zu Preisen, Garantien oder typischen Kostenrahmen, sodass Kunden die Planbarkeit ihrer Investition nicht einschätzen können.",
+    "Handlungsaufforderungen wie \"Jetzt Angebot anfordern\" oder Kontaktformulare sind nicht prominent platziert und wirken unauffällig.",
+    "Der Inhalt ist sehr allgemein und beschreibt keine spezifischen Vorteile oder Unterschiede zu Mitbewerbern, was die Entscheidungsfindung erschwert."
+  ]
 }

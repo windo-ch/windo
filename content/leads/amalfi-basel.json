@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Basierend auf den verfügbaren Suchergebnissen zur Website amalfi-basel.ch kann ich folgende Verbesserungsvorschläge machen:",
+    "Die Öffnungszeiten sollten prominenter auf der Startseite angezeigt werden, da diese Information für potenzielle Gäste entscheidend ist.",
+    "Ein Menü oder zumindest eine Preisübersicht könnte direkt auf der Website verfügbar sein, um Erwartungen zu setzen.",
+    "Kundenbewertungen oder Testimonials sollten auf der Website integriert werden, um Vertrauen aufzubauen."
+  ]
 }

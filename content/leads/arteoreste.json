@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Öffnungszeiten sind unvollständig dargestellt, da nur Montag und Dienstag als geschlossen angegeben sind, was potenzielle Kunden verunsichert.",
+    "Es fehlen klare und prominente Call-to-Actions wie \"Jetzt Termin buchen\" oder ein Online-Formular, um den nächsten Schritt einfach zu machen.",
+    "Die Preise auf der Preisseite werden nicht detailliert aufgelistet, was die Planung und den Preisvergleich erschwert.",
+    "Es gibt keine Kundenbewertungen oder Erfolgsgeschichten, um Vertrauen in die Qualität der veganen Produkte und Dienstleistungen aufzubauen."
+  ]
 }

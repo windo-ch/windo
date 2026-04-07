@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Basierend auf den verfügbaren Informationen zur Website von AP CabTron GmbH können folgende Verbesserungen aus Kundensicht empfohlen werden:",
+    "Die Website fehlen konkrete Informationen zu Lieferzeiten, Mindestbestellmengen und Preisgestaltung, die potenzielle Kunden für ihre Entscheidungsfindung benötigen.",
+    "Es sind keine Kundenbewertungen, Referenzen oder Zertifikate (ausser ISO 9001) sichtbar, die das Vertrauen in die Qualität und Zuverlässigkeit des Unternehmens erhöhen würden.",
+    "Die Call-to-Action-Elemente sind zu passiv formuliert und könnten deutlicher zur Kontaktaufnahme oder Anfrageerstellung auffordern, etwa mit prominenten Buttons für \"Kostenlos Angebot anfordern\"."
+  ]
 }

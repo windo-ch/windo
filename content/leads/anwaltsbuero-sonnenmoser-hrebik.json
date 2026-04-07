@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte detailliertere Beispiele zu erfolgreichen Fällen in Ehe-, Konkubinats-, Straf- und Opferhilferecht bieten, um das Vertrauen potenzieller Kunden zu stärken.",
+    "Es fehlen klare Informationen zu Stundensätzen oder Kostenstrukturen, was die Transparenz und Entscheidungsfindung erschwert.",
+    "Handlungsaufforderungen wie \"Rufen Sie jetzt an für ein unverbindliches Erstgespräch\" wären prominent auf jeder Seite platziert hilfreich, um Kunden zum Kontakt zu motivieren.",
+    "Die Qualifikationen und konkrete Berufserfahrungen der Anwältinnen sollten ausführlicher beschrieben werden, um mehr Glaubwürdigkeit zu schaffen."
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an konkreten Kundenreferenzen oder Bewertungen, um Vertrauen potenzieller Kunden zu stärken.",
+    "Es gibt keine klaren Informationen zu Preisen oder Kostenrahmen, was die Planung für Kunden erschwert.",
+    "Handlungsaufforderungen wie \"Jetzt anfragen\" oder Kontaktformulare sind nicht prominent platziert.",
+    "Der Inhalt wiederholt sich stark ohne detaillierte Projektbeispiele, was die Klarheit über Leistungen mindert."
+  ]
 }

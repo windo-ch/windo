@@ -15,5 +15,8 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet keine detaillierten Informationen zu angebotenen Dienstleistungen wie Haarschnitten oder Farben, was potenzielle Kunden unsicher macht. Es fehlen Kundenbewertungen oder Fotos von realisierten Frisuren, um Vertrauen in die Qualität der Arbeit aufzubauen. Preise für Leistungen werden nicht klar kommuniziert, was die Planung eines Besuchs erschwert. Es gibt keine prominenten und einfachen Call-to-Actions wie einen direkten Buchungslink oder ein Kontaktformular für Terminvereinbarungen."
+  ]
 }

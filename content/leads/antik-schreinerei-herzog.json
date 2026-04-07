@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt eine klare Übersicht über alle angebotenen Dienstleistungen wie Restaurationen, Stuhlreparaturen und Möbelhygiene, was potenzielle Kunden überfordert.",
+    "Es werden keine Referenzen, Kundenbewertungen oder Vorher-Nachher-Fotos gezeigt, um das Vertrauen in die über 30-jährige Expertise zu stärken.",
+    "Preise oder Hinweise auf Kosten für Restaurationen und Tische sind nicht ersichtlich, was die Entscheidungsfindung erschwert.",
+    "Stärkere Handlungsaufforderungen wie \"Jetzt Termin vereinbaren\" oder ein Kontaktformular fehlen, um Kunden direkt zum Anruf oder Mail zu motivieren."
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet kaum detaillierte Produktbeschreibungen oder Bilder, was potenziellen Kunden die Auswahl erschwert.",
+    "Es fehlen Kundenbewertungen oder Referenzprojekte, um Vertrauen in die Qualität und Zuverlässigkeit aufzubauen.",
+    "Preise oder grobe Kostenvoranschläge sind nicht ersichtlich, was die Planung für Interessenten erschwert.",
+    "Handlungsaufforderungen wie \"Jetzt Termin vereinbaren\" oder ein Kontaktformular fehlen auf den Hauptseiten."
+  ]
 }

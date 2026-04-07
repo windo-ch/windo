@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet zu wenig detaillierte Informationen über spezifische Kunstversicherungsleistungen und -bedingungen, was potenzielle Kunden unsicher macht.",
+    "Es fehlen Kundenbewertungen oder Erfolgsgeschichten, um das Vertrauen in die Zuverlässigkeit des spezialisierten Anbieters zu stärken.",
+    "Die Inhalte unter \"Wer wir sind\", \"Was wir machen\" und \"Wo wir sind\" sind zu knapp formuliert und erklären nicht klar die Vorteile für Kunden.",
+    "Es gibt keine prominenten Handlungsaufforderungen wie \"Jetzt Beratung anfragen\" oder \"Angebot einholen\", die den nächsten Schritt erleichtern."
+  ]
 }

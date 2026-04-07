@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte detailliertere Öffnungszeiten und eine klare Lagebeschreibung enthalten, um potenziellen Kunden den Besuch zu erleichtern.",
+    "Es fehlen Kundenbewertungen oder Zertifizierungen direkt auf der Seite, was das Vertrauen stärken würde.",
+    "Handlungsaufforderungen wie \"Jetzt anrufen\" oder \"Route planen\" sind zu unauffällig und könnten prominenter platziert werden.",
+    "Der Inhalt bietet zu wenig spezifische Dienstleistungen oder Produkte, was die Orientierung erschwert."
+  ]
 }

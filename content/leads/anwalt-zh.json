@@ -15,5 +15,9 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Ich kann die Website anwalt-zh.ch nicht direkt besuchen, da ich keinen Browserzugriff habe und die Suchergebnisse nur Kontaktinformationen und ein Impressum der Kanzlei Rioult & Partner enthalten. Um konkrete Verbesserungsvorschläge für die Website zu machen, würde ich den tatsächlichen Inhalt, das Design und die Struktur analysieren müssen – dies ist mir jedoch nicht möglich.",
+    "Allgemein empfehlenswert wäre es jedoch, basierend auf Best Practices für Anwaltskanzleien, klare Leistungsbeschreibungen, Testimonials von zufriedenen Mandanten, aussagekräftige Qualifikationen der Anwälte und deutliche Kontaktaufforderungen (\"Call-to-Action\") prominent auf der Website zu platzieren, um Vertrauen aufzubauen und die Mandantenakquise zu verbessern."
+  ]
 }

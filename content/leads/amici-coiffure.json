@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet keine klaren Informationen zu Preisen für Dienstleistungen wie Schneiden oder Färben, was potenziellen Kunden die Planung erschwert.",
+    "Es fehlen Kundenbewertungen oder Vorher-Nachher-Fotos, um Vertrauen in die Qualität der Arbeiten aufzubauen.",
+    "Die Öffnungszeiten sind unvollständig angegeben, ohne genaue Uhrzeiten für die offenen Tage.",
+    "Statt nur \"Rufen Sie an\" sollte ein Online-Buchungstool oder ein einfacheres Kontaktformular prominent platziert werden, um Buchungen zu erleichtern."
+  ]
 }

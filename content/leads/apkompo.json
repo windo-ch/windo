@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte detailliertere Informationen zu angebotenen Elektro-Diensten und Projekten enthalten, um potenzielle Kunden besser zu informieren.",
+    "Es fehlen Kundenbewertungen oder Referenzen, was das Vertrauen in die Kompetenz des Betriebs erschweren würde.",
+    "Die Seite braucht klarere Preisauskünfte oder Servicepakete, damit Kunden schnell verstehen, was sie erwartet.",
+    "Stärkere Handlungsaufforderungen wie „Jetzt Termin vereinbaren“ oder ein prominentes Kontaktformular würden den nächsten Schritt erleichtern."
+  ]
 }

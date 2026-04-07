@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an ausführlichen Projektbeispielen mit Fotos, um potenzielle Kunden von der Qualität zu überzeugen.",
+    "Es gibt keine Kundenbewertungen oder Testimonials, was das Vertrauen in den Betrieb erschwert.",
+    "Die Dienstleistungen sind nicht klar in Preiskategorien oder Paketen unterteilt, was die Entscheidungsfindung erschwert.",
+    "Handlungsaufforderungen wie \"Jetzt Termin vereinbaren\" oder ein Kontaktformular fehlen, um Besucher zum nächsten Schritt zu motivieren."
+  ]
 }

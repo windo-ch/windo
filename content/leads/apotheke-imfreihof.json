@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Basierend auf den verfügbaren Suchergebnissen kann ich die Website apotheke-imfreihof.ch nicht direkt besuchen, da mir nur Textauszüge aus den Suchergebnissen vorliegen und keine vollständige Webseitenanalyse möglich ist.",
+    "Dennoch lassen sich aus den Informationen in den Suchergebnissen folgende Verbesserungspotenziale ableiten:",
+    "Die genauen Öffnungszeiten (Mo-Fr und Sa) sind in den Suchergebnissen nicht vollständig angezeigt, was auf der Website deutlicher kommuniziert werden sollte.",
+    "Ein Online-Bestellservice wird erwähnt, aber es ist unklar, wie Kunden diesen konkret nutzen können – hier fehlte eine klare Handlungsaufforderung."
+  ]
 }

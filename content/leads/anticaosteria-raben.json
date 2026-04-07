@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website zeigt keine detaillierte Speisekarte mit Preisen, was potenziellen Kunden die Planung erschwert.",
+    "Es fehlen aktuelle Öffnungszeiten und Feiertagsinformationen, um spontane Besuche zu erleichtern.",
+    "Keine sichtbaren Kundenbewertungen oder Testimonials auf der Seite mindern das Vertrauen in die Qualität.",
+    "Es gibt keine klaren Handlungsaufforderungen wie \"Jetzt reservieren\" oder Kontaktformular für schnelle Buchungen."
+  ]
 }

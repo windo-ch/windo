@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt detaillierten Preisen oder Kostenvoranschlägen, was potenziellen Kunden die Planung erschwert.",
+    "Es werden keine Kundenbewertungen oder konkrete Referenzprojekte mit Ergebnissen präsentiert, um Vertrauen aufzubauen.",
+    "Die Dienstleistungen sind nicht klar in Pakete unterteilt, was die Auswahl für Umzugs- oder Büroreinigung unübersichtlich macht.",
+    "Es gibt keine prominenten Call-to-Action-Buttons wie \"Jetzt Termin buchen\" oder \"Kostenloses Angebot anfordern\"."
+  ]
 }

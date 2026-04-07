@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website enthält keine eigenen Kundenbewertungen, was das Vertrauen potenzieller Kunden mindert.",
+    "Es fehlen klare Informationen zu Preisen für gängige Dienstleistungen wie Haarschnitte oder Farben, was die Entscheidungsfindung erschwert.",
+    "Handlungsaufforderungen wie \"Jetzt Termin buchen\" oder Kontaktformulare sind nicht prominent platziert, um schnelle Buchungen zu fördern.",
+    "Der Inhalt bietet keine detaillierten Beschreibungen der angebotenen Services oder des Teams, was Klarheit über die Expertise vermissen lässt."
+  ]
 }

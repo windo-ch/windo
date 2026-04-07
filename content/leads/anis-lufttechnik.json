@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Ich kann die Website anis-lufttechnik.ch nicht direkt besuchen, da mir nur begrenzte Suchergebnisse zur Verfügung stehen. Basierend auf den verfügbaren Informationen kann ich folgende allgemeine Verbesserungsvorschläge für einen Handwerksbetrieb machen:",
+    "Die Öffnungszeiten sollten vollständig und prominent angezeigt werden, da sie derzeit nur teilweise sichtbar sind.",
+    "Ein klares Angebot oder eine Beschreibung der Leistungen (Planung, Beratung, Installation) sollte direkt auf der Startseite ersichtlich sein.",
+    "Eine deutliche Handlungsaufforderung wie \"Kostenlos Beratungstermin anfragen\" oder \"Jetzt Kontakt aufnehmen\" würde potenzielle Kunden zum Handeln motivieren."
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Basierend auf den verfügbaren Informationen zur Website angela-emmenegger.ch können folgende Verbesserungen aus Kundensicht empfohlen werden:",
+    "Die Dienstleistungen im Bereich Ernährung und Bewegung sind nur über externe Links (fitmitangela.ch und kosmetikmitangela.ch) erreichbar, was die Navigation erschwert und potenzielle Kunden verwirrt.",
+    "Auf der Startseite fehlen konkrete Informationen über Qualifikationen, Erfahrung und Zertifikationen von Angela Emmenegger, was das Vertrauen neuer Kunden erhöhen würde.",
+    "Die Preise für die angebotenen Dienstleistungen sind in den Suchergebnissen nicht sichtbar, obwohl eine Seite „Angebote-Preise\" existiert."
+  ]
 }

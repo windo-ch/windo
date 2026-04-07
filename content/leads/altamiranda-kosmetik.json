@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt eine klare Auflistung der angebotenen Behandlungen mit Preisen, was potenziellen Kunden die Planung erschwert.",
+    "Es werden keine Kundenbewertungen oder Erfolgsgeschichten präsentiert, um Vertrauen aufzubauen.",
+    "Die Öffnungszeiten und Buchungsinformationen sind nicht sofort ersichtlich, was die Klarheit mindert.",
+    "Es gibt keine prominenten Handlungsaufforderungen wie \"Jetzt terminieren\" oder Kontaktformulare, um schnelle Schritte zu fördern."
+  ]
 }

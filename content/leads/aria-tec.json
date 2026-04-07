@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet keine detaillierten Beschreibungen der angebotenen Sanitär- und Heizungsdienste, was potenzielle Kunden unsicher macht.",
+    "Es fehlen Kundenbewertungen, Zertifikate oder Fallstudien zu den Referenzen, um mehr Vertrauen aufzubauen.",
+    "Kontaktinformationen und Bürozeiten sind unvollständig dargestellt, was die Erreichbarkeit erschwert.",
+    "Handlungsaufforderungen beschränken sich auf \"Rufen Sie an\", ohne Online-Formulare oder klare nächste Schritte wie ein Beratungsanfrage-Button."
+  ]
 }

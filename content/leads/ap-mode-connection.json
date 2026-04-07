@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an klaren Preisen für Yoga-Kurse und Wellness-Angebote, was potenzielle Kunden unsicher macht.",
+    "Es werden keine Kundenbewertungen oder Erfolgsgeschichten präsentiert, um Vertrauen aufzubauen.",
+    "Die Beschreibungen der Angebote sind zu vage und erklären nicht genau, was bei einem Besuch erwartet wird.",
+    "Handlungsaufforderungen wie \"Jetzt buchen\" oder \"Kontaktieren Sie uns\" sind nirgends prominent platziert."
+  ]
 }

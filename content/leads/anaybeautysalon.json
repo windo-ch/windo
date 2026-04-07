@@ -15,5 +15,9 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Ich kann die Website anaybeautysalon.ch nicht direkt besuchen, da ich nur auf die bereitgestellten Suchergebnisse zugreifen kann. Die verfügbaren Informationen zeigen nur, dass es sich um einen Beauty Salon in Winterthur handelt, nicht um einen Psychologie-Betrieb, und enthalten zu wenig Details über den Webseiteninhalt, um konkrete Verbesserungsvorschläge zu machen.",
+    "Um Dir aussagekräftige Empfehlungen geben zu können, bräuchte ich Zugang zu den tatsächlichen Inhalten der Website – etwa zu Informationen über angebotene Services, Preisen, Öffnungszeiten, Team-Vorstellungen oder Kontaktmöglichkeiten."
+  ]
 }

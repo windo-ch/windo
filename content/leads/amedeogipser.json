@@ -15,5 +15,10 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Ich kann die Website amedeogipser.ch nicht besuchen, da ich keinen Internetzugriff habe und nur auf die bereitgestellten Suchergebnisse zugreifen kann, die keine Informationen zu dieser spezifischen Website enthalten.",
+    "Um konkrete Verbesserungsvorschläge für die Website eines Gipser-Betriebs zu machen, müsste ich die Seite selbst analysieren können. Falls Sie möchten, können Sie mir einen Screenshot oder eine Beschreibung der Website zur Verfügung stellen, und ich werde dann gerne 3-4 konkrete Verbesserungsvorschläge aus Kundenperspektive geben.",
+    "Allgemein gilt für Handwerksbetriebe wie Gipsereien: Kundenbewertungen und Referenzen bauen Vertrauen auf, klare Kontaktinformationen und Handlungsaufforderungen erleichtern die Kontaktaufnahme, aussagekräftige Bilder von abgeschlossenen Projekten zeigen Ihre Leistungsqualität, und eine verständliche Beschreibung Ihrer Dienstleistungen hilft Kunden zu verstehen, wie Sie"
+  ]
 }

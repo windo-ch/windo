@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an klaren **Kontaktinformationen** wie Telefonnummer und E-Mail-Adresse auf der Startseite, was potenziellen Kunden das schnelle Erreichen erschwert.",
+    "Es werden keine **Kundenbewertungen** oder Referenzprojekte präsentiert, um Vertrauen aufzubauen und Glaubwürdigkeit zu demonstrieren.",
+    "Die Inhalte zu angebotenen Immobilien sind zu allgemein und ohne detaillierte Beschreibungen oder Preise, was die Orientierung erschwert.",
+    "Es gibt keine prominenten **Handlungsaufforderungen** wie \"Jetzt anfragen\" oder \"Kostenlose Beratung buchen\", die Kunden zum nächsten Schritt motivieren."
+  ]
 }

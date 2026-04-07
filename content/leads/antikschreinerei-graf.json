@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an Kundenbewertungen oder Referenzprojekten, um Vertrauen potenzieller Kunden zu stärken.",
+    "Preise oder grobe Kostenrahmen für typische Leistungen wie Restaurierungen werden nicht genannt, was die Planbarkeit erschwert.",
+    "Es gibt keine klaren Informationen zu Öffnungszeiten oder Verfügbarkeit für Beratungsgespräche.",
+    "Handlungsaufforderungen wie \"Jetzt Termin vereinbaren\" oder \"Kontaktieren Sie uns\" fehlen prominent auf der Startseite."
+  ]
 }
