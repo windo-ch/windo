@@ -4,16 +4,18 @@ import Footer from "@/components/layout/Footer";
 import JsonLd from "@/components/JsonLd";
 
 export const metadata: Metadata = {
-  title: "windo.ch — Eine Website, die für Sie arbeitet.",
+  title: "windo.ch — Professionelle Websites für Schweizer KMU.",
   description:
-    "Professionelle Websites für Schweizer KMU. Fertig in 10 Arbeitstagen, direkt von Henry — keine Agentur.",
+    "Neue Website in 10 Arbeitstagen. Fixpreis, direkt von Henry — keine Agentur, kein Ticket-System. Persönliche Betreuung, 100/100 PageSpeed.",
   openGraph: {
-    title: "windo.ch — Eine Website, die für Sie arbeitet.",
-    description: "Professionelle Websites für Schweizer KMU. Fertig in 10 Arbeitstagen, direkt von Henry.",
+    title: "windo.ch — Professionelle Websites für Schweizer KMU.",
+    description:
+      "Neue Website in 10 Arbeitstagen. Fixpreis, direkt von Henry — keine Agentur, kein Ticket-System. Persönliche Betreuung, 100/100 PageSpeed.",
     url: "https://www.windo.ch",
     siteName: "windo.ch",
     locale: "de_CH",
     type: "website",
+    images: [{ url: "/windo-og-1.png", width: 1200, height: 630 }],
   },
 };
 
