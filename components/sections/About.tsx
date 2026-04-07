@@ -29,19 +29,20 @@ export default function About() {
               Ich bin Henry.
             </h2>
             <p className="text-gray-500 leading-relaxed max-w-lg">
-              Ich erstelle und betreue Websites für Schweizer KMU. Kein Büro, keine Agentur,
-              kein Ticket-System — Sie schreiben mir direkt per WhatsApp oder E-Mail,
-              und ich kümmere mich darum.
+              Ich erstelle und betreue Websites für Schweizer KMU. Keine Agentur, kein Ticket-System.
+              Sie schreiben mir direkt per WhatsApp oder E-Mail, und ich kümmere mich darum.
             </p>
-            <div className="mt-6 flex flex-wrap gap-x-6 gap-y-2 text-sm">
-              <a href="tel:+41791752020" className="text-glow-deep font-medium hover:text-glow-hot transition-colors">
-                079 175 20 20
-              </a>
-              <a href="mailto:henry@windo.ch" className="text-glow-deep font-medium hover:text-glow-hot transition-colors">
-                henry@windo.ch
-              </a>
+            <div className="mt-6 text-sm">
+              <div className="flex flex-wrap gap-x-6 gap-y-2 mb-2">
+                <a href="tel:+41791752020" className="text-glow-deep font-medium hover:text-glow-hot transition-colors">
+                  079 175 20 20
+                </a>
+                <a href="mailto:henry@windo.ch" className="text-glow-deep font-medium hover:text-glow-hot transition-colors">
+                  henry@windo.ch
+                </a>
+              </div>
               <a href="https://www.linkedin.com/in/henrybarrows/" target="_blank" rel="noopener noreferrer" className="text-glow-deep font-medium hover:text-glow-hot transition-colors">
-                LinkedIn
+                LinkedIn →
               </a>
             </div>
           </div>

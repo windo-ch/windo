@@ -49,10 +49,15 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-gray-700 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-gray-500">
-          <span>© {new Date().getFullYear()} windo.ch · Zug, Schweiz · Ein Service von henry.marketing</span>
+          <span>
+            © {new Date().getFullYear()} windo.ch · Zug, Schweiz ·{' '}
+            <a href="https://henry.marketing" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400 transition-colors">
+              henry.marketing
+            </a>
+          </span>
           <a
             href="/localsearch-vergleich"
-            className="hover:text-gray-400 transition-colors underline underline-offset-2"
+            className="hover:text-gray-400 transition-colors underline underline-offset-2 mt-1 sm:mt-0"
           >
             Vergleich mit localsearch
           </a>

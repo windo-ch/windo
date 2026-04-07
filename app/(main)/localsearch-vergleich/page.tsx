@@ -182,8 +182,8 @@ export default function VergleichPage() {
         </div>
       </section>
 
-      {/* SECTION 2: Preisvergleich */}
-      <section className="py-20 px-6 bg-bg-subtle">
+      {/* SECTION 2: Preisvergleich — tables hidden on mobile */}
+      <section className="py-20 px-6 bg-bg-subtle hidden sm:block">
         <div className="max-w-3xl mx-auto">
           <SectionLabel>Preisvergleich</SectionLabel>
           <h2 className="text-3xl md:text-4xl font-bold text-bg-dark mb-10">
