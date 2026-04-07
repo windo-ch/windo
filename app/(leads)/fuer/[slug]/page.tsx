@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { getAllLeads, getLeadBySlug } from "@/lib/leads";
 import LeadHero from "@/components/leads/LeadHero";
 import LeadCurrentSite from "@/components/leads/LeadCurrentSite";
+import LeadInsights from "@/components/leads/LeadInsights";
 import LeadReferences from "@/components/leads/LeadReferences";
 import LeadComparison from "@/components/leads/LeadComparison";
 import LeadOffer from "@/components/leads/LeadOffer";
@@ -32,6 +33,7 @@ export default async function LeadPage({
     <>
       <LeadHero lead={lead} />
       <LeadCurrentSite lead={lead} />
+      <LeadInsights lead={lead} />
       <LeadReferences />
       <LeadComparison lead={lead} />
       <LeadOffer lead={lead} />

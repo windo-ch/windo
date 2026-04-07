@@ -10,7 +10,8 @@
     "leads:preview": "tsx scripts/preview-leads.ts",
     "leads:send": "tsx scripts/send-outreach.ts",
     "leads:stage": "tsx scripts/update-stage.ts",
-    "leads:status": "tsx scripts/status.ts"
+    "leads:status": "tsx scripts/status.ts",
+    "leads:insights": "tsx scripts/generate-insights.ts"
   },
   "dependencies": {
     "@netlify/plugin-nextjs": "^5.15.9",

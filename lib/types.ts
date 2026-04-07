@@ -16,6 +16,7 @@ export interface LeadContent {
   };
   hasDesktopScreenshot: boolean;
   hasMobileScreenshot: boolean;
+  insights?: string[];
 }
 
 export interface PricingTier {
