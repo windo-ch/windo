@@ -5,7 +5,6 @@ import StatsBar from '@/components/sections/StatsBar';
 import Industries from '@/components/sections/Industries';
 import HowItWorks from '@/components/sections/HowItWorks';
 import HonestySection from '@/components/sections/HonestySection';
-import Testimonials from '@/components/sections/Testimonials';
 import References from '@/components/sections/References';
 import Pricing from '@/components/sections/Pricing';
 import About from '@/components/sections/About';
@@ -27,7 +26,6 @@ export default function HomePage() {
       <Industries />
       <HowItWorks />
       <HonestySection />
-      <Testimonials />
       <References />
       <Pricing />
       <About />

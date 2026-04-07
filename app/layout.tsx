@@ -12,6 +12,13 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.windo.ch"),
+  openGraph: {
+    images: [{ url: '/windo-og-1.png', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    images: ['/windo-og-1.png'],
+  },
   icons: {
     icon: [
       { url: '/windo-favicon_26/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
