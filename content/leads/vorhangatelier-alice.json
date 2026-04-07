@@ -1,0 +1,19 @@
+{
+  "slug": "vorhangatelier-alice",
+  "name": "Vorhangatelier Alice",
+  "domain": "vorhangatelier-alice.ch",
+  "businessType": "Storen",
+  "year": 2019,
+  "email": "alicek@bluewin.ch",
+  "phone": "+414160867721",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 270,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

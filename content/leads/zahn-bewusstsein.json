@@ -1,0 +1,19 @@
+{
+  "slug": "zahn-bewusstsein",
+  "name": "Zahn Bewusstsein",
+  "domain": "zahn-bewusstsein.ch",
+  "businessType": "Zahnarzt",
+  "year": 2024,
+  "email": "thilo.g@swak.ch, office@swak.ch, office@zahn-bewusstsein.ch",
+  "phone": "+414255640244",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 299,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

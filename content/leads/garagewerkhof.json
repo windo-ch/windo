@@ -1,0 +1,19 @@
+{
+  "slug": "garagewerkhof",
+  "name": "Garagewerkhof",
+  "domain": "garagewerkhof.ch",
+  "businessType": "Elektro",
+  "year": 2025,
+  "email": "info@werkhofgarage.ch",
+  "phone": "+413601720958, +410116597014, +414821702729",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 229,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

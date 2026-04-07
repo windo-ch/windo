@@ -1,0 +1,19 @@
+{
+  "slug": "megaplus",
+  "name": "Megaplus",
+  "domain": "megaplus.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2024,
+  "email": "info@megaplus.ch",
+  "phone": "+4112248955, +419833827679, +4189636192",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 238,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

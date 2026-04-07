@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-insieme",
+  "name": "Coiffeur Insieme",
+  "domain": "coiffeur-insieme.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "coiffeur-insieme@sunrise.ch",
+  "phone": "+413698800104",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

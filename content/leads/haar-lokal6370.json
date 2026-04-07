@@ -1,0 +1,19 @@
+{
+  "slug": "haar-lokal6370",
+  "name": "Haar Lokal6370",
+  "domain": "haar-lokal6370.ch",
+  "businessType": "Coiffeur",
+  "year": 2024,
+  "email": "kontakt@haar-lokal6370.ch, jolanda.aregger@bluewin.ch",
+  "phone": "+418082545396",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 309,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

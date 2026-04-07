@@ -1,0 +1,19 @@
+{
+  "slug": "baumpflegesimon",
+  "name": "Baumpflegesimon",
+  "domain": "baumpflegesimon.ch",
+  "businessType": "Immobilien",
+  "year": 2017,
+  "email": "baumpflegesimon@gmail.com",
+  "phone": "+4152914733",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 275,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

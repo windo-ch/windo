@@ -1,0 +1,19 @@
+{
+  "slug": "herti-garage",
+  "name": "Herti Garage",
+  "domain": "herti-garage.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2023,
+  "email": "herti-garage@bluewin.ch",
+  "phone": "+4111163710",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

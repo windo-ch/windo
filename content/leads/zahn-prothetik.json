@@ -1,0 +1,19 @@
+{
+  "slug": "zahn-prothetik",
+  "name": "Zahn Prothetik",
+  "domain": "zahn-prothetik.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2018,
+  "email": "info@zahn-prothetik.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 226,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

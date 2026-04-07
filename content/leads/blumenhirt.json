@@ -1,0 +1,19 @@
+{
+  "slug": "blumenhirt",
+  "name": "Blumenhirt",
+  "domain": "blumenhirt.ch",
+  "businessType": "Florist",
+  "year": 2017,
+  "email": "blumenhirt@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

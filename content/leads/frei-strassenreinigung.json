@@ -1,0 +1,19 @@
+{
+  "slug": "frei-strassenreinigung",
+  "name": "Frei Strassenreinigung",
+  "domain": "frei-strassenreinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2018,
+  "email": "frei@strassenreinigung-gmbh.ch",
+  "phone": "+416695378798",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 242,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

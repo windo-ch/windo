@@ -1,0 +1,19 @@
+{
+  "slug": "jovatech-gmbh",
+  "name": "Jovatech GmbH",
+  "domain": "jovatech-gmbh.ch",
+  "businessType": "Immobilien",
+  "year": 2018,
+  "email": "info@jovatech.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 212,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

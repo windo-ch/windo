@@ -1,0 +1,19 @@
+{
+  "slug": "hga",
+  "name": "Hga",
+  "domain": "hga.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "info@hga.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 236,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

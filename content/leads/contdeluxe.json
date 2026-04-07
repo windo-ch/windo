@@ -1,0 +1,19 @@
+{
+  "slug": "contdeluxe",
+  "name": "Contdeluxe",
+  "domain": "contdeluxe.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "info@contdeluxe.ch",
+  "phone": "+4195260664",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 238,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

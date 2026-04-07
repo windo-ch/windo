@@ -1,0 +1,19 @@
+{
+  "slug": "obsessedtattoos",
+  "name": "Obsessedtattoos",
+  "domain": "obsessedtattoos.ch",
+  "businessType": "Tattoo-Studio",
+  "year": 2018,
+  "email": "obsessed.tattoos@gmail.com, obsessedtattoos@gmail.com",
+  "phone": "+4156177476, +4184249138",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 231,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

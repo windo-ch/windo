@@ -1,0 +1,19 @@
+{
+  "slug": "sp-dienstleistungen",
+  "name": "Sp Dienstleistungen",
+  "domain": "sp-dienstleistungen.ch",
+  "businessType": "Gartenbau",
+  "year": 2024,
+  "email": "smakaj888@gmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 239,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

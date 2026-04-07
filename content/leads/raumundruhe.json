@@ -1,0 +1,19 @@
+{
+  "slug": "raumundruhe",
+  "name": "Raumundruhe",
+  "domain": "raumundruhe.ch",
+  "businessType": "Gartenbau",
+  "year": 2025,
+  "email": "raumundruhe@gmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 253,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

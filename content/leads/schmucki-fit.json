@@ -1,0 +1,19 @@
+{
+  "slug": "schmucki-fit",
+  "name": "Schmucki Fit",
+  "domain": "schmucki-fit.ch",
+  "businessType": "Fitness",
+  "year": 2024,
+  "email": "info@schmucki-fit.ch",
+  "phone": "+4165301344",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 260,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

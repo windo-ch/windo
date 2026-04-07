@@ -1,0 +1,19 @@
+{
+  "slug": "arztpraxis-benkovics",
+  "name": "Arztpraxis Benkovics",
+  "domain": "arztpraxis-benkovics.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2023,
+  "email": "praxis.benkovics@hin.ch",
+  "phone": "+415045099990",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 269,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

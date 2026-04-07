@@ -1,0 +1,19 @@
+{
+  "slug": "chawis-malanserstube",
+  "name": "Chawis Malanserstube",
+  "domain": "chawis-malanserstube.ch",
+  "businessType": "Restaurant",
+  "year": 2019,
+  "email": "info@chawis-malanserstube.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 298,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

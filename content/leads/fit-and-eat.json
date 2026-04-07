@@ -1,0 +1,19 @@
+{
+  "slug": "fit-and-eat",
+  "name": "Fit And Eat",
+  "domain": "fit-and-eat.ch",
+  "businessType": "Hotel",
+  "year": 2024,
+  "email": "michele@fit-and-eat.ch",
+  "phone": "+4179889349",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 379,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

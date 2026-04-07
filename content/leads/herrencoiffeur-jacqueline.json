@@ -1,0 +1,19 @@
+{
+  "slug": "herrencoiffeur-jacqueline",
+  "name": "Herrencoiffeur Jacqueline",
+  "domain": "herrencoiffeur-jacqueline.ch",
+  "businessType": "Coiffeur",
+  "year": 2024,
+  "email": "jac.grossen@gmail.com",
+  "phone": "+419944149650",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 231,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kanalreinigung-zentralschweiz",
+  "name": "Kanalreinigung Zentralschweiz",
+  "domain": "kanalreinigung-zentralschweiz.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "mail@ceni.ch",
+  "phone": "+4124637261",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

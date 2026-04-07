@@ -1,0 +1,19 @@
+{
+  "slug": "chaeli-ofendesign",
+  "name": "Chaeli Ofendesign",
+  "domain": "chaeli-ofendesign.ch",
+  "businessType": "Gipser",
+  "year": 2019,
+  "email": "chaeliofen@bluewin.ch",
+  "phone": "+4155422133",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 271,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

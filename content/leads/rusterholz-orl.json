@@ -1,0 +1,19 @@
+{
+  "slug": "rusterholz-orl",
+  "name": "Rusterholz Orl",
+  "domain": "rusterholz-orl.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2018,
+  "email": "praxis.rusterholz@hin.ch",
+  "phone": "+410833333333, +411666666666, +413333333333",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 2367,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

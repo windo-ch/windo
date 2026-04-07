@@ -1,0 +1,19 @@
+{
+  "slug": "thepilatessuite",
+  "name": "Thepilatessuite",
+  "domain": "thepilatessuite.ch",
+  "businessType": "Wellness / Massage",
+  "year": 2025,
+  "email": "thepilatessuite@gmx.ch, contact@thepilatessuite.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 267,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

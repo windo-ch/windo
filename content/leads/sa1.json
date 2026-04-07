@@ -1,0 +1,19 @@
+{
+  "slug": "sa1",
+  "name": "Sa1",
+  "domain": "sa1.ch",
+  "businessType": "Bauunternehmen",
+  "year": 2018,
+  "email": "info@sa1.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 255,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

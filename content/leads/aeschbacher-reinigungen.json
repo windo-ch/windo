@@ -1,0 +1,19 @@
+{
+  "slug": "aeschbacher-reinigungen",
+  "name": "Aeschbacher Reinigungen",
+  "domain": "aeschbacher-reinigungen.ch",
+  "businessType": "Reinigung",
+  "year": 2025,
+  "email": "info@aeschbacher-reinigungen.ch",
+  "phone": "+4191173271",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 262,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

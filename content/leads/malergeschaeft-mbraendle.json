@@ -1,0 +1,19 @@
+{
+  "slug": "malergeschaeft-mbraendle",
+  "name": "Malergeschaeft Mbraendle",
+  "domain": "malergeschaeft-mbraendle.ch",
+  "businessType": "Maler",
+  "year": 2025,
+  "email": "monikabraendle@gmx.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 240,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

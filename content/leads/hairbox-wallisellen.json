@@ -1,0 +1,19 @@
+{
+  "slug": "hairbox-wallisellen",
+  "name": "Hairbox Wallisellen",
+  "domain": "hairbox-wallisellen.ch",
+  "businessType": "Coiffeur",
+  "year": 2019,
+  "email": "prisca.hairbox@bluewin.ch",
+  "phone": "+414035318743, +4128708001",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 416,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

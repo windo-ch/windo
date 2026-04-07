@@ -1,0 +1,19 @@
+{
+  "slug": "auszeichnungen",
+  "name": "Auszeichnungen",
+  "domain": "auszeichnungen.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "info@auszeichnungen.ch",
+  "phone": "+4143315709",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 287,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

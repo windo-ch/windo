@@ -1,0 +1,19 @@
+{
+  "slug": "elektro-res",
+  "name": "Elektro Res",
+  "domain": "elektro-res.ch",
+  "businessType": "Elektro",
+  "year": 2021,
+  "email": "info@elektro-res.ch",
+  "phone": "+4124677937",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 325,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

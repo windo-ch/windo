@@ -1,0 +1,19 @@
+{
+  "slug": "furger-vals",
+  "name": "Furger Vals",
+  "domain": "furger-vals.ch",
+  "businessType": "Maler",
+  "year": 2022,
+  "email": "info@furger-vals.ch",
+  "phone": "+4102582138",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 257,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

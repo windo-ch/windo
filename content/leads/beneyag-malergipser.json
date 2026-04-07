@@ -1,0 +1,19 @@
+{
+  "slug": "beneyag-malergipser",
+  "name": "Beneyag Malergipser",
+  "domain": "beneyag-malergipser.ch",
+  "businessType": "Gipser",
+  "year": 2020,
+  "email": "beneyag@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 204,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kosmetiksalon-gaby",
+  "name": "Kosmetiksalon Gaby",
+  "domain": "kosmetiksalon-gaby.ch",
+  "businessType": "Kosmetik",
+  "year": 2017,
+  "email": "gaby.heinzen@gmx.ch",
+  "phone": "+4124494741",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 275,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

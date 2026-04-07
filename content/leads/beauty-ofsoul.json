@@ -1,0 +1,19 @@
+{
+  "slug": "beauty-ofsoul",
+  "name": "Beauty Ofsoul",
+  "domain": "beauty-ofsoul.ch",
+  "businessType": "Kosmetik",
+  "year": 2023,
+  "email": "blertajoni@icloud.com",
+  "phone": "+4107584765",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 630,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

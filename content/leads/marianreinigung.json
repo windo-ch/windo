@@ -1,0 +1,19 @@
+{
+  "slug": "marianreinigung",
+  "name": "Marianreinigung",
+  "domain": "marianreinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2021,
+  "email": "marianreinigung1987@gmail.com",
+  "phone": "+4157248728",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 420,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

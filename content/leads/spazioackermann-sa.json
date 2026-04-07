@@ -1,0 +1,19 @@
+{
+  "slug": "spazioackermann-sa",
+  "name": "Spazioackermann Sa",
+  "domain": "spazioackermann-sa.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2020,
+  "email": "info@spazioackermann.ch",
+  "phone": "+4136194174",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 233,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "benderer-engadin",
+  "name": "Benderer Engadin",
+  "domain": "benderer-engadin.ch",
+  "businessType": "Versicherung",
+  "year": 2023,
+  "email": "info@benderer.com",
+  "phone": "+416090118737",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 290,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "zentralthairestaurant",
+  "name": "Zentralthairestaurant",
+  "domain": "zentralthairestaurant.ch",
+  "businessType": "Restaurant",
+  "year": 2022,
+  "email": "info@zentralthairestaurant.ch",
+  "phone": "+4179424645",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 289,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

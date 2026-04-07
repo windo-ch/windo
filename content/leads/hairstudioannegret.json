@@ -1,0 +1,19 @@
+{
+  "slug": "hairstudioannegret",
+  "name": "Hairstudioannegret",
+  "domain": "hairstudioannegret.ch",
+  "businessType": "Coiffeur",
+  "year": 2019,
+  "email": "annegret@hairstudioannegret.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 232,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

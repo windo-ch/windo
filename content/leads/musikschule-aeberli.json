@@ -1,0 +1,19 @@
+{
+  "slug": "musikschule-aeberli",
+  "name": "Musikschule Aeberli",
+  "domain": "musikschule-aeberli.ch",
+  "businessType": "Sonstige",
+  "year": 2018,
+  "email": "p-r.aeberli@bluewin.ch",
+  "phone": "+412603120552, +4126022012",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 996,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "amalfi-basel",
+  "name": "Amalfi Basel",
+  "domain": "amalfi-basel.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "info@amalfi-basel.ch",
+  "phone": "+4161525395, +411454911966, +414181684905",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 406,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

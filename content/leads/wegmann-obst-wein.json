@@ -1,0 +1,19 @@
+{
+  "slug": "wegmann-obst-wein",
+  "name": "Wegmann Obst Wein",
+  "domain": "wegmann-obst-wein.ch",
+  "businessType": "Hotel",
+  "year": 2019,
+  "email": "a.a.wegmann@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 241,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "chunhua-tcm",
+  "name": "Chunhua Tcm",
+  "domain": "chunhua-tcm.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2023,
+  "email": "chunhuatcm@gmail.com",
+  "phone": "+412025776274",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 240,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

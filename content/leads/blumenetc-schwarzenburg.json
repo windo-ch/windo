@@ -1,0 +1,19 @@
+{
+  "slug": "blumenetc-schwarzenburg",
+  "name": "Blumenetc Schwarzenburg",
+  "domain": "blumenetc-schwarzenburg.ch",
+  "businessType": "Florist",
+  "year": 2020,
+  "email": "blumen-etc@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 383,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

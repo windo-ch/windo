@@ -1,0 +1,19 @@
+{
+  "slug": "hauswart-ag",
+  "name": "Hauswart AG",
+  "domain": "hauswart-ag.ch",
+  "businessType": "Immobilien",
+  "year": 2017,
+  "email": "info@hauswart-ag.ch, u.ruggle@hauswart-ag.ch",
+  "phone": "+4119393721",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 268,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

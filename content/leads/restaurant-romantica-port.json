@@ -1,0 +1,19 @@
+{
+  "slug": "restaurant-romantica-port",
+  "name": "Restaurant Romantica Port",
+  "domain": "restaurant-romantica-port.ch",
+  "businessType": "Restaurant",
+  "year": 2017,
+  "email": "mazlum70@hotmail.ch",
+  "phone": "+4161786489",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 384,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gemeinschaftspraxis-gesegnetmatt",
+  "name": "Gemeinschaftspraxis Gesegnetmatt",
+  "domain": "gemeinschaftspraxis-gesegnetmatt.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2022,
+  "email": "r.nellen@hin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 293,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

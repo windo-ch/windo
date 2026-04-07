@@ -1,0 +1,19 @@
+{
+  "slug": "frangiosa",
+  "name": "Frangiosa",
+  "domain": "frangiosa.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2020,
+  "email": "frangiosa.cosimo@bluewin.ch",
+  "phone": "+4122114715",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 232,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

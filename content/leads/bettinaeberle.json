@@ -1,0 +1,19 @@
+{
+  "slug": "bettinaeberle",
+  "name": "Bettinaeberle",
+  "domain": "bettinaeberle.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2022,
+  "email": "info@bettina-eberle.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 264,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

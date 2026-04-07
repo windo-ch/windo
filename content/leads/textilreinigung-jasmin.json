@@ -1,0 +1,19 @@
+{
+  "slug": "textilreinigung-jasmin",
+  "name": "Textilreinigung Jasmin",
+  "domain": "textilreinigung-jasmin.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "hafizeduvan@gmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 266,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

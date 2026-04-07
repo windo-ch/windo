@@ -1,0 +1,19 @@
+{
+  "slug": "keller-ofenbau-plattenbelaege",
+  "name": "Keller Ofenbau Plattenbelaege",
+  "domain": "keller-ofenbau-plattenbelaege.ch",
+  "businessType": "Plattenleger",
+  "year": 2023,
+  "email": "keller.oefen-plaettli@bluewin.ch",
+  "phone": "+4131331528",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

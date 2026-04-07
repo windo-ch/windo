@@ -1,0 +1,19 @@
+{
+  "slug": "maler-buehler-zernez",
+  "name": "Maler Buehler Zernez",
+  "domain": "maler-buehler-zernez.ch",
+  "businessType": "Maler",
+  "year": 2025,
+  "email": "rnbuehler@bluewin.ch",
+  "phone": "+4196236711",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 243,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

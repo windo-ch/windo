@@ -1,0 +1,19 @@
+{
+  "slug": "unirep",
+  "name": "Unirep",
+  "domain": "unirep.ch",
+  "businessType": "Schlüsseldienst",
+  "year": 2023,
+  "email": "info@unirep.ch",
+  "phone": "+412025846154",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 281,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

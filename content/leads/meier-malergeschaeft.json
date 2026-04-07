@@ -1,0 +1,19 @@
+{
+  "slug": "meier-malergeschaeft",
+  "name": "Meier Malergeschaeft",
+  "domain": "meier-malergeschaeft.ch",
+  "businessType": "Gipser",
+  "year": 2023,
+  "email": "fgteam@swissonline.ch",
+  "phone": "+414282665821",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 269,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

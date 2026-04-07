@@ -1,0 +1,19 @@
+{
+  "slug": "stierli-law",
+  "name": "Stierli Law",
+  "domain": "stierli-law.ch",
+  "businessType": "Anwalt",
+  "year": 2021,
+  "email": "b.stierli@stierli-law.ch",
+  "phone": "+4143245906",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 302,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

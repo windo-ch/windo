@@ -1,0 +1,19 @@
+{
+  "slug": "olahpartner",
+  "name": "Olahpartner",
+  "domain": "olahpartner.ch",
+  "businessType": "Sonstige",
+  "year": 2017,
+  "email": "info@olahpartner.ch",
+  "phone": "+412543070258",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 246,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

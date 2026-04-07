@@ -1,0 +1,19 @@
+{
+  "slug": "pg-wenger",
+  "name": "Pg Wenger",
+  "domain": "pg-wenger.ch",
+  "businessType": "Gipser",
+  "year": 2017,
+  "email": "wenger.maler@eblcom.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 264,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

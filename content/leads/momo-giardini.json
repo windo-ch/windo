@@ -1,0 +1,19 @@
+{
+  "slug": "momo-giardini",
+  "name": "Momo Giardini",
+  "domain": "momo-giardini.ch",
+  "businessType": "Gartenbau",
+  "year": 2021,
+  "email": "info@momogiardini.ch",
+  "phone": "+4120078713",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 2341,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

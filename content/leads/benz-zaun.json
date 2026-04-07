@@ -1,0 +1,19 @@
+{
+  "slug": "benz-zaun",
+  "name": "Benz Zaun",
+  "domain": "benz-zaun.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "info@benz-zaun.ch",
+  "phone": "+4149555536",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 267,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

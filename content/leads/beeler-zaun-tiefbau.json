@@ -1,0 +1,19 @@
+{
+  "slug": "beeler-zaun-tiefbau",
+  "name": "Beeler Zaun Tiefbau",
+  "domain": "beeler-zaun-tiefbau.ch",
+  "businessType": "Bauunternehmen",
+  "year": 2024,
+  "email": "ernst.beeler@datazug.ch",
+  "phone": "+416089877224",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 262,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

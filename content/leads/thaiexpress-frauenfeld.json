@@ -1,0 +1,19 @@
+{
+  "slug": "thaiexpress-frauenfeld",
+  "name": "Thaiexpress Frauenfeld",
+  "domain": "thaiexpress-frauenfeld.ch",
+  "businessType": "Restaurant",
+  "year": 2024,
+  "email": "thaiexpress85@gmail.com, chaovanee.babu@gmail.com",
+  "phone": "+4126320565, +4139190411",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 184,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

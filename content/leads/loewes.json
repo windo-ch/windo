@@ -1,0 +1,19 @@
+{
+  "slug": "loewes",
+  "name": "Loewes",
+  "domain": "loewes.ch",
+  "businessType": "Plattenleger",
+  "year": 2024,
+  "email": "garage@loewes.ch",
+  "phone": "+4184626878",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 223,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

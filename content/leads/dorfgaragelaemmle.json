@@ -1,0 +1,19 @@
+{
+  "slug": "dorfgaragelaemmle",
+  "name": "Dorfgaragelaemmle",
+  "domain": "dorfgaragelaemmle.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2018,
+  "email": "garage.laemmle@greenmail.ch",
+  "phone": "+4188543255",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 236,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

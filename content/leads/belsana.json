@@ -1,0 +1,19 @@
+{
+  "slug": "belsana",
+  "name": "Belsana",
+  "domain": "belsana.ch",
+  "businessType": "Kosmetik",
+  "year": 2019,
+  "email": "b.vonsalis@bluewin.ch",
+  "phone": "+4110393659",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

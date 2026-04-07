@@ -1,0 +1,19 @@
+{
+  "slug": "frike-geraete",
+  "name": "Frike Geraete",
+  "domain": "frike-geraete.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "info@frike-geraete.ch",
+  "phone": "+412025798263",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 249,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

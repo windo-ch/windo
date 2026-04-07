@@ -1,0 +1,19 @@
+{
+  "slug": "loren-praxis-uster",
+  "name": "Loren Praxis Uster",
+  "domain": "loren-praxis-uster.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2017,
+  "email": "praxis.peters@hin.ch",
+  "phone": "+4173499542",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 255,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

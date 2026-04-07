@@ -1,0 +1,19 @@
+{
+  "slug": "praxis-p11",
+  "name": "Praxis P11",
+  "domain": "praxis-p11.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2018,
+  "email": "praxis-p11@hin.ch, info@praxis-p11.ch",
+  "phone": "+413841157215",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 274,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

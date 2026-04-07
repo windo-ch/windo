@@ -1,0 +1,19 @@
+{
+  "slug": "apotheke-imfreihof",
+  "name": "Apotheke Imfreihof",
+  "domain": "apotheke-imfreihof.ch",
+  "businessType": "Apotheke",
+  "year": 2021,
+  "email": "apotheke@carenova.ch, apothekefreihof@hin.ch, order@careformance.care",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 930,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

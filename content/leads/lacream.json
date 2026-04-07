@@ -1,0 +1,19 @@
+{
+  "slug": "lacream",
+  "name": "Lacream",
+  "domain": "lacream.ch",
+  "businessType": "Kosmetik",
+  "year": 2025,
+  "email": "lacreamhairandbeauty@gmail.com",
+  "phone": "+4167906949, +410116597014, +418897379912",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 190,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

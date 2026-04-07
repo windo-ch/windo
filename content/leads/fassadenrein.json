@@ -1,0 +1,19 @@
+{
+  "slug": "fassadenrein",
+  "name": "Fassadenrein",
+  "domain": "fassadenrein.ch",
+  "businessType": "Solar / PV",
+  "year": 2019,
+  "email": "bucher@fassadenrein.ch, kontakt@diefassadenreiniger.ch",
+  "phone": "+410654418913",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 238,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

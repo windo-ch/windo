@@ -1,0 +1,19 @@
+{
+  "slug": "klar-reinigung",
+  "name": "Klar Reinigung",
+  "domain": "klar-reinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2017,
+  "email": "klarreinigung@hotmail.com",
+  "phone": "+4190501941",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 237,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

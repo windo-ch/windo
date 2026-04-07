@@ -1,0 +1,19 @@
+{
+  "slug": "mettlertools",
+  "name": "Mettlertools",
+  "domain": "mettlertools.ch",
+  "businessType": "Bedachungen",
+  "year": 2023,
+  "email": "info@mettlertools.ch",
+  "phone": "+410209912744",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 309,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

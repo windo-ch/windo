@@ -1,0 +1,19 @@
+{
+  "slug": "iseligemuese",
+  "name": "Iseligemuese",
+  "domain": "iseligemuese.ch",
+  "businessType": "Restaurant",
+  "year": 2022,
+  "email": "iseligemuese@bluewin.ch",
+  "phone": "+4132396161, +4179631276, +4132396163",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 284,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

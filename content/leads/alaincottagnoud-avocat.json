@@ -1,0 +1,19 @@
+{
+  "slug": "alaincottagnoud-avocat",
+  "name": "Alaincottagnoud Avocat",
+  "domain": "alaincottagnoud-avocat.ch",
+  "businessType": "Anwalt",
+  "year": 2018,
+  "email": "alain.cottagnoud@bluewin.ch, lb@etude-batista.ch, l.batista@etude-ac.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 228,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

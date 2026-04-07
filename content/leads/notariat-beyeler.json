@@ -1,0 +1,19 @@
+{
+  "slug": "notariat-beyeler",
+  "name": "Notariat Beyeler",
+  "domain": "notariat-beyeler.ch",
+  "businessType": "Notar",
+  "year": 2017,
+  "email": "beyeler.mirjam@bluewin.ch",
+  "phone": "+4133550953",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 259,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "restaurantsonnenhof",
+  "name": "Restaurantsonnenhof",
+  "domain": "restaurantsonnenhof.ch",
+  "businessType": "Restaurant",
+  "year": 2024,
+  "email": "restaurant.sonnenhof@bluewin.ch",
+  "phone": "+418085179037",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 293,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

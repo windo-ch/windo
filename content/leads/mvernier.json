@@ -1,0 +1,19 @@
+{
+  "slug": "mvernier",
+  "name": "Mvernier",
+  "domain": "mvernier.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2023,
+  "email": "mvernier@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 264,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

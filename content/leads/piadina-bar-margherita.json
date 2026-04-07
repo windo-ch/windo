@@ -1,0 +1,19 @@
+{
+  "slug": "piadina-bar-margherita",
+  "name": "Piadina Bar Margherita",
+  "domain": "piadina-bar-margherita.ch",
+  "businessType": "Café / Bar",
+  "year": 2023,
+  "email": "info@treuhand.ch",
+  "phone": "+412542408176",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 238,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

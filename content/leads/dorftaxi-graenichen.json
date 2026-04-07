@@ -1,0 +1,19 @@
+{
+  "slug": "dorftaxi-graenichen",
+  "name": "Dorftaxi Graenichen",
+  "domain": "dorftaxi-graenichen.ch",
+  "businessType": "Taxi",
+  "year": 2020,
+  "email": "graenichen-dorf-taxi@gmx.ch",
+  "phone": "+4157304101",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 294,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

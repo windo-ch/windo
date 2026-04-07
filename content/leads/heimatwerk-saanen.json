@@ -1,0 +1,19 @@
+{
+  "slug": "heimatwerk-saanen",
+  "name": "Heimatwerk Saanen",
+  "domain": "heimatwerk-saanen.ch",
+  "businessType": "Plattenleger",
+  "year": 2018,
+  "email": "heimatwerk.saanen@bluewin.ch",
+  "phone": "+414395604395, +418080803581, +415910706524",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 3871,
+    "slowLoad": true
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

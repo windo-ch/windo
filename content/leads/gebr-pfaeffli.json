@@ -1,0 +1,19 @@
+{
+  "slug": "gebr-pfaeffli",
+  "name": "Gebr Pfaeffli",
+  "domain": "gebr-pfaeffli.ch",
+  "businessType": "Immobilien",
+  "year": 2022,
+  "email": "gebr.pfaeffli@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 286,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gebr-berisha",
+  "name": "Gebr Berisha",
+  "domain": "gebr-berisha.ch",
+  "businessType": "Gipser",
+  "year": 2018,
+  "email": "info@gebr-berisha.ch",
+  "phone": "+4174165225",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 256,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

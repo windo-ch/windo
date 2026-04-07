@@ -1,0 +1,19 @@
+{
+  "slug": "anaybeautysalon",
+  "name": "Anaybeautysalon",
+  "domain": "anaybeautysalon.ch",
+  "businessType": "Psychologie",
+  "year": 2024,
+  "email": "anaybeauty3@gmail.com",
+  "phone": "+4128875064",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 330,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

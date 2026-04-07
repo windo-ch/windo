@@ -1,0 +1,19 @@
+{
+  "slug": "gesundimmo",
+  "name": "Gesundimmo",
+  "domain": "gesundimmo.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2025,
+  "email": "cb@gesundimmo.ch, connection@csw-gruppe.ch",
+  "phone": "+414070950877, +4191396413",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 0,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": false,
+  "hasMobileScreenshot": false
+}

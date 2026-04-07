@@ -1,0 +1,19 @@
+{
+  "slug": "schreinerei-meier-otelfingen",
+  "name": "Schreinerei Meier Otelfingen",
+  "domain": "schreinerei-meier-otelfingen.ch",
+  "businessType": "Schreinerei",
+  "year": 2021,
+  "email": "gottfriedmeier3@gmail.com",
+  "phone": "+4159056306",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 268,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

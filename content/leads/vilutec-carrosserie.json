@@ -1,0 +1,19 @@
+{
+  "slug": "vilutec-carrosserie",
+  "name": "Vilutec Carrosserie",
+  "domain": "vilutec-carrosserie.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2024,
+  "email": "info@vilutec.ch",
+  "phone": "+418633282196",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 221,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

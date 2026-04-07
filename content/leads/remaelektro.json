@@ -1,0 +1,19 @@
+{
+  "slug": "remaelektro",
+  "name": "Remaelektro",
+  "domain": "remaelektro.ch",
+  "businessType": "Elektro",
+  "year": 2018,
+  "email": "info@remaelektro.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 239,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

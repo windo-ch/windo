@@ -1,0 +1,19 @@
+{
+  "slug": "olympiclounge",
+  "name": "Olympiclounge",
+  "domain": "olympiclounge.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "info@olympiclounge.ch",
+  "phone": "+4160880712",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 251,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

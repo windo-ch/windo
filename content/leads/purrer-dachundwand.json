@@ -1,0 +1,19 @@
+{
+  "slug": "purrer-dachundwand",
+  "name": "Purrer Dachundwand",
+  "domain": "purrer-dachundwand.ch",
+  "businessType": "Bedachungen",
+  "year": 2017,
+  "email": "purrerdach@bluewin.ch",
+  "phone": "+4138921325",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 225,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

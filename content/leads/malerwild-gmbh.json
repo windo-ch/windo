@@ -1,0 +1,19 @@
+{
+  "slug": "malerwild-gmbh",
+  "name": "Malerwild GmbH",
+  "domain": "malerwild-gmbh.ch",
+  "businessType": "Gipser",
+  "year": 2018,
+  "email": "info@malerwild.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 256,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

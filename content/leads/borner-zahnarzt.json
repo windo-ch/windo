@@ -1,0 +1,19 @@
+{
+  "slug": "borner-zahnarzt",
+  "name": "Borner Zahnarzt",
+  "domain": "borner-zahnarzt.ch",
+  "businessType": "Zahnarzt",
+  "year": 2022,
+  "email": "a.borner@bluewin.ch",
+  "phone": "+4120281404",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 258,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

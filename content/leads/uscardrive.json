@@ -1,0 +1,19 @@
+{
+  "slug": "uscardrive",
+  "name": "Uscardrive",
+  "domain": "uscardrive.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2023,
+  "email": "info@uscardrive.ch",
+  "phone": "+4106776191",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 415,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

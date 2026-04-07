@@ -1,0 +1,19 @@
+{
+  "slug": "hehlenbedachungen",
+  "name": "Hehlenbedachungen",
+  "domain": "hehlenbedachungen.ch",
+  "businessType": "Bedachungen",
+  "year": 2021,
+  "email": "info@hehlenbedachungen.ch",
+  "phone": "+4102695263",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 283,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

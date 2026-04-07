@@ -1,0 +1,19 @@
+{
+  "slug": "maler-jorge",
+  "name": "Maler Jorge",
+  "domain": "maler-jorge.ch",
+  "businessType": "Maler",
+  "year": 2024,
+  "email": "info@maler-jorge.ch",
+  "phone": "+4147908273",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 286,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

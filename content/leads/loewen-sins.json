@@ -1,0 +1,19 @@
+{
+  "slug": "loewen-sins",
+  "name": "Loewen Sins",
+  "domain": "loewen-sins.ch",
+  "businessType": "Hotel",
+  "year": 2023,
+  "email": "hotel.landgasthof@loewen-sins.ch, paul.waser@loewen-sins.ch",
+  "phone": "+414281134171",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 202,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

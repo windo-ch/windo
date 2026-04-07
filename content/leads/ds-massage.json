@@ -1,0 +1,19 @@
+{
+  "slug": "ds-massage",
+  "name": "Ds Massage",
+  "domain": "ds-massage.ch",
+  "businessType": "Wellness / Massage",
+  "year": 2017,
+  "email": "d.schnider@ds-massage.ch",
+  "phone": "+4156653598",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

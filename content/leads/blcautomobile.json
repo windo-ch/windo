@@ -1,0 +1,19 @@
+{
+  "slug": "blcautomobile",
+  "name": "Blcautomobile",
+  "domain": "blcautomobile.ch",
+  "businessType": "Autohandel",
+  "year": 2025,
+  "email": "info@blcautomobile.ch, s.murugesan@blcautomobile.ch",
+  "phone": "+4142012189",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 330,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

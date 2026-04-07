@@ -1,0 +1,19 @@
+{
+  "slug": "go2dance",
+  "name": "Go2dance",
+  "domain": "go2dance.ch",
+  "businessType": "Tanzschule",
+  "year": 2023,
+  "email": "esther.assenmacher@bluewin.ch",
+  "phone": "+4102132877",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 319,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

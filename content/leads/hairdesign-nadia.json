@@ -1,0 +1,19 @@
+{
+  "slug": "hairdesign-nadia",
+  "name": "Hairdesign Nadia",
+  "domain": "hairdesign-nadia.ch",
+  "businessType": "Coiffeur",
+  "year": 2019,
+  "email": "nadia.halbeisen@hotmail.com",
+  "phone": "+4179613671, +419887054602",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 283,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

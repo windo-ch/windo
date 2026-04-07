@@ -1,0 +1,19 @@
+{
+  "slug": "baertschi-bestattungen",
+  "name": "Baertschi Bestattungen",
+  "domain": "baertschi-bestattungen.ch",
+  "businessType": "Sonstige",
+  "year": 2024,
+  "email": "baertschi-bestattungen@bluewin.ch, info@baertschi-bestattungen.ch, info@allgemeine-bestattung.ch",
+  "phone": "+4198875839",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 231,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

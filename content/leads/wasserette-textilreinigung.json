@@ -1,0 +1,19 @@
+{
+  "slug": "wasserette-textilreinigung",
+  "name": "Wasserette Textilreinigung",
+  "domain": "wasserette-textilreinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "biljanapetrovic2008@msn.com",
+  "phone": "+411164902408",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 251,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

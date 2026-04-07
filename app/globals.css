@@ -1,26 +1,101 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  /* Colors */
+  --color-bg: #FFFBF8;
+  --color-bg-card: #FFFFFF;
+  --color-bg-subtle: #FFF5EF;
+  --color-bg-glow: #FFF0E8;
+  --color-bg-dark: #1C1C1C;
+  --color-glow: #FF6B35;
+  --color-glow-deep: #C94418;
+  --color-glow-hot: #FF4D1A;
+  --color-glow-ambient: #FFF0E8;
+  --color-glow-soft: #FFD4C0;
+  --color-green-wa: #25D366;
+
+  /* Font */
+  --font-family-sans: var(--font-inter), system-ui, -apple-system, sans-serif;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+/* Hero radial gradient background */
+.hero-gradient {
+  background: radial-gradient(ellipse 80% 60% at 50% -10%, #FFD4C0 0%, #FFFBF8 70%);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* Card warm shadow */
+.card-warm {
+  box-shadow: 0 4px 24px rgba(201, 68, 24, 0.08), 0 1px 4px rgba(0,0,0,0.04);
+}
+
+/* CTA button glow */
+.btn-glow {
+  box-shadow: 0 4px 20px rgba(201, 68, 24, 0.35);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.btn-glow:hover {
+  box-shadow: 0 6px 28px rgba(201, 68, 24, 0.5);
+  transform: translateY(-1px);
+}
+
+/* WhatsApp button */
+.btn-whatsapp {
+  background-color: #25D366;
+  color: white;
+  box-shadow: 0 4px 20px rgba(37, 211, 102, 0.3);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.btn-whatsapp:hover {
+  background-color: #1ebe5d;
+  box-shadow: 0 6px 28px rgba(37, 211, 102, 0.45);
+  transform: translateY(-1px);
+}
+
+/* Fade-in animation system */
+.fade-in-target {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+.fade-in-target.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Respect reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  .fade-in-target {
+    opacity: 1;
+    transform: none;
+    transition: none;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* Base styles */
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* Check page animations */
+@keyframes card-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.animate-card-in {
+  animation: card-in 0.4s ease-out both;
+}
+
+@keyframes fade-slide-in {
+  from { opacity: 0; transform: translateX(-4px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+.animate-loading-item {
+  animation: fade-slide-in 0.3s ease-out both;
 }

@@ -1,0 +1,19 @@
+{
+  "slug": "autoservice-schmidlin",
+  "name": "Autoservice Schmidlin",
+  "domain": "autoservice-schmidlin.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2022,
+  "email": "trschmidlin@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 274,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

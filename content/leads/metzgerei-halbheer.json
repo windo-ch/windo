@@ -1,0 +1,19 @@
+{
+  "slug": "metzgerei-halbheer",
+  "name": "Metzgerei Halbheer",
+  "domain": "metzgerei-halbheer.ch",
+  "businessType": "Metzgerei",
+  "year": 2022,
+  "email": "fredi.halbheer@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 541,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

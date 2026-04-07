@@ -1,0 +1,19 @@
+{
+  "slug": "maler-niko",
+  "name": "Maler Niko",
+  "domain": "maler-niko.ch",
+  "businessType": "Maler",
+  "year": 2019,
+  "email": "pavic.niko@bluewin.ch",
+  "phone": "+4173606538",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 234,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

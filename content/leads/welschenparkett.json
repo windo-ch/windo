@@ -1,0 +1,19 @@
+{
+  "slug": "welschenparkett",
+  "name": "Welschenparkett",
+  "domain": "welschenparkett.ch",
+  "businessType": "Bodenbeläge",
+  "year": 2022,
+  "email": "thomas.welschen@bluewin.ch",
+  "phone": "+4197519462",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 268,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

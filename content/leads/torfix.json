@@ -1,0 +1,19 @@
+{
+  "slug": "torfix",
+  "name": "Torfix",
+  "domain": "torfix.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2024,
+  "email": "info@torfix.ch",
+  "phone": "+4138708974",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

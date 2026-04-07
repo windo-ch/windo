@@ -1,0 +1,19 @@
+{
+  "slug": "veltlinerkeller-stmoritz",
+  "name": "Veltlinerkeller Stmoritz",
+  "domain": "veltlinerkeller-stmoritz.ch",
+  "businessType": "Hotel",
+  "year": 2023,
+  "email": "veltlinerkeller@bluewin.ch",
+  "phone": "+4144378730, +4128516646",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 314,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "schaefer-schreinerei",
+  "name": "Schaefer Schreinerei",
+  "domain": "schaefer-schreinerei.ch",
+  "businessType": "Schreinerei",
+  "year": 2023,
+  "email": "info@schaefer-schreinerei.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 304,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

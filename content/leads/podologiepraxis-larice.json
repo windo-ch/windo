@@ -1,0 +1,19 @@
+{
+  "slug": "podologiepraxis-larice",
+  "name": "Podologiepraxis Larice",
+  "domain": "podologiepraxis-larice.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2021,
+  "email": "podologie-praxis.larice@outlook.de",
+  "phone": "+4134649826",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 244,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

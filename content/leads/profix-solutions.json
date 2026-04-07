@@ -1,0 +1,19 @@
+{
+  "slug": "profix-solutions",
+  "name": "Profix Solutions",
+  "domain": "profix-solutions.ch",
+  "businessType": "Reinigung",
+  "year": 2025,
+  "email": "profixsolutionsch@gmail.com",
+  "phone": "+4154378330",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

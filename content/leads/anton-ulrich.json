@@ -1,0 +1,19 @@
+{
+  "slug": "anton-ulrich",
+  "name": "Anton Ulrich",
+  "domain": "anton-ulrich.ch",
+  "businessType": "Bedachungen",
+  "year": 2023,
+  "email": "info@anton-ulrich.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 244,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

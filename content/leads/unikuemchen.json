@@ -1,0 +1,19 @@
+{
+  "slug": "unikuemchen",
+  "name": "Unikuemchen",
+  "domain": "unikuemchen.ch",
+  "businessType": "Hotel",
+  "year": 2026,
+  "email": "christin.ambord@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 338,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

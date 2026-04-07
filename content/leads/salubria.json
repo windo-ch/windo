@@ -1,0 +1,19 @@
+{
+  "slug": "salubria",
+  "name": "Salubria",
+  "domain": "salubria.ch",
+  "businessType": "Versicherung",
+  "year": 2024,
+  "email": "info@salubria.ch",
+  "phone": "+414339071529",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 231,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

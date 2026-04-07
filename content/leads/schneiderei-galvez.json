@@ -1,0 +1,19 @@
+{
+  "slug": "schneiderei-galvez",
+  "name": "Schneiderei Galvez",
+  "domain": "schneiderei-galvez.ch",
+  "businessType": "Sonstige",
+  "year": 2019,
+  "email": "schneider.atelier.lg@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 273,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

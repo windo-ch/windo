@@ -1,0 +1,19 @@
+{
+  "slug": "piperata",
+  "name": "Piperata",
+  "domain": "piperata.ch",
+  "businessType": "Gipser",
+  "year": 2018,
+  "email": "info@piperata.ch",
+  "phone": "+4144825171",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 242,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

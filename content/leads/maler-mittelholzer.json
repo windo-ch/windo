@@ -1,0 +1,19 @@
+{
+  "slug": "maler-mittelholzer",
+  "name": "Maler Mittelholzer",
+  "domain": "maler-mittelholzer.ch",
+  "businessType": "Maler",
+  "year": 2024,
+  "email": "info@maler-mittelholzer.ch",
+  "phone": "+4126502408",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 232,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "geraete4home",
+  "name": "Geraete4home",
+  "domain": "geraete4home.ch",
+  "businessType": "Gipser",
+  "year": 2023,
+  "email": "arcari5703@gmx.ch",
+  "phone": "+4132419757",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 262,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

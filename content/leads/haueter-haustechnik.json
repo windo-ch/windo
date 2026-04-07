@@ -1,0 +1,19 @@
+{
+  "slug": "haueter-haustechnik",
+  "name": "Haueter Haustechnik",
+  "domain": "haueter-haustechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "info@haueter-haustechnik.ch",
+  "phone": "+417218621606",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 251,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

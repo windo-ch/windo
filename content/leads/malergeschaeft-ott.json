@@ -1,0 +1,19 @@
+{
+  "slug": "malergeschaeft-ott",
+  "name": "Malergeschaeft Ott",
+  "domain": "malergeschaeft-ott.ch",
+  "businessType": "Gipser",
+  "year": 2020,
+  "email": "brunoott@yahoo.com",
+  "phone": "+4179672592",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 306,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

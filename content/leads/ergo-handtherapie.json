@@ -1,0 +1,19 @@
+{
+  "slug": "ergo-handtherapie",
+  "name": "Ergo Handtherapie",
+  "domain": "ergo-handtherapie.ch",
+  "businessType": "Sonstige",
+  "year": 2019,
+  "email": "ergo-handtherapie@hin.ch",
+  "phone": "+4128510437",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 272,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

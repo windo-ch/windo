@@ -1,0 +1,19 @@
+{
+  "slug": "everest-wohnbau",
+  "name": "Everest Wohnbau",
+  "domain": "everest-wohnbau.ch",
+  "businessType": "Ofenbau",
+  "year": 2019,
+  "email": "info@everest-wohnbau.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 260,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

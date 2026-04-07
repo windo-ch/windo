@@ -1,0 +1,19 @@
+{
+  "slug": "harmoniebasel",
+  "name": "Harmoniebasel",
+  "domain": "harmoniebasel.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "harmonie@harmonie-basel.ch",
+  "phone": "+4172883860",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 262,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

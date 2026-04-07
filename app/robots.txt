@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /fuer/
+
+Sitemap: https://www.windo.ch/sitemap.xml

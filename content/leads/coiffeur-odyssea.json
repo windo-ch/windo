@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-odyssea",
+  "name": "Coiffeur Odyssea",
+  "domain": "coiffeur-odyssea.ch",
+  "businessType": "Coiffeur",
+  "year": 2017,
+  "email": "pedaodyssea@hotmail.com",
+  "phone": "+413223554546",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 222,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

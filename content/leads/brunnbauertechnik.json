@@ -1,0 +1,19 @@
+{
+  "slug": "brunnbauertechnik",
+  "name": "Brunnbauertechnik",
+  "domain": "brunnbauertechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "michaelbrunnbauer85@gmx.ch",
+  "phone": "+4184972828",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 300,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

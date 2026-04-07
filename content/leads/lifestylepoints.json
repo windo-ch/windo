@@ -1,0 +1,19 @@
+{
+  "slug": "lifestylepoints",
+  "name": "Lifestylepoints",
+  "domain": "lifestylepoints.ch",
+  "businessType": "Elektro",
+  "year": 2018,
+  "email": "alain.hercegovac@lifestylepoints.ch, scouting@lifestylepoints.ch",
+  "phone": "+4123270548, +411653891493, +4135118180",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 224,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hi-haustechnik",
+  "name": "Hi Haustechnik",
+  "domain": "hi-haustechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2023,
+  "email": "i-haustechnik@bluewin.ch",
+  "phone": "+4133547514",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 283,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

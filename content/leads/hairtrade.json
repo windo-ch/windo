@@ -1,0 +1,19 @@
+{
+  "slug": "hairtrade",
+  "name": "Hairtrade",
+  "domain": "hairtrade.ch",
+  "businessType": "Coiffeur",
+  "year": 2017,
+  "email": "info@hairtrade.ch",
+  "phone": "+4158285516",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 293,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

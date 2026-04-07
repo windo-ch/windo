@@ -1,0 +1,19 @@
+{
+  "slug": "gysin-wey-gartenbau",
+  "name": "Gysin Wey Gartenbau",
+  "domain": "gysin-wey-gartenbau.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "gysin-wey@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 349,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "inneretransformation",
+  "name": "Inneretransformation",
+  "domain": "inneretransformation.ch",
+  "businessType": "Psychologie",
+  "year": 2018,
+  "email": "susannastaehli@gmx.ch",
+  "phone": "+4109856711",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 249,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "deconstruct-fmservices",
+  "name": "Deconstruct Fmservices",
+  "domain": "deconstruct-fmservices.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "greta.noteva@gmail.com",
+  "phone": "+4181136929",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 231,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farbhof-kuenstlerartikel-staefa",
+  "name": "Farbhof Kuenstlerartikel Staefa",
+  "domain": "farbhof-kuenstlerartikel-staefa.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2023,
+  "email": "farbhofgmbh@bluewin.ch",
+  "phone": "+4173258553",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 359,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

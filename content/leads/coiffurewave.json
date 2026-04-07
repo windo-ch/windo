@@ -1,0 +1,19 @@
+{
+  "slug": "coiffurewave",
+  "name": "Coiffurewave",
+  "domain": "coiffurewave.ch",
+  "businessType": "Coiffeur",
+  "year": 2025,
+  "email": "lindaloli03@icloud.com, loar.ism21@icloud.com",
+  "phone": "+4189904979",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 200,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

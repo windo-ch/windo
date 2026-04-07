@@ -1,0 +1,19 @@
+{
+  "slug": "ncrt",
+  "name": "Ncrt",
+  "domain": "ncrt.ch",
+  "businessType": "Reinigung",
+  "year": 2018,
+  "email": "info@ncrt.ch",
+  "phone": "+417474604118",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 257,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

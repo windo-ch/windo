@@ -1,0 +1,19 @@
+{
+  "slug": "haepply-schuer",
+  "name": "Haepply Schuer",
+  "domain": "haepply-schuer.ch",
+  "businessType": "Bedachungen",
+  "year": 2022,
+  "email": "elsi.imhof@hotmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 262,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

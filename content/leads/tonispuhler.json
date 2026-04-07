@@ -1,0 +1,19 @@
+{
+  "slug": "tonispuhler",
+  "name": "Tonispuhler",
+  "domain": "tonispuhler.ch",
+  "businessType": "Gipser",
+  "year": 2024,
+  "email": "info@tonispuhler.ch",
+  "phone": "+417474676427",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 284,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

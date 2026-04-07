@@ -1,0 +1,19 @@
+{
+  "slug": "schnyder-consulting",
+  "name": "Schnyder Consulting",
+  "domain": "schnyder-consulting.ch",
+  "businessType": "Treuhand",
+  "year": 2024,
+  "email": "info@schnyder-consulting.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 280,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

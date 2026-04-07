@@ -1,0 +1,19 @@
+{
+  "slug": "schreinerei-imhof",
+  "name": "Schreinerei Imhof",
+  "domain": "schreinerei-imhof.ch",
+  "businessType": "Schreinerei",
+  "year": 2024,
+  "email": "info@schreinerei-imhof.ch",
+  "phone": "+4152316920",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 247,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

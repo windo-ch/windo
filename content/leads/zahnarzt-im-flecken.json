@@ -1,0 +1,19 @@
+{
+  "slug": "zahnarzt-im-flecken",
+  "name": "Zahnarzt Im Flecken",
+  "domain": "zahnarzt-im-flecken.ch",
+  "businessType": "Zahnarzt",
+  "year": 2018,
+  "email": "info@zahnarzt-im-flecken.ch, secure-zahnarzt-im-flecken@x86.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 207,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

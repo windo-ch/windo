@@ -1,0 +1,19 @@
+{
+  "slug": "mb-sanitaer-heizung",
+  "name": "Mb Sanitaer Heizung",
+  "domain": "mb-sanitaer-heizung.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2023,
+  "email": "info@mbsh.ch",
+  "phone": "+414457254339",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 296,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

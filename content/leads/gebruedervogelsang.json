@@ -1,0 +1,19 @@
+{
+  "slug": "gebruedervogelsang",
+  "name": "Gebruedervogelsang",
+  "domain": "gebruedervogelsang.ch",
+  "businessType": "Elektro",
+  "year": 2023,
+  "email": "info@vogelsangag.ch, vogelsangag@gmx.ch",
+  "phone": "+4128972",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 230,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

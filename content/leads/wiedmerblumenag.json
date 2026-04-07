@@ -1,0 +1,19 @@
+{
+  "slug": "wiedmerblumenag",
+  "name": "Wiedmerblumenag",
+  "domain": "wiedmerblumenag.ch",
+  "businessType": "Florist",
+  "year": 2023,
+  "email": "wiedmerblumen@bluewin.ch",
+  "phone": "+411379083588",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 227,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

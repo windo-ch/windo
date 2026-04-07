@@ -1,0 +1,19 @@
+{
+  "slug": "umbau-schawalder",
+  "name": "Umbau Schawalder",
+  "domain": "umbau-schawalder.ch",
+  "businessType": "Bauunternehmen",
+  "year": 2021,
+  "email": "mail@umbau-schawalder.ch",
+  "phone": "+4169697788",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 366,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

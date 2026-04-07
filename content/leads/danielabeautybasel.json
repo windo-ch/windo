@@ -1,0 +1,19 @@
+{
+  "slug": "danielabeautybasel",
+  "name": "Danielabeautybasel",
+  "domain": "danielabeautybasel.ch",
+  "businessType": "Kosmetik",
+  "year": 2023,
+  "email": "danielabeautyandwellness@gmail.com",
+  "phone": "+4176132597",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 381,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

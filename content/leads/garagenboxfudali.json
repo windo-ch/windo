@@ -1,0 +1,19 @@
+{
+  "slug": "garagenboxfudali",
+  "name": "Garagenboxfudali",
+  "domain": "garagenboxfudali.ch",
+  "businessType": "Bedachungen",
+  "year": 2022,
+  "email": "complexbaufudali@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 271,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

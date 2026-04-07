@@ -1,0 +1,19 @@
+{
+  "slug": "mirjambeauty",
+  "name": "Mirjambeauty",
+  "domain": "mirjambeauty.ch",
+  "businessType": "Kosmetik",
+  "year": 2023,
+  "email": "mirjam.mum@gmail.com",
+  "phone": "+4143421390",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 305,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

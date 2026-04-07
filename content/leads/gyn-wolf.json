@@ -1,0 +1,19 @@
+{
+  "slug": "gyn-wolf",
+  "name": "Gyn Wolf",
+  "domain": "gyn-wolf.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2023,
+  "email": "info@gyn-wolf.ch, info.gyn.wolf@hin.ch",
+  "phone": "+4110451685, +416090322174",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 278,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

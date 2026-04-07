@@ -1,0 +1,19 @@
+{
+  "slug": "psychotherapie-bignasca",
+  "name": "Psychotherapie Bignasca",
+  "domain": "psychotherapie-bignasca.ch",
+  "businessType": "Psychologie",
+  "year": 2022,
+  "email": "giulia.bignasca@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 286,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

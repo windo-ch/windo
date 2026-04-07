@@ -1,0 +1,19 @@
+{
+  "slug": "blumen-hoehener",
+  "name": "Blumen Hoehener",
+  "domain": "blumen-hoehener.ch",
+  "businessType": "Florist",
+  "year": 2023,
+  "email": "gartenbauhoehener@bluewin.ch",
+  "phone": "+4195880566",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 233,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

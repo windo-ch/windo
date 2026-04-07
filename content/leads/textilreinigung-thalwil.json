@@ -1,0 +1,19 @@
+{
+  "slug": "textilreinigung-thalwil",
+  "name": "Textilreinigung Thalwil",
+  "domain": "textilreinigung-thalwil.ch",
+  "businessType": "Reinigung",
+  "year": 2021,
+  "email": "texsana-thalwil@hotmail.com, david.halef123@hotmail.com",
+  "phone": "+4114844812",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 288,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

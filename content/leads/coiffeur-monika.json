@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-monika",
+  "name": "Coiffeur Monika",
+  "domain": "coiffeur-monika.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "monika.duss@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

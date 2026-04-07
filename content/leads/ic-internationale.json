@@ -1,0 +1,19 @@
+{
+  "slug": "ic-internationale",
+  "name": "Ic Internationale",
+  "domain": "ic-internationale.ch",
+  "businessType": "Coiffeur",
+  "year": 2024,
+  "email": "inter.huersch@bluewin.ch",
+  "phone": "+417327484748",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 207,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

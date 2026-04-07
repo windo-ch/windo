@@ -1,0 +1,19 @@
+{
+  "slug": "roma-pizzeria",
+  "name": "Roma Pizzeria",
+  "domain": "roma-pizzeria.ch",
+  "businessType": "Restaurant",
+  "year": 2022,
+  "email": "info@roma-pizzeria.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ramaj",
+  "name": "Ramaj",
+  "domain": "ramaj.ch",
+  "businessType": "Bedachungen",
+  "year": 2025,
+  "email": "info@ramaj.ch",
+  "phone": "+4149375690",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 201,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

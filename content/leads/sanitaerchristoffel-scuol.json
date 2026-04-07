@@ -1,0 +1,19 @@
+{
+  "slug": "sanitaerchristoffel-scuol",
+  "name": "Sanitaerchristoffel Scuol",
+  "domain": "sanitaerchristoffel-scuol.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2020,
+  "email": "info@christoffelscuol.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 247,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

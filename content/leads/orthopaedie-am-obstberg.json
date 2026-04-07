@@ -1,0 +1,19 @@
+{
+  "slug": "orthopaedie-am-obstberg",
+  "name": "Orthopaedie Am Obstberg",
+  "domain": "orthopaedie-am-obstberg.ch",
+  "businessType": "Orthopädie",
+  "year": 2022,
+  "email": "andreas.klakow@hin.ch, praxisbueren@hin.ch, info@praxisbueren.ch",
+  "phone": "+412253062003",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 404,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

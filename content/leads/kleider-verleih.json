@@ -1,0 +1,19 @@
+{
+  "slug": "kleider-verleih",
+  "name": "Kleider Verleih",
+  "domain": "kleider-verleih.ch",
+  "businessType": "Sonstige",
+  "year": 2020,
+  "email": "optitex@bluemail.ch",
+  "phone": "+4150062150",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 267,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

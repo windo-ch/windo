@@ -1,0 +1,19 @@
+{
+  "slug": "kkreinigung",
+  "name": "Kkreinigung",
+  "domain": "kkreinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "kkreinigungfarhani@gmail.com",
+  "phone": "+4182858453",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 256,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

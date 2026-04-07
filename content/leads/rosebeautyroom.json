@@ -1,0 +1,19 @@
+{
+  "slug": "rosebeautyroom",
+  "name": "Rosebeautyroom",
+  "domain": "rosebeautyroom.ch",
+  "businessType": "Kosmetik",
+  "year": 2024,
+  "email": "magnolia.mass.fuss@gmail.com, info@lfcassociates.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 218,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

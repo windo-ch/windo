@@ -1,0 +1,19 @@
+{
+  "slug": "nikoli-reinigung",
+  "name": "Nikoli Reinigung",
+  "domain": "nikoli-reinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "dragana.nikolic@gmx.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 369,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

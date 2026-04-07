@@ -1,0 +1,19 @@
+{
+  "slug": "cosmetic-laboheme",
+  "name": "Cosmetic Laboheme",
+  "domain": "cosmetic-laboheme.ch",
+  "businessType": "Kosmetik",
+  "year": 2018,
+  "email": "1laboheme@bluewin.ch, info@cosmetic-laboheme.ch",
+  "phone": "+4162216565",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 235,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

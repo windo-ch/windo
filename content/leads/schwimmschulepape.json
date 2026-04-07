@@ -1,0 +1,19 @@
+{
+  "slug": "schwimmschulepape",
+  "name": "Schwimmschulepape",
+  "domain": "schwimmschulepape.ch",
+  "businessType": "Fitness",
+  "year": 2023,
+  "email": "info@schwimmschule-pape.ch",
+  "phone": "+4127053017",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 418,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tahiriag",
+  "name": "Tahiriag",
+  "domain": "tahiriag.ch",
+  "businessType": "Gartenbau",
+  "year": 2022,
+  "email": "tahiri-ag@hotmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 261,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

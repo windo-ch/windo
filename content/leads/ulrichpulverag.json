@@ -1,0 +1,19 @@
+{
+  "slug": "ulrichpulverag",
+  "name": "Ulrichpulverag",
+  "domain": "ulrichpulverag.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2025,
+  "email": "info@pulver-haustechnik.ch",
+  "phone": "+4142258708",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 226,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

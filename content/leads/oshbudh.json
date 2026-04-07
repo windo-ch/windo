@@ -1,0 +1,19 @@
+{
+  "slug": "oshbudh",
+  "name": "Oshbudh",
+  "domain": "oshbudh.ch",
+  "businessType": "Bedachungen",
+  "year": 2021,
+  "email": "info@oshbudh.ch",
+  "phone": "+4137245730",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 319,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

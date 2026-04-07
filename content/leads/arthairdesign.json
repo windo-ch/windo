@@ -1,0 +1,19 @@
+{
+  "slug": "arthairdesign",
+  "name": "Arthairdesign",
+  "domain": "arthairdesign.ch",
+  "businessType": "Coiffeur",
+  "year": 2018,
+  "email": "arthair64@gmail.com, t.snyman@sunrise.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 721,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

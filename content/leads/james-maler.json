@@ -1,0 +1,19 @@
+{
+  "slug": "james-maler",
+  "name": "James Maler",
+  "domain": "james-maler.ch",
+  "businessType": "Maler",
+  "year": 2024,
+  "email": "james.martin@teleport.ch",
+  "phone": "+4122618245",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 181,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

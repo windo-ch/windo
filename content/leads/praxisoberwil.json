@@ -1,0 +1,19 @@
+{
+  "slug": "praxisoberwil",
+  "name": "Praxisoberwil",
+  "domain": "praxisoberwil.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2024,
+  "email": "praxisoberwil@hin.ch",
+  "phone": "+4109712981",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 256,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

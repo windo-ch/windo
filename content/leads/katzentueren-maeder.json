@@ -1,0 +1,19 @@
+{
+  "slug": "katzentueren-maeder",
+  "name": "Katzentueren Maeder",
+  "domain": "katzentueren-maeder.ch",
+  "businessType": "Bedachungen",
+  "year": 2024,
+  "email": "maeder26@bluewin.ch",
+  "phone": "+413590412267",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "impexbauhandel",
+  "name": "Impexbauhandel",
+  "domain": "impexbauhandel.ch",
+  "businessType": "Immobilien",
+  "year": 2019,
+  "email": "impexbauhandel@bluewin.ch",
+  "phone": "+4128639548",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 222,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

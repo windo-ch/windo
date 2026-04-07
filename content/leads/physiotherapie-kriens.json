@@ -1,0 +1,19 @@
+{
+  "slug": "physiotherapie-kriens",
+  "name": "Physiotherapie Kriens",
+  "domain": "physiotherapie-kriens.ch",
+  "businessType": "Physiotherapie",
+  "year": 2025,
+  "email": "katja.schaetzle@physio-hin.ch",
+  "phone": "+4161660120",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 278,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

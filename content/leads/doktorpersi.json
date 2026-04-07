@@ -1,0 +1,19 @@
+{
+  "slug": "doktorpersi",
+  "name": "Doktorpersi",
+  "domain": "doktorpersi.ch",
+  "businessType": "Zahnarzt",
+  "year": 2019,
+  "email": "info@doktorpersi.ch",
+  "phone": "+4146445249",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 217,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

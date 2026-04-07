@@ -1,0 +1,19 @@
+{
+  "slug": "gurtner-bau",
+  "name": "Gurtner Bau",
+  "domain": "gurtner-bau.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "info@gurtner-bau.ch",
+  "phone": "+4180099699",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

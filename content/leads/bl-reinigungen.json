@@ -1,0 +1,19 @@
+{
+  "slug": "bl-reinigungen",
+  "name": "Bl Reinigungen",
+  "domain": "bl-reinigungen.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "info@bl-reinigungen.ch",
+  "phone": "+4166666027",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 230,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

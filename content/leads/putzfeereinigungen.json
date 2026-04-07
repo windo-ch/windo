@@ -1,0 +1,19 @@
+{
+  "slug": "putzfeereinigungen",
+  "name": "Putzfeereinigungen",
+  "domain": "putzfeereinigungen.ch",
+  "businessType": "Reinigung",
+  "year": 2022,
+  "email": "m_kputzfee@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 301,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

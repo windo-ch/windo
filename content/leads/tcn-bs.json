@@ -1,0 +1,19 @@
+{
+  "slug": "tcn-bs",
+  "name": "Tcn Bs",
+  "domain": "tcn-bs.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2023,
+  "email": "info@tcn-bs.ch, therapiecenterneubad@hin.physio",
+  "phone": "+4108962358, +4196648930",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 392,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

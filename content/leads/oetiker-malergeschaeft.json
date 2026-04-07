@@ -1,0 +1,19 @@
+{
+  "slug": "oetiker-malergeschaeft",
+  "name": "Oetiker Malergeschaeft",
+  "domain": "oetiker-malergeschaeft.ch",
+  "businessType": "Maler",
+  "year": 2018,
+  "email": "info@gebr-oetiker.ch",
+  "phone": "+4153953166",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 283,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

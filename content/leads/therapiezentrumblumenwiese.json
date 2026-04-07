@@ -1,0 +1,19 @@
+{
+  "slug": "therapiezentrumblumenwiese",
+  "name": "Therapiezentrumblumenwiese",
+  "domain": "therapiezentrumblumenwiese.ch",
+  "businessType": "Florist",
+  "year": 2023,
+  "email": "physio-blumenwiese@physio-hin.ch, physio-blumenwiese@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

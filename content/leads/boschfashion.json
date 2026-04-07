@@ -1,0 +1,19 @@
+{
+  "slug": "boschfashion",
+  "name": "Boschfashion",
+  "domain": "boschfashion.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "boschfashion@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 274,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "winteler-bedachungen",
+  "name": "Winteler Bedachungen",
+  "domain": "winteler-bedachungen.ch",
+  "businessType": "Bedachungen",
+  "year": 2023,
+  "email": "info@winteler-bedachungen.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 256,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

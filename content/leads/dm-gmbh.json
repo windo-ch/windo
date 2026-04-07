@@ -1,0 +1,19 @@
+{
+  "slug": "dm-gmbh",
+  "name": "Dm GmbH",
+  "domain": "dm-gmbh.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2022,
+  "email": "dm.gmbh@glattnet.ch",
+  "phone": "+4118670907",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 228,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

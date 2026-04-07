@@ -1,0 +1,19 @@
+{
+  "slug": "lapiazza",
+  "name": "Lapiazza",
+  "domain": "lapiazza.ch",
+  "businessType": "Restaurant",
+  "year": 2022,
+  "email": "info@lapiazza.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

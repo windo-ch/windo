@@ -1,0 +1,19 @@
+{
+  "slug": "kleintierpraxiskloten",
+  "name": "Kleintierpraxiskloten",
+  "domain": "kleintierpraxiskloten.ch",
+  "businessType": "Tierarzt",
+  "year": 2023,
+  "email": "info@kleintierpraxiskloten.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 241,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

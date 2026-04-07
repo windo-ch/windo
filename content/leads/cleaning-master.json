@@ -1,0 +1,19 @@
+{
+  "slug": "cleaning-master",
+  "name": "Cleaning Master",
+  "domain": "cleaning-master.ch",
+  "businessType": "Reinigung",
+  "year": 2025,
+  "email": "932info@cleaning-master.ch, info@cleaning-master.ch",
+  "phone": "+410116597014, +414195804195, +410029149253",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 238,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

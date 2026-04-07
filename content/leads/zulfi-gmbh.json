@@ -1,0 +1,19 @@
+{
+  "slug": "zulfi-gmbh",
+  "name": "Zulfi GmbH",
+  "domain": "zulfi-gmbh.ch",
+  "businessType": "Gipser",
+  "year": 2024,
+  "email": "info@zulfigmbh.ch",
+  "phone": "+4171911584",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 225,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

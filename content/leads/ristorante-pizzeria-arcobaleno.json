@@ -1,0 +1,19 @@
+{
+  "slug": "ristorante-pizzeria-arcobaleno",
+  "name": "Ristorante Pizzeria Arcobaleno",
+  "domain": "ristorante-pizzeria-arcobaleno.ch",
+  "businessType": "Restaurant",
+  "year": 2018,
+  "email": "giacomoverardo1@hotmail.com, giuseppe.fanciullo@yahoo.de",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 246,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

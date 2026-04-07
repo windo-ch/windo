@@ -1,0 +1,19 @@
+{
+  "slug": "baumgartner-fahrschule",
+  "name": "Baumgartner Fahrschule",
+  "domain": "baumgartner-fahrschule.ch",
+  "businessType": "Fahrschule",
+  "year": 2025,
+  "email": "m.baumgartner.fahrschule@bluewin.ch",
+  "phone": "+4108373843",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 238,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

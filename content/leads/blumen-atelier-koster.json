@@ -1,0 +1,19 @@
+{
+  "slug": "blumen-atelier-koster",
+  "name": "Blumen Atelier Koster",
+  "domain": "blumen-atelier-koster.ch",
+  "businessType": "Florist",
+  "year": 2024,
+  "email": "blumenatelier@hispeed.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 429,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "adliswil-restaurantlinde",
+  "name": "Adliswil Restaurantlinde",
+  "domain": "adliswil-restaurantlinde.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "linde8134@gmail.com",
+  "phone": "+410125660471",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 286,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

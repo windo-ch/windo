@@ -1,0 +1,19 @@
+{
+  "slug": "roessli-mattstetten",
+  "name": "Roessli Mattstetten",
+  "domain": "roessli-mattstetten.ch",
+  "businessType": "Restaurant",
+  "year": 2024,
+  "email": "roessli-mattstetten@bluewin.ch",
+  "phone": "+4193470478, +419788687777",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 212,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

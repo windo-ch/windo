@@ -1,0 +1,19 @@
+{
+  "slug": "gwenkosmetikwettingen",
+  "name": "Gwenkosmetikwettingen",
+  "domain": "gwenkosmetikwettingen.ch",
+  "businessType": "Kosmetik",
+  "year": 2023,
+  "email": "gwengullotta@outlook.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 340,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

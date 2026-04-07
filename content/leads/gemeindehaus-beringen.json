@@ -1,0 +1,19 @@
+{
+  "slug": "gemeindehaus-beringen",
+  "name": "Gemeindehaus Beringen",
+  "domain": "gemeindehaus-beringen.ch",
+  "businessType": "Restaurant",
+  "year": 2017,
+  "email": "info@gemeindehaus-beringen.ch",
+  "phone": "+4106892010",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 280,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

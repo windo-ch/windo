@@ -1,0 +1,19 @@
+{
+  "slug": "vogelsang-holzbau",
+  "name": "Vogelsang Holzbau",
+  "domain": "vogelsang-holzbau.ch",
+  "businessType": "Schreinerei",
+  "year": 2024,
+  "email": "info@vogelsang-holzbau.ch, monika@vogelsang-holzbau.ch",
+  "phone": "+4147630915",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 189,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

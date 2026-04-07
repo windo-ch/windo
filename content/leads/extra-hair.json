@@ -1,0 +1,19 @@
+{
+  "slug": "extra-hair",
+  "name": "Extra Hair",
+  "domain": "extra-hair.ch",
+  "businessType": "Coiffeur",
+  "year": 2022,
+  "email": "s.salamone-hair@outlook.de",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 298,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

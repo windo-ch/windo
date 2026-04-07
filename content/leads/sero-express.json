@@ -1,0 +1,19 @@
+{
+  "slug": "sero-express",
+  "name": "Sero Express",
+  "domain": "sero-express.ch",
+  "businessType": "Reinigung",
+  "year": 2020,
+  "email": "info@seroexpress.ch",
+  "phone": "+4199360324",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 276,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

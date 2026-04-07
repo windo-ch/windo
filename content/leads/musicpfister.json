@@ -1,0 +1,19 @@
+{
+  "slug": "musicpfister",
+  "name": "Musicpfister",
+  "domain": "musicpfister.ch",
+  "businessType": "Sonstige",
+  "year": 2017,
+  "email": "info@musicpfister.ch",
+  "phone": "+4128355756",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 361,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hairdesign-wil",
+  "name": "Hairdesign Wil",
+  "domain": "hairdesign-wil.ch",
+  "businessType": "Coiffeur",
+  "year": 2020,
+  "email": "rabea.allenspach@gmail.com, RABEA.ALLENSPACH@GMAIL.COM",
+  "phone": "+4102956485",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 290,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

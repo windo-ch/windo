@@ -1,0 +1,19 @@
+{
+  "slug": "obag-gr",
+  "name": "Obag Gr",
+  "domain": "obag-gr.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2022,
+  "email": "chur@obag-gr.ch, pontresina@obag-gr.ch, scuol@obag-gr.ch",
+  "phone": "+4105822309",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 268,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

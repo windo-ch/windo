@@ -1,0 +1,19 @@
+{
+  "slug": "accountingtaxpoint",
+  "name": "Accountingtaxpoint",
+  "domain": "accountingtaxpoint.ch",
+  "businessType": "Treuhand",
+  "year": 2024,
+  "email": "info@accountingtaxpoint.ch",
+  "phone": "+4110931699",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 336,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

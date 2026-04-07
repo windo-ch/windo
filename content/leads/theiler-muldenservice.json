@@ -1,0 +1,19 @@
+{
+  "slug": "theiler-muldenservice",
+  "name": "Theiler Muldenservice",
+  "domain": "theiler-muldenservice.ch",
+  "businessType": "Sonstige",
+  "year": 2019,
+  "email": "urs.theiler@webforce.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 234,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

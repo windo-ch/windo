@@ -1,0 +1,19 @@
+{
+  "slug": "hotel-selva",
+  "name": "Hotel Selva",
+  "domain": "hotel-selva.ch",
+  "businessType": "Hotel",
+  "year": 2024,
+  "email": "info@hotel-selva.ch",
+  "phone": "+4105256946",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 309,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

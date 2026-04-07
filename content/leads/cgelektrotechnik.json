@@ -1,0 +1,19 @@
+{
+  "slug": "cgelektrotechnik",
+  "name": "Cgelektrotechnik",
+  "domain": "cgelektrotechnik.ch",
+  "businessType": "Elektro",
+  "year": 2024,
+  "email": "cg-elektrotechnik@sunrise.ch",
+  "phone": "+418006650473",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 232,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

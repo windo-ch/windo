@@ -1,0 +1,19 @@
+{
+  "slug": "markus-kehl",
+  "name": "Markus Kehl",
+  "domain": "markus-kehl.ch",
+  "businessType": "Gipser",
+  "year": 2020,
+  "email": "markus-kehl@gmx.ch",
+  "phone": "+4161413094",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 251,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

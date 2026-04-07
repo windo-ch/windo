@@ -1,0 +1,19 @@
+{
+  "slug": "saligmbh",
+  "name": "Saligmbh",
+  "domain": "saligmbh.ch",
+  "businessType": "Gartenbau",
+  "year": 2019,
+  "email": "sali.gmbh@bluewin.ch",
+  "phone": "+4163107708",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

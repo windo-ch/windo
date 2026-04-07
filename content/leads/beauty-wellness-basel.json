@@ -1,0 +1,19 @@
+{
+  "slug": "beauty-wellness-basel",
+  "name": "Beauty Wellness Basel",
+  "domain": "beauty-wellness-basel.ch",
+  "businessType": "Kosmetik",
+  "year": 2020,
+  "email": "rubeliajnunez@hotmail.com",
+  "phone": "+4128751570",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 276,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

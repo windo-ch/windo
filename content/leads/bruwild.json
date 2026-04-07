@@ -1,0 +1,19 @@
+{
+  "slug": "bruwild",
+  "name": "Bruwild",
+  "domain": "bruwild.ch",
+  "businessType": "Schreinerei",
+  "year": 2023,
+  "email": "info@bruwild.ch",
+  "phone": "+415049932865",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 215,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

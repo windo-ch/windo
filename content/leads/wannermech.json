@@ -1,0 +1,19 @@
+{
+  "slug": "wannermech",
+  "name": "Wannermech",
+  "domain": "wannermech.ch",
+  "businessType": "Schlosserei",
+  "year": 2020,
+  "email": "info@wannermech.ch",
+  "phone": "+410645842298, +4182877646",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 274,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

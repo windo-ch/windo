@@ -1,0 +1,19 @@
+{
+  "slug": "cerenaylittlekitchen",
+  "name": "Cerenaylittlekitchen",
+  "domain": "cerenaylittlekitchen.ch",
+  "businessType": "Restaurant",
+  "year": 2025,
+  "email": "info@littlekitchen.restaurant, info@sipscorner.com",
+  "phone": "+4156206663, +4133065772, +4133180670",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 222,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

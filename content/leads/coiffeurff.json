@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeurff",
+  "name": "Coiffeurff",
+  "domain": "coiffeurff.ch",
+  "businessType": "Coiffeur",
+  "year": 2018,
+  "email": "coiffeurff@outlook.com, kontakt@coiffeurff.ch",
+  "phone": "+4143443110",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 486,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

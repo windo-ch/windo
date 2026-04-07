@@ -1,0 +1,19 @@
+{
+  "slug": "gartenjoller",
+  "name": "Gartenjoller",
+  "domain": "gartenjoller.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "info@gartenjoller.ch",
+  "phone": "+4179377884",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 272,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

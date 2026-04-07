@@ -1,0 +1,19 @@
+{
+  "slug": "restaurantlaposte",
+  "name": "Restaurantlaposte",
+  "domain": "restaurantlaposte.ch",
+  "businessType": "Restaurant",
+  "year": 2018,
+  "email": "info@restaurantlaposte.ch",
+  "phone": "+416494581049, +416494581356, +416494582608",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 2967,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

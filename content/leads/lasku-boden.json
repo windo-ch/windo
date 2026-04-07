@@ -1,0 +1,19 @@
+{
+  "slug": "lasku-boden",
+  "name": "Lasku Boden",
+  "domain": "lasku-boden.ch",
+  "businessType": "Bodenbeläge",
+  "year": 2023,
+  "email": "info@lasku-boden.ch",
+  "phone": "+412873633932",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 183,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

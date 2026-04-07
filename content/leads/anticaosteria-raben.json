@@ -1,0 +1,19 @@
+{
+  "slug": "anticaosteria-raben",
+  "name": "Anticaosteria Raben",
+  "domain": "anticaosteria-raben.ch",
+  "businessType": "Restaurant",
+  "year": 2021,
+  "email": "info@anticaosteria-raben.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 238,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

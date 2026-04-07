@@ -1,0 +1,19 @@
+{
+  "slug": "orientteppich-grau",
+  "name": "Orientteppich Grau",
+  "domain": "orientteppich-grau.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "info@orientteppich-grau.ch",
+  "phone": "+4167159605",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 244,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "geiger-wellness",
+  "name": "Geiger Wellness",
+  "domain": "geiger-wellness.ch",
+  "businessType": "Wellness / Massage",
+  "year": 2018,
+  "email": "geiger-wellness@gmx.ch",
+  "phone": "+410796534027",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 4378,
+    "slowLoad": true
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

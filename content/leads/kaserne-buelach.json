@@ -1,0 +1,19 @@
+{
+  "slug": "kaserne-buelach",
+  "name": "Kaserne Buelach",
+  "domain": "kaserne-buelach.ch",
+  "businessType": "Restaurant",
+  "year": 2018,
+  "email": "info@kaserne-buelach.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 278,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

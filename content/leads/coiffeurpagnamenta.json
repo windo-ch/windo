@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeurpagnamenta",
+  "name": "Coiffeurpagnamenta",
+  "domain": "coiffeurpagnamenta.ch",
+  "businessType": "Coiffeur",
+  "year": 2024,
+  "email": "coiffeurpagnamenta@gmail.com",
+  "phone": "+4184139684",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 266,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

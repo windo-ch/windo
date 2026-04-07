@@ -1,0 +1,19 @@
+{
+  "slug": "retas",
+  "name": "Retas",
+  "domain": "retas.ch",
+  "businessType": "Elektro",
+  "year": 2022,
+  "email": "a.aebischer@retas.ch, info@fotografie.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 218,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

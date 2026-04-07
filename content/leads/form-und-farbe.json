@@ -1,0 +1,19 @@
+{
+  "slug": "form-und-farbe",
+  "name": "Form Und Farbe",
+  "domain": "form-und-farbe.ch",
+  "businessType": "Sonstige",
+  "year": 2019,
+  "email": "info@form-und-farbe.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 243,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

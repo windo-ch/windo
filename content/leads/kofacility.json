@@ -1,0 +1,19 @@
+{
+  "slug": "kofacility",
+  "name": "Kofacility",
+  "domain": "kofacility.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "info@kofacility.ch",
+  "phone": "+4196198980",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 244,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

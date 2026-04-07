@@ -1,0 +1,19 @@
+{
+  "slug": "pferdeklinikmoosweid",
+  "name": "Pferdeklinikmoosweid",
+  "domain": "pferdeklinikmoosweid.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2024,
+  "email": "info@pferdeklinikmoosweid.ch",
+  "phone": "+417475536611",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 278,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

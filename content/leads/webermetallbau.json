@@ -1,0 +1,19 @@
+{
+  "slug": "webermetallbau",
+  "name": "Webermetallbau",
+  "domain": "webermetallbau.ch",
+  "businessType": "Metallbau",
+  "year": 2021,
+  "email": "INFO@WEBERMETALLBAU.CH, info@webermetallbau.ch",
+  "phone": "+4163717303",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 244,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

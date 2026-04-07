@@ -1,0 +1,19 @@
+{
+  "slug": "vsaadorf",
+  "name": "Vsaadorf",
+  "domain": "vsaadorf.ch",
+  "businessType": "Elektro",
+  "year": 2018,
+  "email": "jungschuetzen@vsaadorf.ch, pas.zbinden@bluewin.ch",
+  "phone": "+410520251308, +410600836587",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 5959,
+    "slowLoad": true
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "zahnarzt-jaksic",
+  "name": "Zahnarzt Jaksic",
+  "domain": "zahnarzt-jaksic.ch",
+  "businessType": "Zahnarzt",
+  "year": 2019,
+  "email": "zahnarzt-jaksic@sso-hin.ch, zahnarztjaksic@hotmail.com, info@zahnarzt-jaksic.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 225,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

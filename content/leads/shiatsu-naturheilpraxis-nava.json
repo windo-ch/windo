@@ -1,0 +1,19 @@
+{
+  "slug": "shiatsu-naturheilpraxis-nava",
+  "name": "Shiatsu Naturheilpraxis Nava",
+  "domain": "shiatsu-naturheilpraxis-nava.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2023,
+  "email": "limachernava@hotmail.com",
+  "phone": "+4128607599",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 272,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "islacucina",
+  "name": "Islacucina",
+  "domain": "islacucina.ch",
+  "businessType": "Restaurant",
+  "year": 2024,
+  "email": "islacucina@gmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 248,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

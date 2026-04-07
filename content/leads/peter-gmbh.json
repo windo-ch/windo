@@ -1,0 +1,19 @@
+{
+  "slug": "peter-gmbh",
+  "name": "Peter GmbH",
+  "domain": "peter-gmbh.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2023,
+  "email": "info@peter-gmbh.ch",
+  "phone": "+410299910924",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 299,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

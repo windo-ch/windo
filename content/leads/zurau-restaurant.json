@@ -1,0 +1,19 @@
+{
+  "slug": "zurau-restaurant",
+  "name": "Zurau Restaurant",
+  "domain": "zurau-restaurant.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "zur.au56restaurant@gmail.com",
+  "phone": "+4132346568",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 247,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

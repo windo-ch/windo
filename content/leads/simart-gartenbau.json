@@ -1,0 +1,19 @@
+{
+  "slug": "simart-gartenbau",
+  "name": "Simart Gartenbau",
+  "domain": "simart-gartenbau.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "info@simart-gartenbau.ch",
+  "phone": "+412638900874",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 258,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

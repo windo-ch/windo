@@ -1,0 +1,19 @@
+{
+  "slug": "schlossmatt-garageag",
+  "name": "Schlossmatt Garageag",
+  "domain": "schlossmatt-garageag.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2023,
+  "email": "info@schlossmatt-garageag.ch, schlossmatt-garageag@bluewin.ch",
+  "phone": "+4126475698",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 279,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

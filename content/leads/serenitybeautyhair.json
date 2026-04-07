@@ -1,0 +1,19 @@
+{
+  "slug": "serenitybeautyhair",
+  "name": "Serenitybeautyhair",
+  "domain": "serenitybeautyhair.ch",
+  "businessType": "Kosmetik",
+  "year": 2023,
+  "email": "serenitysayar@gmail.com",
+  "phone": "+411349390122",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 271,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

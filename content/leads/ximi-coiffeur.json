@@ -1,0 +1,19 @@
+{
+  "slug": "ximi-coiffeur",
+  "name": "Ximi Coiffeur",
+  "domain": "ximi-coiffeur.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "arif_abazi@bluewin.ch",
+  "phone": "+414868277519",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 307,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-casa",
+  "name": "Coiffeur Casa",
+  "domain": "coiffeur-casa.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "haar@coiffeur-casa.ch",
+  "phone": "+412117740532",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 235,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "elektro4",
+  "name": "Elektro4",
+  "domain": "elektro4.ch",
+  "businessType": "Elektro",
+  "year": 2023,
+  "email": "info@elektro4.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

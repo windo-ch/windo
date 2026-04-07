@@ -1,0 +1,19 @@
+{
+  "slug": "haederli-und-frei",
+  "name": "Haederli Und Frei",
+  "domain": "haederli-und-frei.ch",
+  "businessType": "Bedachungen",
+  "year": 2017,
+  "email": "ernstfrei@gmx.net",
+  "phone": "+4146851133",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 244,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

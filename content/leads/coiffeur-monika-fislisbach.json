@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-monika-fislisbach",
+  "name": "Coiffeur Monika Fislisbach",
+  "domain": "coiffeur-monika-fislisbach.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "spring.monika@bluewin.ch",
+  "phone": "+4188252045",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 293,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

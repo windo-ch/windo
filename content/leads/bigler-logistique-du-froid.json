@@ -1,0 +1,19 @@
+{
+  "slug": "bigler-logistique-du-froid",
+  "name": "Bigler Logistique Du Froid",
+  "domain": "bigler-logistique-du-froid.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2024,
+  "email": "info@bigler-logistique-du-froid.ch",
+  "phone": "+416090270154",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 261,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

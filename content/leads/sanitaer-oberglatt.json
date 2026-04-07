@@ -1,0 +1,19 @@
+{
+  "slug": "sanitaer-oberglatt",
+  "name": "Sanitaer Oberglatt",
+  "domain": "sanitaer-oberglatt.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2017,
+  "email": "resmaag@bluewin.ch",
+  "phone": "+412542702276",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 256,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

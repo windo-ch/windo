@@ -1,0 +1,19 @@
+{
+  "slug": "nunoheizungsanitar",
+  "name": "Nunoheizungsanitar",
+  "domain": "nunoheizungsanitar.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2023,
+  "email": "nunoheizungsanitar@gmx.ch",
+  "phone": "+4198433639",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

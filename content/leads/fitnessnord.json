@@ -1,0 +1,19 @@
+{
+  "slug": "fitnessnord",
+  "name": "Fitnessnord",
+  "domain": "fitnessnord.ch",
+  "businessType": "Fitness / Sport",
+  "year": 2024,
+  "email": "info@fitnessnord.ch",
+  "phone": "+419960214564",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 330,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

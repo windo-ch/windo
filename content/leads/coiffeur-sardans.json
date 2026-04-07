@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-sardans",
+  "name": "Coiffeur Sardans",
+  "domain": "coiffeur-sardans.ch",
+  "businessType": "Coiffeur",
+  "year": 2025,
+  "email": "sandra.sardans@bluewin.ch",
+  "phone": "+4127275111, +416445837056, +4128981694",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 255,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

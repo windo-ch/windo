@@ -1,0 +1,19 @@
+{
+  "slug": "brustzentrumbasel",
+  "name": "Brustzentrumbasel",
+  "domain": "brustzentrumbasel.ch",
+  "businessType": "Gynäkologie",
+  "year": 2021,
+  "email": "brustzentrum@bethesda-spital.ch",
+  "phone": "+415406897690, +4144504271",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 270,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

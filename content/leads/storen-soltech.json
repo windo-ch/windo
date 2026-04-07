@@ -1,0 +1,19 @@
+{
+  "slug": "storen-soltech",
+  "name": "Storen Soltech",
+  "domain": "storen-soltech.ch",
+  "businessType": "Storen",
+  "year": 2017,
+  "email": "info@storen-soltech.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pratis-umbau",
+  "name": "Pratis Umbau",
+  "domain": "pratis-umbau.ch",
+  "businessType": "Gipser",
+  "year": 2024,
+  "email": "marco.pratissoli@bluewin.ch",
+  "phone": "+4185260667",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 466,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "teamgm",
+  "name": "Teamgm",
+  "domain": "teamgm.ch",
+  "businessType": "Gipser",
+  "year": 2022,
+  "email": "espresso66@gmail.com, teamgminfo@gmail.com",
+  "phone": "+4179628394",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 271,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

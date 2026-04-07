@@ -1,0 +1,19 @@
+{
+  "slug": "kita-rigi",
+  "name": "Kita Rigi",
+  "domain": "kita-rigi.ch",
+  "businessType": "Kinderbetreuung",
+  "year": 2019,
+  "email": "braunschmidt@braunschmidt.ch",
+  "phone": "+4129444355",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 246,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

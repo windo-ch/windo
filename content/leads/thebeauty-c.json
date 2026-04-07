@@ -1,0 +1,19 @@
+{
+  "slug": "thebeauty-c",
+  "name": "Thebeauty C",
+  "domain": "thebeauty-c.ch",
+  "businessType": "Kosmetik",
+  "year": 2023,
+  "email": "info@thebeauty-c.ch, j.cabraja89@gmail.com",
+  "phone": "+410643683293",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 356,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

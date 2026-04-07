@@ -1,0 +1,19 @@
+{
+  "slug": "salonhaircules",
+  "name": "Salonhaircules",
+  "domain": "salonhaircules.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2023,
+  "email": "salonhaircules.altdorf19@gmail.com",
+  "phone": "+4119661617",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 335,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

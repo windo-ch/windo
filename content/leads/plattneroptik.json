@@ -1,0 +1,19 @@
+{
+  "slug": "plattneroptik",
+  "name": "Plattneroptik",
+  "domain": "plattneroptik.ch",
+  "businessType": "Optiker",
+  "year": 2023,
+  "email": "info@plattneroptik.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 272,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "schreinerservice-haefeli",
+  "name": "Schreinerservice Haefeli",
+  "domain": "schreinerservice-haefeli.ch",
+  "businessType": "Schreinerei",
+  "year": 2017,
+  "email": "schreiner-haefeli@bluewin.ch",
+  "phone": "+4102470007",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 243,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

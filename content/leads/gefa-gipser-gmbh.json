@@ -1,0 +1,19 @@
+{
+  "slug": "gefa-gipser-gmbh",
+  "name": "Gefa Gipser GmbH",
+  "domain": "gefa-gipser-gmbh.ch",
+  "businessType": "Gipser",
+  "year": 2018,
+  "email": "info@gefa-gipser-gmbh.ch",
+  "phone": "+4150603599",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 185,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

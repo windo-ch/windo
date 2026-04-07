@@ -1,0 +1,19 @@
+{
+  "slug": "mountain-forest",
+  "name": "Mountain Forest",
+  "domain": "mountain-forest.ch",
+  "businessType": "Landmaschinen",
+  "year": 2017,
+  "email": "mountain-forest@gmx.ch",
+  "phone": "+4156196338",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 246,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

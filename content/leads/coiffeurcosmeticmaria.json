@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeurcosmeticmaria",
+  "name": "Coiffeurcosmeticmaria",
+  "domain": "coiffeurcosmeticmaria.ch",
+  "businessType": "Coiffeur",
+  "year": 2020,
+  "email": "mmano@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 225,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

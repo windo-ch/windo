@@ -1,0 +1,19 @@
+{
+  "slug": "vipcoiffeur",
+  "name": "Vipcoiffeur",
+  "domain": "vipcoiffeur.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "vip-coiffeur@hotmail.com",
+  "phone": "+414256906162, +414456998670, +4147944794",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

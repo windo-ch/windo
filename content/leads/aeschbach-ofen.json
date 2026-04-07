@@ -1,0 +1,19 @@
+{
+  "slug": "aeschbach-ofen",
+  "name": "Aeschbach Ofen",
+  "domain": "aeschbach-ofen.ch",
+  "businessType": "Plattenleger",
+  "year": 2020,
+  "email": "aeschbach.ofen@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 311,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

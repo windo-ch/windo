@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeurhuesi",
+  "name": "Coiffeurhuesi",
+  "domain": "coiffeurhuesi.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "judith.wenger67@icloud.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 233,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "maler-panzeri",
+  "name": "Maler Panzeri",
+  "domain": "maler-panzeri.ch",
+  "businessType": "Maler",
+  "year": 2018,
+  "email": "info@maler-panzeri.ch",
+  "phone": "+4122434312",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

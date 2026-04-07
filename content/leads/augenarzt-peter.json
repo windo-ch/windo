@@ -1,0 +1,19 @@
+{
+  "slug": "augenarzt-peter",
+  "name": "Augenarzt Peter",
+  "domain": "augenarzt-peter.ch",
+  "businessType": "Augenarzt",
+  "year": 2025,
+  "email": "augenarzt-peter@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 240,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

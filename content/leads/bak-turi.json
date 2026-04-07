@@ -1,0 +1,19 @@
+{
+  "slug": "bak-turi",
+  "name": "Bak Turi",
+  "domain": "bak-turi.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2018,
+  "email": "bak-turi@outlook.com",
+  "phone": "+4166314973",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 415,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

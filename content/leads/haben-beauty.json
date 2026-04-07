@@ -1,0 +1,19 @@
+{
+  "slug": "haben-beauty",
+  "name": "Haben Beauty",
+  "domain": "haben-beauty.ch",
+  "businessType": "Kosmetik",
+  "year": 2024,
+  "email": "haben.beauty@gmx.ch",
+  "phone": "+4144384235",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 224,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

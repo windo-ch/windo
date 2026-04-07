@@ -1,0 +1,19 @@
+{
+  "slug": "heizung-sanitaer-reinigung",
+  "name": "Heizung Sanitaer Reinigung",
+  "domain": "heizung-sanitaer-reinigung.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2023,
+  "email": "reto.egloff@bluewin.ch, danie.egloff@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 280,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

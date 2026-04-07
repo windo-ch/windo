@@ -1,0 +1,19 @@
+{
+  "slug": "homeandgardenservices",
+  "name": "Homeandgardenservices",
+  "domain": "homeandgardenservices.ch",
+  "businessType": "Immobilien",
+  "year": 2018,
+  "email": "info@homeandgardenservices.ch",
+  "phone": "+412233374943, +4115960785",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 398,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

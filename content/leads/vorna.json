@@ -1,0 +1,19 @@
+{
+  "slug": "vorna",
+  "name": "Vorna",
+  "domain": "vorna.ch",
+  "businessType": "Immobilien",
+  "year": 2018,
+  "email": "info@vorna.ch",
+  "phone": "+418085106788, +4119756027",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 353,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bierhuettli",
+  "name": "Bierhuettli",
+  "domain": "bierhuettli.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "ccaspar@gmx.net",
+  "phone": "+4175794250",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 264,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

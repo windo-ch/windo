@@ -1,0 +1,19 @@
+{
+  "slug": "ronywigert",
+  "name": "Ronywigert",
+  "domain": "ronywigert.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "info@ronywigert.ch",
+  "phone": "+4141163538",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 296,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rizzi-scuol",
+  "name": "Rizzi Scuol",
+  "domain": "rizzi-scuol.ch",
+  "businessType": "Plattenleger",
+  "year": 2018,
+  "email": "rizzi-ag@bluewin.ch",
+  "phone": "+4196096270",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 259,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

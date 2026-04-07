@@ -1,0 +1,19 @@
+{
+  "slug": "trisconiarchitettura",
+  "name": "Trisconiarchitettura",
+  "domain": "trisconiarchitettura.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2018,
+  "email": "studio.trisconi@bluewin.ch",
+  "phone": "+4135366935",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 273,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pianoza",
+  "name": "Pianoza",
+  "domain": "pianoza.ch",
+  "businessType": "Treuhand",
+  "year": 2023,
+  "email": "guehzahnd@bluewin.ch",
+  "phone": "+4175416502",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 240,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

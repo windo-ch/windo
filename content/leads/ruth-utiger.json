@@ -1,0 +1,19 @@
+{
+  "slug": "ruth-utiger",
+  "name": "Ruth Utiger",
+  "domain": "ruth-utiger.ch",
+  "businessType": "Sonstige",
+  "year": 2020,
+  "email": "geschaeft@ruth-utiger-herrenmode.ch, GESCHAEFT@RUTH-UTIGER-HERRENMODE.CH",
+  "phone": "+4141711087",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 327,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

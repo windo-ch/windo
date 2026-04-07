@@ -1,0 +1,19 @@
+{
+  "slug": "lainfini-dietikon",
+  "name": "Lainfini Dietikon",
+  "domain": "lainfini-dietikon.ch",
+  "businessType": "Physiotherapie",
+  "year": 2023,
+  "email": "la.infini@hotmail.com, dietikon@royalbeauty.me",
+  "phone": "+415747623243, +411249354884",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 266,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

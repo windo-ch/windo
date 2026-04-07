@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-pi-lounge-affoltern",
+  "name": "Fresh Pi Lounge Affoltern",
+  "domain": "fresh-pi-lounge-affoltern.ch",
+  "businessType": "Restaurant",
+  "year": 2022,
+  "email": "bestellung@freshpilounge.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 232,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

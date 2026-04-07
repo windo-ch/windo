@@ -1,0 +1,19 @@
+{
+  "slug": "varicor",
+  "name": "Varicor",
+  "domain": "varicor.ch",
+  "businessType": "Reinigung",
+  "year": 2026,
+  "email": "info@varicor.ch, info@meyer-systeme.ch",
+  "phone": "+4186105259",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 234,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

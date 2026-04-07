@@ -1,0 +1,19 @@
+{
+  "slug": "autotransport-gretener",
+  "name": "Autotransport Gretener",
+  "domain": "autotransport-gretener.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2022,
+  "email": "info@autotransport-gretener.ch",
+  "phone": "+4128637766",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 239,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

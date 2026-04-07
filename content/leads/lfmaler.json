@@ -1,0 +1,19 @@
+{
+  "slug": "lfmaler",
+  "name": "Lfmaler",
+  "domain": "lfmaler.ch",
+  "businessType": "Maler",
+  "year": 2025,
+  "email": "info@lfmaler.ch",
+  "phone": "+4127275111, +416445837056, +410116597014",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 255,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

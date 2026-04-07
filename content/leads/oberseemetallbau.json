@@ -1,0 +1,19 @@
+{
+  "slug": "oberseemetallbau",
+  "name": "Oberseemetallbau",
+  "domain": "oberseemetallbau.ch",
+  "businessType": "Metallbau",
+  "year": 2025,
+  "email": "met@llbau.ch",
+  "phone": "+4186105259",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 291,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

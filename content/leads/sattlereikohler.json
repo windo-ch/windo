@@ -1,0 +1,19 @@
+{
+  "slug": "sattlereikohler",
+  "name": "Sattlereikohler",
+  "domain": "sattlereikohler.ch",
+  "businessType": "Handwerk",
+  "year": 2018,
+  "email": "noemi.kohler@gmx.ch",
+  "phone": "+4171428570, +4183333333, +4171428571",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 2823,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

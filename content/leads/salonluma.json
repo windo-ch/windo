@@ -1,0 +1,19 @@
+{
+  "slug": "salonluma",
+  "name": "Salonluma",
+  "domain": "salonluma.ch",
+  "businessType": "Coiffeur",
+  "year": 2025,
+  "email": "info@salonluma.ch",
+  "phone": "+4127275111, +418148975791, +410116597014",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 375,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

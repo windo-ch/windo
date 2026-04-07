@@ -1,0 +1,19 @@
+{
+  "slug": "atc-garage",
+  "name": "Atc Garage",
+  "domain": "atc-garage.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2018,
+  "email": "office@atc-garage.ch",
+  "phone": "+4136347267",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 281,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

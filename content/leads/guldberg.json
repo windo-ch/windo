@@ -1,0 +1,19 @@
+{
+  "slug": "guldberg",
+  "name": "Guldberg",
+  "domain": "guldberg.ch",
+  "businessType": "Plattenleger",
+  "year": 2024,
+  "email": "info@guldberg.ch",
+  "phone": "+4142647230",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 268,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "costa-automobile",
+  "name": "Costa Automobile",
+  "domain": "costa-automobile.ch",
+  "businessType": "Autohandel",
+  "year": 2024,
+  "email": "info@costa-automobile.ch",
+  "phone": "+417986383499",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 271,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

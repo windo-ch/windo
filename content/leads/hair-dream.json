@@ -1,0 +1,19 @@
+{
+  "slug": "hair-dream",
+  "name": "Hair Dream",
+  "domain": "hair-dream.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2024,
+  "email": "info@hair-dream.ch",
+  "phone": "+4162852243",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 245,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "villiger-treuhand",
+  "name": "Villiger Treuhand",
+  "domain": "villiger-treuhand.ch",
+  "businessType": "Treuhand",
+  "year": 2023,
+  "email": "info@villiger-treuhand.ch",
+  "phone": "+415356685367",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 238,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

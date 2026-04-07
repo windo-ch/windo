@@ -1,0 +1,19 @@
+{
+  "slug": "hektreuhand",
+  "name": "Hektreuhand",
+  "domain": "hektreuhand.ch",
+  "businessType": "Treuhand",
+  "year": 2022,
+  "email": "hek@hektreuhand.ch, hekverwaltungen@hektreuhand.ch",
+  "phone": "+4120134318",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 464,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

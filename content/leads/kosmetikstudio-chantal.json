@@ -1,0 +1,19 @@
+{
+  "slug": "kosmetikstudio-chantal",
+  "name": "Kosmetikstudio Chantal",
+  "domain": "kosmetikstudio-chantal.ch",
+  "businessType": "Kosmetik",
+  "year": 2024,
+  "email": "kosmetik.chantal@icloud.com",
+  "phone": "+419810462168",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 200,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

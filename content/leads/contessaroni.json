@@ -1,0 +1,19 @@
+{
+  "slug": "contessaroni",
+  "name": "Contessaroni",
+  "domain": "contessaroni.ch",
+  "businessType": "Immobilien",
+  "year": 2023,
+  "email": "contessaroni@bluewin.ch, info@contessaroni.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 389,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

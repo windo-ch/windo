@@ -1,0 +1,19 @@
+{
+  "slug": "city-taxi-schaffhausen",
+  "name": "City Taxi Schaffhausen",
+  "domain": "city-taxi-schaffhausen.ch",
+  "businessType": "Taxi",
+  "year": 2019,
+  "email": "city-taxi.sh@gmx.net",
+  "phone": "+4196061471",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 415,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

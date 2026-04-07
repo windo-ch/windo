@@ -1,0 +1,19 @@
+{
+  "slug": "hotel-locanda",
+  "name": "Hotel Locanda",
+  "domain": "hotel-locanda.ch",
+  "businessType": "Hotel",
+  "year": 2023,
+  "email": "info@hotel-locanda.ch",
+  "phone": "+4184948141",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 369,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

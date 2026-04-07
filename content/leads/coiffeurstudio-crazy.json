@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeurstudio-crazy",
+  "name": "Coiffeurstudio Crazy",
+  "domain": "coiffeurstudio-crazy.ch",
+  "businessType": "Coiffeur",
+  "year": 2019,
+  "email": "g.gambale@hispeed.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 238,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "martinbanyai",
+  "name": "Martinbanyai",
+  "domain": "martinbanyai.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2021,
+  "email": "martin.banyai@hin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 307,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

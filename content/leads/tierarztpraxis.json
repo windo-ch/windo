@@ -1,0 +1,19 @@
+{
+  "slug": "tierarztpraxis",
+  "name": "Tierarztpraxis",
+  "domain": "tierarztpraxis.ch",
+  "businessType": "Tierarzt",
+  "year": 2023,
+  "email": "ihrkleintierarzt@gmail.com",
+  "phone": "+4136421335",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 266,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hairfashionfactory",
+  "name": "Hairfashionfactory",
+  "domain": "hairfashionfactory.ch",
+  "businessType": "Coiffeur",
+  "year": 2024,
+  "email": "dschwager@vtxfree.ch",
+  "phone": "+418555772737",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 278,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

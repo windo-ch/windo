@@ -1,0 +1,19 @@
+{
+  "slug": "kinesiologie-naegeli",
+  "name": "Kinesiologie Naegeli",
+  "domain": "kinesiologie-naegeli.ch",
+  "businessType": "Hotel",
+  "year": 2017,
+  "email": "roesli_naegeli@bluewin.ch",
+  "phone": "+4149001722",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 232,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

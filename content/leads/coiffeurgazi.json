@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeurgazi",
+  "name": "Coiffeurgazi",
+  "domain": "coiffeurgazi.ch",
+  "businessType": "Coiffeur",
+  "year": 2024,
+  "email": "coiffeur-gazi@hotmail.com",
+  "phone": "+4171911713",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 224,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

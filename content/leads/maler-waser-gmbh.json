@@ -1,0 +1,19 @@
+{
+  "slug": "maler-waser-gmbh",
+  "name": "Maler Waser GmbH",
+  "domain": "maler-waser-gmbh.ch",
+  "businessType": "Maler",
+  "year": 2021,
+  "email": "maler-waser-gmbh@bluewin.ch",
+  "phone": "+4149534937",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

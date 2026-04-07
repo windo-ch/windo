@@ -1,0 +1,19 @@
+{
+  "slug": "klausschoenheinzfotograf",
+  "name": "Klausschoenheinzfotograf",
+  "domain": "klausschoenheinzfotograf.ch",
+  "businessType": "Fotografie",
+  "year": 2018,
+  "email": "klausschoenheinz@greenmail.ch",
+  "phone": "+412233374943, +4115960785, +4111521480",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 385,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

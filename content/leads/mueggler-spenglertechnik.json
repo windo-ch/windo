@@ -1,0 +1,19 @@
+{
+  "slug": "mueggler-spenglertechnik",
+  "name": "Mueggler Spenglertechnik",
+  "domain": "mueggler-spenglertechnik.ch",
+  "businessType": "Bedachungen",
+  "year": 2023,
+  "email": "info@mueggler-spenglertechnik.ch, spengler@mueggler.ch",
+  "phone": "+4173032479",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 259,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

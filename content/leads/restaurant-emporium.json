@@ -1,0 +1,19 @@
+{
+  "slug": "restaurant-emporium",
+  "name": "Restaurant Emporium",
+  "domain": "restaurant-emporium.ch",
+  "businessType": "Restaurant",
+  "year": 2024,
+  "email": "restaurant.emporium2023@gmail.com",
+  "phone": "+416016627385",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 284,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

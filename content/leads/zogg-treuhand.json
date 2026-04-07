@@ -1,0 +1,19 @@
+{
+  "slug": "zogg-treuhand",
+  "name": "Zogg Treuhand",
+  "domain": "zogg-treuhand.ch",
+  "businessType": "Treuhand",
+  "year": 2019,
+  "email": "info@zogg-treuhand.ch, nfo@zogg-treuhand.ch",
+  "phone": "+4174285196, +4171932108",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 237,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dl-service",
+  "name": "Dl Service",
+  "domain": "dl-service.ch",
+  "businessType": "Gartenbau",
+  "year": 2022,
+  "email": "mail@dl-service.ch",
+  "phone": "+412542992022",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 313,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

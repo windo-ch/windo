@@ -1,0 +1,19 @@
+{
+  "slug": "elektrokontrollen",
+  "name": "Elektrokontrollen",
+  "domain": "elektrokontrollen.ch",
+  "businessType": "Elektro",
+  "year": 2024,
+  "email": "info@elektrokontrollen.ch",
+  "phone": "+4189607401",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 244,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

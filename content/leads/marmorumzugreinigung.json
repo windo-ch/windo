@@ -1,0 +1,19 @@
+{
+  "slug": "marmorumzugreinigung",
+  "name": "Marmorumzugreinigung",
+  "domain": "marmorumzugreinigung.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2024,
+  "email": "info@marmortransport.ch",
+  "phone": "+4173643219",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

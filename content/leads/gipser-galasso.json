@@ -1,0 +1,19 @@
+{
+  "slug": "gipser-galasso",
+  "name": "Gipser Galasso",
+  "domain": "gipser-galasso.ch",
+  "businessType": "Gipser",
+  "year": 2020,
+  "email": "info@gipser-galasso.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 367,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "demiri-bau",
+  "name": "Demiri Bau",
+  "domain": "demiri-bau.ch",
+  "businessType": "Gartenbau",
+  "year": 2022,
+  "email": "info@demiri-bau.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 242,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

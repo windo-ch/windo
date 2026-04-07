@@ -1,0 +1,19 @@
+{
+  "slug": "zuerichsee-automobile",
+  "name": "Zuerichsee Automobile",
+  "domain": "zuerichsee-automobile.ch",
+  "businessType": "Autohandel",
+  "year": 2023,
+  "email": "info@zuerichsee-automobile.ch",
+  "phone": "+4172308780",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

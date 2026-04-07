@@ -1,0 +1,19 @@
+{
+  "slug": "norm-bau-bohr",
+  "name": "Norm Bau Bohr",
+  "domain": "norm-bau-bohr.ch",
+  "businessType": "Tanzschule",
+  "year": 2021,
+  "email": "office-normbau.bohr@mail.ch",
+  "phone": "+4129652166",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 354,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

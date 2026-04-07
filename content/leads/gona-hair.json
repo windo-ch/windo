@@ -1,0 +1,19 @@
+{
+  "slug": "gona-hair",
+  "name": "Gona Hair",
+  "domain": "gona-hair.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "gona.hairbeauty@gmail.com",
+  "phone": "+413868327816",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 256,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

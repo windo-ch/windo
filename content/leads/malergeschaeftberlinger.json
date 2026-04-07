@@ -1,0 +1,19 @@
+{
+  "slug": "malergeschaeftberlinger",
+  "name": "Malergeschaeftberlinger",
+  "domain": "malergeschaeftberlinger.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "malerberlinger@bluewin.ch",
+  "phone": "+4130154404",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 269,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

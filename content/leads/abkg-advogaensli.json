@@ -1,0 +1,19 @@
+{
+  "slug": "abkg-advogaensli",
+  "name": "Abkg Advogaensli",
+  "domain": "abkg-advogaensli.ch",
+  "businessType": "Anwalt",
+  "year": 2023,
+  "email": "advogaensli@bluewin.ch",
+  "phone": "+411226092013",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 317,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

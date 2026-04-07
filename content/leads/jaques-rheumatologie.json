@@ -1,0 +1,19 @@
+{
+  "slug": "jaques-rheumatologie",
+  "name": "Jaques Rheumatologie",
+  "domain": "jaques-rheumatologie.ch",
+  "businessType": "Rheumatologie",
+  "year": 2017,
+  "email": "manueljaques@hin.ch, marta.urukalo@hin.ch",
+  "phone": "+4170405307",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 214,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

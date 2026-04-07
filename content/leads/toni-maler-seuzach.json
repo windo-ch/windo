@@ -1,0 +1,19 @@
+{
+  "slug": "toni-maler-seuzach",
+  "name": "Toni Maler Seuzach",
+  "domain": "toni-maler-seuzach.ch",
+  "businessType": "Maler",
+  "year": 2025,
+  "email": "info@tonifrangella.ch",
+  "phone": "+4106256087",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 298,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

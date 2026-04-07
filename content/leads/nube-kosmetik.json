@@ -1,0 +1,19 @@
+{
+  "slug": "nube-kosmetik",
+  "name": "Nube Kosmetik",
+  "domain": "nube-kosmetik.ch",
+  "businessType": "Kosmetik",
+  "year": 2024,
+  "email": "info@nube-kosmetik.ch",
+  "phone": "+4111749269",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 291,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

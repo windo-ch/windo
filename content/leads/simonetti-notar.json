@@ -1,0 +1,19 @@
+{
+  "slug": "simonetti-notar",
+  "name": "Simonetti Notar",
+  "domain": "simonetti-notar.ch",
+  "businessType": "Notar",
+  "year": 2023,
+  "email": "bernhard.simonetti@notariat-simonetti.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 349,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

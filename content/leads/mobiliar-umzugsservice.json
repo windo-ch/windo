@@ -1,0 +1,19 @@
+{
+  "slug": "mobiliar-umzugsservice",
+  "name": "Mobiliar Umzugsservice",
+  "domain": "mobiliar-umzugsservice.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2022,
+  "email": "info@mobiliarumzugsservice.ch",
+  "phone": "+4133612558",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 218,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

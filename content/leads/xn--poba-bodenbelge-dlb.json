@@ -1,0 +1,19 @@
+{
+  "slug": "xn--poba-bodenbelge-dlb",
+  "name": "Xn  Poba Bodenbelge Dlb",
+  "domain": "xn--poba-bodenbelge-dlb.ch",
+  "businessType": "Bodenbeläge",
+  "year": 2019,
+  "email": "poba.bodenbelaege@gmx.ch",
+  "phone": "+4126635441, +4128768654",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 2287,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

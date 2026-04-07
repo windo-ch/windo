@@ -1,0 +1,19 @@
+{
+  "slug": "vishi-reinigungen",
+  "name": "Vishi Reinigungen",
+  "domain": "vishi-reinigungen.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "info@vishi-reinigungen.ch",
+  "phone": "+419762290088",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 208,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

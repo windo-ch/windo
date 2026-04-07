@@ -1,0 +1,19 @@
+{
+  "slug": "kamber-martin",
+  "name": "Kamber Martin",
+  "domain": "kamber-martin.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2023,
+  "email": "info@kamber-martin.ch",
+  "phone": "+4155296840",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 215,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

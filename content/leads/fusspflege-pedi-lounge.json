@@ -1,0 +1,19 @@
+{
+  "slug": "fusspflege-pedi-lounge",
+  "name": "Fusspflege Pedi Lounge",
+  "domain": "fusspflege-pedi-lounge.ch",
+  "businessType": "Kosmetik",
+  "year": 2018,
+  "email": "info@pedi-lounge.ch",
+  "phone": "+4111941301",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 288,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

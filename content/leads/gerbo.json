@@ -1,0 +1,19 @@
+{
+  "slug": "gerbo",
+  "name": "Gerbo",
+  "domain": "gerbo.ch",
+  "businessType": "Handwerk",
+  "year": 2024,
+  "email": "info@gerbo.ch",
+  "phone": "+419270615988",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 208,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

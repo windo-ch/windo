@@ -1,0 +1,19 @@
+{
+  "slug": "malereirb",
+  "name": "Malereirb",
+  "domain": "malereirb.ch",
+  "businessType": "Gipser",
+  "year": 2018,
+  "email": "info@malereirb.ch",
+  "phone": "+4176441202",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 2442,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

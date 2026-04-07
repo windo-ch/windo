@@ -1,0 +1,19 @@
+{
+  "slug": "maler-zollinger",
+  "name": "Maler Zollinger",
+  "domain": "maler-zollinger.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "info@maler-zollinger.ch",
+  "phone": "+4183884641",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 224,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

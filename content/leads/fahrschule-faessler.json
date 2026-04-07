@@ -1,0 +1,19 @@
+{
+  "slug": "fahrschule-faessler",
+  "name": "Fahrschule Faessler",
+  "domain": "fahrschule-faessler.ch",
+  "businessType": "Fahrschule",
+  "year": 2020,
+  "email": "info@fahrschule-faessler.ch",
+  "phone": "+4109605116",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 294,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

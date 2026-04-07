@@ -1,0 +1,19 @@
+{
+  "slug": "miroumzugundtransport",
+  "name": "Miroumzugundtransport",
+  "domain": "miroumzugundtransport.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2018,
+  "email": "miroumzug@gmail.com",
+  "phone": "+4147944794",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 263,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

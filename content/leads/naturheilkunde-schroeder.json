@@ -1,0 +1,19 @@
+{
+  "slug": "naturheilkunde-schroeder",
+  "name": "Naturheilkunde Schroeder",
+  "domain": "naturheilkunde-schroeder.ch",
+  "businessType": "Naturheilkunde",
+  "year": 2017,
+  "email": "j.schroeder@sunrise.ch",
+  "phone": "+4175252470",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 297,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

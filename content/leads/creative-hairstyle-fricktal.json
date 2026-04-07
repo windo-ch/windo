@@ -1,0 +1,19 @@
+{
+  "slug": "creative-hairstyle-fricktal",
+  "name": "Creative Hairstyle Fricktal",
+  "domain": "creative-hairstyle-fricktal.ch",
+  "businessType": "Coiffeur",
+  "year": 2021,
+  "email": "creative-hairstyle@outlook.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 240,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

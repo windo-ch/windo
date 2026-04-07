@@ -1,0 +1,19 @@
+{
+  "slug": "reins-reinigung",
+  "name": "Reins Reinigung",
+  "domain": "reins-reinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "thomasrein@bluewin.ch",
+  "phone": "+4174948196",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 290,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

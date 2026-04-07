@@ -1,0 +1,19 @@
+{
+  "slug": "lehmann-mechanik",
+  "name": "Lehmann Mechanik",
+  "domain": "lehmann-mechanik.ch",
+  "businessType": "Sonstige",
+  "year": 2020,
+  "email": "mechanik@lehmann-mechanik.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 245,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

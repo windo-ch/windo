@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-mery",
+  "name": "Coiffeur Mery",
+  "domain": "coiffeur-mery.ch",
+  "businessType": "Coiffeur",
+  "year": 2018,
+  "email": "mussarimaria@icloud.com",
+  "phone": "+4197308951",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 204,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

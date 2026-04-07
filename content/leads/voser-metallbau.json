@@ -1,0 +1,19 @@
+{
+  "slug": "voser-metallbau",
+  "name": "Voser Metallbau",
+  "domain": "voser-metallbau.ch",
+  "businessType": "Metallbau",
+  "year": 2024,
+  "email": "info@voser-metallbau.ch",
+  "phone": "+419210581252",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 175,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

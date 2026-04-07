@@ -1,0 +1,19 @@
+{
+  "slug": "gianesi-ag",
+  "name": "Gianesi AG",
+  "domain": "gianesi-ag.ch",
+  "businessType": "Bauunternehmen",
+  "year": 2018,
+  "email": "gianesi@bluewin.ch",
+  "phone": "+4197479786",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 232,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

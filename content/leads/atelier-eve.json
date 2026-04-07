@@ -1,0 +1,19 @@
+{
+  "slug": "atelier-eve",
+  "name": "Atelier Eve",
+  "domain": "atelier-eve.ch",
+  "businessType": "Sonstige",
+  "year": 2020,
+  "email": "info@atelier-eve.ch",
+  "phone": "+4145392092",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 423,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

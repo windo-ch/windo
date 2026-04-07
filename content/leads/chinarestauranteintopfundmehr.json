@@ -1,0 +1,19 @@
+{
+  "slug": "chinarestauranteintopfundmehr",
+  "name": "Chinarestauranteintopfundmehr",
+  "domain": "chinarestauranteintopfundmehr.ch",
+  "businessType": "Restaurant",
+  "year": 2024,
+  "email": "1036173720@qq.com",
+  "phone": "+4136173720, +4140081557",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 263,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farbwellness",
+  "name": "Farbwellness",
+  "domain": "farbwellness.ch",
+  "businessType": "Wellness / Massage",
+  "year": 2024,
+  "email": "petrapiakaufmann@yahoo.com",
+  "phone": "+4179743347, +4162213723",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 267,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

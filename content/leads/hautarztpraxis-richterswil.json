@@ -1,0 +1,19 @@
+{
+  "slug": "hautarztpraxis-richterswil",
+  "name": "Hautarztpraxis Richterswil",
+  "domain": "hautarztpraxis-richterswil.ch",
+  "businessType": "Dermatologie",
+  "year": 2024,
+  "email": "r.h.derzi@bluewin.ch",
+  "phone": "+417475485062",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 251,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "restaurant-bahnhoefli-kueblis",
+  "name": "Restaurant Bahnhoefli Kueblis",
+  "domain": "restaurant-bahnhoefli-kueblis.ch",
+  "businessType": "Restaurant",
+  "year": 2025,
+  "email": "info@bahnhoefli-kueblis.ch",
+  "phone": "+4142610195",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

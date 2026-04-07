@@ -1,0 +1,19 @@
+{
+  "slug": "profildance",
+  "name": "Profildance",
+  "domain": "profildance.ch",
+  "businessType": "Tanzschule",
+  "year": 2023,
+  "email": "jakjouk@bluemail.ch",
+  "phone": "+4105433465, +4175913907",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 267,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

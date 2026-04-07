@@ -1,0 +1,19 @@
+{
+  "slug": "jovagmbh",
+  "name": "Jovagmbh",
+  "domain": "jovagmbh.ch",
+  "businessType": "Immobilien",
+  "year": 2024,
+  "email": "info@jovagmbh.ch",
+  "phone": "+4103818289, +4187579396",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 242,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

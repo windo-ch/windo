@@ -1,0 +1,19 @@
+{
+  "slug": "hogarclean",
+  "name": "Hogarclean",
+  "domain": "hogarclean.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "clean@hogarclean.ch",
+  "phone": "+4169549012",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 293,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

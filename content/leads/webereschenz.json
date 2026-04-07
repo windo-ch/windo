@@ -1,0 +1,19 @@
+{
+  "slug": "webereschenz",
+  "name": "Webereschenz",
+  "domain": "webereschenz.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2020,
+  "email": "info@webereschenz.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 286,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

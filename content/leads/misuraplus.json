@@ -1,0 +1,19 @@
+{
+  "slug": "misuraplus",
+  "name": "Misuraplus",
+  "domain": "misuraplus.ch",
+  "businessType": "Sonstige",
+  "year": 2021,
+  "email": "misuraplus@sunrise.ch",
+  "phone": "+414575271892, +4172102012",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 261,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

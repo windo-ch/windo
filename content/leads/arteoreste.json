@@ -1,0 +1,19 @@
+{
+  "slug": "arteoreste",
+  "name": "Arteoreste",
+  "domain": "arteoreste.ch",
+  "businessType": "Coiffeur",
+  "year": 2018,
+  "email": "info@arteoreste.ch",
+  "phone": "+419430687834",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 253,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

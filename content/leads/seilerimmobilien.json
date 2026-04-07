@@ -1,0 +1,19 @@
+{
+  "slug": "seilerimmobilien",
+  "name": "Seilerimmobilien",
+  "domain": "seilerimmobilien.ch",
+  "businessType": "Immobilien",
+  "year": 2021,
+  "email": "seilerimmobilienag@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 305,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

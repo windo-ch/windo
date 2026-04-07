@@ -1,0 +1,19 @@
+{
+  "slug": "wilfling-schreinerei",
+  "name": "Wilfling Schreinerei",
+  "domain": "wilfling-schreinerei.ch",
+  "businessType": "Schreinerei",
+  "year": 2018,
+  "email": "schreinerei.wilfling@bluewin.ch",
+  "phone": "+4115503492",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 228,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

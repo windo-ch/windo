@@ -1,0 +1,19 @@
+{
+  "slug": "regencyhouseag",
+  "name": "Regencyhouseag",
+  "domain": "regencyhouseag.ch",
+  "businessType": "Sonstige",
+  "year": 2019,
+  "email": "zuerich@regencyhouse.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 231,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

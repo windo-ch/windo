@@ -1,0 +1,19 @@
+{
+  "slug": "creativgips",
+  "name": "Creativgips",
+  "domain": "creativgips.ch",
+  "businessType": "Gipser",
+  "year": 2019,
+  "email": "sekretariat@creativgips.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 303,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

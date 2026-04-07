@@ -1,0 +1,19 @@
+{
+  "slug": "metzg-abegg",
+  "name": "Metzg Abegg",
+  "domain": "metzg-abegg.ch",
+  "businessType": "Landmaschinen",
+  "year": 2025,
+  "email": "info68@sunrise.ch",
+  "phone": "+4165301344",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 347,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hair-point",
+  "name": "Hair Point",
+  "domain": "hair-point.ch",
+  "businessType": "Coiffeur",
+  "year": 2022,
+  "email": "info@hair-point.ch",
+  "phone": "+414792032807",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 413,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

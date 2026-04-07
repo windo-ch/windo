@@ -1,0 +1,19 @@
+{
+  "slug": "salonmoderne-gojani",
+  "name": "Salonmoderne Gojani",
+  "domain": "salonmoderne-gojani.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2021,
+  "email": "franc_gojani@hotmail.com",
+  "phone": "+4112868939",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 311,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

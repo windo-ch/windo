@@ -1,0 +1,19 @@
+{
+  "slug": "kaelingartenbau",
+  "name": "Kaelingartenbau",
+  "domain": "kaelingartenbau.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "info@kaelin-gartenbau.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 273,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ofenpass",
+  "name": "Ofenpass",
+  "domain": "ofenpass.ch",
+  "businessType": "Hotel",
+  "year": 2018,
+  "email": "ofenpass@gmx.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 243,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

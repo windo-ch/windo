@@ -1,0 +1,19 @@
+{
+  "slug": "advo-marty",
+  "name": "Advo Marty",
+  "domain": "advo-marty.ch",
+  "businessType": "Anwalt",
+  "year": 2018,
+  "email": "info@advo-marty.ch",
+  "phone": "+412408084671",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 283,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

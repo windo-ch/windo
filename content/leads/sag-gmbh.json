@@ -1,0 +1,19 @@
+{
+  "slug": "sag-gmbh",
+  "name": "Sag GmbH",
+  "domain": "sag-gmbh.ch",
+  "businessType": "Maler",
+  "year": 2024,
+  "email": "s.a.g.gmbh@gmx.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 246,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

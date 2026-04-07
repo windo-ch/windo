@@ -1,0 +1,19 @@
+{
+  "slug": "rubin-tore",
+  "name": "Rubin Tore",
+  "domain": "rubin-tore.ch",
+  "businessType": "Elektro",
+  "year": 2022,
+  "email": "info@rubin-tore.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 360,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

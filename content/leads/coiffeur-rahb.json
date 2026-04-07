@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-rahb",
+  "name": "Coiffeur Rahb",
+  "domain": "coiffeur-rahb.ch",
+  "businessType": "Coiffeur",
+  "year": 2025,
+  "email": "rahbbrahim@gmail.com",
+  "phone": "+4176395123",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 202,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

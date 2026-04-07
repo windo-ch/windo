@@ -1,0 +1,19 @@
+{
+  "slug": "dyno",
+  "name": "Dyno",
+  "domain": "dyno.ch",
+  "businessType": "Sonstige",
+  "year": 2019,
+  "email": "info@dyno.ch",
+  "phone": "+416090306862",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

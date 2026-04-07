@@ -1,0 +1,19 @@
+{
+  "slug": "asa-service",
+  "name": "Asa Service",
+  "domain": "asa-service.ch",
+  "businessType": "Immobilien",
+  "year": 2025,
+  "email": "info@asa-service.ch",
+  "phone": "+4167490114",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 245,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

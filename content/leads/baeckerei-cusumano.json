@@ -1,0 +1,19 @@
+{
+  "slug": "baeckerei-cusumano",
+  "name": "Baeckerei Cusumano",
+  "domain": "baeckerei-cusumano.ch",
+  "businessType": "Bäckerei",
+  "year": 2018,
+  "email": "confiserie.cafe.cusumano@bluewin.ch",
+  "phone": "+412895247899, +417474861822",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 251,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

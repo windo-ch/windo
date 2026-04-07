@@ -1,0 +1,19 @@
+{
+  "slug": "hk-kaminfeger",
+  "name": "Hk Kaminfeger",
+  "domain": "hk-kaminfeger.ch",
+  "businessType": "Kaminfeger",
+  "year": 2023,
+  "email": "hp.keller7@bluewin.ch, hp.keller7@bluewin.chhp.keller, 7@bluewin.ch",
+  "phone": "+4171752312",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 274,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

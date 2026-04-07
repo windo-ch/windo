@@ -1,0 +1,19 @@
+{
+  "slug": "image-beautysalon",
+  "name": "Image Beautysalon",
+  "domain": "image-beautysalon.ch",
+  "businessType": "Coiffeur",
+  "year": 2018,
+  "email": "marleni.kistler@hotmail.ch",
+  "phone": "+4128526561",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 239,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

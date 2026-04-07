@@ -1,0 +1,19 @@
+{
+  "slug": "eurema",
+  "name": "Eurema",
+  "domain": "eurema.ch",
+  "businessType": "Versicherung",
+  "year": 2023,
+  "email": "info@eurema.ch",
+  "phone": "+411405727176",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 277,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

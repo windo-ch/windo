@@ -1,0 +1,19 @@
+{
+  "slug": "paurevic-gartenbau",
+  "name": "Paurevic Gartenbau",
+  "domain": "paurevic-gartenbau.ch",
+  "businessType": "Gartenbau",
+  "year": 2024,
+  "email": "z.paurevic-gartenbau@hotmail.ch",
+  "phone": "+419165696721",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 248,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

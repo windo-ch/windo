@@ -1,0 +1,19 @@
+{
+  "slug": "sponda",
+  "name": "Sponda",
+  "domain": "sponda.ch",
+  "businessType": "Handwerk",
+  "year": 2023,
+  "email": "info@sponda.ch",
+  "phone": "+411254581918, +418084896665",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 233,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

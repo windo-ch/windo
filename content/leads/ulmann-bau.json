@@ -1,0 +1,19 @@
+{
+  "slug": "ulmann-bau",
+  "name": "Ulmann Bau",
+  "domain": "ulmann-bau.ch",
+  "businessType": "Gipser",
+  "year": 2020,
+  "email": "reto.ulmann@gmx.ch",
+  "phone": "+4100747629",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 271,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

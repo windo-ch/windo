@@ -1,0 +1,19 @@
+{
+  "slug": "elektrotechnik-schranz",
+  "name": "Elektrotechnik Schranz",
+  "domain": "elektrotechnik-schranz.ch",
+  "businessType": "Elektro",
+  "year": 2018,
+  "email": "horstschranzgmbh@gawnet.ch",
+  "phone": "+4191311106",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 408,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "annahairfashion",
+  "name": "Annahairfashion",
+  "domain": "annahairfashion.ch",
+  "businessType": "Coiffeur",
+  "year": 2024,
+  "email": "annahairfashion@gmx.ch",
+  "phone": "+418084614704",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 230,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

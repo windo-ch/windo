@@ -1,0 +1,19 @@
+{
+  "slug": "auxartsdufeu",
+  "name": "Auxartsdufeu",
+  "domain": "auxartsdufeu.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "info@auxartsdufeu.ch",
+  "phone": "+4126763364",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 351,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

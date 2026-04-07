@@ -1,0 +1,19 @@
+{
+  "slug": "restaurant-egli",
+  "name": "Restaurant Egli",
+  "domain": "restaurant-egli.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "info@restaurant-egli.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 261,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

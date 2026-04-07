@@ -1,0 +1,19 @@
+{
+  "slug": "cleanline-gmbh",
+  "name": "Cleanline GmbH",
+  "domain": "cleanline-gmbh.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2023,
+  "email": "info@cleanline.ch",
+  "phone": "+414015641920",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 241,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

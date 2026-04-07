@@ -1,0 +1,19 @@
+{
+  "slug": "augenarztpraxis-am-see",
+  "name": "Augenarztpraxis Am See",
+  "domain": "augenarztpraxis-am-see.ch",
+  "businessType": "Augenarzt",
+  "year": 2018,
+  "email": "augenarzt-am-see@bluewin.ch, augenarztpraxis.am.see@hin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 238,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

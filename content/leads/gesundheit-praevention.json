@@ -1,0 +1,19 @@
+{
+  "slug": "gesundheit-praevention",
+  "name": "Gesundheit Praevention",
+  "domain": "gesundheit-praevention.ch",
+  "businessType": "Physiotherapie",
+  "year": 2018,
+  "email": "info@gesundheit-praevention.ch",
+  "phone": "+4121062026, +4119471075, +4148997369",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 0,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

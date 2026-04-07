@@ -1,0 +1,19 @@
+{
+  "slug": "maler-ramirez-basel",
+  "name": "Maler Ramirez Basel",
+  "domain": "maler-ramirez-basel.ch",
+  "businessType": "Maler",
+  "year": 2018,
+  "email": "RAMIREZ.MALER@HOTMAIL.COM, ramirez.maler@hotmail.com",
+  "phone": "+4173370432",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 295,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

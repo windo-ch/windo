@@ -1,0 +1,19 @@
+{
+  "slug": "hairstyle-kaufmann",
+  "name": "Hairstyle Kaufmann",
+  "domain": "hairstyle-kaufmann.ch",
+  "businessType": "Coiffeur",
+  "year": 2024,
+  "email": "hairstyle-kaufmann@bluewin.ch",
+  "phone": "+4110931699",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 257,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

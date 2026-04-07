@@ -1,0 +1,19 @@
+{
+  "slug": "buehler-umzuege",
+  "name": "Buehler Umzuege",
+  "domain": "buehler-umzuege.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2024,
+  "email": "miriam@buehler-umzuege.ch",
+  "phone": "+4152226614, +4129048996",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 344,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

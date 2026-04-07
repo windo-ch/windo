@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeurchristinegallati",
+  "name": "Coiffeurchristinegallati",
+  "domain": "coiffeurchristinegallati.ch",
+  "businessType": "Coiffeur",
+  "year": 2025,
+  "email": "gallbo@rsnweb.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 270,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

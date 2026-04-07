@@ -1,0 +1,19 @@
+{
+  "slug": "therapie-cosmetic",
+  "name": "Therapie Cosmetic",
+  "domain": "therapie-cosmetic.ch",
+  "businessType": "Reinigung",
+  "year": 2021,
+  "email": "rimlekosmetik@gmail.com",
+  "phone": "+4191128576",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 290,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

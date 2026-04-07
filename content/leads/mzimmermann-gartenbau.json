@@ -1,0 +1,19 @@
+{
+  "slug": "mzimmermann-gartenbau",
+  "name": "Mzimmermann Gartenbau",
+  "domain": "mzimmermann-gartenbau.ch",
+  "businessType": "Gartenbau",
+  "year": 2018,
+  "email": "mz.gartenbau@bluewin.ch",
+  "phone": "+4148457833",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 227,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

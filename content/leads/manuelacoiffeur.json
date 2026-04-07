@@ -1,0 +1,19 @@
+{
+  "slug": "manuelacoiffeur",
+  "name": "Manuelacoiffeur",
+  "domain": "manuelacoiffeur.ch",
+  "businessType": "Coiffeur",
+  "year": 2024,
+  "email": "beer.haar@bluewin.ch",
+  "phone": "+4133965894",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 283,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

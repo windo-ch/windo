@@ -1,0 +1,19 @@
+{
+  "slug": "baeckerei-bumann",
+  "name": "Baeckerei Bumann",
+  "domain": "baeckerei-bumann.ch",
+  "businessType": "Bäckerei",
+  "year": 2023,
+  "email": "info@baeckerei-bumann.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 291,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

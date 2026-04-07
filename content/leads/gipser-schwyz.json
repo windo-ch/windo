@@ -1,0 +1,19 @@
+{
+  "slug": "gipser-schwyz",
+  "name": "Gipser Schwyz",
+  "domain": "gipser-schwyz.ch",
+  "businessType": "Gipser",
+  "year": 2023,
+  "email": "info@kundb.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 306,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

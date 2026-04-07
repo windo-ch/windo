@@ -1,0 +1,19 @@
+{
+  "slug": "bsr-group",
+  "name": "Bsr Group",
+  "domain": "bsr-group.ch",
+  "businessType": "Versicherung",
+  "year": 2022,
+  "email": "info@bsr-group.ch",
+  "phone": "+4146893963",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 315,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

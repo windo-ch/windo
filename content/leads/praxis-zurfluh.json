@@ -1,0 +1,19 @@
+{
+  "slug": "praxis-zurfluh",
+  "name": "Praxis Zurfluh",
+  "domain": "praxis-zurfluh.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2018,
+  "email": "praxis.zurfluh@hin.ch",
+  "phone": "+4196126279",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 236,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

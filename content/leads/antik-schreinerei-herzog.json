@@ -1,0 +1,19 @@
+{
+  "slug": "antik-schreinerei-herzog",
+  "name": "Antik Schreinerei Herzog",
+  "domain": "antik-schreinerei-herzog.ch",
+  "businessType": "Schreinerei",
+  "year": 2022,
+  "email": "herzoggreppen@datazug.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 184,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

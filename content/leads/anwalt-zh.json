@@ -1,0 +1,19 @@
+{
+  "slug": "anwalt-zh",
+  "name": "Anwalt Zh",
+  "domain": "anwalt-zh.ch",
+  "businessType": "Anwalt",
+  "year": 2018,
+  "email": "info@anwalt-zh.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 222,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "salon-aristeia",
+  "name": "Salon Aristeia",
+  "domain": "salon-aristeia.ch",
+  "businessType": "Sonstige",
+  "year": 2024,
+  "email": "salon.aristeia@gmail.com, coiffeur.haircouture@gmail.com, alon.aristeia@gmail.com",
+  "phone": "+4179716902, +4159696099, +4135834153",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 372,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

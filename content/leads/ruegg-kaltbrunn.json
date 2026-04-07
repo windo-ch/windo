@@ -1,0 +1,19 @@
+{
+  "slug": "ruegg-kaltbrunn",
+  "name": "Ruegg Kaltbrunn",
+  "domain": "ruegg-kaltbrunn.ch",
+  "businessType": "Elektro",
+  "year": 2018,
+  "email": "info@ruegg-kaltbrunn.ch, tguebeli@ruegg-kaltbrunn.ch",
+  "phone": "+4155293333",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 375,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

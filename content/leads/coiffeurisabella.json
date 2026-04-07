@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeurisabella",
+  "name": "Coiffeurisabella",
+  "domain": "coiffeurisabella.ch",
+  "businessType": "Coiffeur",
+  "year": 2022,
+  "email": "imonteleone@gmx.ch",
+  "phone": "+4132653137, +415494519947",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 282,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

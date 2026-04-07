@@ -1,0 +1,19 @@
+{
+  "slug": "imhofgreenteam",
+  "name": "Imhofgreenteam",
+  "domain": "imhofgreenteam.ch",
+  "businessType": "Immobilien",
+  "year": 2025,
+  "email": "932info@imhofgreenteam.ch, info@imhofgreenteam.ch, imhofreto@eclipso.ch",
+  "phone": "+4179474352, +410116597014, +410029149253",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 257,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

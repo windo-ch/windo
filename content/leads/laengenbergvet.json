@@ -1,0 +1,19 @@
+{
+  "slug": "laengenbergvet",
+  "name": "Laengenbergvet",
+  "domain": "laengenbergvet.ch",
+  "businessType": "Zahnarzt",
+  "year": 2022,
+  "email": "laengenbergvet@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 288,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

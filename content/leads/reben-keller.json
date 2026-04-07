@@ -1,0 +1,19 @@
+{
+  "slug": "reben-keller",
+  "name": "Reben Keller",
+  "domain": "reben-keller.ch",
+  "businessType": "Landmaschinen",
+  "year": 2019,
+  "email": "info@rebschule-keller.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 338,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

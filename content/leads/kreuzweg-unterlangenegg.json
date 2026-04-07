@@ -1,0 +1,19 @@
+{
+  "slug": "kreuzweg-unterlangenegg",
+  "name": "Kreuzweg Unterlangenegg",
+  "domain": "kreuzweg-unterlangenegg.ch",
+  "businessType": "Restaurant",
+  "year": 2017,
+  "email": "wenger.kreuzweg@bluewin.ch",
+  "phone": "+4163824722",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 249,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

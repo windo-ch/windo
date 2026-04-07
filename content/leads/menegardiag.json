@@ -1,0 +1,19 @@
+{
+  "slug": "menegardiag",
+  "name": "Menegardiag",
+  "domain": "menegardiag.ch",
+  "businessType": "Gipser",
+  "year": 2023,
+  "email": "info@menegardiag.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

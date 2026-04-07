@@ -1,0 +1,19 @@
+{
+  "slug": "willi-schreinermontagen",
+  "name": "Willi Schreinermontagen",
+  "domain": "willi-schreinermontagen.ch",
+  "businessType": "Schreinerei",
+  "year": 2023,
+  "email": "willi-montagen@quicknet.ch",
+  "phone": "+4171048614",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 286,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

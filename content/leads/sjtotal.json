@@ -1,0 +1,19 @@
+{
+  "slug": "sjtotal",
+  "name": "Sjtotal",
+  "domain": "sjtotal.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "info@sjtotal.ch",
+  "phone": "+4127561034",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 306,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

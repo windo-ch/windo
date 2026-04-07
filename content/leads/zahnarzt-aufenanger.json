@@ -1,0 +1,19 @@
+{
+  "slug": "zahnarzt-aufenanger",
+  "name": "Zahnarzt Aufenanger",
+  "domain": "zahnarzt-aufenanger.ch",
+  "businessType": "Zahnarzt",
+  "year": 2024,
+  "email": "info@aufenanger.ch, zahnarzt-dr.aufenanger@sso-hin.ch",
+  "phone": "+4148104090",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 288,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

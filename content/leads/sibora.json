@@ -1,0 +1,19 @@
+{
+  "slug": "sibora",
+  "name": "Sibora",
+  "domain": "sibora.ch",
+  "businessType": "Küchenbau",
+  "year": 2018,
+  "email": "info@sibora.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 301,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

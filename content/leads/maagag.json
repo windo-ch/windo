@@ -1,0 +1,19 @@
+{
+  "slug": "maagag",
+  "name": "Maagag",
+  "domain": "maagag.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "info@maagag.ch",
+  "phone": "+412615094931",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 280,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

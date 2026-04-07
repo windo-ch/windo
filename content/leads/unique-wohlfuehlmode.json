@@ -1,0 +1,19 @@
+{
+  "slug": "unique-wohlfuehlmode",
+  "name": "Unique Wohlfuehlmode",
+  "domain": "unique-wohlfuehlmode.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "uniquewohlfuehlmode@gmail.com",
+  "phone": "+4133734551",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 494,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

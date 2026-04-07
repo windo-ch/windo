@@ -1,0 +1,19 @@
+{
+  "slug": "malerbossard",
+  "name": "Malerbossard",
+  "domain": "malerbossard.ch",
+  "businessType": "Maler",
+  "year": 2018,
+  "email": "info@maler-bossard.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 278,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "prothetiker",
+  "name": "Prothetiker",
+  "domain": "prothetiker.ch",
+  "businessType": "Sonstige",
+  "year": 2019,
+  "email": "ronelmiger@bluewin.ch",
+  "phone": "+4174121582",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 251,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

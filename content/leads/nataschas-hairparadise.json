@@ -1,0 +1,19 @@
+{
+  "slug": "nataschas-hairparadise",
+  "name": "Nataschas Hairparadise",
+  "domain": "nataschas-hairparadise.ch",
+  "businessType": "Coiffeur",
+  "year": 2025,
+  "email": "natascha-1111@hotmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 270,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

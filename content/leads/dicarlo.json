@@ -1,0 +1,19 @@
+{
+  "slug": "dicarlo",
+  "name": "Dicarlo",
+  "domain": "dicarlo.ch",
+  "businessType": "Immobilien",
+  "year": 2022,
+  "email": "info@dicarlo.ch",
+  "phone": "+413594201920",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 246,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

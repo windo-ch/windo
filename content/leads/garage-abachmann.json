@@ -1,0 +1,19 @@
+{
+  "slug": "garage-abachmann",
+  "name": "Garage Abachmann",
+  "domain": "garage-abachmann.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2025,
+  "email": "abachmann221@gmail.com",
+  "phone": "+4198916934",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 235,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

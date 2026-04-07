@@ -1,0 +1,19 @@
+{
+  "slug": "hs-strebel",
+  "name": "Hs Strebel",
+  "domain": "hs-strebel.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2018,
+  "email": "h-strebel@bluewin.ch",
+  "phone": "+4156664560",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 304,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

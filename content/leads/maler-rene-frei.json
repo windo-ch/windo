@@ -1,0 +1,19 @@
+{
+  "slug": "maler-rene-frei",
+  "name": "Maler Rene Frei",
+  "domain": "maler-rene-frei.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "frei.rene@bluewin.ch",
+  "phone": "+4115860490",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 275,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

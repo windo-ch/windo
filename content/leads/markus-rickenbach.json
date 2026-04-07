@@ -1,0 +1,19 @@
+{
+  "slug": "markus-rickenbach",
+  "name": "Markus Rickenbach",
+  "domain": "markus-rickenbach.ch",
+  "businessType": "Psychologie",
+  "year": 2023,
+  "email": "m.rickenbach@gmx.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 396,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

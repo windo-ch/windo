@@ -1,0 +1,19 @@
+{
+  "slug": "taxitoni",
+  "name": "Taxitoni",
+  "domain": "taxitoni.ch",
+  "businessType": "Taxi",
+  "year": 2024,
+  "email": "artan.beadini1@gmail.com",
+  "phone": "+4109240353",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 272,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

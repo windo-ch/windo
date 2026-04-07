@@ -1,0 +1,19 @@
+{
+  "slug": "bg-rotmoos",
+  "name": "Bg Rotmoos",
+  "domain": "bg-rotmoos.ch",
+  "businessType": "Bauunternehmen",
+  "year": 2018,
+  "email": "info@bg-rotmoos.ch, bg-rotmoos@bluewin.ch",
+  "phone": "+4186150831",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 271,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

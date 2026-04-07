@@ -1,0 +1,19 @@
+{
+  "slug": "obertorplatz",
+  "name": "Obertorplatz",
+  "domain": "obertorplatz.ch",
+  "businessType": "Anwalt",
+  "year": 2018,
+  "email": "metzger@obertorplatz.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 259,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

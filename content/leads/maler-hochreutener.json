@@ -1,0 +1,19 @@
+{
+  "slug": "maler-hochreutener",
+  "name": "Maler Hochreutener",
+  "domain": "maler-hochreutener.ch",
+  "businessType": "Maler",
+  "year": 2017,
+  "email": "m.hochreutener@bluewin.ch, info@simplistica.ch",
+  "phone": "+4190520278",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 317,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

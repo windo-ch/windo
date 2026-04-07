@@ -1,0 +1,19 @@
+{
+  "slug": "viva-bar-lounge",
+  "name": "Viva Bar Lounge",
+  "domain": "viva-bar-lounge.ch",
+  "businessType": "Café / Bar",
+  "year": 2024,
+  "email": "vivabaramriswil@gmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 332,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

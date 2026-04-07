@@ -1,0 +1,19 @@
+{
+  "slug": "xn--rm-malergeschft-dlb",
+  "name": "Xn  Rm Malergeschft Dlb",
+  "domain": "xn--rm-malergeschft-dlb.ch",
+  "businessType": "Gipser",
+  "year": 2021,
+  "email": "rm-maler@gmx.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 242,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

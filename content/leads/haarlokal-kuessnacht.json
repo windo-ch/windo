@@ -1,0 +1,19 @@
+{
+  "slug": "haarlokal-kuessnacht",
+  "name": "Haarlokal Kuessnacht",
+  "domain": "haarlokal-kuessnacht.ch",
+  "businessType": "Coiffeur",
+  "year": 2021,
+  "email": "haarlokal-kuessnacht@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 452,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "moser-reisen",
+  "name": "Moser Reisen",
+  "domain": "moser-reisen.ch",
+  "businessType": "Sonstige",
+  "year": 2018,
+  "email": "info@moser-reisen.ch, hermann.carreisen@bluewin.ch, r.moser@moser-reisen.ch",
+  "phone": "+419882352941, +419098039215",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 882,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "meiersanitaer",
+  "name": "Meiersanitaer",
+  "domain": "meiersanitaer.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2017,
+  "email": "meier.sanitaer@bluewin.ch, anitaer@bluewin.ch",
+  "phone": "+412473792231",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

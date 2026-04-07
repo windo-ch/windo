@@ -1,0 +1,19 @@
+{
+  "slug": "malergeschaeft-dubach",
+  "name": "Malergeschaeft Dubach",
+  "domain": "malergeschaeft-dubach.ch",
+  "businessType": "Gipser",
+  "year": 2023,
+  "email": "info@malergeschaeft-dubach.ch",
+  "phone": "+4120221325",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 399,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

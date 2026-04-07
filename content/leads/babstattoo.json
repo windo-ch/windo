@@ -1,0 +1,19 @@
+{
+  "slug": "babstattoo",
+  "name": "Babstattoo",
+  "domain": "babstattoo.ch",
+  "businessType": "Tattoo-Studio",
+  "year": 2019,
+  "email": "info@babstattoo.ch",
+  "phone": "+4108785059",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 280,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

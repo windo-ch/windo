@@ -1,0 +1,19 @@
+{
+  "slug": "gabbau",
+  "name": "Gabbau",
+  "domain": "gabbau.ch",
+  "businessType": "Immobilien",
+  "year": 2025,
+  "email": "info@gab-bau.ch",
+  "phone": "+4114907839",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 263,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

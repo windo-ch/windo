@@ -1,0 +1,19 @@
+{
+  "slug": "jerry-ag",
+  "name": "Jerry AG",
+  "domain": "jerry-ag.ch",
+  "businessType": "Gipser",
+  "year": 2023,
+  "email": "info@jerryag.ch, info@jerryfassadenbau.ch",
+  "phone": "+4118376146",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 273,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

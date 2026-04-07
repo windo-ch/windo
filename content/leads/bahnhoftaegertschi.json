@@ -1,0 +1,19 @@
+{
+  "slug": "bahnhoftaegertschi",
+  "name": "Bahnhoftaegertschi",
+  "domain": "bahnhoftaegertschi.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "sabine.gilb@gmx.ch",
+  "phone": "+412542646978",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 231,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

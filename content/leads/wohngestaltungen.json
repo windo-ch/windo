@@ -1,0 +1,19 @@
+{
+  "slug": "wohngestaltungen",
+  "name": "Wohngestaltungen",
+  "domain": "wohngestaltungen.ch",
+  "businessType": "Bodenbeläge",
+  "year": 2023,
+  "email": "info@wohngestaltungen.ch",
+  "phone": "+412306201535, +412096119255",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 204,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

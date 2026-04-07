@@ -1,0 +1,19 @@
+{
+  "slug": "xn--ristorante-schtzenstube-ppc",
+  "name": "Xn  Ristorante Schtzenstube Ppc",
+  "domain": "xn--ristorante-schtzenstube-ppc.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "asllanmaliqaj@icloud.com, schuetzenstube@gmx.net",
+  "phone": "+415083676951",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 232,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

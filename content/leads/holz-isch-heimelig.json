@@ -1,0 +1,19 @@
+{
+  "slug": "holz-isch-heimelig",
+  "name": "Holz Isch Heimelig",
+  "domain": "holz-isch-heimelig.ch",
+  "businessType": "Schreinerei",
+  "year": 2025,
+  "email": "mail@holz-isch-heimelig.ch",
+  "phone": "+4150542989",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 270,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

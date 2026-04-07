@@ -1,0 +1,19 @@
+{
+  "slug": "autoadam",
+  "name": "Autoadam",
+  "domain": "autoadam.ch",
+  "businessType": "Handwerk",
+  "year": 2018,
+  "email": "adam.adam@sunrise.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 256,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

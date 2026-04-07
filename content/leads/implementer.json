@@ -1,0 +1,19 @@
+{
+  "slug": "implementer",
+  "name": "Implementer",
+  "domain": "implementer.ch",
+  "businessType": "Gipser",
+  "year": 2023,
+  "email": "info@implementer.ch",
+  "phone": "+4134544976",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 286,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

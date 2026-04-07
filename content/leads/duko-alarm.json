@@ -1,0 +1,19 @@
+{
+  "slug": "duko-alarm",
+  "name": "Duko Alarm",
+  "domain": "duko-alarm.ch",
+  "businessType": "Sonstige",
+  "year": 2022,
+  "email": "duko-alarm@bluewin.ch",
+  "phone": "+412542555167",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 346,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

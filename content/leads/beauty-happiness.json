@@ -1,0 +1,19 @@
+{
+  "slug": "beauty-happiness",
+  "name": "Beauty Happiness",
+  "domain": "beauty-happiness.ch",
+  "businessType": "Kosmetik",
+  "year": 2024,
+  "email": "info@beauty-happiness.ch",
+  "phone": "+4181685028",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 289,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

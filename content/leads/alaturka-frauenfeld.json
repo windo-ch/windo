@@ -1,0 +1,19 @@
+{
+  "slug": "alaturka-frauenfeld",
+  "name": "Alaturka Frauenfeld",
+  "domain": "alaturka-frauenfeld.ch",
+  "businessType": "Restaurant",
+  "year": 2017,
+  "email": "alaturka1994@hotmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 255,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

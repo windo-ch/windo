@@ -1,0 +1,19 @@
+{
+  "slug": "dani-transport",
+  "name": "Dani Transport",
+  "domain": "dani-transport.ch",
+  "businessType": "Versicherung",
+  "year": 2017,
+  "email": "info@dani-transport.ch",
+  "phone": "+4157748724",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 272,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

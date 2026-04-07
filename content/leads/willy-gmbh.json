@@ -1,0 +1,19 @@
+{
+  "slug": "willy-gmbh",
+  "name": "Willy GmbH",
+  "domain": "willy-gmbh.ch",
+  "businessType": "Bauunternehmen",
+  "year": 2023,
+  "email": "claudio@willy-gmbh.ch",
+  "phone": "+410492383608",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 261,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

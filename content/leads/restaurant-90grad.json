@@ -1,0 +1,19 @@
+{
+  "slug": "restaurant-90grad",
+  "name": "Restaurant 90grad",
+  "domain": "restaurant-90grad.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "reservation@90grad.sg",
+  "phone": "+4141736137",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 237,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

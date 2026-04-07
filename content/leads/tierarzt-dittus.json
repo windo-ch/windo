@@ -1,0 +1,19 @@
+{
+  "slug": "tierarzt-dittus",
+  "name": "Tierarzt Dittus",
+  "domain": "tierarzt-dittus.ch",
+  "businessType": "Tierarzt",
+  "year": 2019,
+  "email": "info@tierarzt-dittus.ch",
+  "phone": "+4166673826",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 240,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

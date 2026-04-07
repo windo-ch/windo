@@ -1,0 +1,19 @@
+{
+  "slug": "kosmetik-parata",
+  "name": "Kosmetik Parata",
+  "domain": "kosmetik-parata.ch",
+  "businessType": "Kosmetik",
+  "year": 2018,
+  "email": "kosmetik.labellezza@hotmail.com, KOSMETIK.LABELLEZZA@HOTMAIL.COM",
+  "phone": "+4178394896",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 255,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

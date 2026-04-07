@@ -1,0 +1,19 @@
+{
+  "slug": "malerpiani",
+  "name": "Malerpiani",
+  "domain": "malerpiani.ch",
+  "businessType": "Maler",
+  "year": 2021,
+  "email": "info@malerpiani.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

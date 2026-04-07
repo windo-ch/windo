@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-im-ruetihof",
+  "name": "Coiffeur Im Ruetihof",
+  "domain": "coiffeur-im-ruetihof.ch",
+  "businessType": "Coiffeur",
+  "year": 2017,
+  "email": "ranjana@bluewin.ch",
+  "phone": "+418084469061",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 297,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

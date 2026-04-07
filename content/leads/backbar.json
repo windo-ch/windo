@@ -1,0 +1,19 @@
+{
+  "slug": "backbar",
+  "name": "Backbar",
+  "domain": "backbar.ch",
+  "businessType": "Café / Bar",
+  "year": 2019,
+  "email": "info@backbar.ch",
+  "phone": "+4144422471, +411968150207",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

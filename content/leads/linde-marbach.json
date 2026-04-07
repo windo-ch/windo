@@ -1,0 +1,19 @@
+{
+  "slug": "linde-marbach",
+  "name": "Linde Marbach",
+  "domain": "linde-marbach.ch",
+  "businessType": "Restaurant",
+  "year": 2024,
+  "email": "karla.kobelt@gmx.ch",
+  "phone": "+413377166471",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 308,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

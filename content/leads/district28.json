@@ -1,0 +1,19 @@
+{
+  "slug": "district28",
+  "name": "District28",
+  "domain": "district28.ch",
+  "businessType": "Sonstige",
+  "year": 2017,
+  "email": "requiem@bluemail.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 303,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

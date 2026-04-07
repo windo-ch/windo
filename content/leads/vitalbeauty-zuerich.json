@@ -1,0 +1,19 @@
+{
+  "slug": "vitalbeauty-zuerich",
+  "name": "Vitalbeauty Zuerich",
+  "domain": "vitalbeauty-zuerich.ch",
+  "businessType": "Kosmetik",
+  "year": 2022,
+  "email": "info@vitalandbeauty.com",
+  "phone": "+4123860380",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 410,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

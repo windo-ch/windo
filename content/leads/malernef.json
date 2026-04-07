@@ -1,0 +1,19 @@
+{
+  "slug": "malernef",
+  "name": "Malernef",
+  "domain": "malernef.ch",
+  "businessType": "Gipser",
+  "year": 2025,
+  "email": "nef@malernef.ch",
+  "phone": "+4127275111, +417979407979, +412857142857",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 454,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

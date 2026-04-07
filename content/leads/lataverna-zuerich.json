@@ -1,0 +1,19 @@
+{
+  "slug": "lataverna-zuerich",
+  "name": "Lataverna Zuerich",
+  "domain": "lataverna-zuerich.ch",
+  "businessType": "Restaurant",
+  "year": 2019,
+  "email": "info@lataverna-zuerich.ch",
+  "phone": "+4159069004",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 2415,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

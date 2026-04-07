@@ -1,0 +1,19 @@
+{
+  "slug": "autospritzwerk-melliger",
+  "name": "Autospritzwerk Melliger",
+  "domain": "autospritzwerk-melliger.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2022,
+  "email": "c.s.melliger@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 285,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "blumenweber",
+  "name": "Blumenweber",
+  "domain": "blumenweber.ch",
+  "businessType": "Florist",
+  "year": 2018,
+  "email": "info@blumenweber.ch",
+  "phone": "+4148299386",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 290,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

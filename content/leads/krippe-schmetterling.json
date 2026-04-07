@@ -1,0 +1,19 @@
+{
+  "slug": "krippe-schmetterling",
+  "name": "Krippe Schmetterling",
+  "domain": "krippe-schmetterling.ch",
+  "businessType": "Kinderbetreuung",
+  "year": 2025,
+  "email": "info@krippe-schmetterling.ch",
+  "phone": "+4103333109",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 233,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

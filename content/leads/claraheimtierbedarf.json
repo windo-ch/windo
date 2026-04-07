@@ -1,0 +1,19 @@
+{
+  "slug": "claraheimtierbedarf",
+  "name": "Claraheimtierbedarf",
+  "domain": "claraheimtierbedarf.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "clara.heimtierbedarf@gmx.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 237,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

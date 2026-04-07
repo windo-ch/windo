@@ -1,0 +1,19 @@
+{
+  "slug": "natursteinalves",
+  "name": "Natursteinalves",
+  "domain": "natursteinalves.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "info@naturstein-gartenbau.ch, josejuliopacoalves@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 281,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

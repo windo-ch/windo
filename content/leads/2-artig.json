@@ -1,0 +1,19 @@
+{
+  "slug": "2-artig",
+  "name": "2 Artig",
+  "domain": "2-artig.ch",
+  "businessType": "Keramikwerkstatt",
+  "year": 2020,
+  "email": "info@2-ARTig.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 282,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

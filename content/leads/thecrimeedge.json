@@ -1,0 +1,19 @@
+{
+  "slug": "thecrimeedge",
+  "name": "Thecrimeedge",
+  "domain": "thecrimeedge.ch",
+  "businessType": "Bedachungen",
+  "year": 2023,
+  "email": "info@thecrimeedge.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 267,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

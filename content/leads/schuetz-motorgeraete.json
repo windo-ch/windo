@@ -1,0 +1,19 @@
+{
+  "slug": "schuetz-motorgeraete",
+  "name": "Schuetz Motorgeraete",
+  "domain": "schuetz-motorgeraete.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2022,
+  "email": "schuetzmotorgeraete@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 279,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

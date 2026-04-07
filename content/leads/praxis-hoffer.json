@@ -1,0 +1,19 @@
+{
+  "slug": "praxis-hoffer",
+  "name": "Praxis Hoffer",
+  "domain": "praxis-hoffer.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2023,
+  "email": "hofferpraxis@hin.ch",
+  "phone": "+412025762658",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 402,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

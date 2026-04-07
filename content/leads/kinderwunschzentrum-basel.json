@@ -1,0 +1,19 @@
+{
+  "slug": "kinderwunschzentrum-basel",
+  "name": "Kinderwunschzentrum Basel",
+  "domain": "kinderwunschzentrum-basel.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2022,
+  "email": "gyn.schifflaende@hin.ch",
+  "phone": "+4103241751",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 322,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

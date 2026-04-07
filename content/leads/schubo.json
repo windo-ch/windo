@@ -1,0 +1,19 @@
+{
+  "slug": "schubo",
+  "name": "Schubo",
+  "domain": "schubo.ch",
+  "businessType": "Bodenbeläge",
+  "year": 2018,
+  "email": "andreas.schumacher@schubo.ch",
+  "phone": "+414345199702",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 242,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

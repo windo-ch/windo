@@ -1,0 +1,19 @@
+{
+  "slug": "suhre-reinigungen",
+  "name": "Suhre Reinigungen",
+  "domain": "suhre-reinigungen.ch",
+  "businessType": "Reinigung",
+  "year": 2020,
+  "email": "info@suhrereinigungen.ch",
+  "phone": "+4128359395",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 275,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tremco",
+  "name": "Tremco",
+  "domain": "tremco.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2021,
+  "email": "info@tremco.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 244,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

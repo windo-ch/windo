@@ -1,0 +1,19 @@
+{
+  "slug": "ak-holzwerkstatt",
+  "name": "Ak Holzwerkstatt",
+  "domain": "ak-holzwerkstatt.ch",
+  "businessType": "Schreinerei",
+  "year": 2024,
+  "email": "info@ak-holzwerkstatt.ch",
+  "phone": "+4138708974",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 223,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

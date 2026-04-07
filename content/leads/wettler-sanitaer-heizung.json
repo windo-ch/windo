@@ -1,0 +1,19 @@
+{
+  "slug": "wettler-sanitaer-heizung",
+  "name": "Wettler Sanitaer Heizung",
+  "domain": "wettler-sanitaer-heizung.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2018,
+  "email": "info@wettler-gmbh.ch",
+  "phone": "+4128771334, +4181771336",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 218,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

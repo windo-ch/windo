@@ -1,0 +1,19 @@
+{
+  "slug": "suttag",
+  "name": "Suttag",
+  "domain": "suttag.ch",
+  "businessType": "Sonstige",
+  "year": 2022,
+  "email": "nadine.hersche@suttag.ch, info@suttag.ch",
+  "phone": "+417143524123, +4147944794",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 184,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

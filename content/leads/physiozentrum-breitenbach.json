@@ -1,0 +1,19 @@
+{
+  "slug": "physiozentrum-breitenbach",
+  "name": "Physiozentrum Breitenbach",
+  "domain": "physiozentrum-breitenbach.ch",
+  "businessType": "Physiotherapie",
+  "year": 2023,
+  "email": "physiozentrum@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 241,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

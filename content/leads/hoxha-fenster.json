@@ -1,0 +1,19 @@
+{
+  "slug": "hoxha-fenster",
+  "name": "Hoxha Fenster",
+  "domain": "hoxha-fenster.ch",
+  "businessType": "Storen",
+  "year": 2022,
+  "email": "fenster.hoxha@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 237,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

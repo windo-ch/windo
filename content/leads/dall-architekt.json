@@ -1,0 +1,19 @@
+{
+  "slug": "dall-architekt",
+  "name": "Dall Architekt",
+  "domain": "dall-architekt.ch",
+  "businessType": "Architektur",
+  "year": 2018,
+  "email": "dall.architekt@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 207,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

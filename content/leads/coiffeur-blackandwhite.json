@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-blackandwhite",
+  "name": "Coiffeur Blackandwhite",
+  "domain": "coiffeur-blackandwhite.ch",
+  "businessType": "Coiffeur",
+  "year": 2022,
+  "email": "melanie.h@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

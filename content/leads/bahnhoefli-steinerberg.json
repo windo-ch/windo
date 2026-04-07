@@ -1,0 +1,19 @@
+{
+  "slug": "bahnhoefli-steinerberg",
+  "name": "Bahnhoefli Steinerberg",
+  "domain": "bahnhoefli-steinerberg.ch",
+  "businessType": "Restaurant",
+  "year": 2024,
+  "email": "info@bahnhoefli-steinerberg.ch",
+  "phone": "+4104670818",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

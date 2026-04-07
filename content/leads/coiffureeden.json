@@ -1,0 +1,19 @@
+{
+  "slug": "coiffureeden",
+  "name": "Coiffureeden",
+  "domain": "coiffureeden.ch",
+  "businessType": "Coiffeur",
+  "year": 2020,
+  "email": "conte@conte.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 241,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

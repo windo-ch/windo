@@ -1,0 +1,19 @@
+{
+  "slug": "microbladingschweiz",
+  "name": "Microbladingschweiz",
+  "domain": "microbladingschweiz.ch",
+  "businessType": "Kosmetik",
+  "year": 2024,
+  "email": "phiacademy.switzerland@gmx.ch",
+  "phone": "+414883729555, +418084379496",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 361,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

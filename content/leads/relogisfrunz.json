@@ -1,0 +1,19 @@
+{
+  "slug": "relogisfrunz",
+  "name": "Relogisfrunz",
+  "domain": "relogisfrunz.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2023,
+  "email": "info@relogisfrunz.ch",
+  "phone": "+411428719699",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 249,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

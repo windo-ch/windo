@@ -1,0 +1,19 @@
+{
+  "slug": "ap-cabtron",
+  "name": "Ap Cabtron",
+  "domain": "ap-cabtron.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "info@ap-cabtron.ch",
+  "phone": "+419028577440",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 278,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

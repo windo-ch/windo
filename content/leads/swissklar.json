@@ -1,0 +1,19 @@
+{
+  "slug": "swissklar",
+  "name": "Swissklar",
+  "domain": "swissklar.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2025,
+  "email": "info@swissklar.ch, swissklar@gmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 2271,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

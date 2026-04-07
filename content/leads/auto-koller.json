@@ -1,0 +1,19 @@
+{
+  "slug": "auto-koller",
+  "name": "Auto Koller",
+  "domain": "auto-koller.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2024,
+  "email": "info@auto-koller.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 214,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

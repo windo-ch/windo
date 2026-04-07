@@ -1,0 +1,19 @@
+{
+  "slug": "beauty-1234",
+  "name": "Beauty 1234",
+  "domain": "beauty-1234.ch",
+  "businessType": "Kosmetik",
+  "year": 2023,
+  "email": "pacos-beauty@bluewin.ch",
+  "phone": "+415049807770",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 256,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "grimm-obst",
+  "name": "Grimm Obst",
+  "domain": "grimm-obst.ch",
+  "businessType": "Landmaschinen",
+  "year": 2024,
+  "email": "info@grimm-obst.ch",
+  "phone": "+4171984182",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 214,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "vermoegensverwaltung-ag",
+  "name": "Vermoegensverwaltung AG",
+  "domain": "vermoegensverwaltung-ag.ch",
+  "businessType": "Vermögensverwaltung",
+  "year": 2023,
+  "email": "info@vv-ag.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 297,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

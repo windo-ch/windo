@@ -1,0 +1,19 @@
+{
+  "slug": "s-transport",
+  "name": "S Transport",
+  "domain": "s-transport.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2021,
+  "email": "info@s-transport.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 248,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

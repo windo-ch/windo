@@ -1,0 +1,19 @@
+{
+  "slug": "noti-gmbh",
+  "name": "Noti GmbH",
+  "domain": "noti-gmbh.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2022,
+  "email": "notigmbhnovak@gmx.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 251,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

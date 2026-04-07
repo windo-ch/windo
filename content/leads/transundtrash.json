@@ -1,0 +1,19 @@
+{
+  "slug": "transundtrash",
+  "name": "Transundtrash",
+  "domain": "transundtrash.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "info@transundtrash.ch",
+  "phone": "+4132706597",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 244,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

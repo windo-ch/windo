@@ -1,0 +1,19 @@
+{
+  "slug": "saner-rheintal",
+  "name": "Saner Rheintal",
+  "domain": "saner-rheintal.ch",
+  "businessType": "Gipser",
+  "year": 2024,
+  "email": "saner@rheintal.ch",
+  "phone": "+4171722010",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 272,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

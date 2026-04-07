@@ -1,0 +1,19 @@
+{
+  "slug": "restaurant-spatz",
+  "name": "Restaurant Spatz",
+  "domain": "restaurant-spatz.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "info@restaurant-spatz.ch",
+  "phone": "+4103985216",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 211,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

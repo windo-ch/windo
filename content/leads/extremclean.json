@@ -1,0 +1,19 @@
+{
+  "slug": "extremclean",
+  "name": "Extremclean",
+  "domain": "extremclean.ch",
+  "businessType": "Treuhand",
+  "year": 2025,
+  "email": "grossmann@extremclean.ch, seger@extremclean.ch, info@extremclean.ch",
+  "phone": "+4110931699",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 261,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

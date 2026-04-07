@@ -1,0 +1,19 @@
+{
+  "slug": "maler-guebeli",
+  "name": "Maler Guebeli",
+  "domain": "maler-guebeli.ch",
+  "businessType": "Maler",
+  "year": 2019,
+  "email": "guebeliothmar@bluewin.ch",
+  "phone": "+4183301838",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

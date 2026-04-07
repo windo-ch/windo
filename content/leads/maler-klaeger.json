@@ -1,0 +1,19 @@
+{
+  "slug": "maler-klaeger",
+  "name": "Maler Klaeger",
+  "domain": "maler-klaeger.ch",
+  "businessType": "Maler",
+  "year": 2017,
+  "email": "maler-klaeger@bluewin.ch",
+  "phone": "+4109744185",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 246,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gonzen-reinigung-sargans",
+  "name": "Gonzen Reinigung Sargans",
+  "domain": "gonzen-reinigung-sargans.ch",
+  "businessType": "Reinigung",
+  "year": 2017,
+  "email": "boder@gmx.ch",
+  "phone": "+4174875341",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 241,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "streiltransporte",
+  "name": "Streiltransporte",
+  "domain": "streiltransporte.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2021,
+  "email": "transportestreil@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 259,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "g-gvozdanovictochterundsoehne",
+  "name": "G Gvozdanovictochterundsoehne",
+  "domain": "g-gvozdanovictochterundsoehne.ch",
+  "businessType": "Landmaschinen",
+  "year": 2022,
+  "email": "gordana.gvozdanovic@gmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 296,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

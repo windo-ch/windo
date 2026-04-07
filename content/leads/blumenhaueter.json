@@ -1,0 +1,19 @@
+{
+  "slug": "blumenhaueter",
+  "name": "Blumenhaueter",
+  "domain": "blumenhaueter.ch",
+  "businessType": "Florist",
+  "year": 2017,
+  "email": "blumenhaueter@bluewin.ch",
+  "phone": "+412510002100",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 293,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

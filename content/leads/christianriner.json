@@ -1,0 +1,19 @@
+{
+  "slug": "christianriner",
+  "name": "Christianriner",
+  "domain": "christianriner.ch",
+  "businessType": "Coiffeur",
+  "year": 2017,
+  "email": "coiffure@christianriner.ch",
+  "phone": "+4192517729",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 348,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

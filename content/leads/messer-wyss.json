@@ -1,0 +1,19 @@
+{
+  "slug": "messer-wyss",
+  "name": "Messer Wyss",
+  "domain": "messer-wyss.ch",
+  "businessType": "Storen",
+  "year": 2020,
+  "email": "STOREN@MESSER-WYSS.CH, storen@messer-wyss.ch, info@messer-storen.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 343,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

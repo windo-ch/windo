@@ -1,0 +1,19 @@
+{
+  "slug": "haarwerk-wasabi",
+  "name": "Haarwerk Wasabi",
+  "domain": "haarwerk-wasabi.ch",
+  "businessType": "Coiffeur",
+  "year": 2021,
+  "email": "b.kreuzer79@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 273,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

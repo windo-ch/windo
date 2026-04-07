@@ -1,0 +1,19 @@
+{
+  "slug": "physio-neuber-wittenbach",
+  "name": "Physio Neuber Wittenbach",
+  "domain": "physio-neuber-wittenbach.ch",
+  "businessType": "Physiotherapie",
+  "year": 2019,
+  "email": "romanneuber@protonmail.com",
+  "phone": "+4130637410",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 234,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "malerteam-lourenco",
+  "name": "Malerteam Lourenco",
+  "domain": "malerteam-lourenco.ch",
+  "businessType": "Gipser",
+  "year": 2020,
+  "email": "maler-lourenco@hotmail.com",
+  "phone": "+4175116207",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 241,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

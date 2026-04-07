@@ -1,0 +1,19 @@
+{
+  "slug": "autokriens",
+  "name": "Autokriens",
+  "domain": "autokriens.ch",
+  "businessType": "Versicherung",
+  "year": 2023,
+  "email": "info@ercolaniag.ch",
+  "phone": "+4156152324",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 240,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "spenglerei-stratmann",
+  "name": "Spenglerei Stratmann",
+  "domain": "spenglerei-stratmann.ch",
+  "businessType": "Bedachungen",
+  "year": 2023,
+  "email": "spenglerei-stratmann@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 334,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

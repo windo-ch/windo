@@ -1,0 +1,19 @@
+{
+  "slug": "malergipsersherifi",
+  "name": "Malergipsersherifi",
+  "domain": "malergipsersherifi.ch",
+  "businessType": "Gipser",
+  "year": 2023,
+  "email": "maler.gipser.sherifi@hotmail.com",
+  "phone": "+414391769050",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 232,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

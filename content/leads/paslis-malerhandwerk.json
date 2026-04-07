@@ -1,0 +1,19 @@
+{
+  "slug": "paslis-malerhandwerk",
+  "name": "Paslis Malerhandwerk",
+  "domain": "paslis-malerhandwerk.ch",
+  "businessType": "Handwerk",
+  "year": 2024,
+  "email": "zarkapascal@gmail.com",
+  "phone": "+4154469684, +419184211128",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 258,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

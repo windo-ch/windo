@@ -1,0 +1,19 @@
+{
+  "slug": "markus-zoller-der-reiniger",
+  "name": "Markus Zoller Der Reiniger",
+  "domain": "markus-zoller-der-reiniger.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "mzreinigung@gmail.com",
+  "phone": "+4175512938",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 296,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

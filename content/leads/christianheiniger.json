@@ -1,0 +1,19 @@
+{
+  "slug": "christianheiniger",
+  "name": "Christianheiniger",
+  "domain": "christianheiniger.ch",
+  "businessType": "Bauunternehmen",
+  "year": 2020,
+  "email": "info@christianheiniger.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 312,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

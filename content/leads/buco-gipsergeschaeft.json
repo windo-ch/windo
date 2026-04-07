@@ -1,0 +1,19 @@
+{
+  "slug": "buco-gipsergeschaeft",
+  "name": "Buco Gipsergeschaeft",
+  "domain": "buco-gipsergeschaeft.ch",
+  "businessType": "Gipser",
+  "year": 2022,
+  "email": "constantin.b@bluewin.ch",
+  "phone": "+4176703374",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 219,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

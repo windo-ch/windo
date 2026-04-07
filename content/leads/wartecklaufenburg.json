@@ -1,0 +1,19 @@
+{
+  "slug": "wartecklaufenburg",
+  "name": "Wartecklaufenburg",
+  "domain": "wartecklaufenburg.ch",
+  "businessType": "Restaurant",
+  "year": 2018,
+  "email": "warteck.laufenburg@hotmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 239,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

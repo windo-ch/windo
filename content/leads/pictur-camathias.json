@@ -1,0 +1,19 @@
+{
+  "slug": "pictur-camathias",
+  "name": "Pictur Camathias",
+  "domain": "pictur-camathias.ch",
+  "businessType": "Maler",
+  "year": 2017,
+  "email": "gp.camathias@bluewin.ch",
+  "phone": "+4121620831",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 248,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kuratli-holzbau",
+  "name": "Kuratli Holzbau",
+  "domain": "kuratli-holzbau.ch",
+  "businessType": "Schreinerei",
+  "year": 2023,
+  "email": "kuratli.jenbach@bluewin.ch",
+  "phone": "+4128629111",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 284,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

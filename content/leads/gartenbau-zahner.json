@@ -1,0 +1,19 @@
+{
+  "slug": "gartenbau-zahner",
+  "name": "Gartenbau Zahner",
+  "domain": "gartenbau-zahner.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "info@gartenbau-zahner.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 240,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

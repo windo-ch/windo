@@ -1,0 +1,19 @@
+{
+  "slug": "procasabella",
+  "name": "Procasabella",
+  "domain": "procasabella.ch",
+  "businessType": "Tanzschule",
+  "year": 2023,
+  "email": "ernestobossi@bluewin.ch",
+  "phone": "+413176126844",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 287,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

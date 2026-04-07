@@ -1,0 +1,19 @@
+{
+  "slug": "teamschaad",
+  "name": "Teamschaad",
+  "domain": "teamschaad.ch",
+  "businessType": "Schreinerei",
+  "year": 2024,
+  "email": "roger.schaad@teamschaad.ch",
+  "phone": "+4194828353",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 284,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "albrecht-bau",
+  "name": "Albrecht Bau",
+  "domain": "albrecht-bau.ch",
+  "businessType": "Bauunternehmen",
+  "year": 2022,
+  "email": "albrecht.bau@bluewin.ch",
+  "phone": "+4117392291",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 315,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

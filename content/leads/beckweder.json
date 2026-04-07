@@ -1,0 +1,19 @@
+{
+  "slug": "beckweder",
+  "name": "Beckweder",
+  "domain": "beckweder.ch",
+  "businessType": "Bäckerei",
+  "year": 2024,
+  "email": "info@beckweder.ch, beck.weder@gmail.com",
+  "phone": "+4157485966",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 198,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

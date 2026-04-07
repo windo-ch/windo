@@ -1,0 +1,19 @@
+{
+  "slug": "malerei-baer",
+  "name": "Malerei Baer",
+  "domain": "malerei-baer.ch",
+  "businessType": "Maler",
+  "year": 2024,
+  "email": "malereibaer@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 282,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

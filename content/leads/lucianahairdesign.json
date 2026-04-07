@@ -1,0 +1,19 @@
+{
+  "slug": "lucianahairdesign",
+  "name": "Lucianahairdesign",
+  "domain": "lucianahairdesign.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "lucianahair@vtxmail.ch",
+  "phone": "+412547553717",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 2264,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

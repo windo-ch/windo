@@ -1,0 +1,19 @@
+{
+  "slug": "gschwend-landtechnik",
+  "name": "Gschwend Landtechnik",
+  "domain": "gschwend-landtechnik.ch",
+  "businessType": "Landmaschinen",
+  "year": 2019,
+  "email": "gschwend-landtechnik@bluewin.ch",
+  "phone": "+4171755304",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 241,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

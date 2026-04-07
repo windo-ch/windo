@@ -1,0 +1,19 @@
+{
+  "slug": "mkbetonkosmetik",
+  "name": "Mkbetonkosmetik",
+  "domain": "mkbetonkosmetik.ch",
+  "businessType": "Kosmetik",
+  "year": 2022,
+  "email": "info@mkbetonkosmetik.ch, info@dolzanbetonkosmetik.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 242,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

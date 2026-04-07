@@ -1,0 +1,19 @@
+{
+  "slug": "anis-lufttechnik",
+  "name": "Anis Lufttechnik",
+  "domain": "anis-lufttechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2022,
+  "email": "info@anis-lufttechnik.ch",
+  "phone": "+4155153741",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 222,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

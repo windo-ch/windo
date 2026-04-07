@@ -1,0 +1,19 @@
+{
+  "slug": "glasbruch",
+  "name": "Glasbruch",
+  "domain": "glasbruch.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2019,
+  "email": "glasbruch@bluewin.ch",
+  "phone": "+4150174655",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 241,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

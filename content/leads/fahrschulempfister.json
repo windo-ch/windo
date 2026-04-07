@@ -1,0 +1,19 @@
+{
+  "slug": "fahrschulempfister",
+  "name": "Fahrschulempfister",
+  "domain": "fahrschulempfister.ch",
+  "businessType": "Fahrschule",
+  "year": 2018,
+  "email": "info@fahrschulempfister.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 295,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

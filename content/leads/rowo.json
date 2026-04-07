@@ -1,0 +1,19 @@
+{
+  "slug": "rowo",
+  "name": "Rowo",
+  "domain": "rowo.ch",
+  "businessType": "Reinigung",
+  "year": 2022,
+  "email": "rowo.textilreinigung@gmx.ch",
+  "phone": "+4194103834",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 246,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

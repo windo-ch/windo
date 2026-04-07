@@ -1,0 +1,19 @@
+{
+  "slug": "bleisch-holzbau-innenausbau",
+  "name": "Bleisch Holzbau Innenausbau",
+  "domain": "bleisch-holzbau-innenausbau.ch",
+  "businessType": "Schreinerei",
+  "year": 2024,
+  "email": "bleisch.holzbau@gmail.com",
+  "phone": "+4141485496",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

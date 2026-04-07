@@ -1,0 +1,19 @@
+{
+  "slug": "zmaler",
+  "name": "Zmaler",
+  "domain": "zmaler.ch",
+  "businessType": "Gipser",
+  "year": 2019,
+  "email": "info@zmaler.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 218,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

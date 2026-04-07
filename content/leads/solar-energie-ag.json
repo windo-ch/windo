@@ -1,0 +1,19 @@
+{
+  "slug": "solar-energie-ag",
+  "name": "Solar Energie AG",
+  "domain": "solar-energie-ag.ch",
+  "businessType": "Immobilien",
+  "year": 2023,
+  "email": "info@solar-energie-ag.ch",
+  "phone": "+4188014076",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 257,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

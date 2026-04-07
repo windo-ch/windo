@@ -1,0 +1,19 @@
+{
+  "slug": "blumenschweizer",
+  "name": "Blumenschweizer",
+  "domain": "blumenschweizer.ch",
+  "businessType": "Florist",
+  "year": 2022,
+  "email": "blumenschweizer@gmx.ch",
+  "phone": "+4164715180",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 195,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

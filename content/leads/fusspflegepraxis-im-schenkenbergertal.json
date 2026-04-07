@@ -1,0 +1,19 @@
+{
+  "slug": "fusspflegepraxis-im-schenkenbergertal",
+  "name": "Fusspflegepraxis Im Schenkenbergertal",
+  "domain": "fusspflegepraxis-im-schenkenbergertal.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2019,
+  "email": "fusspflegepraxis@me.com",
+  "phone": "+4196930741",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 375,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mobi-car",
+  "name": "Mobi Car",
+  "domain": "mobi-car.ch",
+  "businessType": "Versicherung",
+  "year": 2024,
+  "email": "info@mobiglas.ch, info@mobi-glas.ch",
+  "phone": "+410434842836",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 200,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

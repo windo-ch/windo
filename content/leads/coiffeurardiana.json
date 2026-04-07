@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeurardiana",
+  "name": "Coiffeurardiana",
+  "domain": "coiffeurardiana.ch",
+  "businessType": "Coiffeur",
+  "year": 2022,
+  "email": "coiffeurardianaa@gmail.com",
+  "phone": "+4145241415",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 447,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

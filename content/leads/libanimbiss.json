@@ -1,0 +1,19 @@
+{
+  "slug": "libanimbiss",
+  "name": "Libanimbiss",
+  "domain": "libanimbiss.ch",
+  "businessType": "Catering",
+  "year": 2022,
+  "email": "libanimbis@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 338,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

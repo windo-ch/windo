@@ -1,0 +1,19 @@
+{
+  "slug": "bmkeramik",
+  "name": "Bmkeramik",
+  "domain": "bmkeramik.ch",
+  "businessType": "Plattenleger",
+  "year": 2024,
+  "email": "rui@bm-keramik.ch",
+  "phone": "+416683349694",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 281,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

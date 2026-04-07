@@ -1,0 +1,19 @@
+{
+  "slug": "kleinbusreisen",
+  "name": "Kleinbusreisen",
+  "domain": "kleinbusreisen.ch",
+  "businessType": "Sonstige",
+  "year": 2020,
+  "email": "kleinbusreisen@bluewin.ch",
+  "phone": "+4197003672",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 251,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "geri-mueller-haustechnik",
+  "name": "Geri Mueller Haustechnik",
+  "domain": "geri-mueller-haustechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "gaeri.mueller@bluewin.ch",
+  "phone": "+417462807478, +4148421081",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 280,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

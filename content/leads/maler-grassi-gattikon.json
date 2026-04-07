@@ -1,0 +1,19 @@
+{
+  "slug": "maler-grassi-gattikon",
+  "name": "Maler Grassi Gattikon",
+  "domain": "maler-grassi-gattikon.ch",
+  "businessType": "Maler",
+  "year": 2021,
+  "email": "reto-grassi@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 249,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

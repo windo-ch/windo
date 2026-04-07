@@ -1,0 +1,19 @@
+{
+  "slug": "kieswerk-gryth",
+  "name": "Kieswerk Gryth",
+  "domain": "kieswerk-gryth.ch",
+  "businessType": "Landmaschinen",
+  "year": 2023,
+  "email": "info@kieswerk-gryth.ch",
+  "phone": "+4122281025",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 368,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "therapie-zeller",
+  "name": "Therapie Zeller",
+  "domain": "therapie-zeller.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2019,
+  "email": "therapie-zeller@asp-hin.ch",
+  "phone": "+4149446960",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 220,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

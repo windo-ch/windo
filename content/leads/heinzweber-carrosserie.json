@@ -1,0 +1,19 @@
+{
+  "slug": "heinzweber-carrosserie",
+  "name": "Heinzweber Carrosserie",
+  "domain": "heinzweber-carrosserie.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2023,
+  "email": "info@heinzweber-carrosserie.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 235,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

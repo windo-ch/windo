@@ -1,0 +1,19 @@
+{
+  "slug": "fusspflege-massage-mahrer",
+  "name": "Fusspflege Massage Mahrer",
+  "domain": "fusspflege-massage-mahrer.ch",
+  "businessType": "Kosmetik",
+  "year": 2021,
+  "email": "mireille.mahrer@gmail.com",
+  "phone": "+4117225503",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 281,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

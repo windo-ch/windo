@@ -1,0 +1,19 @@
+{
+  "slug": "cine-royal",
+  "name": "Cine Royal",
+  "domain": "cine-royal.ch",
+  "businessType": "Sonstige",
+  "year": 2017,
+  "email": "caro@cine-royal.ch",
+  "phone": "+4142797208, +4142798713, +4142798860",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 908,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

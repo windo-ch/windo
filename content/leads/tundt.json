@@ -1,0 +1,19 @@
+{
+  "slug": "tundt",
+  "name": "Tundt",
+  "domain": "tundt.ch",
+  "businessType": "Plattenleger",
+  "year": 2023,
+  "email": "tanner@tundt.ch",
+  "phone": "+4149202233",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 215,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

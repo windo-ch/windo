@@ -1,0 +1,19 @@
+{
+  "slug": "sennenergie",
+  "name": "Sennenergie",
+  "domain": "sennenergie.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "office@sennenergie.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 263,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

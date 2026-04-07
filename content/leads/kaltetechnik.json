@@ -1,0 +1,19 @@
+{
+  "slug": "kaltetechnik",
+  "name": "Kaltetechnik",
+  "domain": "kaltetechnik.ch",
+  "businessType": "Isolierung",
+  "year": 2022,
+  "email": "info@kaltetechnik.ch",
+  "phone": "+4167587889",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 335,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

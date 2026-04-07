@@ -1,0 +1,19 @@
+{
+  "slug": "beauty-life",
+  "name": "Beauty Life",
+  "domain": "beauty-life.ch",
+  "businessType": "Kosmetik",
+  "year": 2023,
+  "email": "BLBeauty-Life@gmx.ch, monika.bernet@gmx.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 350,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

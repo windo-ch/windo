@@ -1,0 +1,19 @@
+{
+  "slug": "arpagaus-storen",
+  "name": "Arpagaus Storen",
+  "domain": "arpagaus-storen.ch",
+  "businessType": "Storen",
+  "year": 2023,
+  "email": "info@arpagaus-storen.ch",
+  "phone": "+4111794805",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 245,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

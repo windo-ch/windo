@@ -1,0 +1,19 @@
+{
+  "slug": "malereierwinfrey",
+  "name": "Malereierwinfrey",
+  "domain": "malereierwinfrey.ch",
+  "businessType": "Immobilien",
+  "year": 2023,
+  "email": "freyerwin@gmx.ch",
+  "phone": "+4179652412, +4137389291, +4174543695",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 213,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

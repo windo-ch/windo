@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeure-baffy",
+  "name": "Coiffeure Baffy",
+  "domain": "coiffeure-baffy.ch",
+  "businessType": "Coiffeur",
+  "year": 2025,
+  "email": "benz.m@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 259,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

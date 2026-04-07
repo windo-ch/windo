@@ -1,0 +1,19 @@
+{
+  "slug": "magdalenanails",
+  "name": "Magdalenanails",
+  "domain": "magdalenanails.ch",
+  "businessType": "Kosmetik",
+  "year": 2018,
+  "email": "magdalenanails@bluewin.ch",
+  "phone": "+4128650371, +4131535918",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 235,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

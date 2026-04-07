@@ -1,0 +1,19 @@
+{
+  "slug": "rc-gebaeudetechnik",
+  "name": "Rc Gebaeudetechnik",
+  "domain": "rc-gebaeudetechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2018,
+  "email": "info@rc-gebaeudetechnik.ch, INFO@RC-GEBAEUDETECHNIK.CH",
+  "phone": "+412543102565",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 395,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

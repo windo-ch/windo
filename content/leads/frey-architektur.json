@@ -1,0 +1,19 @@
+{
+  "slug": "frey-architektur",
+  "name": "Frey Architektur",
+  "domain": "frey-architektur.ch",
+  "businessType": "Architektur",
+  "year": 2019,
+  "email": "info@frey-architektur.ch",
+  "phone": "+4132446968",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 222,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

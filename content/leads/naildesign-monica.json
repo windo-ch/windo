@@ -1,0 +1,19 @@
+{
+  "slug": "naildesign-monica",
+  "name": "Naildesign Monica",
+  "domain": "naildesign-monica.ch",
+  "businessType": "Kosmetik",
+  "year": 2023,
+  "email": "naildesign-monica@bluewin.ch",
+  "phone": "+414457367449",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 346,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

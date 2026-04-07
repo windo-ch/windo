@@ -1,0 +1,19 @@
+{
+  "slug": "creativecoiffeur",
+  "name": "Creativecoiffeur",
+  "domain": "creativecoiffeur.ch",
+  "businessType": "Coiffeur",
+  "year": 2021,
+  "email": "omarmussa208@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 376,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

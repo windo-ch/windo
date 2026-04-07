@@ -1,0 +1,19 @@
+{
+  "slug": "wynosa",
+  "name": "Wynosa",
+  "domain": "wynosa.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2024,
+  "email": "info@wynosa.ch",
+  "phone": "+419720896796",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

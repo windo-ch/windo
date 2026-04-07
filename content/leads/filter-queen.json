@@ -1,0 +1,19 @@
+{
+  "slug": "filter-queen",
+  "name": "Filter Queen",
+  "domain": "filter-queen.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "info@filter-queen.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 420,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

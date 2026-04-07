@@ -1,0 +1,19 @@
+{
+  "slug": "wernliag",
+  "name": "Wernliag",
+  "domain": "wernliag.ch",
+  "businessType": "Sonstige",
+  "year": 2017,
+  "email": "mail@wernliag.ch",
+  "phone": "+4134314084",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 280,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

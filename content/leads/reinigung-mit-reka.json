@@ -1,0 +1,19 @@
+{
+  "slug": "reinigung-mit-reka",
+  "name": "Reinigung Mit Reka",
+  "domain": "reinigung-mit-reka.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "gtberger@bluewin.ch",
+  "phone": "+411770276919",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 297,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

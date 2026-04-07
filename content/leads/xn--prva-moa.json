@@ -1,0 +1,19 @@
+{
+  "slug": "xn--prva-moa",
+  "name": "Xn  Prva Moa",
+  "domain": "xn--prva-moa.ch",
+  "businessType": "Psychologie",
+  "year": 2021,
+  "email": "vhirt@praeva.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 237,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

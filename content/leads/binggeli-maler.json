@@ -1,0 +1,19 @@
+{
+  "slug": "binggeli-maler",
+  "name": "Binggeli Maler",
+  "domain": "binggeli-maler.ch",
+  "businessType": "Maler",
+  "year": 2022,
+  "email": "peterurwyler@bluewin.ch",
+  "phone": "+4138334867",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 283,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

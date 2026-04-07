@@ -1,0 +1,19 @@
+{
+  "slug": "bochsler-schreinerei",
+  "name": "Bochsler Schreinerei",
+  "domain": "bochsler-schreinerei.ch",
+  "businessType": "Schreinerei",
+  "year": 2021,
+  "email": "info@bochsler-schreinerei.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 399,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

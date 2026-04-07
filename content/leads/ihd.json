@@ -1,0 +1,19 @@
+{
+  "slug": "ihd",
+  "name": "Ihd",
+  "domain": "ihd.ch",
+  "businessType": "Schreinerei",
+  "year": 2023,
+  "email": "ihd@ihd.ch",
+  "phone": "+4111809906, +4159381778",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 266,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

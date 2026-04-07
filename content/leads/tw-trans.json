@@ -1,0 +1,19 @@
+{
+  "slug": "tw-trans",
+  "name": "Tw Trans",
+  "domain": "tw-trans.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "info@tw-trans.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 309,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

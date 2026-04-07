@@ -1,0 +1,19 @@
+{
+  "slug": "denamik",
+  "name": "Denamik",
+  "domain": "denamik.ch",
+  "businessType": "Gipser",
+  "year": 2023,
+  "email": "info@denamik.ch",
+  "phone": "+414822642670",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 207,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

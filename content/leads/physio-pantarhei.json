@@ -1,0 +1,19 @@
+{
+  "slug": "physio-pantarhei",
+  "name": "Physio Pantarhei",
+  "domain": "physio-pantarhei.ch",
+  "businessType": "Physiotherapie",
+  "year": 2022,
+  "email": "info@physio-pantarhei.ch, mail@physio-pantarhei.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 237,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

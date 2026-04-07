@@ -1,0 +1,19 @@
+{
+  "slug": "praxis-sharif",
+  "name": "Praxis Sharif",
+  "domain": "praxis-sharif.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2022,
+  "email": "praxissharif@hin.ch",
+  "phone": "+4106814934",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 325,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

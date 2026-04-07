@@ -1,0 +1,19 @@
+{
+  "slug": "minigolf-ergolz",
+  "name": "Minigolf Ergolz",
+  "domain": "minigolf-ergolz.ch",
+  "businessType": "Restaurant",
+  "year": 2024,
+  "email": "minigolf-ergolz@bluewin.ch",
+  "phone": "+4155165835",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 280,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

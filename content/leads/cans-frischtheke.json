@@ -1,0 +1,19 @@
+{
+  "slug": "cans-frischtheke",
+  "name": "Cans Frischtheke",
+  "domain": "cans-frischtheke.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "candemirci69@hotmail.de",
+  "phone": "+413612715158",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 295,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "metallbau-schmid",
+  "name": "Metallbau Schmid",
+  "domain": "metallbau-schmid.ch",
+  "businessType": "Metallbau",
+  "year": 2020,
+  "email": "adrian.schmid@metallbau-schmid.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 292,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

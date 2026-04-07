@@ -1,0 +1,19 @@
+{
+  "slug": "jaegerstueblisolothurn",
+  "name": "Jaegerstueblisolothurn",
+  "domain": "jaegerstueblisolothurn.ch",
+  "businessType": "Restaurant",
+  "year": 2024,
+  "email": "viktoriya.furer@gmail.com",
+  "phone": "+4152563049",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 263,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

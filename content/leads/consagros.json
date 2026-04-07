@@ -1,0 +1,19 @@
+{
+  "slug": "consagros",
+  "name": "Consagros",
+  "domain": "consagros.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2023,
+  "email": "w.rosser@consagros.ch, consagros-gmbh@t-online.de",
+  "phone": "+4170255565",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

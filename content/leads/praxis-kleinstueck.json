@@ -1,0 +1,19 @@
+{
+  "slug": "praxis-kleinstueck",
+  "name": "Praxis Kleinstueck",
+  "domain": "praxis-kleinstueck.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2024,
+  "email": "praxisrudishaldenstrasse@hin.ch",
+  "phone": "+4144720224, +4170608387, +416089830790",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 393,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

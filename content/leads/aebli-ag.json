@@ -1,0 +1,19 @@
+{
+  "slug": "aebli-ag",
+  "name": "Aebli AG",
+  "domain": "aebli-ag.ch",
+  "businessType": "Gipser",
+  "year": 2023,
+  "email": "aeblisanitaer@bluewin.ch",
+  "phone": "+4198561182",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 327,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

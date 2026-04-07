@@ -1,0 +1,19 @@
+{
+  "slug": "rutar",
+  "name": "Rutar",
+  "domain": "rutar.ch",
+  "businessType": "Zahnarzt",
+  "year": 2018,
+  "email": "info@rutar.ch",
+  "phone": "+4112747794",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 255,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

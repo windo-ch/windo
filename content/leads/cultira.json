@@ -1,0 +1,19 @@
+{
+  "slug": "cultira",
+  "name": "Cultira",
+  "domain": "cultira.ch",
+  "businessType": "Gartenbau",
+  "year": 2017,
+  "email": "cultira@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeursandro",
+  "name": "Coiffeursandro",
+  "domain": "coiffeursandro.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "sandroorrulecoiffeur@gmail.com",
+  "phone": "+4174441945, +413254723806",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

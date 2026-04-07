@@ -1,0 +1,19 @@
+{
+  "slug": "kalbermatten-haustechnik",
+  "name": "Kalbermatten Haustechnik",
+  "domain": "kalbermatten-haustechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2025,
+  "email": "info@kalbermatten-haustechnik.ch",
+  "phone": "+4127275111, +4131923479, +418449908194",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 253,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

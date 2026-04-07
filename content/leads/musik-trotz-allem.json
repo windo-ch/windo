@@ -1,0 +1,19 @@
+{
+  "slug": "musik-trotz-allem",
+  "name": "Musik Trotz Allem",
+  "domain": "musik-trotz-allem.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "gruezi@musik-trotz-allem.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 296,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

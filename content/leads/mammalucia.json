@@ -1,0 +1,19 @@
+{
+  "slug": "mammalucia",
+  "name": "Mammalucia",
+  "domain": "mammalucia.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "info@mammalucia.ch",
+  "phone": "+4158335422",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 245,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

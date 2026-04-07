@@ -1,0 +1,19 @@
+{
+  "slug": "ucwelektro",
+  "name": "Ucwelektro",
+  "domain": "ucwelektro.ch",
+  "businessType": "Elektro",
+  "year": 2021,
+  "email": "info@ucw-elektro.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 273,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

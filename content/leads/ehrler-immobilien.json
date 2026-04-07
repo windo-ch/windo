@@ -1,0 +1,19 @@
+{
+  "slug": "ehrler-immobilien",
+  "name": "Ehrler Immobilien",
+  "domain": "ehrler-immobilien.ch",
+  "businessType": "Immobilien",
+  "year": 2022,
+  "email": "info@ehrler-immobilien.ch, impressum@ehrler-immobilien.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 246,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

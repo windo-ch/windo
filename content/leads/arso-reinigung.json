@@ -1,0 +1,19 @@
+{
+  "slug": "arso-reinigung",
+  "name": "Arso Reinigung",
+  "domain": "arso-reinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2021,
+  "email": "info@arso-reinigung.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 281,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

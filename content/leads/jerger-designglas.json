@@ -1,0 +1,19 @@
+{
+  "slug": "jerger-designglas",
+  "name": "Jerger Designglas",
+  "domain": "jerger-designglas.ch",
+  "businessType": "Schreinerei",
+  "year": 2023,
+  "email": "info@design-glas.ch",
+  "phone": "+4101171920",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 270,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "laborlink",
+  "name": "Laborlink",
+  "domain": "laborlink.ch",
+  "businessType": "Sonstige",
+  "year": 2019,
+  "email": "welcome@laborlink.ch, laborlink@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 298,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

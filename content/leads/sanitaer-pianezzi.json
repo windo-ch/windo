@@ -1,0 +1,19 @@
+{
+  "slug": "sanitaer-pianezzi",
+  "name": "Sanitaer Pianezzi",
+  "domain": "sanitaer-pianezzi.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "rico.pianezzi@bluewin.ch",
+  "phone": "+4118013875",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 241,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

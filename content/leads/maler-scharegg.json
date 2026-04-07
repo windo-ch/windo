@@ -1,0 +1,19 @@
+{
+  "slug": "maler-scharegg",
+  "name": "Maler Scharegg",
+  "domain": "maler-scharegg.ch",
+  "businessType": "Maler",
+  "year": 2021,
+  "email": "schareggr@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 283,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

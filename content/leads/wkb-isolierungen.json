@@ -1,0 +1,19 @@
+{
+  "slug": "wkb-isolierungen",
+  "name": "Wkb Isolierungen",
+  "domain": "wkb-isolierungen.ch",
+  "businessType": "Isolierung",
+  "year": 2023,
+  "email": "info@wkb-isolierungen.ch",
+  "phone": "+4134058543",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 242,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

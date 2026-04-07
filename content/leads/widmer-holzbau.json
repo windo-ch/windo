@@ -1,0 +1,19 @@
+{
+  "slug": "widmer-holzbau",
+  "name": "Widmer Holzbau",
+  "domain": "widmer-holzbau.ch",
+  "businessType": "Schreinerei",
+  "year": 2023,
+  "email": "widmer.holzbau@bluewin.ch, info@toesstal-kanal.ch",
+  "phone": "+4102401920",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 272,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

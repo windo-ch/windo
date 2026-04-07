@@ -1,0 +1,19 @@
+{
+  "slug": "blackandwhite-haute-coiffure",
+  "name": "Blackandwhite Haute Coiffure",
+  "domain": "blackandwhite-haute-coiffure.ch",
+  "businessType": "Coiffeur",
+  "year": 2025,
+  "email": "clarissemanser@gmail.com",
+  "phone": "+4130502162",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 239,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

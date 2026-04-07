@@ -1,0 +1,19 @@
+{
+  "slug": "haenzi-sanitaer",
+  "name": "Haenzi Sanitaer",
+  "domain": "haenzi-sanitaer.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "info@haenzi-co.ch",
+  "phone": "+417310583568",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 245,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

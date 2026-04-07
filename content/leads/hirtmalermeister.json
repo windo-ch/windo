@@ -1,0 +1,19 @@
+{
+  "slug": "hirtmalermeister",
+  "name": "Hirtmalermeister",
+  "domain": "hirtmalermeister.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "info@hirtmalermeister.ch",
+  "phone": "+4191802808",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 274,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pizzalapiazza",
+  "name": "Pizzalapiazza",
+  "domain": "pizzalapiazza.ch",
+  "businessType": "Restaurant",
+  "year": 2020,
+  "email": "lapiazza.glattbrugg@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 328,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

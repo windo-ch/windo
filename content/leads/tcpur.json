@@ -1,0 +1,19 @@
+{
+  "slug": "tcpur",
+  "name": "Tcpur",
+  "domain": "tcpur.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2023,
+  "email": "info@tcpur.ch, info@tcpur.li, iinfo@tcpur.ch",
+  "phone": "+4133112454",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 274,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

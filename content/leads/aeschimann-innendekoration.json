@@ -1,0 +1,19 @@
+{
+  "slug": "aeschimann-innendekoration",
+  "name": "Aeschimann Innendekoration",
+  "domain": "aeschimann-innendekoration.ch",
+  "businessType": "Bodenbeläge",
+  "year": 2017,
+  "email": "aeschimanngmbh@bluewin.ch",
+  "phone": "+4198999816",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 246,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

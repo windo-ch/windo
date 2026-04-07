@@ -1,0 +1,19 @@
+{
+  "slug": "fuss-praxis",
+  "name": "Fuss Praxis",
+  "domain": "fuss-praxis.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2017,
+  "email": "team@fuss-praxis.ch",
+  "phone": "+4132451447",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 242,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

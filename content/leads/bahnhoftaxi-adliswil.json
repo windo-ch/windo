@@ -1,0 +1,19 @@
+{
+  "slug": "bahnhoftaxi-adliswil",
+  "name": "Bahnhoftaxi Adliswil",
+  "domain": "bahnhoftaxi-adliswil.ch",
+  "businessType": "Taxi",
+  "year": 2019,
+  "email": "gcuriale@d-a.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 251,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

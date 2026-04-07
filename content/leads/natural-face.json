@@ -1,0 +1,19 @@
+{
+  "slug": "natural-face",
+  "name": "Natural Face",
+  "domain": "natural-face.ch",
+  "businessType": "Kosmetik",
+  "year": 2024,
+  "email": "info@natural-face.ch",
+  "phone": "+4126070830",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 365,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

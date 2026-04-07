@@ -1,0 +1,19 @@
+{
+  "slug": "wohnsicht",
+  "name": "Wohnsicht",
+  "domain": "wohnsicht.ch",
+  "businessType": "Treuhand",
+  "year": 2023,
+  "email": "info@wohnsicht.ch",
+  "phone": "+414924154755",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 223,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

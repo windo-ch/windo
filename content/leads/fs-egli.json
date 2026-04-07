@@ -1,0 +1,19 @@
+{
+  "slug": "fs-egli",
+  "name": "Fs Egli",
+  "domain": "fs-egli.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "fahrschule.egli@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 283,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

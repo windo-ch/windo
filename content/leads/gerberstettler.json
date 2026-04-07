@@ -1,0 +1,19 @@
+{
+  "slug": "gerberstettler",
+  "name": "Gerberstettler",
+  "domain": "gerberstettler.ch",
+  "businessType": "Schreinerei",
+  "year": 2017,
+  "email": "info@gerberstettler.ch, gerber-stettler_ag@bluewin.ch",
+  "phone": "+4128576011",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 290,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

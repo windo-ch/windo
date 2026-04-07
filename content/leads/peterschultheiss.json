@@ -1,0 +1,19 @@
+{
+  "slug": "peterschultheiss",
+  "name": "Peterschultheiss",
+  "domain": "peterschultheiss.ch",
+  "businessType": "Maler",
+  "year": 2017,
+  "email": "peterschultheiss@intergga.ch",
+  "phone": "+412542950841",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 283,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

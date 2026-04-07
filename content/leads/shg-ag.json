@@ -1,0 +1,19 @@
+{
+  "slug": "shg-ag",
+  "name": "Shg AG",
+  "domain": "shg-ag.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2025,
+  "email": "info@shg-ag.ch, benjamin_huber@bluewin.ch",
+  "phone": "+4160508656",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 284,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

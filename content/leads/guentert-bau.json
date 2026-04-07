@@ -1,0 +1,19 @@
+{
+  "slug": "guentert-bau",
+  "name": "Guentert Bau",
+  "domain": "guentert-bau.ch",
+  "businessType": "Gartenbau",
+  "year": 2018,
+  "email": "info@guentert-bau.ch",
+  "phone": "+4128684565",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 249,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

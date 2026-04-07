@@ -1,0 +1,19 @@
+{
+  "slug": "kaminfeger-odermatt",
+  "name": "Kaminfeger Odermatt",
+  "domain": "kaminfeger-odermatt.ch",
+  "businessType": "Kaminfeger",
+  "year": 2022,
+  "email": "admin@kaminfeger-odermatt.ch",
+  "phone": "+4159993327",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

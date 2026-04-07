@@ -1,0 +1,19 @@
+{
+  "slug": "hansguedel-ag",
+  "name": "Hansguedel AG",
+  "domain": "hansguedel-ag.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "guedel.garten@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 282,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

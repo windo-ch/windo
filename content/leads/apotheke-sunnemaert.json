@@ -1,0 +1,19 @@
+{
+  "slug": "apotheke-sunnemaert",
+  "name": "Apotheke Sunnemaert",
+  "domain": "apotheke-sunnemaert.ch",
+  "businessType": "Apotheke",
+  "year": 2023,
+  "email": "info@apotheke-sunnemaert.ch, apo.sunne@hin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 239,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

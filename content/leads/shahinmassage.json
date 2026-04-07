@@ -1,0 +1,19 @@
+{
+  "slug": "shahinmassage",
+  "name": "Shahinmassage",
+  "domain": "shahinmassage.ch",
+  "businessType": "Wellness / Massage",
+  "year": 2025,
+  "email": "mail@shahinmassage.ch",
+  "phone": "+4152226614",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 268,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

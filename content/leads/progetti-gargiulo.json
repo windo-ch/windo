@@ -1,0 +1,19 @@
+{
+  "slug": "progetti-gargiulo",
+  "name": "Progetti Gargiulo",
+  "domain": "progetti-gargiulo.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2020,
+  "email": "giovanni@progetti-gargiulo.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 334,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

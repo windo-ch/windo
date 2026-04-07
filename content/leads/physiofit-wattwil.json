@@ -1,0 +1,19 @@
+{
+  "slug": "physiofit-wattwil",
+  "name": "Physiofit Wattwil",
+  "domain": "physiofit-wattwil.ch",
+  "businessType": "Physiotherapie",
+  "year": 2023,
+  "email": "info@physiofit-wattwil.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 2349,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

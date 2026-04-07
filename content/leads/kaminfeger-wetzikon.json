@@ -1,0 +1,19 @@
+{
+  "slug": "kaminfeger-wetzikon",
+  "name": "Kaminfeger Wetzikon",
+  "domain": "kaminfeger-wetzikon.ch",
+  "businessType": "Kaminfeger",
+  "year": 2022,
+  "email": "info@kaminfeger-wetzikon.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 274,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "muellerfleisch",
+  "name": "Muellerfleisch",
+  "domain": "muellerfleisch.ch",
+  "businessType": "Metzgerei",
+  "year": 2025,
+  "email": "info@muellerfleisch.ch",
+  "phone": "+413427188574, +417142857142, +4194758716",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 225,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

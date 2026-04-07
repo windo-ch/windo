@@ -1,0 +1,19 @@
+{
+  "slug": "intercoiffuresonja",
+  "name": "Intercoiffuresonja",
+  "domain": "intercoiffuresonja.ch",
+  "businessType": "Coiffeur",
+  "year": 2019,
+  "email": "coiffuresonja@bluewin.ch",
+  "phone": "+4157382090",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 266,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

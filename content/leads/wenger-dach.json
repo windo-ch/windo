@@ -1,0 +1,19 @@
+{
+  "slug": "wenger-dach",
+  "name": "Wenger Dach",
+  "domain": "wenger-dach.ch",
+  "businessType": "Bedachungen",
+  "year": 2018,
+  "email": "info@wenger-dach.ch",
+  "phone": "+4143875461, +412818410180, +4133437975",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 193,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

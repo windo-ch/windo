@@ -1,0 +1,19 @@
+{
+  "slug": "fahrschule-frischknecht",
+  "name": "Fahrschule Frischknecht",
+  "domain": "fahrschule-frischknecht.ch",
+  "businessType": "Fahrschule",
+  "year": 2019,
+  "email": "Fahrschule.Frischknecht@gmail.com, frischi1968@bluewin.ch",
+  "phone": "+4118053141",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 505,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

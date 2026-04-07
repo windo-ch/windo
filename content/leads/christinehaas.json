@@ -1,0 +1,19 @@
+{
+  "slug": "christinehaas",
+  "name": "Christinehaas",
+  "domain": "christinehaas.ch",
+  "businessType": "Kosmetik",
+  "year": 2020,
+  "email": "praxis@christinehaas.ch",
+  "phone": "+4173360839",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 299,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

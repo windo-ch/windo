@@ -1,0 +1,19 @@
+{
+  "slug": "streun-optik",
+  "name": "Streun Optik",
+  "domain": "streun-optik.ch",
+  "businessType": "Optiker",
+  "year": 2023,
+  "email": "streunoptik@sunrise.ch",
+  "phone": "+417475184754",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 297,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

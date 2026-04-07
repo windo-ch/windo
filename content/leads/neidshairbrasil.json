@@ -1,0 +1,19 @@
+{
+  "slug": "neidshairbrasil",
+  "name": "Neidshairbrasil",
+  "domain": "neidshairbrasil.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "neidek01@gmail.com",
+  "phone": "+4186621599",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 322,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

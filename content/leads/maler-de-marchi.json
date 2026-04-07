@@ -1,0 +1,19 @@
+{
+  "slug": "maler-de-marchi",
+  "name": "Maler De Marchi",
+  "domain": "maler-de-marchi.ch",
+  "businessType": "Maler",
+  "year": 2017,
+  "email": "bruno.demarchi@bluewin.ch, bruno.dermarchi@bluewin.ch",
+  "phone": "+4101842183",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 289,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

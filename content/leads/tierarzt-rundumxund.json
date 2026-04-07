@@ -1,0 +1,19 @@
+{
+  "slug": "tierarzt-rundumxund",
+  "name": "Tierarzt Rundumxund",
+  "domain": "tierarzt-rundumxund.ch",
+  "businessType": "Tierarzt",
+  "year": 2023,
+  "email": "rundumxund@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 258,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

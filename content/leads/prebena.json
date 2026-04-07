@@ -1,0 +1,19 @@
+{
+  "slug": "prebena",
+  "name": "Prebena",
+  "domain": "prebena.ch",
+  "businessType": "Bedachungen",
+  "year": 2018,
+  "email": "info@prebena.ch, info@immerag.ch",
+  "phone": "+4133346618, +419006188094",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 289,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

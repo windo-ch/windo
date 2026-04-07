@@ -1,0 +1,19 @@
+{
+  "slug": "leballon",
+  "name": "Leballon",
+  "domain": "leballon.ch",
+  "businessType": "Florist",
+  "year": 2018,
+  "email": "info@leballon.ch",
+  "phone": "+411931649331, +417142857142, +415357142857",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 518,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "maler-lemmel",
+  "name": "Maler Lemmel",
+  "domain": "maler-lemmel.ch",
+  "businessType": "Maler",
+  "year": 2018,
+  "email": "lemmel-arnold@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 272,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

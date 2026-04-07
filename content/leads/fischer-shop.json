@@ -1,0 +1,19 @@
+{
+  "slug": "fischer-shop",
+  "name": "Fischer Shop",
+  "domain": "fischer-shop.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2022,
+  "email": "info@fischer-shop.ch",
+  "phone": "+4167329464",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 223,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

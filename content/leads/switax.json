@@ -1,0 +1,19 @@
+{
+  "slug": "switax",
+  "name": "Switax",
+  "domain": "switax.ch",
+  "businessType": "Treuhand",
+  "year": 2017,
+  "email": "mail@switax.ch",
+  "phone": "+4156825166",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 257,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

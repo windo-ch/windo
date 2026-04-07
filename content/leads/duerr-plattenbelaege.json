@@ -1,0 +1,19 @@
+{
+  "slug": "duerr-plattenbelaege",
+  "name": "Duerr Plattenbelaege",
+  "domain": "duerr-plattenbelaege.ch",
+  "businessType": "Plattenleger",
+  "year": 2018,
+  "email": "markusduerr@bluewin.ch",
+  "phone": "+4177132239",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 268,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

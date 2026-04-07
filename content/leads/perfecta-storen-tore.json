@@ -1,0 +1,19 @@
+{
+  "slug": "perfecta-storen-tore",
+  "name": "Perfecta Storen Tore",
+  "domain": "perfecta-storen-tore.ch",
+  "businessType": "Storen",
+  "year": 2024,
+  "email": "info@perfecta-storen-tore.ch",
+  "phone": "+4126362721",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 391,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

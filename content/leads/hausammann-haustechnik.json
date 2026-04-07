@@ -1,0 +1,19 @@
+{
+  "slug": "hausammann-haustechnik",
+  "name": "Hausammann Haustechnik",
+  "domain": "hausammann-haustechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "aeschacher@bluewin.ch",
+  "phone": "+417474534653",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 286,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

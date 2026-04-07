@@ -1,0 +1,19 @@
+{
+  "slug": "solnovatec",
+  "name": "Solnovatec",
+  "domain": "solnovatec.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2025,
+  "email": "info@solnovatec.ch, hassan.abdi.q97@gmail.com",
+  "phone": "+4133450618",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 188,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

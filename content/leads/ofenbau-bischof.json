@@ -1,0 +1,19 @@
+{
+  "slug": "ofenbau-bischof",
+  "name": "Ofenbau Bischof",
+  "domain": "ofenbau-bischof.ch",
+  "businessType": "Ofenbau",
+  "year": 2019,
+  "email": "engelbert.bischof@bluewin.ch",
+  "phone": "+4175789151",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 278,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

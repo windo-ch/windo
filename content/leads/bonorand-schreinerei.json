@@ -1,0 +1,19 @@
+{
+  "slug": "bonorand-schreinerei",
+  "name": "Bonorand Schreinerei",
+  "domain": "bonorand-schreinerei.ch",
+  "businessType": "Schreinerei",
+  "year": 2023,
+  "email": "bonorand-guarda@bluewin.ch",
+  "phone": "+412510805131, +4174839368",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 278,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

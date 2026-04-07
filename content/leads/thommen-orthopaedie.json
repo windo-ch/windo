@@ -1,0 +1,19 @@
+{
+  "slug": "thommen-orthopaedie",
+  "name": "Thommen Orthopaedie",
+  "domain": "thommen-orthopaedie.ch",
+  "businessType": "Orthopädie",
+  "year": 2018,
+  "email": "info@thommen-orthopaedie.ch, THOMMEN.ORTHOPAEDIE@OSM-HIN.CH",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 224,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

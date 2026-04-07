@@ -1,0 +1,19 @@
+{
+  "slug": "buffetgampelsteg",
+  "name": "Buffetgampelsteg",
+  "domain": "buffetgampelsteg.ch",
+  "businessType": "Restaurant",
+  "year": 2018,
+  "email": "buffet.gampelsteg@gmail.com",
+  "phone": "+415407105317",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 237,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

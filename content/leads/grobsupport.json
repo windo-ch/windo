@@ -1,0 +1,19 @@
+{
+  "slug": "grobsupport",
+  "name": "Grobsupport",
+  "domain": "grobsupport.ch",
+  "businessType": "Reinigung",
+  "year": 2018,
+  "email": "wloghome@bluewin.ch",
+  "phone": "+4181833112",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 279,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

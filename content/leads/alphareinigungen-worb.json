@@ -1,0 +1,19 @@
+{
+  "slug": "alphareinigungen-worb",
+  "name": "Alphareinigungen Worb",
+  "domain": "alphareinigungen-worb.ch",
+  "businessType": "Reinigung",
+  "year": 2018,
+  "email": "info@alphareinigungen-worb.ch",
+  "phone": "+4141214389",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 272,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ilmosaico-coiffeur",
+  "name": "Ilmosaico Coiffeur",
+  "domain": "ilmosaico-coiffeur.ch",
+  "businessType": "Coiffeur",
+  "year": 2018,
+  "email": "ilmosaico@hotmail.ch",
+  "phone": "+4153230884",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 220,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

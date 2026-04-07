@@ -1,0 +1,19 @@
+{
+  "slug": "zubicar",
+  "name": "Zubicar",
+  "domain": "zubicar.ch",
+  "businessType": "Bedachungen",
+  "year": 2021,
+  "email": "info@zubicar.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 278,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

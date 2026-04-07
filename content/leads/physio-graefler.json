@@ -1,0 +1,19 @@
+{
+  "slug": "physio-graefler",
+  "name": "Physio Graefler",
+  "domain": "physio-graefler.ch",
+  "businessType": "Physiotherapie",
+  "year": 2022,
+  "email": "info@physio-graefler.ch, physio-graefler@physio-hin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 236,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "weinbar-roessli",
+  "name": "Weinbar Roessli",
+  "domain": "weinbar-roessli.ch",
+  "businessType": "Café / Bar",
+  "year": 2018,
+  "email": "roessli@langendorf.ch",
+  "phone": "+411626444124, +4144780328, +4176213160",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 942,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

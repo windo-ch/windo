@@ -1,0 +1,19 @@
+{
+  "slug": "gasthofzumbad-oberwilbeibueren",
+  "name": "Gasthofzumbad Oberwilbeibueren",
+  "domain": "gasthofzumbad-oberwilbeibueren.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "fritz-kunz@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 249,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

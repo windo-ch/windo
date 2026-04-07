@@ -1,0 +1,19 @@
+{
+  "slug": "coiffurehairstylistdaniela",
+  "name": "Coiffurehairstylistdaniela",
+  "domain": "coiffurehairstylistdaniela.ch",
+  "businessType": "Coiffeur",
+  "year": 2019,
+  "email": "coiffuredaniela@bluewin.ch",
+  "phone": "+4125417570",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 234,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "baeckereibott",
+  "name": "Baeckereibott",
+  "domain": "baeckereibott.ch",
+  "businessType": "Bäckerei",
+  "year": 2023,
+  "email": "caterina.bott@bluewin.ch",
+  "phone": "+4152428074",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 211,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

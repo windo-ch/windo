@@ -1,0 +1,19 @@
+{
+  "slug": "sabato-gipsermaler",
+  "name": "Sabato Gipsermaler",
+  "domain": "sabato-gipsermaler.ch",
+  "businessType": "Gipser",
+  "year": 2025,
+  "email": "info@claudiosabato.ch",
+  "phone": "+4168776503",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 225,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "huber-kanal",
+  "name": "Huber Kanal",
+  "domain": "huber-kanal.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "info@huber-kanal.ch",
+  "phone": "+4178461046",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 240,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "inaebnit-service",
+  "name": "Inaebnit Service",
+  "domain": "inaebnit-service.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2021,
+  "email": "inaebnit-haustechnik@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 285,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

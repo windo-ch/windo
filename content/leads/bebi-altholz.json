@@ -1,0 +1,19 @@
+{
+  "slug": "bebi-altholz",
+  "name": "Bebi Altholz",
+  "domain": "bebi-altholz.ch",
+  "businessType": "Schreinerei",
+  "year": 2025,
+  "email": "BEBI.ALTHOLZ@BLUEWIN.CH, bebi.altholz@bluewin.ch",
+  "phone": "+4154310077",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 247,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

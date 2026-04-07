@@ -1,0 +1,19 @@
+{
+  "slug": "na-bauag",
+  "name": "Na Bauag",
+  "domain": "na-bauag.ch",
+  "businessType": "Bauunternehmen",
+  "year": 2018,
+  "email": "info@na-bauag.ch, Nuferanderegg@bluewin.ch",
+  "phone": "+4173742855",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 243,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

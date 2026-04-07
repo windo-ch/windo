@@ -1,0 +1,19 @@
+{
+  "slug": "schreinerei-abtwil",
+  "name": "Schreinerei Abtwil",
+  "domain": "schreinerei-abtwil.ch",
+  "businessType": "Schreinerei",
+  "year": 2019,
+  "email": "schreinerei.wrechsteiner@bluewin.ch, andreas.lieberherr@gaiserwald.net",
+  "phone": "+4171966509",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 473,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

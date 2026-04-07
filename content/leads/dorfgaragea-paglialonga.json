@@ -1,0 +1,19 @@
+{
+  "slug": "dorfgaragea-paglialonga",
+  "name": "Dorfgaragea Paglialonga",
+  "domain": "dorfgaragea-paglialonga.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2023,
+  "email": "ap70@bluewin.ch",
+  "phone": "+4103916974",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 199,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

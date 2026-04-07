@@ -1,0 +1,19 @@
+{
+  "slug": "garageluethi-lotzwil",
+  "name": "Garageluethi Lotzwil",
+  "domain": "garageluethi-lotzwil.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2024,
+  "email": "garage.luethi@gmx.ch",
+  "phone": "+4160508656",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 257,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

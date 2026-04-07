@@ -1,0 +1,19 @@
+{
+  "slug": "cd-kosmetik",
+  "name": "Cd Kosmetik",
+  "domain": "cd-kosmetik.ch",
+  "businessType": "Kosmetik",
+  "year": 2020,
+  "email": "corneliadangelo@hotmail.com",
+  "phone": "+4192874685",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tiersbierweine",
+  "name": "Tiersbierweine",
+  "domain": "tiersbierweine.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "info@tiersbierweine.ch",
+  "phone": "+410137876503",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 264,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "schweizer-weinstube",
+  "name": "Schweizer Weinstube",
+  "domain": "schweizer-weinstube.ch",
+  "businessType": "Restaurant",
+  "year": 2019,
+  "email": "schweizerweinstube04@mail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 274,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

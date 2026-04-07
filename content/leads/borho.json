@@ -1,0 +1,19 @@
+{
+  "slug": "borho",
+  "name": "Borho",
+  "domain": "borho.ch",
+  "businessType": "Immobilien",
+  "year": 2024,
+  "email": "maler@borho.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tettiforster",
+  "name": "Tettiforster",
+  "domain": "tettiforster.ch",
+  "businessType": "Landmaschinen",
+  "year": 2024,
+  "email": "tettiforster@icloud.com, tuaemail@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 277,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

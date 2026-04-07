@@ -1,0 +1,19 @@
+{
+  "slug": "physio-obstgarten",
+  "name": "Physio Obstgarten",
+  "domain": "physio-obstgarten.ch",
+  "businessType": "Physiotherapie",
+  "year": 2022,
+  "email": "info@physio-obstgarten.ch, obstgarten@physio-hin.ch",
+  "phone": "+410649290604",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 249,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

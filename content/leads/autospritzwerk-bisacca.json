@@ -1,0 +1,19 @@
+{
+  "slug": "autospritzwerk-bisacca",
+  "name": "Autospritzwerk Bisacca",
+  "domain": "autospritzwerk-bisacca.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2021,
+  "email": "autospritzwerk.bisacca@outlook.com",
+  "phone": "+4129514429",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 220,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

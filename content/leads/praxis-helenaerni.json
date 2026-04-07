@@ -1,0 +1,19 @@
+{
+  "slug": "praxis-helenaerni",
+  "name": "Praxis Helenaerni",
+  "domain": "praxis-helenaerni.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2018,
+  "email": "helena.erni@bluewin.ch",
+  "phone": "+4181580360",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 234,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "anwaltsbuero-sonnenmoser-hrebik",
+  "name": "Anwaltsbuero Sonnenmoser Hrebik",
+  "domain": "anwaltsbuero-sonnenmoser-hrebik.ch",
+  "businessType": "Anwalt",
+  "year": 2017,
+  "email": "bsonnenmoser@bluewin.ch",
+  "phone": "+4154847759",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 276,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

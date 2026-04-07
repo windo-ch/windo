@@ -1,0 +1,19 @@
+{
+  "slug": "sk-productions",
+  "name": "Sk Productions",
+  "domain": "sk-productions.ch",
+  "businessType": "Immobilien",
+  "year": 2018,
+  "email": "info@sk-productions.ch",
+  "phone": "+4179940206, +4154135103",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 1708,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

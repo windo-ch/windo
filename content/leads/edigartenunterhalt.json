@@ -1,0 +1,19 @@
+{
+  "slug": "edigartenunterhalt",
+  "name": "Edigartenunterhalt",
+  "domain": "edigartenunterhalt.ch",
+  "businessType": "Gartenbau",
+  "year": 2024,
+  "email": "sap_ferreira@hotmail.com",
+  "phone": "+4139441338",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 232,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

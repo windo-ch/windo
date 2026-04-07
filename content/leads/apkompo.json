@@ -1,0 +1,19 @@
+{
+  "slug": "apkompo",
+  "name": "Apkompo",
+  "domain": "apkompo.ch",
+  "businessType": "Elektro",
+  "year": 2023,
+  "email": "mail@apkompo.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 233,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

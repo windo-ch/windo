@@ -1,0 +1,19 @@
+{
+  "slug": "wettstein-wanner",
+  "name": "Wettstein Wanner",
+  "domain": "wettstein-wanner.ch",
+  "businessType": "Bedachungen",
+  "year": 2018,
+  "email": "info@wettstein-wanner.ch",
+  "phone": "+4128562486",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 2334,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

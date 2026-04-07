@@ -1,0 +1,19 @@
+{
+  "slug": "wirz-storen",
+  "name": "Wirz Storen",
+  "domain": "wirz-storen.ch",
+  "businessType": "Storen",
+  "year": 2026,
+  "email": "info@wirz-storen.ch",
+  "phone": "+4160867141, +4128537872, +411381109379",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 261,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

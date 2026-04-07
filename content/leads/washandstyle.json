@@ -1,0 +1,19 @@
+{
+  "slug": "washandstyle",
+  "name": "Washandstyle",
+  "domain": "washandstyle.ch",
+  "businessType": "Coiffeur",
+  "year": 2024,
+  "email": "mirjamgilardoni@icloud.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 298,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "augenarzt-so",
+  "name": "Augenarzt So",
+  "domain": "augenarzt-so.ch",
+  "businessType": "Augenarzt",
+  "year": 2018,
+  "email": "augenarzt-so@hin.ch",
+  "phone": "+4165412574",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 237,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

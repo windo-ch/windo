@@ -1,0 +1,19 @@
+{
+  "slug": "silviameister",
+  "name": "Silviameister",
+  "domain": "silviameister.ch",
+  "businessType": "Landmaschinen",
+  "year": 2019,
+  "email": "info@silviameister.ch",
+  "phone": "+4165357504",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 241,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "zore",
+  "name": "Zore",
+  "domain": "zore.ch",
+  "businessType": "Immobilien",
+  "year": 2017,
+  "email": "zore.jungo@bluewin.ch",
+  "phone": "+4156559249",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 292,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "beat-berger",
+  "name": "Beat Berger",
+  "domain": "beat-berger.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "info@beat-berger.ch",
+  "phone": "+4119002847",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 233,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

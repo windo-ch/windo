@@ -1,0 +1,19 @@
+{
+  "slug": "kasa",
+  "name": "Kasa",
+  "domain": "kasa.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "info@kasa.ch",
+  "phone": "+4128594202",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 249,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

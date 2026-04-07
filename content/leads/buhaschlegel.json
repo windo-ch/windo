@@ -1,0 +1,19 @@
+{
+  "slug": "buhaschlegel",
+  "name": "Buhaschlegel",
+  "domain": "buhaschlegel.ch",
+  "businessType": "Treuhand",
+  "year": 2024,
+  "email": "edith.schlegel@buhaschlegel.ch, monika.kuster@buhaschlegel.ch, doris.schneider@buhaschlegel.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 230,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

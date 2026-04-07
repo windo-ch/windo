@@ -1,0 +1,19 @@
+{
+  "slug": "saladin-maler",
+  "name": "Saladin Maler",
+  "domain": "saladin-maler.ch",
+  "businessType": "Maler",
+  "year": 2024,
+  "email": "saladinmalergmbh@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 260,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

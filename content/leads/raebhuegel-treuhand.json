@@ -1,0 +1,19 @@
+{
+  "slug": "raebhuegel-treuhand",
+  "name": "Raebhuegel Treuhand",
+  "domain": "raebhuegel-treuhand.ch",
+  "businessType": "Treuhand",
+  "year": 2024,
+  "email": "info@raebhuegel-treuhand.ch",
+  "phone": "+419046817333",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 281,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

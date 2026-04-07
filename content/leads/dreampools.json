@@ -1,0 +1,19 @@
+{
+  "slug": "dreampools",
+  "name": "Dreampools",
+  "domain": "dreampools.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2021,
+  "email": "info@dreampools.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 242,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

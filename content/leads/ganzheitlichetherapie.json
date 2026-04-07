@@ -1,0 +1,19 @@
+{
+  "slug": "ganzheitlichetherapie",
+  "name": "Ganzheitlichetherapie",
+  "domain": "ganzheitlichetherapie.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2021,
+  "email": "piusmareischen@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 279,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tiptopreinigungenfl",
+  "name": "Tiptopreinigungenfl",
+  "domain": "tiptopreinigungenfl.ch",
+  "businessType": "Reinigung",
+  "year": 2022,
+  "email": "tiptop.reinigung55@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 287,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

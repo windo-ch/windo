@@ -1,0 +1,19 @@
+{
+  "slug": "altamiranda-kosmetik",
+  "name": "Altamiranda Kosmetik",
+  "domain": "altamiranda-kosmetik.ch",
+  "businessType": "Kosmetik",
+  "year": 2022,
+  "email": "info@altamiranda.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 221,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

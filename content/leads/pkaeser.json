@@ -1,0 +1,19 @@
+{
+  "slug": "pkaeser",
+  "name": "Pkaeser",
+  "domain": "pkaeser.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "info@pkaeser.ch",
+  "phone": "+4195888298",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 320,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

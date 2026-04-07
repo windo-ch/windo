@@ -1,0 +1,19 @@
+{
+  "slug": "salihi-reinigung",
+  "name": "Salihi Reinigung",
+  "domain": "salihi-reinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "info@salihi-reinigung.ch, enver.salihi@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 229,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

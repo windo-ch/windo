@@ -1,0 +1,19 @@
+{
+  "slug": "hauser-gastro",
+  "name": "Hauser Gastro",
+  "domain": "hauser-gastro.ch",
+  "businessType": "Küchenbau",
+  "year": 2024,
+  "email": "info@hauser-gastro.ch",
+  "phone": "+414957245470, +418085332752",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 244,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

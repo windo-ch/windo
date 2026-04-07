@@ -1,0 +1,19 @@
+{
+  "slug": "restaurant-utoburg",
+  "name": "Restaurant Utoburg",
+  "domain": "restaurant-utoburg.ch",
+  "businessType": "Restaurant",
+  "year": 2025,
+  "email": "packia@hotmail.ch",
+  "phone": "+4133180670, +4109980776, +4129496215",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 198,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

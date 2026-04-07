@@ -1,0 +1,19 @@
+{
+  "slug": "gjira-brows",
+  "name": "Gjira Brows",
+  "domain": "gjira-brows.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2018,
+  "email": "info@gjirabrows.ch, INFO@GJIRABROWS.CH",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 256,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

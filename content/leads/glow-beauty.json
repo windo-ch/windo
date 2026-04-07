@@ -1,0 +1,19 @@
+{
+  "slug": "glow-beauty",
+  "name": "Glow Beauty",
+  "domain": "glow-beauty.ch",
+  "businessType": "Kosmetik",
+  "year": 2018,
+  "email": "glowbeautybahar@hotmail.com",
+  "phone": "+414457602554",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 275,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

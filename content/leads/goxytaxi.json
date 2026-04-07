@@ -1,0 +1,19 @@
+{
+  "slug": "goxytaxi",
+  "name": "Goxytaxi",
+  "domain": "goxytaxi.ch",
+  "businessType": "Taxi",
+  "year": 2022,
+  "email": "goxytaxi@hotmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 274,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

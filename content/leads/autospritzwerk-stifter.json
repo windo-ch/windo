@@ -1,0 +1,19 @@
+{
+  "slug": "autospritzwerk-stifter",
+  "name": "Autospritzwerk Stifter",
+  "domain": "autospritzwerk-stifter.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2024,
+  "email": "juerg.stifter@bluewin.ch",
+  "phone": "+417474541429",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 262,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

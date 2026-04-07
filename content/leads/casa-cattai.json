@@ -1,0 +1,19 @@
+{
+  "slug": "casa-cattai",
+  "name": "Casa Cattai",
+  "domain": "casa-cattai.ch",
+  "businessType": "Gipser",
+  "year": 2018,
+  "email": "maler-casa-cattai@bluewin.ch",
+  "phone": "+418823529411, +418235294117, +417647058823",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 4936,
+    "slowLoad": true
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

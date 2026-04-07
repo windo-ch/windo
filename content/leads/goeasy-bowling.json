@@ -1,0 +1,19 @@
+{
+  "slug": "goeasy-bowling",
+  "name": "Goeasy Bowling",
+  "domain": "goeasy-bowling.ch",
+  "businessType": "Restaurant",
+  "year": 2022,
+  "email": "gastro@goeasy.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 263,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

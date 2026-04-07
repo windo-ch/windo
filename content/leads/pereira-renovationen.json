@@ -1,0 +1,19 @@
+{
+  "slug": "pereira-renovationen",
+  "name": "Pereira Renovationen",
+  "domain": "pereira-renovationen.ch",
+  "businessType": "Gipser",
+  "year": 2021,
+  "email": "info.pereira.renovationen@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 262,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

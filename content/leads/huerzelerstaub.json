@@ -1,0 +1,19 @@
+{
+  "slug": "huerzelerstaub",
+  "name": "Huerzelerstaub",
+  "domain": "huerzelerstaub.ch",
+  "businessType": "Gipser",
+  "year": 2019,
+  "email": "huerzelerstaub@bluewin.ch",
+  "phone": "+4157736309",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 267,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

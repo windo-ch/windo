@@ -1,0 +1,19 @@
+{
+  "slug": "gebrmaurer",
+  "name": "Gebrmaurer",
+  "domain": "gebrmaurer.ch",
+  "businessType": "Elektro",
+  "year": 2018,
+  "email": "wilma@bluewin.ch",
+  "phone": "+4120449373",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 321,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

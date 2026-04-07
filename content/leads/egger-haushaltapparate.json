@@ -1,0 +1,19 @@
+{
+  "slug": "egger-haushaltapparate",
+  "name": "Egger Haushaltapparate",
+  "domain": "egger-haushaltapparate.ch",
+  "businessType": "Plattenleger",
+  "year": 2017,
+  "email": "mail@egger-haushaltapparate.ch",
+  "phone": "+4120405993",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 264,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

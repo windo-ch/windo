@@ -1,0 +1,19 @@
+{
+  "slug": "rohr-storen",
+  "name": "Rohr Storen",
+  "domain": "rohr-storen.ch",
+  "businessType": "Storen",
+  "year": 2022,
+  "email": "info@rohr-storen.ch",
+  "phone": "+4128549733",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 504,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

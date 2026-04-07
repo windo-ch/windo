@@ -1,0 +1,19 @@
+{
+  "slug": "cutnlove",
+  "name": "Cutnlove",
+  "domain": "cutnlove.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2023,
+  "email": "sblandez@icloud.com, sblandez@icloude.com",
+  "phone": "+4181593054",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 276,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

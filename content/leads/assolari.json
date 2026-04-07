@@ -1,0 +1,19 @@
+{
+  "slug": "assolari",
+  "name": "Assolari",
+  "domain": "assolari.ch",
+  "businessType": "Treuhand",
+  "year": 2017,
+  "email": "mail@assolari.ch",
+  "phone": "+4104660710",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 155,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

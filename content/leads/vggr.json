@@ -1,0 +1,19 @@
+{
+  "slug": "vggr",
+  "name": "Vggr",
+  "domain": "vggr.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2024,
+  "email": "giger-tekin@hotmail.com, info@vggr.ch",
+  "phone": "+4178326447",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

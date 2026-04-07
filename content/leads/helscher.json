@@ -1,0 +1,19 @@
+{
+  "slug": "helscher",
+  "name": "Helscher",
+  "domain": "helscher.ch",
+  "businessType": "Treuhand",
+  "year": 2019,
+  "email": "helscher@bluewin.ch",
+  "phone": "+4152832082",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 270,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

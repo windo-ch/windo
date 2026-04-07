@@ -1,0 +1,19 @@
+{
+  "slug": "flurimhaustechnik",
+  "name": "Flurimhaustechnik",
+  "domain": "flurimhaustechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "info@flurimhaustechnik.ch",
+  "phone": "+416828713964",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 241,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

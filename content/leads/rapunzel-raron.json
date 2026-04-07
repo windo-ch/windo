@@ -1,0 +1,19 @@
+{
+  "slug": "rapunzel-raron",
+  "name": "Rapunzel Raron",
+  "domain": "rapunzel-raron.ch",
+  "businessType": "Coiffeur",
+  "year": 2024,
+  "email": "coiffeur.rapunzel@gmail.com",
+  "phone": "+415485899844",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 271,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

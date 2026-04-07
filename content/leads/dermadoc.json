@@ -1,0 +1,19 @@
+{
+  "slug": "dermadoc",
+  "name": "Dermadoc",
+  "domain": "dermadoc.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2024,
+  "email": "info.dermadoc@bluewin.ch, Pierre.deViragh@hin.ch",
+  "phone": "+418084861616",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 244,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

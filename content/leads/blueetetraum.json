@@ -1,0 +1,19 @@
+{
+  "slug": "blueetetraum",
+  "name": "Blueetetraum",
+  "domain": "blueetetraum.ch",
+  "businessType": "Florist",
+  "year": 2023,
+  "email": "info@blueetetraum.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 564,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

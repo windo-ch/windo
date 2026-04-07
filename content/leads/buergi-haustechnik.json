@@ -1,0 +1,19 @@
+{
+  "slug": "buergi-haustechnik",
+  "name": "Buergi Haustechnik",
+  "domain": "buergi-haustechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2025,
+  "email": "info@buergi-ht.ch",
+  "phone": "+4158792423",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 236,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

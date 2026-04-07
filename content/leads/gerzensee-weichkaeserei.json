@@ -1,0 +1,19 @@
+{
+  "slug": "gerzensee-weichkaeserei",
+  "name": "Gerzensee Weichkaeserei",
+  "domain": "gerzensee-weichkaeserei.ch",
+  "businessType": "Sonstige",
+  "year": 2020,
+  "email": "info@weichkaeserei-gerzensee.ch",
+  "phone": "+4185637753",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 253,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

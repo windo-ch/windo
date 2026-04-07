@@ -1,0 +1,19 @@
+{
+  "slug": "blumenhabitus",
+  "name": "Blumenhabitus",
+  "domain": "blumenhabitus.ch",
+  "businessType": "Florist",
+  "year": 2023,
+  "email": "regula.elmer@blumenhabitus.ch",
+  "phone": "+4131712305",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 301,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

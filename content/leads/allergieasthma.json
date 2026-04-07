@@ -1,0 +1,19 @@
+{
+  "slug": "allergieasthma",
+  "name": "Allergieasthma",
+  "domain": "allergieasthma.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2019,
+  "email": "info@allergieasthma.ch",
+  "phone": "+4125289113",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 281,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "massage-kipfer",
+  "name": "Massage Kipfer",
+  "domain": "massage-kipfer.ch",
+  "businessType": "Wellness / Massage",
+  "year": 2018,
+  "email": "b_kipfer@gmx.ch",
+  "phone": "+4152203731, +4176377009, +4187743273",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 366,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

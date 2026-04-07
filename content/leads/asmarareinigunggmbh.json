@@ -1,0 +1,19 @@
+{
+  "slug": "asmarareinigunggmbh",
+  "name": "Asmarareinigunggmbh",
+  "domain": "asmarareinigunggmbh.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "awet@asmaragmbh.ch, edenabraham82@gmail.com",
+  "phone": "+4174942856",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 227,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

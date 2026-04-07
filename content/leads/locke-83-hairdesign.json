@@ -1,0 +1,19 @@
+{
+  "slug": "locke-83-hairdesign",
+  "name": "Locke 83 Hairdesign",
+  "domain": "locke-83-hairdesign.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "sili.k@bluemail.ch",
+  "phone": "+4195165473",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 228,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

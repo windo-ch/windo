@@ -1,0 +1,19 @@
+{
+  "slug": "mathis-malerei",
+  "name": "Mathis Malerei",
+  "domain": "mathis-malerei.ch",
+  "businessType": "Maler",
+  "year": 2018,
+  "email": "info@malerei-mathis.ch",
+  "phone": "+4139818714",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 12259,
+    "slowLoad": true
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

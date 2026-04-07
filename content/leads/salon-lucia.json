@@ -1,0 +1,19 @@
+{
+  "slug": "salon-lucia",
+  "name": "Salon Lucia",
+  "domain": "salon-lucia.ch",
+  "businessType": "Coiffeur",
+  "year": 2026,
+  "email": "lucia.bove@hotmail.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 256,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "stuberlueftungen",
+  "name": "Stuberlueftungen",
+  "domain": "stuberlueftungen.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "info@stuberlueftungen.ch",
+  "phone": "+4177249014",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 241,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

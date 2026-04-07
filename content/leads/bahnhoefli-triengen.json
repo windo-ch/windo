@@ -1,0 +1,19 @@
+{
+  "slug": "bahnhoefli-triengen",
+  "name": "Bahnhoefli Triengen",
+  "domain": "bahnhoefli-triengen.ch",
+  "businessType": "Restaurant",
+  "year": 2024,
+  "email": "ida.qiupetruch@gmail.com",
+  "phone": "+4104224193",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 235,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

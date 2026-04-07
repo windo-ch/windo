@@ -1,0 +1,19 @@
+{
+  "slug": "da-autopflege",
+  "name": "Da Autopflege",
+  "domain": "da-autopflege.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2023,
+  "email": "info@da-autopflege.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 295,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

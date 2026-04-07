@@ -1,0 +1,19 @@
+{
+  "slug": "umzugs-engel",
+  "name": "Umzugs Engel",
+  "domain": "umzugs-engel.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2023,
+  "email": "mail@umzugs-engel.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 255,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-tropical",
+  "name": "Coiffeur Tropical",
+  "domain": "coiffeur-tropical.ch",
+  "businessType": "Coiffeur",
+  "year": 2022,
+  "email": "tropical5@hotmail.ch",
+  "phone": "+4124845248",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 251,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

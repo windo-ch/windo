@@ -1,0 +1,19 @@
+{
+  "slug": "bajramimaler",
+  "name": "Bajramimaler",
+  "domain": "bajramimaler.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "bajramimaler@gmail.com",
+  "phone": "+4175168034",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 308,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

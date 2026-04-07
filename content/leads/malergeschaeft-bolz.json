@@ -1,0 +1,19 @@
+{
+  "slug": "malergeschaeft-bolz",
+  "name": "Malergeschaeft Bolz",
+  "domain": "malergeschaeft-bolz.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "bolz.hilmar@bluewin.ch",
+  "phone": "+4158364781",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 221,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

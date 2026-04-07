@@ -1,0 +1,19 @@
+{
+  "slug": "gruetligarage",
+  "name": "Gruetligarage",
+  "domain": "gruetligarage.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2024,
+  "email": "info@gruetli-garage.ch",
+  "phone": "+4198982920",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 228,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

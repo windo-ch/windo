@@ -1,0 +1,19 @@
+{
+  "slug": "leu-baukeramik",
+  "name": "Leu Baukeramik",
+  "domain": "leu-baukeramik.ch",
+  "businessType": "Plattenleger",
+  "year": 2018,
+  "email": "info@leu-baukeramik.ch",
+  "phone": "+4103975325",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 227,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

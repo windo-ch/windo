@@ -1,0 +1,19 @@
+{
+  "slug": "christianpopp-garten-landschaftspflege",
+  "name": "Christianpopp Garten Landschaftspflege",
+  "domain": "christianpopp-garten-landschaftspflege.ch",
+  "businessType": "Gartenbau",
+  "year": 2018,
+  "email": "christianpoppgarten@bluewin.ch",
+  "phone": "+4138620446",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 303,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

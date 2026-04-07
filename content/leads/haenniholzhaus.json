@@ -1,0 +1,19 @@
+{
+  "slug": "haenniholzhaus",
+  "name": "Haenniholzhaus",
+  "domain": "haenniholzhaus.ch",
+  "businessType": "Schreinerei",
+  "year": 2024,
+  "email": "zimmerei.haenni@gmail.com",
+  "phone": "+4171024878",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 196,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fragmara",
+  "name": "Fragmara",
+  "domain": "fragmara.ch",
+  "businessType": "Handwerk",
+  "year": 2018,
+  "email": "info@fragmara.ch",
+  "phone": "+4177421149",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 399,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

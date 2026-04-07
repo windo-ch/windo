@@ -1,0 +1,19 @@
+{
+  "slug": "xn--haller-gerstbau-8vb",
+  "name": "Xn  Haller Gerstbau 8vb",
+  "domain": "xn--haller-gerstbau-8vb.ch",
+  "businessType": "Bauunternehmen",
+  "year": 2023,
+  "email": "kontakt@haller-geruestbau.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 310,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

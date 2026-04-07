@@ -1,0 +1,19 @@
+{
+  "slug": "meyer-meyer",
+  "name": "Meyer Meyer",
+  "domain": "meyer-meyer.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2023,
+  "email": "info@meyer-meyer.ch",
+  "phone": "+4131947418",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 272,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

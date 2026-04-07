@@ -1,0 +1,19 @@
+{
+  "slug": "40-ristorante",
+  "name": "40 Ristorante",
+  "domain": "40-ristorante.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "info@40-ristorante.ch",
+  "phone": "+4127220264",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 246,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

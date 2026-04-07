@@ -1,0 +1,19 @@
+{
+  "slug": "motusphysio-zug",
+  "name": "Motusphysio Zug",
+  "domain": "motusphysio-zug.ch",
+  "businessType": "Physiotherapie",
+  "year": 2024,
+  "email": "zug@motusphysio.ch, info@motusphysio.ch",
+  "phone": "+419277883040",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 291,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wunderlinag",
+  "name": "Wunderlinag",
+  "domain": "wunderlinag.ch",
+  "businessType": "Bodenbeläge",
+  "year": 2022,
+  "email": "info@wunderlinag.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 225,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

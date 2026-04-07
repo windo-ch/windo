@@ -1,0 +1,19 @@
+{
+  "slug": "xn--knzlermental-dlb",
+  "name": "Xn  Knzlermental Dlb",
+  "domain": "xn--knzlermental-dlb.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2023,
+  "email": "silviokuenzler@outlook.com",
+  "phone": "+4103411858",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 470,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

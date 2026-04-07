@@ -1,0 +1,19 @@
+{
+  "slug": "montagen-mueller",
+  "name": "Montagen Mueller",
+  "domain": "montagen-mueller.ch",
+  "businessType": "Treuhand",
+  "year": 2021,
+  "email": "martin.mueller@montagen-mueller.ch",
+  "phone": "+4131050895",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 246,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

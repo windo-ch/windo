@@ -1,0 +1,19 @@
+{
+  "slug": "fahrschule-bachmann",
+  "name": "Fahrschule Bachmann",
+  "domain": "fahrschule-bachmann.ch",
+  "businessType": "Fahrschule",
+  "year": 2023,
+  "email": "info@fahrschule-bachmann.ch",
+  "phone": "+4194799705",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

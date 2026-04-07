@@ -1,0 +1,19 @@
+{
+  "slug": "madoerin-ag",
+  "name": "Madoerin AG",
+  "domain": "madoerin-ag.ch",
+  "businessType": "Schreinerei",
+  "year": 2018,
+  "email": "madoerin-ag@bluewin.ch",
+  "phone": "+4157950478",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

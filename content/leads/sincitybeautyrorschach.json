@@ -1,0 +1,19 @@
+{
+  "slug": "sincitybeautyrorschach",
+  "name": "Sincitybeautyrorschach",
+  "domain": "sincitybeautyrorschach.ch",
+  "businessType": "Kosmetik",
+  "year": 2025,
+  "email": "sincitybeautyrorschach@gmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 228,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

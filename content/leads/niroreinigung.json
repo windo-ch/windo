@@ -1,0 +1,19 @@
+{
+  "slug": "niroreinigung",
+  "name": "Niroreinigung",
+  "domain": "niroreinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2022,
+  "email": "niroreinigung@gmail.com",
+  "phone": "+4120673350",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 436,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

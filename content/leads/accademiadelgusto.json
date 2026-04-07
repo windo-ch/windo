@@ -1,0 +1,19 @@
+{
+  "slug": "accademiadelgusto",
+  "name": "Accademiadelgusto",
+  "domain": "accademiadelgusto.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "info@accademiadelgusto.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 235,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "alhaustechnik",
+  "name": "Alhaustechnik",
+  "domain": "alhaustechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2025,
+  "email": "info@alhaustechnik.ch, al.haustechnikgmbh@gmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 257,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

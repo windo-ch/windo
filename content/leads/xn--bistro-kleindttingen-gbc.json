@@ -1,0 +1,19 @@
+{
+  "slug": "xn--bistro-kleindttingen-gbc",
+  "name": "Xn  Bistro Kleindttingen Gbc",
+  "domain": "xn--bistro-kleindttingen-gbc.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2025,
+  "email": "necirvan91@hotmail.com",
+  "phone": "+4133180670, +410116597014",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 283,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "atelier-haenseler",
+  "name": "Atelier Haenseler",
+  "domain": "atelier-haenseler.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "atelierhaenseler@bluewin.ch",
+  "phone": "+4126500671",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 405,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

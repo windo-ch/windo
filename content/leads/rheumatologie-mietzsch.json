@@ -1,0 +1,19 @@
+{
+  "slug": "rheumatologie-mietzsch",
+  "name": "Rheumatologie Mietzsch",
+  "domain": "rheumatologie-mietzsch.ch",
+  "businessType": "Rheumatologie",
+  "year": 2018,
+  "email": "rheumatologie@klinik-impuls.ch",
+  "phone": "+4135530349, +4166613252",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 289,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

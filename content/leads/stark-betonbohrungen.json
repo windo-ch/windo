@@ -1,0 +1,19 @@
+{
+  "slug": "stark-betonbohrungen",
+  "name": "Stark Betonbohrungen",
+  "domain": "stark-betonbohrungen.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "mstark@stark-betonbohrungen.ch",
+  "phone": "+4100317713",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 247,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "zoar-clean",
+  "name": "Zoar Clean",
+  "domain": "zoar-clean.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2021,
+  "email": "zoarclean@gmx.ch",
+  "phone": "+4101602932",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 342,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

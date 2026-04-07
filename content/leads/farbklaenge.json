@@ -1,0 +1,19 @@
+{
+  "slug": "farbklaenge",
+  "name": "Farbklaenge",
+  "domain": "farbklaenge.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "info@farbklaenge.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 263,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

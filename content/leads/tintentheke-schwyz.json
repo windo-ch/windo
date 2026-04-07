@@ -1,0 +1,19 @@
+{
+  "slug": "tintentheke-schwyz",
+  "name": "Tintentheke Schwyz",
+  "domain": "tintentheke-schwyz.ch",
+  "businessType": "Sonstige",
+  "year": 2020,
+  "email": "schwyz@tintentheke.ch",
+  "phone": "+4173454978",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 287,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "liegenschaftsverwalter-luzern",
+  "name": "Liegenschaftsverwalter Luzern",
+  "domain": "liegenschaftsverwalter-luzern.ch",
+  "businessType": "Immobilien",
+  "year": 2025,
+  "email": "info@liegenschaftsverwalter.ch",
+  "phone": "+417479393077, +4172171027, +4120192677",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 272,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

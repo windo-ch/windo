@@ -1,0 +1,19 @@
+{
+  "slug": "fensterplus",
+  "name": "Fensterplus",
+  "domain": "fensterplus.ch",
+  "businessType": "Storen",
+  "year": 2017,
+  "email": "info@glas-fenster.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

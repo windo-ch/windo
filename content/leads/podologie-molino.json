@@ -1,0 +1,19 @@
+{
+  "slug": "podologie-molino",
+  "name": "Podologie Molino",
+  "domain": "podologie-molino.ch",
+  "businessType": "Kosmetik",
+  "year": 2020,
+  "email": "info@podologmolino.ch",
+  "phone": "+4189269239",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 276,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

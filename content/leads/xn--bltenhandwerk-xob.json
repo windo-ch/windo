@@ -1,0 +1,19 @@
+{
+  "slug": "xn--bltenhandwerk-xob",
+  "name": "Xn  Bltenhandwerk Xob",
+  "domain": "xn--bltenhandwerk-xob.ch",
+  "businessType": "Florist",
+  "year": 2018,
+  "email": "bluetenhandwerk@bluewin.ch, bluetenhandwerk@bluewin.chwww.bl",
+  "phone": "+410050269821, +4125102603, +4114031397",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 753,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

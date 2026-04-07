@@ -1,0 +1,19 @@
+{
+  "slug": "fahrschule-steiner",
+  "name": "Fahrschule Steiner",
+  "domain": "fahrschule-steiner.ch",
+  "businessType": "Fahrschule",
+  "year": 2019,
+  "email": "fahrschule-steiner@gmx.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 287,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

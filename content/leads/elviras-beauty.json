@@ -1,0 +1,19 @@
+{
+  "slug": "elviras-beauty",
+  "name": "Elviras Beauty",
+  "domain": "elviras-beauty.ch",
+  "businessType": "Kosmetik",
+  "year": 2024,
+  "email": "karpatielvira@gmail.com",
+  "phone": "+4172747121",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 194,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

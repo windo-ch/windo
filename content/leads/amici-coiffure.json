@@ -1,0 +1,19 @@
+{
+  "slug": "amici-coiffure",
+  "name": "Amici Coiffure",
+  "domain": "amici-coiffure.ch",
+  "businessType": "Coiffeur",
+  "year": 2017,
+  "email": "amicicoiffure@gmail.com",
+  "phone": "+410099717502",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 307,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

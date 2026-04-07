@@ -1,0 +1,19 @@
+{
+  "slug": "aephysio",
+  "name": "Aephysio",
+  "domain": "aephysio.ch",
+  "businessType": "Physiotherapie",
+  "year": 2017,
+  "email": "aefisio@gmx.net",
+  "phone": "+4121317430",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 299,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

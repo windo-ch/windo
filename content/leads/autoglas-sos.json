@@ -1,0 +1,19 @@
+{
+  "slug": "autoglas-sos",
+  "name": "Autoglas Sos",
+  "domain": "autoglas-sos.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2020,
+  "email": "contact@sos-autoglas.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 299,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

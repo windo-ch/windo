@@ -1,0 +1,19 @@
+{
+  "slug": "xn--khnetransport-wob",
+  "name": "Xn  Khnetransport Wob",
+  "domain": "xn--khnetransport-wob.ch",
+  "businessType": "Landmaschinen",
+  "year": 2023,
+  "email": "kuehnetrans@bluewin.ch",
+  "phone": "+4175178575",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 202,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

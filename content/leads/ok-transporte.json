@@ -1,0 +1,19 @@
+{
+  "slug": "ok-transporte",
+  "name": "Ok Transporte",
+  "domain": "ok-transporte.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2023,
+  "email": "info@ok-transporte.ch",
+  "phone": "+410725867567, +4180484160, +4114436864",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

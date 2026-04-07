@@ -1,0 +1,19 @@
+{
+  "slug": "infanger-baggerbetrieb",
+  "name": "Infanger Baggerbetrieb",
+  "domain": "infanger-baggerbetrieb.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "infanger-baggerbetrieb@hotmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 259,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

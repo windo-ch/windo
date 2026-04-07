@@ -1,0 +1,19 @@
+{
+  "slug": "malerjanser",
+  "name": "Malerjanser",
+  "domain": "malerjanser.ch",
+  "businessType": "Gipser",
+  "year": 2023,
+  "email": "info@malerjanser.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 264,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

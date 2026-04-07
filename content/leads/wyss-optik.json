@@ -1,0 +1,19 @@
+{
+  "slug": "wyss-optik",
+  "name": "Wyss Optik",
+  "domain": "wyss-optik.ch",
+  "businessType": "Optiker",
+  "year": 2020,
+  "email": "info@wyss-optik.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 257,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "enes-haustechnik",
+  "name": "Enes Haustechnik",
+  "domain": "enes-haustechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2017,
+  "email": "enes-haustechnik@gmx.net",
+  "phone": "+4117467440",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 247,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

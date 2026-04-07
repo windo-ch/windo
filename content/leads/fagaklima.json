@@ -1,0 +1,19 @@
+{
+  "slug": "fagaklima",
+  "name": "Fagaklima",
+  "domain": "fagaklima.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2020,
+  "email": "info@fagaklima.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 227,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

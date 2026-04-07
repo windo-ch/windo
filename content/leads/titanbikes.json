@@ -1,0 +1,19 @@
+{
+  "slug": "titanbikes",
+  "name": "Titanbikes",
+  "domain": "titanbikes.ch",
+  "businessType": "Handwerk",
+  "year": 2024,
+  "email": "info@titanbikes.ch, verkauf@titanbikes.ch",
+  "phone": "+418084794063",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 226,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

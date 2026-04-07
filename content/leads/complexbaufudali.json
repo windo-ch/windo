@@ -1,0 +1,19 @@
+{
+  "slug": "complexbaufudali",
+  "name": "Complexbaufudali",
+  "domain": "complexbaufudali.ch",
+  "businessType": "Elektro",
+  "year": 2017,
+  "email": "complexbaufudali@gmail.com, info@theiler-uster.ch",
+  "phone": "+4181762779",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 255,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

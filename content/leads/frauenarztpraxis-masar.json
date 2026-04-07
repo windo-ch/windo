@@ -1,0 +1,19 @@
+{
+  "slug": "frauenarztpraxis-masar",
+  "name": "Frauenarztpraxis Masar",
+  "domain": "frauenarztpraxis-masar.ch",
+  "businessType": "Gynäkologie",
+  "year": 2018,
+  "email": "zuzana.masar@hin.ch, suzana.masar@hin.ch",
+  "phone": "+4112655025",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 191,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

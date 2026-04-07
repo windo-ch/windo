@@ -1,0 +1,19 @@
+{
+  "slug": "variagarten",
+  "name": "Variagarten",
+  "domain": "variagarten.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "info@variagarten.ch",
+  "phone": "+4186621599",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 234,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

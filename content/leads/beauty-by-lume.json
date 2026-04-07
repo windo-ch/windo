@@ -1,0 +1,19 @@
+{
+  "slug": "beauty-by-lume",
+  "name": "Beauty By Lume",
+  "domain": "beauty-by-lume.ch",
+  "businessType": "Kosmetik",
+  "year": 2023,
+  "email": "beauty.by.lumee@gmail.com",
+  "phone": "+4175142322",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 313,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

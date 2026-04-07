@@ -1,0 +1,19 @@
+{
+  "slug": "garage-bregenzer",
+  "name": "Garage Bregenzer",
+  "domain": "garage-bregenzer.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2018,
+  "email": "fabian.bregenzer@bluewin.ch",
+  "phone": "+4179081158",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 318,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "trockendampf-reinigung",
+  "name": "Trockendampf Reinigung",
+  "domain": "trockendampf-reinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "puentenerrita@bluewin.ch",
+  "phone": "+4116692802",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 179,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

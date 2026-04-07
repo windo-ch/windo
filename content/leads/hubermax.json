@@ -1,0 +1,19 @@
+{
+  "slug": "hubermax",
+  "name": "Hubermax",
+  "domain": "hubermax.ch",
+  "businessType": "Bedachungen",
+  "year": 2018,
+  "email": "info@hubermax.ch",
+  "phone": "+4135413747",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 255,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

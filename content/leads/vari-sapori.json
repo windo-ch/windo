@@ -1,0 +1,19 @@
+{
+  "slug": "vari-sapori",
+  "name": "Vari Sapori",
+  "domain": "vari-sapori.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "info@vari-sapori.ch, antonino.disilvestro@hotmail.ch",
+  "phone": "+4161983800",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 292,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

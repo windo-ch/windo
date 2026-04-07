@@ -1,0 +1,19 @@
+{
+  "slug": "krebshotel",
+  "name": "Krebshotel",
+  "domain": "krebshotel.ch",
+  "businessType": "Anwalt",
+  "year": 2021,
+  "email": "info@krebshotel.ch, direktion@krebshotel.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 309,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

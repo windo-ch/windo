@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeurglam",
+  "name": "Coiffeurglam",
+  "domain": "coiffeurglam.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "coiffeur.glam@hotmail.com, coiffeurglam@hotmail.com, .glam@hotmail.com",
+  "phone": "+4174983091",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 293,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-annarita",
+  "name": "Coiffeur Annarita",
+  "domain": "coiffeur-annarita.ch",
+  "businessType": "Coiffeur",
+  "year": 2024,
+  "email": "annarita.hofmann@hotmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 245,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

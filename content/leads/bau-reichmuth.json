@@ -1,0 +1,19 @@
+{
+  "slug": "bau-reichmuth",
+  "name": "Bau Reichmuth",
+  "domain": "bau-reichmuth.ch",
+  "businessType": "Bedachungen",
+  "year": 2024,
+  "email": "info@reichmuthbau.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 267,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

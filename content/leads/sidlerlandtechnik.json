@@ -1,0 +1,19 @@
+{
+  "slug": "sidlerlandtechnik",
+  "name": "Sidlerlandtechnik",
+  "domain": "sidlerlandtechnik.ch",
+  "businessType": "Landmaschinen",
+  "year": 2022,
+  "email": "info@sidlerlandtechnik.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 238,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

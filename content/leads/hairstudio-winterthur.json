@@ -1,0 +1,19 @@
+{
+  "slug": "hairstudio-winterthur",
+  "name": "Hairstudio Winterthur",
+  "domain": "hairstudio-winterthur.ch",
+  "businessType": "Coiffeur",
+  "year": 2019,
+  "email": "renata16.09@icloud.com",
+  "phone": "+4163698842",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 277,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

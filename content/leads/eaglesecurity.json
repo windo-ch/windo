@@ -1,0 +1,19 @@
+{
+  "slug": "eaglesecurity",
+  "name": "Eaglesecurity",
+  "domain": "eaglesecurity.ch",
+  "businessType": "Treuhand",
+  "year": 2018,
+  "email": "thun@eaglesecurity.ch, bern@eaglesecurity.ch, info@eaglesecurity.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 225,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

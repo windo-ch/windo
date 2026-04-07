@@ -1,0 +1,19 @@
+{
+  "slug": "gaertner-widmer",
+  "name": "Gaertner Widmer",
+  "domain": "gaertner-widmer.ch",
+  "businessType": "Immobilien",
+  "year": 2021,
+  "email": "info@gaertner-widmer.ch",
+  "phone": "+4144576674",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 329,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

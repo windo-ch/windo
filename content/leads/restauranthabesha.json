@@ -1,0 +1,19 @@
+{
+  "slug": "restauranthabesha",
+  "name": "Restauranthabesha",
+  "domain": "restauranthabesha.ch",
+  "businessType": "Restaurant",
+  "year": 2018,
+  "email": "habeshar.restau@gmail.com, habesharestbienne@gmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 258,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

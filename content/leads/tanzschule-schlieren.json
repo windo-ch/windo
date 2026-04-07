@@ -1,0 +1,19 @@
+{
+  "slug": "tanzschule-schlieren",
+  "name": "Tanzschule Schlieren",
+  "domain": "tanzschule-schlieren.ch",
+  "businessType": "Tanzschule",
+  "year": 2023,
+  "email": "tanzschule.schlieren@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 231,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "stadelmann-malergeschaeft",
+  "name": "Stadelmann Malergeschaeft",
+  "domain": "stadelmann-malergeschaeft.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "benno.stadelmann@gmail.com",
+  "phone": "+4121528522",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 354,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

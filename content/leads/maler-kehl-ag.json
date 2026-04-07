@@ -1,0 +1,19 @@
+{
+  "slug": "maler-kehl-ag",
+  "name": "Maler Kehl AG",
+  "domain": "maler-kehl-ag.ch",
+  "businessType": "Maler",
+  "year": 2017,
+  "email": "kehl.ag.office@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 204,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

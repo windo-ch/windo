@@ -1,0 +1,19 @@
+{
+  "slug": "club59",
+  "name": "Club59",
+  "domain": "club59.ch",
+  "businessType": "Sonstige",
+  "year": 2017,
+  "email": "info@fiftynine.ch",
+  "phone": "+4174676273",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

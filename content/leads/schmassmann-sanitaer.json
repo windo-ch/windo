@@ -1,0 +1,19 @@
+{
+  "slug": "schmassmann-sanitaer",
+  "name": "Schmassmann Sanitaer",
+  "domain": "schmassmann-sanitaer.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "schmassmannag@bluewin.ch",
+  "phone": "+4193932664, +413881911920, +417474963990",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 256,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

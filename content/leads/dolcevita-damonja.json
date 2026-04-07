@@ -1,0 +1,19 @@
+{
+  "slug": "dolcevita-damonja",
+  "name": "Dolcevita Damonja",
+  "domain": "dolcevita-damonja.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "monja.parolini@bluewin.ch",
+  "phone": "+416742451920",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 296,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

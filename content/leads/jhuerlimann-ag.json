@@ -1,0 +1,19 @@
+{
+  "slug": "jhuerlimann-ag",
+  "name": "Jhuerlimann AG",
+  "domain": "jhuerlimann-ag.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2021,
+  "email": "info@jhuerlimann.ch, nfo@jhuerlimann.ch",
+  "phone": "+4137379966",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 456,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

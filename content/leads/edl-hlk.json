@@ -1,0 +1,19 @@
+{
+  "slug": "edl-hlk",
+  "name": "Edl Hlk",
+  "domain": "edl-hlk.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2023,
+  "email": "edl-hlk@outlook.com",
+  "phone": "+413568588851",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 281,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

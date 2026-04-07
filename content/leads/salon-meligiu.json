@@ -1,0 +1,19 @@
+{
+  "slug": "salon-meligiu",
+  "name": "Salon Meligiu",
+  "domain": "salon-meligiu.ch",
+  "businessType": "Coiffeur",
+  "year": 2021,
+  "email": "info@salon-meligiu.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 253,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

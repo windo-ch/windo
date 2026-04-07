@@ -1,0 +1,19 @@
+{
+  "slug": "martinsreinigung",
+  "name": "Martinsreinigung",
+  "domain": "martinsreinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "info@martinsreinigung.ch",
+  "phone": "+415408274054",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 799,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

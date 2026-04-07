@@ -1,0 +1,19 @@
+{
+  "slug": "kitafruchtzwerg",
+  "name": "Kitafruchtzwerg",
+  "domain": "kitafruchtzwerg.ch",
+  "businessType": "Kinderbetreuung",
+  "year": 2024,
+  "email": "bremgarten@kitafruchtzwerg.ch, figoe@kitafruchtzwerg.ch, kitaleitung-fruchtzwerg@hotmail.com",
+  "phone": "+4144789790",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 208,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

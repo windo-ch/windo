@@ -1,0 +1,19 @@
+{
+  "slug": "luebkebau",
+  "name": "Luebkebau",
+  "domain": "luebkebau.ch",
+  "businessType": "Gipser",
+  "year": 2019,
+  "email": "luebkebau@bluewin.ch, info@luebkebau.ch",
+  "phone": "+4181841405",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 291,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

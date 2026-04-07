@@ -1,0 +1,19 @@
+{
+  "slug": "arnoldsystems",
+  "name": "Arnoldsystems",
+  "domain": "arnoldsystems.ch",
+  "businessType": "Bedachungen",
+  "year": 2024,
+  "email": "info@arnoldsystems.ch",
+  "phone": "+4186105259",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 307,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

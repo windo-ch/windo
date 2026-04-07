@@ -1,0 +1,19 @@
+{
+  "slug": "ferreira-reinigung",
+  "name": "Ferreira Reinigung",
+  "domain": "ferreira-reinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2018,
+  "email": "irene-ferreira33@hotmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 281,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

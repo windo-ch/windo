@@ -1,0 +1,19 @@
+{
+  "slug": "kosmetikstudio-im-hof",
+  "name": "Kosmetikstudio Im Hof",
+  "domain": "kosmetikstudio-im-hof.ch",
+  "businessType": "Kosmetik",
+  "year": 2024,
+  "email": "m.marni@bluewin.ch",
+  "phone": "+419023270816",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 200,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

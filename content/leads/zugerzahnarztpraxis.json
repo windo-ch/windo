@@ -1,0 +1,19 @@
+{
+  "slug": "zugerzahnarztpraxis",
+  "name": "Zugerzahnarztpraxis",
+  "domain": "zugerzahnarztpraxis.ch",
+  "businessType": "Zahnarzt",
+  "year": 2022,
+  "email": "alexander_hoelzle@gmx.ch",
+  "phone": "+4141620982",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 236,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

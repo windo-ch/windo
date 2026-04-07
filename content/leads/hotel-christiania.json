@@ -1,0 +1,19 @@
+{
+  "slug": "hotel-christiania",
+  "name": "Hotel Christiania",
+  "domain": "hotel-christiania.ch",
+  "businessType": "Hotel",
+  "year": 2023,
+  "email": "info@hotel-christiania.ch, hotel.christiania@bluewin.ch",
+  "phone": "+4140133014",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 309,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

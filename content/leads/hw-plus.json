@@ -1,0 +1,19 @@
+{
+  "slug": "hw-plus",
+  "name": "Hw Plus",
+  "domain": "hw-plus.ch",
+  "businessType": "Apotheke",
+  "year": 2023,
+  "email": "kovaci.reinigung@aol.ch",
+  "phone": "+4162639857",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 431,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

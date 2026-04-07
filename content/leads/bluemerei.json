@@ -1,0 +1,19 @@
+{
+  "slug": "bluemerei",
+  "name": "Bluemerei",
+  "domain": "bluemerei.ch",
+  "businessType": "Florist",
+  "year": 2023,
+  "email": "blumen@bluemerei.ch",
+  "phone": "+4152366200",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 240,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

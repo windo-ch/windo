@@ -1,0 +1,19 @@
+{
+  "slug": "malerei-riner",
+  "name": "Malerei Riner",
+  "domain": "malerei-riner.ch",
+  "businessType": "Maler",
+  "year": 2019,
+  "email": "thomas.riner@bluewin.ch",
+  "phone": "+4179297088",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 218,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

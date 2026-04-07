@@ -1,0 +1,19 @@
+{
+  "slug": "sem-steuerberatung",
+  "name": "Sem Steuerberatung",
+  "domain": "sem-steuerberatung.ch",
+  "businessType": "Treuhand",
+  "year": 2018,
+  "email": "s.e.m.steuerberatung@bluewin.ch",
+  "phone": "+4176412226, +417192554557",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 302,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

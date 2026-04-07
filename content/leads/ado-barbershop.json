@@ -1,0 +1,19 @@
+{
+  "slug": "ado-barbershop",
+  "name": "Ado Barbershop",
+  "domain": "ado-barbershop.ch",
+  "businessType": "Coiffeur",
+  "year": 2025,
+  "email": "adham.bijo2004@icloud.com",
+  "phone": "+4153192251",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 280,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

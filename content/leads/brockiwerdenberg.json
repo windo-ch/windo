@@ -1,0 +1,19 @@
+{
+  "slug": "brockiwerdenberg",
+  "name": "Brockiwerdenberg",
+  "domain": "brockiwerdenberg.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2023,
+  "email": "brockiwerdenberg@bluewin.ch",
+  "phone": "+417811355344",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 428,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

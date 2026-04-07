@@ -1,0 +1,19 @@
+{
+  "slug": "loderag",
+  "name": "Loderag",
+  "domain": "loderag.ch",
+  "businessType": "Bedachungen",
+  "year": 2024,
+  "email": "loder@loderag.ch",
+  "phone": "+417406091577",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 419,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

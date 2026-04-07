@@ -1,0 +1,19 @@
+{
+  "slug": "kaminfeger-markwalder",
+  "name": "Kaminfeger Markwalder",
+  "domain": "kaminfeger-markwalder.ch",
+  "businessType": "Kaminfeger",
+  "year": 2023,
+  "email": "kaminfeger.markwalder@ggaweb.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

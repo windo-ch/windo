@@ -1,0 +1,19 @@
+{
+  "slug": "restaurant-nonsolotreno",
+  "name": "Restaurant Nonsolotreno",
+  "domain": "restaurant-nonsolotreno.ch",
+  "businessType": "Restaurant",
+  "year": 2018,
+  "email": "restaurant@non-solo-treno.ch",
+  "phone": "+418084644445",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 234,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hongkongdragon",
+  "name": "Hongkongdragon",
+  "domain": "hongkongdragon.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "info@hongkongdragon.ch",
+  "phone": "+4197298254",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 329,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

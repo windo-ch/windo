@@ -1,0 +1,19 @@
+{
+  "slug": "whw1920-alarmanlagen",
+  "name": "Whw1920 Alarmanlagen",
+  "domain": "whw1920-alarmanlagen.ch",
+  "businessType": "Kosmetik",
+  "year": 2021,
+  "email": "info@whw1920.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 283,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

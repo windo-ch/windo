@@ -1,0 +1,19 @@
+{
+  "slug": "spadinhaustechnik",
+  "name": "Spadinhaustechnik",
+  "domain": "spadinhaustechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "info@spadinhaustechnik.ch",
+  "phone": "+4105474161",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 313,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

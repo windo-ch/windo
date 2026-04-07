@@ -1,0 +1,19 @@
+{
+  "slug": "krebs-sanitaer",
+  "name": "Krebs Sanitaer",
+  "domain": "krebs-sanitaer.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "andres.krebs@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 199,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

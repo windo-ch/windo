@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeurhaircools",
+  "name": "Coiffeurhaircools",
+  "domain": "coiffeurhaircools.ch",
+  "businessType": "Coiffeur",
+  "year": 2019,
+  "email": "monika.suter1983@gmail.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 306,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

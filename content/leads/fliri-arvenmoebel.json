@@ -1,0 +1,19 @@
+{
+  "slug": "fliri-arvenmoebel",
+  "name": "Fliri Arvenmoebel",
+  "domain": "fliri-arvenmoebel.ch",
+  "businessType": "Schreinerei",
+  "year": 2024,
+  "email": "info@fliri-arvenmoebel.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 247,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

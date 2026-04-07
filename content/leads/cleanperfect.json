@@ -1,0 +1,19 @@
+{
+  "slug": "cleanperfect",
+  "name": "Cleanperfect",
+  "domain": "cleanperfect.ch",
+  "businessType": "Reinigung",
+  "year": 2025,
+  "email": "info@cleanperfect.ch",
+  "phone": "+4165301344",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 264,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

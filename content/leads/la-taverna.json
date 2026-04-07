@@ -1,0 +1,19 @@
+{
+  "slug": "la-taverna",
+  "name": "La Taverna",
+  "domain": "la-taverna.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "info@la-taverna.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 257,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

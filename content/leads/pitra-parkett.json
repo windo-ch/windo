@@ -1,0 +1,19 @@
+{
+  "slug": "pitra-parkett",
+  "name": "Pitra Parkett",
+  "domain": "pitra-parkett.ch",
+  "businessType": "Bodenbeläge",
+  "year": 2017,
+  "email": "info@pitra-parkett.ch",
+  "phone": "+4100997009",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 245,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

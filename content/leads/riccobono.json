@@ -1,0 +1,19 @@
+{
+  "slug": "riccobono",
+  "name": "Riccobono",
+  "domain": "riccobono.ch",
+  "businessType": "Gipser",
+  "year": 2020,
+  "email": "mail@riccobono.ch",
+  "phone": "+4156250656",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 315,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

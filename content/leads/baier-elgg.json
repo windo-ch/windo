@@ -1,0 +1,19 @@
+{
+  "slug": "baier-elgg",
+  "name": "Baier Elgg",
+  "domain": "baier-elgg.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2023,
+  "email": "info@baier-elgg.ch",
+  "phone": "+415049856414",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 384,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

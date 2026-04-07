@@ -1,0 +1,19 @@
+{
+  "slug": "gruenfeldpraxis",
+  "name": "Gruenfeldpraxis",
+  "domain": "gruenfeldpraxis.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2023,
+  "email": "gfp4123@bluewin.ch",
+  "phone": "+4141425716",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "holzbau-stieger",
+  "name": "Holzbau Stieger",
+  "domain": "holzbau-stieger.ch",
+  "businessType": "Schreinerei",
+  "year": 2018,
+  "email": "stieger-holzbau@bluewin.ch",
+  "phone": "+4181302136, +416089635922",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 273,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

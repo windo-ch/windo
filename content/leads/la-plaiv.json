@@ -1,0 +1,19 @@
+{
+  "slug": "la-plaiv",
+  "name": "La Plaiv",
+  "domain": "la-plaiv.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2023,
+  "email": "info.laplaiv@gmail.com",
+  "phone": "+4141049689",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 283,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

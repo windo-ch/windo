@@ -1,0 +1,19 @@
+{
+  "slug": "hairstudiosafran",
+  "name": "Hairstudiosafran",
+  "domain": "hairstudiosafran.ch",
+  "businessType": "Coiffeur",
+  "year": 2025,
+  "email": "hairstudio.safran@gmx.ch",
+  "phone": "+4134717373",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 242,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "nuzzolo",
+  "name": "Nuzzolo",
+  "domain": "nuzzolo.ch",
+  "businessType": "Reinigung",
+  "year": 2017,
+  "email": "contact@nuzzolo.ch",
+  "phone": "+4104718269",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 269,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

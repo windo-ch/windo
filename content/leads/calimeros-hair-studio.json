@@ -1,0 +1,19 @@
+{
+  "slug": "calimeros-hair-studio",
+  "name": "Calimeros Hair Studio",
+  "domain": "calimeros-hair-studio.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "calimeros.hair@bluewin.ch",
+  "phone": "+4170744099",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 295,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

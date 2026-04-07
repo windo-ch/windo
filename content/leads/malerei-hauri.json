@@ -1,0 +1,19 @@
+{
+  "slug": "malerei-hauri",
+  "name": "Malerei Hauri",
+  "domain": "malerei-hauri.ch",
+  "businessType": "Maler",
+  "year": 2018,
+  "email": "malerei.hauri@bluewin.ch",
+  "phone": "+4176100276",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 249,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

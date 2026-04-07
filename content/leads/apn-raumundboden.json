@@ -1,0 +1,19 @@
+{
+  "slug": "apn-raumundboden",
+  "name": "Apn Raumundboden",
+  "domain": "apn-raumundboden.ch",
+  "businessType": "Schreinerei",
+  "year": 2022,
+  "email": "info@apn-raumundboden.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 242,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "maler-schwarten",
+  "name": "Maler Schwarten",
+  "domain": "maler-schwarten.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "malergeschaeft.schwarten@bluewin.ch",
+  "phone": "+4174796069",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

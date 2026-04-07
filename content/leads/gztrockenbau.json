@@ -1,0 +1,19 @@
+{
+  "slug": "gztrockenbau",
+  "name": "Gztrockenbau",
+  "domain": "gztrockenbau.ch",
+  "businessType": "Gipser",
+  "year": 2023,
+  "email": "gztrockenbau@hotmail.com, xamouco86@hotmail.com",
+  "phone": "+413255079919",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 249,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

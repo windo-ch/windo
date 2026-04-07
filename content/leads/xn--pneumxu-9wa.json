@@ -1,0 +1,19 @@
+{
+  "slug": "xn--pneumxu-9wa",
+  "name": "Xn  Pneumxu 9wa",
+  "domain": "xn--pneumxu-9wa.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2024,
+  "email": "max.merkli@pneumaexu.ch",
+  "phone": "+418512600690",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 234,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "restaurant-station",
+  "name": "Restaurant Station",
+  "domain": "restaurant-station.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "gaby-hafner@bluewin.ch",
+  "phone": "+413140897246",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 238,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

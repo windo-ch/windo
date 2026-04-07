@@ -1,0 +1,19 @@
+{
+  "slug": "sieber-reisen",
+  "name": "Sieber Reisen",
+  "domain": "sieber-reisen.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2023,
+  "email": "info@sieber-reisen.ch",
+  "phone": "+416083943760",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 298,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

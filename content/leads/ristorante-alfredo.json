@@ -1,0 +1,19 @@
+{
+  "slug": "ristorante-alfredo",
+  "name": "Ristorante Alfredo",
+  "domain": "ristorante-alfredo.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "info@ristorante-alfredo.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 303,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

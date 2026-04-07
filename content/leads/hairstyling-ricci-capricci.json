@@ -1,0 +1,19 @@
+{
+  "slug": "hairstyling-ricci-capricci",
+  "name": "Hairstyling Ricci Capricci",
+  "domain": "hairstyling-ricci-capricci.ch",
+  "businessType": "Coiffeur",
+  "year": 2025,
+  "email": "info@ricci-capricci.ch, jw.aiello@gmx.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 245,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

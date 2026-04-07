@@ -1,0 +1,19 @@
+{
+  "slug": "berisa-bottmingen",
+  "name": "Berisa Bottmingen",
+  "domain": "berisa-bottmingen.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "berisa4@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 267,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fischzucht-violenbach",
+  "name": "Fischzucht Violenbach",
+  "domain": "fischzucht-violenbach.ch",
+  "businessType": "Sonstige",
+  "year": 2019,
+  "email": "fischzucht-violenbach@bluewin.ch",
+  "phone": "+4172440804",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 295,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

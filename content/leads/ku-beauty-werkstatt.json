@@ -1,0 +1,19 @@
+{
+  "slug": "ku-beauty-werkstatt",
+  "name": "Ku Beauty Werkstatt",
+  "domain": "ku-beauty-werkstatt.ch",
+  "businessType": "Kosmetik",
+  "year": 2020,
+  "email": "beauty-werkstatt@bluewin.ch",
+  "phone": "+4179288996",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 284,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

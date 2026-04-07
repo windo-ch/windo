@@ -1,0 +1,19 @@
+{
+  "slug": "moesler-meier",
+  "name": "Moesler Meier",
+  "domain": "moesler-meier.ch",
+  "businessType": "Immobilien",
+  "year": 2018,
+  "email": "info@moesler-meier.ch",
+  "phone": "+4118067976",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 270,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

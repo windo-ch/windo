@@ -1,0 +1,19 @@
+{
+  "slug": "rudolfhofmann",
+  "name": "Rudolfhofmann",
+  "domain": "rudolfhofmann.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "hofmann-transporte@gmx.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 234,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

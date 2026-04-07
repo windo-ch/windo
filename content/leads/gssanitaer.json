@@ -1,0 +1,19 @@
+{
+  "slug": "gssanitaer",
+  "name": "Gssanitaer",
+  "domain": "gssanitaer.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2021,
+  "email": "info@gs-sanitaer.ch",
+  "phone": "+419114401873",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 269,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

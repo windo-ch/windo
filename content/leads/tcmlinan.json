@@ -1,0 +1,19 @@
+{
+  "slug": "tcmlinan",
+  "name": "Tcmlinan",
+  "domain": "tcmlinan.ch",
+  "businessType": "Gynäkologie",
+  "year": 2024,
+  "email": "info@tcmlinan.ch",
+  "phone": "+419095167297",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 234,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

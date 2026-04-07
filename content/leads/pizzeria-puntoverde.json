@@ -1,0 +1,19 @@
+{
+  "slug": "pizzeria-puntoverde",
+  "name": "Pizzeria Puntoverde",
+  "domain": "pizzeria-puntoverde.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "puntoverde9445@hotmail.com",
+  "phone": "+410740578148",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

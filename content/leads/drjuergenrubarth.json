@@ -1,0 +1,19 @@
+{
+  "slug": "drjuergenrubarth",
+  "name": "Drjuergenrubarth",
+  "domain": "drjuergenrubarth.ch",
+  "businessType": "Arzt / Praxis",
+  "year": 2019,
+  "email": "juergenrubarth@hin.ch",
+  "phone": "+4131721530",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 234,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

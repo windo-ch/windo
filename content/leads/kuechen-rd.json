@@ -1,0 +1,19 @@
+{
+  "slug": "kuechen-rd",
+  "name": "Kuechen Rd",
+  "domain": "kuechen-rd.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2020,
+  "email": "INFO@RD-KUECHEN.CH, info@rd-kuechen.ch",
+  "phone": "+412882599356",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 269,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

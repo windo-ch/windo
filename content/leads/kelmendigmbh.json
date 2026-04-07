@@ -1,0 +1,19 @@
+{
+  "slug": "kelmendigmbh",
+  "name": "Kelmendigmbh",
+  "domain": "kelmendigmbh.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "info@kelmendigmbh.ch",
+  "phone": "+419097480278",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 288,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "brocki-grueze",
+  "name": "Brocki Grueze",
+  "domain": "brocki-grueze.ch",
+  "businessType": "Elektro",
+  "year": 2022,
+  "email": "info@brocki-grueze.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 215,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

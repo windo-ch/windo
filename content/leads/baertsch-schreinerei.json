@@ -1,0 +1,19 @@
+{
+  "slug": "baertsch-schreinerei",
+  "name": "Baertsch Schreinerei",
+  "domain": "baertsch-schreinerei.ch",
+  "businessType": "Schreinerei",
+  "year": 2021,
+  "email": "robertbaertsch@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 296,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

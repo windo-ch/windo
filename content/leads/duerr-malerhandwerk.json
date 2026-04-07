@@ -1,0 +1,19 @@
+{
+  "slug": "duerr-malerhandwerk",
+  "name": "Duerr Malerhandwerk",
+  "domain": "duerr-malerhandwerk.ch",
+  "businessType": "Maler",
+  "year": 2024,
+  "email": "malerei.duerr@bluewin.ch",
+  "phone": "+418689125860",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 470,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

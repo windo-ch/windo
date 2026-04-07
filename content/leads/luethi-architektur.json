@@ -1,0 +1,19 @@
+{
+  "slug": "luethi-architektur",
+  "name": "Luethi Architektur",
+  "domain": "luethi-architektur.ch",
+  "businessType": "Architektur",
+  "year": 2023,
+  "email": "info@luethi-architektur.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 272,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

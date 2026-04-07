@@ -1,0 +1,19 @@
+{
+  "slug": "mh-reinigungen",
+  "name": "Mh Reinigungen",
+  "domain": "mh-reinigungen.ch",
+  "businessType": "Reinigung",
+  "year": 2021,
+  "email": "info@mh-reinigungen.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

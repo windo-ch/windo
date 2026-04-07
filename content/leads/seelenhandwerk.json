@@ -1,0 +1,19 @@
+{
+  "slug": "seelenhandwerk",
+  "name": "Seelenhandwerk",
+  "domain": "seelenhandwerk.ch",
+  "businessType": "Handwerk",
+  "year": 2018,
+  "email": "info@seelenhandwerk.ch",
+  "phone": "+4112030110, +412603291021",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 373,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "huber-bedachungen",
+  "name": "Huber Bedachungen",
+  "domain": "huber-bedachungen.ch",
+  "businessType": "Bedachungen",
+  "year": 2018,
+  "email": "andreas.huber@huberparker.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 269,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

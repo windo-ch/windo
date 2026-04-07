@@ -1,0 +1,19 @@
+{
+  "slug": "tzhauswartung",
+  "name": "Tzhauswartung",
+  "domain": "tzhauswartung.ch",
+  "businessType": "Immobilien",
+  "year": 2025,
+  "email": "vali_ziko@icloud.com",
+  "phone": "+4121436741",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 232,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

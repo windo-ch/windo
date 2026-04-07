@@ -1,0 +1,19 @@
+{
+  "slug": "fabricegmbh",
+  "name": "Fabricegmbh",
+  "domain": "fabricegmbh.ch",
+  "businessType": "Immobilien",
+  "year": 2023,
+  "email": "info@fabricegmbh.ch",
+  "phone": "+4146444474",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 266,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pkunz",
+  "name": "Pkunz",
+  "domain": "pkunz.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2025,
+  "email": "info@pkunz.ch",
+  "phone": "+4126362721",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 234,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

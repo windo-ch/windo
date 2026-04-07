@@ -1,0 +1,19 @@
+{
+  "slug": "hair-meier",
+  "name": "Hair Meier",
+  "domain": "hair-meier.ch",
+  "businessType": "Coiffeur",
+  "year": 2022,
+  "email": "info@hair-meier.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 395,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

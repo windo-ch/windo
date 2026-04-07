@@ -1,0 +1,19 @@
+{
+  "slug": "farbenhaus-uri",
+  "name": "Farbenhaus Uri",
+  "domain": "farbenhaus-uri.ch",
+  "businessType": "Maler",
+  "year": 2025,
+  "email": "info@farbenhaus-uri.ch",
+  "phone": "+4175229376",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 276,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "heinzer-mbe",
+  "name": "Heinzer Mbe",
+  "domain": "heinzer-mbe.ch",
+  "businessType": "Gipser",
+  "year": 2025,
+  "email": "g.heinzer@heinzer-mbe.ch",
+  "phone": "+4120558450",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 263,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

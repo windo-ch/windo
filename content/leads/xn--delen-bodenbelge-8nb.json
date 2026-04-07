@@ -1,0 +1,19 @@
+{
+  "slug": "xn--delen-bodenbelge-8nb",
+  "name": "Xn  Delen Bodenbelge 8nb",
+  "domain": "xn--delen-bodenbelge-8nb.ch",
+  "businessType": "Bodenbeläge",
+  "year": 2024,
+  "email": "info@delen-bodenbelaege.ch, info@movepro.ch",
+  "phone": "+4106953123",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 227,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

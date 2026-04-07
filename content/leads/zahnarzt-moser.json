@@ -1,0 +1,19 @@
+{
+  "slug": "zahnarzt-moser",
+  "name": "Zahnarzt Moser",
+  "domain": "zahnarzt-moser.ch",
+  "businessType": "Zahnarzt",
+  "year": 2019,
+  "email": "zahnarztmoser@gmail.com",
+  "phone": "+4121985833",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 240,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

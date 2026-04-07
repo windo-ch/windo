@@ -1,0 +1,19 @@
+{
+  "slug": "theking-pizzeria",
+  "name": "Theking Pizzeria",
+  "domain": "theking-pizzeria.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "gulsengastro@gmail.com",
+  "phone": "+410741340830",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 362,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

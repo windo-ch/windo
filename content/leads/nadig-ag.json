@@ -1,0 +1,19 @@
+{
+  "slug": "nadig-ag",
+  "name": "Nadig AG",
+  "domain": "nadig-ag.ch",
+  "businessType": "Bedachungen",
+  "year": 2017,
+  "email": "nadig.ag@bluewin.ch",
+  "phone": "+4190305175",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 442,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

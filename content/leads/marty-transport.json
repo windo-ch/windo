@@ -1,0 +1,19 @@
+{
+  "slug": "marty-transport",
+  "name": "Marty Transport",
+  "domain": "marty-transport.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2017,
+  "email": "marty-transport@bluewin.ch",
+  "phone": "+4103229778",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 297,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pronto-umzuege",
+  "name": "Pronto Umzuege",
+  "domain": "pronto-umzuege.ch",
+  "businessType": "Reinigung",
+  "year": 2021,
+  "email": "prontoumzuege@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 334,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "karin-coiffeur",
+  "name": "Karin Coiffeur",
+  "domain": "karin-coiffeur.ch",
+  "businessType": "Coiffeur",
+  "year": 2017,
+  "email": "karin.flueeler@bluewin.ch, karin.flueler@kfnmail.ch",
+  "phone": "+4168389333",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 268,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

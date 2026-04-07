@@ -1,0 +1,19 @@
+{
+  "slug": "gartenbau-hartmann",
+  "name": "Gartenbau Hartmann",
+  "domain": "gartenbau-hartmann.ch",
+  "businessType": "Gartenbau",
+  "year": 2024,
+  "email": "info@gartenbau-hartmann.ch",
+  "phone": "+414344414738",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 284,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

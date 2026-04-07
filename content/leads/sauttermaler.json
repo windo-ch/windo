@@ -1,0 +1,19 @@
+{
+  "slug": "sauttermaler",
+  "name": "Sauttermaler",
+  "domain": "sauttermaler.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "info@sauttermaler.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 275,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

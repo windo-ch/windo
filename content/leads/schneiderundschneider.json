@@ -1,0 +1,19 @@
+{
+  "slug": "schneiderundschneider",
+  "name": "Schneiderundschneider",
+  "domain": "schneiderundschneider.ch",
+  "businessType": "Maler",
+  "year": 2025,
+  "email": "maler@schneiderundschneider.ch",
+  "phone": "+4138708974",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 255,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

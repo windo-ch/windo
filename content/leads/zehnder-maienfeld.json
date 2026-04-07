@@ -1,0 +1,19 @@
+{
+  "slug": "zehnder-maienfeld",
+  "name": "Zehnder Maienfeld",
+  "domain": "zehnder-maienfeld.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2018,
+  "email": "info@zehnder-maienfeld.ch",
+  "phone": "+4128372158",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 263,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

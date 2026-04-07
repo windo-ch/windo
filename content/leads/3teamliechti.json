@@ -1,0 +1,19 @@
+{
+  "slug": "3teamliechti",
+  "name": "3teamliechti",
+  "domain": "3teamliechti.ch",
+  "businessType": "Schreinerei",
+  "year": 2017,
+  "email": "3team@bluewin.ch",
+  "phone": "+4132614344, +4179418241",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

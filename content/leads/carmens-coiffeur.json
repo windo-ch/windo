@@ -1,0 +1,19 @@
+{
+  "slug": "carmens-coiffeur",
+  "name": "Carmens Coiffeur",
+  "domain": "carmens-coiffeur.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "kontakt@carmens-coiffeur.ch",
+  "phone": "+4183159220",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 198,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

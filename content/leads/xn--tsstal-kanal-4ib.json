@@ -1,0 +1,19 @@
+{
+  "slug": "xn--tsstal-kanal-4ib",
+  "name": "Xn  Tsstal Kanal 4ib",
+  "domain": "xn--tsstal-kanal-4ib.ch",
+  "businessType": "Reinigung",
+  "year": 2018,
+  "email": "info@toesstal-kanal.ch",
+  "phone": "+4147977794",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 315,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

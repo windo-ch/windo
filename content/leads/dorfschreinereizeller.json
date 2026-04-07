@@ -1,0 +1,19 @@
+{
+  "slug": "dorfschreinereizeller",
+  "name": "Dorfschreinereizeller",
+  "domain": "dorfschreinereizeller.ch",
+  "businessType": "Schreinerei",
+  "year": 2018,
+  "email": "dorfschreinerei-zeller@gmx.ch",
+  "phone": "+416645641920",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 219,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

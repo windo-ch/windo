@@ -1,0 +1,19 @@
+{
+  "slug": "hairstyle-monika",
+  "name": "Hairstyle Monika",
+  "domain": "hairstyle-monika.ch",
+  "businessType": "Coiffeur",
+  "year": 2021,
+  "email": "info@hairstyle-monika.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 333,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

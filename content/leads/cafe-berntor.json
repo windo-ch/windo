@@ -1,0 +1,19 @@
+{
+  "slug": "cafe-berntor",
+  "name": "Cafe Berntor",
+  "domain": "cafe-berntor.ch",
+  "businessType": "Café / Bar",
+  "year": 2020,
+  "email": "martat@bluewin.ch",
+  "phone": "+4100223079",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 292,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

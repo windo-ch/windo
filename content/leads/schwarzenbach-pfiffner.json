@@ -1,0 +1,19 @@
+{
+  "slug": "schwarzenbach-pfiffner",
+  "name": "Schwarzenbach Pfiffner",
+  "domain": "schwarzenbach-pfiffner.ch",
+  "businessType": "Anwalt",
+  "year": 2022,
+  "email": "kanzlei@schwarzenbach-pfiffner.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 267,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

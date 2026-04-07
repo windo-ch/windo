@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-bonschur",
+  "name": "Coiffeur Bonschur",
+  "domain": "coiffeur-bonschur.ch",
+  "businessType": "Coiffeur",
+  "year": 2018,
+  "email": "infocoiffeurbonschur@gmail.com",
+  "phone": "+4172259436",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 274,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

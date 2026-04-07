@@ -1,0 +1,19 @@
+{
+  "slug": "memo-energie",
+  "name": "Memo Energie",
+  "domain": "memo-energie.ch",
+  "businessType": "Elektro",
+  "year": 2022,
+  "email": "info@memo-energie.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 364,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

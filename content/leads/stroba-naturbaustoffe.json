@@ -1,0 +1,19 @@
+{
+  "slug": "stroba-naturbaustoffe",
+  "name": "Stroba Naturbaustoffe",
+  "domain": "stroba-naturbaustoffe.ch",
+  "businessType": "Immobilien",
+  "year": 2023,
+  "email": "stroba@stroba.ch, bestellung@stroba.ch",
+  "phone": "+4138932543",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 233,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

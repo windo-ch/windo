@@ -1,0 +1,19 @@
+{
+  "slug": "donpasquale",
+  "name": "Donpasquale",
+  "domain": "donpasquale.ch",
+  "businessType": "Restaurant",
+  "year": 2024,
+  "email": "eat@donpasquale.ch, admin@risto-art.com",
+  "phone": "+4161561717, +4143241684",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 344,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

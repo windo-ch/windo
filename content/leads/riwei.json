@@ -1,0 +1,19 @@
+{
+  "slug": "riwei",
+  "name": "Riwei",
+  "domain": "riwei.ch",
+  "businessType": "Gipser",
+  "year": 2021,
+  "email": "maler@riwei.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 249,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "steiner-reifenservice",
+  "name": "Steiner Reifenservice",
+  "domain": "steiner-reifenservice.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2018,
+  "email": "steiner@steiner-reifenservice.ch",
+  "phone": "+4128324581",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 267,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

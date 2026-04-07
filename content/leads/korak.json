@@ -1,0 +1,19 @@
+{
+  "slug": "korak",
+  "name": "Korak",
+  "domain": "korak.ch",
+  "businessType": "Elektro",
+  "year": 2022,
+  "email": "info@korak.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 258,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

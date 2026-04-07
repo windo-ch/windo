@@ -1,0 +1,19 @@
+{
+  "slug": "lichtsteiner-maler-schoetz",
+  "name": "Lichtsteiner Maler Schoetz",
+  "domain": "lichtsteiner-maler-schoetz.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "maler.lichtsteiner@bluewin.ch",
+  "phone": "+4186464816",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 247,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

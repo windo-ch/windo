@@ -1,0 +1,19 @@
+{
+  "slug": "arabella-gartendesign",
+  "name": "Arabella Gartendesign",
+  "domain": "arabella-gartendesign.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "arabella_2003@hotmail.com, %20arabella_2003@hotmail.com",
+  "phone": "+4128778109",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

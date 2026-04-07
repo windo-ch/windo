@@ -1,0 +1,19 @@
+{
+  "slug": "rechtsanwalt-leuner-zuerich",
+  "name": "Rechtsanwalt Leuner Zuerich",
+  "domain": "rechtsanwalt-leuner-zuerich.ch",
+  "businessType": "Anwalt",
+  "year": 2018,
+  "email": "kanzlei@raleuner.ch",
+  "phone": "+4188665968",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 253,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

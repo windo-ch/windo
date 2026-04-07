@@ -1,0 +1,19 @@
+{
+  "slug": "kramernews",
+  "name": "Kramernews",
+  "domain": "kramernews.ch",
+  "businessType": "Gartenbau",
+  "year": 2018,
+  "email": "brunokramer@bluewin.ch",
+  "phone": "+4133193222",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 270,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

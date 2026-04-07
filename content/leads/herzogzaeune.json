@@ -1,0 +1,19 @@
+{
+  "slug": "herzogzaeune",
+  "name": "Herzogzaeune",
+  "domain": "herzogzaeune.ch",
+  "businessType": "Schreinerei",
+  "year": 2018,
+  "email": "INFO@HERZOGZAEUNE.CH, info@herzogzaeune.ch",
+  "phone": "+4106366841",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 271,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bistro-barbara",
+  "name": "Bistro Barbara",
+  "domain": "bistro-barbara.ch",
+  "businessType": "Restaurant",
+  "year": 2020,
+  "email": "mbacdo1976@hotmail.com",
+  "phone": "+414371885157",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 295,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

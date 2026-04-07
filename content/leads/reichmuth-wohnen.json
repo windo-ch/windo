@@ -1,0 +1,19 @@
+{
+  "slug": "reichmuth-wohnen",
+  "name": "Reichmuth Wohnen",
+  "domain": "reichmuth-wohnen.ch",
+  "businessType": "Schreinerei",
+  "year": 2023,
+  "email": "info@reichmuth-wohnen.ch, avor@reichmuth-wohnen.ch",
+  "phone": "+413489564531",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

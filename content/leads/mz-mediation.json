@@ -1,0 +1,19 @@
+{
+  "slug": "mz-mediation",
+  "name": "Mz Mediation",
+  "domain": "mz-mediation.ch",
+  "businessType": "Anwalt",
+  "year": 2017,
+  "email": "zwahlen@mz-mediation.ch",
+  "phone": "+4179719371",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 285,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

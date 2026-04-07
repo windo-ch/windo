@@ -1,0 +1,19 @@
+{
+  "slug": "xn--malergeschft-schrer-pwbg",
+  "name": "Xn  Malergeschft Schrer Pwbg",
+  "domain": "xn--malergeschft-schrer-pwbg.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "jacques_schaerer-ag@bluewin.ch",
+  "phone": "+4166405195",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 317,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

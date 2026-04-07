@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-gold-cut",
+  "name": "Coiffeur Gold Cut",
+  "domain": "coiffeur-gold-cut.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "goldcutcoiffeur@gmail.com",
+  "phone": "+411858065125",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 226,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

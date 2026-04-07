@@ -1,0 +1,19 @@
+{
+  "slug": "raymond-crestani",
+  "name": "Raymond Crestani",
+  "domain": "raymond-crestani.ch",
+  "businessType": "Elektro",
+  "year": 2022,
+  "email": "rcrestani@swissonline.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 367,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

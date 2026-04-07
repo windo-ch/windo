@@ -1,0 +1,19 @@
+{
+  "slug": "baumuff",
+  "name": "Baumuff",
+  "domain": "baumuff.ch",
+  "businessType": "Landmaschinen",
+  "year": 2020,
+  "email": "baumuff@gmx.ch",
+  "phone": "+4179641904",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 293,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

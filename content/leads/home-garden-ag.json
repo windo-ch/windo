@@ -1,0 +1,19 @@
+{
+  "slug": "home-garden-ag",
+  "name": "Home Garden AG",
+  "domain": "home-garden-ag.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "info@home-garden-ag.ch",
+  "phone": "+4136240095",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

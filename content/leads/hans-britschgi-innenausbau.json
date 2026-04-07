@@ -1,0 +1,19 @@
+{
+  "slug": "hans-britschgi-innenausbau",
+  "name": "Hans Britschgi Innenausbau",
+  "domain": "hans-britschgi-innenausbau.ch",
+  "businessType": "Schreinerei",
+  "year": 2024,
+  "email": "britschgi.hans@bluewin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 224,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

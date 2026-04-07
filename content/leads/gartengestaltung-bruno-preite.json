@@ -1,0 +1,19 @@
+{
+  "slug": "gartengestaltung-bruno-preite",
+  "name": "Gartengestaltung Bruno Preite",
+  "domain": "gartengestaltung-bruno-preite.ch",
+  "businessType": "Gartenbau",
+  "year": 2024,
+  "email": "bruno.preite@bluewin.ch",
+  "phone": "+418340695488, +4149381762",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 283,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

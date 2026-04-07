@@ -1,0 +1,19 @@
+{
+  "slug": "tawny-tattoo",
+  "name": "Tawny Tattoo",
+  "domain": "tawny-tattoo.ch",
+  "businessType": "Tattoo-Studio",
+  "year": 2022,
+  "email": "tawnybooking@gmail.com, tawnytattoo@gmail.com",
+  "phone": "+410223775261",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 290,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

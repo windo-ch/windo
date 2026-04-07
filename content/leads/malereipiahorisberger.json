@@ -1,0 +1,19 @@
+{
+  "slug": "malereipiahorisberger",
+  "name": "Malereipiahorisberger",
+  "domain": "malereipiahorisberger.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "pia.horisberger@hotmail.com",
+  "phone": "+4127774917",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 261,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

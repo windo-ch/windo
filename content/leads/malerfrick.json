@@ -1,0 +1,19 @@
+{
+  "slug": "malerfrick",
+  "name": "Malerfrick",
+  "domain": "malerfrick.ch",
+  "businessType": "Gipser",
+  "year": 2018,
+  "email": "info@malerfrick.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 300,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

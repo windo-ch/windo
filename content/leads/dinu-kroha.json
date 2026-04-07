@@ -1,0 +1,19 @@
+{
+  "slug": "dinu-kroha",
+  "name": "Dinu Kroha",
+  "domain": "dinu-kroha.ch",
+  "businessType": "Immobilien",
+  "year": 2017,
+  "email": "dinu.kroha@bluewin.ch",
+  "phone": "+415049890307",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 234,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

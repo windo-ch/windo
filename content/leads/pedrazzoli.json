@@ -1,0 +1,19 @@
+{
+  "slug": "pedrazzoli",
+  "name": "Pedrazzoli",
+  "domain": "pedrazzoli.ch",
+  "businessType": "Fenster / Türen",
+  "year": 2020,
+  "email": "info@pedrazzoli.ch",
+  "phone": "+4151424986",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

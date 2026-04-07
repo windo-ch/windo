@@ -1,0 +1,19 @@
+{
+  "slug": "baumgartner-immobilien-horgen",
+  "name": "Baumgartner Immobilien Horgen",
+  "domain": "baumgartner-immobilien-horgen.ch",
+  "businessType": "Immobilien",
+  "year": 2023,
+  "email": "info@baumgartner-immobilien.ch",
+  "phone": "+4188943238",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 240,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

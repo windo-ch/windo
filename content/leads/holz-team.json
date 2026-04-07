@@ -1,0 +1,19 @@
+{
+  "slug": "holz-team",
+  "name": "Holz Team",
+  "domain": "holz-team.ch",
+  "businessType": "Zimmerei",
+  "year": 2024,
+  "email": "info@holz-team.ch",
+  "phone": "+4198547410",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 239,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

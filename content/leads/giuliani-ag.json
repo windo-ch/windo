@@ -1,0 +1,19 @@
+{
+  "slug": "giuliani-ag",
+  "name": "Giuliani AG",
+  "domain": "giuliani-ag.ch",
+  "businessType": "Maler",
+  "year": 2022,
+  "email": "maler@giuliani-ag.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 202,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

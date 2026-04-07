@@ -1,0 +1,19 @@
+{
+  "slug": "team-one",
+  "name": "Team One",
+  "domain": "team-one.ch",
+  "businessType": "Immobilien",
+  "year": 2024,
+  "email": "info@team-one.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 228,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

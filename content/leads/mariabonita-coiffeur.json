@@ -1,0 +1,19 @@
+{
+  "slug": "mariabonita-coiffeur",
+  "name": "Mariabonita Coiffeur",
+  "domain": "mariabonita-coiffeur.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "jocelma.silva.frey@gmail.com",
+  "phone": "+4136089769",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 267,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

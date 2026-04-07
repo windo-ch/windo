@@ -1,0 +1,19 @@
+{
+  "slug": "luckybamboo",
+  "name": "Luckybamboo",
+  "domain": "luckybamboo.ch",
+  "businessType": "Restaurant",
+  "year": 2023,
+  "email": "luckybamboo@gmx.ch",
+  "phone": "+4181342223, +4152343181",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 274,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

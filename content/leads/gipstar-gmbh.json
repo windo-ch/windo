@@ -1,0 +1,19 @@
+{
+  "slug": "gipstar-gmbh",
+  "name": "Gipstar GmbH",
+  "domain": "gipstar-gmbh.ch",
+  "businessType": "Gipser",
+  "year": 2023,
+  "email": "gipstargmbh@gmail.com",
+  "phone": "+4105630662",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 296,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

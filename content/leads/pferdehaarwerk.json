@@ -1,0 +1,19 @@
+{
+  "slug": "pferdehaarwerk",
+  "name": "Pferdehaarwerk",
+  "domain": "pferdehaarwerk.ch",
+  "businessType": "Tanzschule",
+  "year": 2018,
+  "email": "marioneberle@bluewin.ch",
+  "phone": "+416611164040",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": true,
+    "loadMs": 319,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

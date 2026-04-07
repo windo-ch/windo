@@ -1,0 +1,19 @@
+{
+  "slug": "drynette-center",
+  "name": "Drynette Center",
+  "domain": "drynette-center.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "acarmattias@hotmail.com",
+  "phone": "+4110068683",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 280,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

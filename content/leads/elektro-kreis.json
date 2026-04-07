@@ -1,0 +1,19 @@
+{
+  "slug": "elektro-kreis",
+  "name": "Elektro Kreis",
+  "domain": "elektro-kreis.ch",
+  "businessType": "Elektro",
+  "year": 2024,
+  "email": "info@elektro-kreis.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 318,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ahorn-apotheke",
+  "name": "Ahorn Apotheke",
+  "domain": "ahorn-apotheke.ch",
+  "businessType": "Apotheke",
+  "year": 2024,
+  "email": "ahorn-apotheke@bluewin.ch, 608904@ovan.ch",
+  "phone": "+418085016949",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 385,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

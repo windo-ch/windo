@@ -1,0 +1,19 @@
+{
+  "slug": "fiala-einfach-anders",
+  "name": "Fiala Einfach Anders",
+  "domain": "fiala-einfach-anders.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "info@fiala-einfach-anders.ch",
+  "phone": "+4149380858, +4175396191",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 407,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mj-hauswartungen",
+  "name": "Mj Hauswartungen",
+  "domain": "mj-hauswartungen.ch",
+  "businessType": "Versicherung",
+  "year": 2020,
+  "email": "markus.jenni@gmx.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 204,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

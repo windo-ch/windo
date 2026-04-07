@@ -1,0 +1,19 @@
+{
+  "slug": "hotel-eierhals",
+  "name": "Hotel Eierhals",
+  "domain": "hotel-eierhals.ch",
+  "businessType": "Hotel",
+  "year": 2023,
+  "email": "info@hotel-eierhals.ch",
+  "phone": "+418084845306",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 253,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

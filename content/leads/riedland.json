@@ -1,0 +1,19 @@
+{
+  "slug": "riedland",
+  "name": "Riedland",
+  "domain": "riedland.ch",
+  "businessType": "Florist",
+  "year": 2020,
+  "email": "info@riedland.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 266,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

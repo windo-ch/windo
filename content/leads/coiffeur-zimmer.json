@@ -1,0 +1,19 @@
+{
+  "slug": "coiffeur-zimmer",
+  "name": "Coiffeur Zimmer",
+  "domain": "coiffeur-zimmer.ch",
+  "businessType": "Coiffeur",
+  "year": 2024,
+  "email": "deu.faessler@bluewin.ch",
+  "phone": "+4109240353",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 314,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

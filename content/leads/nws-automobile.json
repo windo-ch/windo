@@ -1,0 +1,19 @@
+{
+  "slug": "nws-automobile",
+  "name": "Nws Automobile",
+  "domain": "nws-automobile.ch",
+  "businessType": "Autohandel",
+  "year": 2022,
+  "email": "info@nws-automobile.ch",
+  "phone": "+412025911083",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 235,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

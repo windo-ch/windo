@@ -1,0 +1,19 @@
+{
+  "slug": "auto-moersburg",
+  "name": "Auto Moersburg",
+  "domain": "auto-moersburg.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2020,
+  "email": "info@auto-moersburg.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 223,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

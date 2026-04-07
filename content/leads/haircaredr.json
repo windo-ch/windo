@@ -1,0 +1,19 @@
+{
+  "slug": "haircaredr",
+  "name": "Haircaredr",
+  "domain": "haircaredr.ch",
+  "businessType": "Coiffeur",
+  "year": 2024,
+  "email": "dianaroetlich@gmail.com",
+  "phone": "+4140881672",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 346,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

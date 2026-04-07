@@ -1,0 +1,19 @@
+{
+  "slug": "rdn-schreinerei",
+  "name": "Rdn Schreinerei",
+  "domain": "rdn-schreinerei.ch",
+  "businessType": "Schreinerei",
+  "year": 2023,
+  "email": "remodenardo@msn.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 274,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

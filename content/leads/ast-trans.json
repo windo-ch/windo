@@ -1,0 +1,19 @@
+{
+  "slug": "ast-trans",
+  "name": "Ast Trans",
+  "domain": "ast-trans.ch",
+  "businessType": "Maler",
+  "year": 2025,
+  "email": "info@ast-trans.ch",
+  "phone": "+4188581142",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 218,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

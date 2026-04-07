@@ -1,0 +1,19 @@
+{
+  "slug": "haustechnik-widmer",
+  "name": "Haustechnik Widmer",
+  "domain": "haustechnik-widmer.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2021,
+  "email": "info@haustechnik-widmer.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 286,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "swissquality-storen",
+  "name": "Swissquality Storen",
+  "domain": "swissquality-storen.ch",
+  "businessType": "Storen",
+  "year": 2023,
+  "email": "info@swissquality-storen.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 2377,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

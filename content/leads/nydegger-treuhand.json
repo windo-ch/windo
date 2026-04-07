@@ -1,0 +1,19 @@
+{
+  "slug": "nydegger-treuhand",
+  "name": "Nydegger Treuhand",
+  "domain": "nydegger-treuhand.ch",
+  "businessType": "Treuhand",
+  "year": 2019,
+  "email": "nydegger.treuhand@bluewin.ch",
+  "phone": "+415153771920",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 546,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

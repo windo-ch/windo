@@ -1,0 +1,19 @@
+{
+  "slug": "rebex",
+  "name": "Rebex",
+  "domain": "rebex.ch",
+  "businessType": "Treuhand",
+  "year": 2023,
+  "email": "rebex@rebex.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 263,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

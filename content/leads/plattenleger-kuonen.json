@@ -1,0 +1,19 @@
+{
+  "slug": "plattenleger-kuonen",
+  "name": "Plattenleger Kuonen",
+  "domain": "plattenleger-kuonen.ch",
+  "businessType": "Plattenleger",
+  "year": 2023,
+  "email": "kuonendaniel26@hotmail.com",
+  "phone": "+4174273627",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 242,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

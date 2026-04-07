@@ -1,0 +1,19 @@
+{
+  "slug": "malerei-lampert",
+  "name": "Malerei Lampert",
+  "domain": "malerei-lampert.ch",
+  "businessType": "Maler",
+  "year": 2023,
+  "email": "m.lampert@bluewin.ch",
+  "phone": "+4199232737",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 339,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

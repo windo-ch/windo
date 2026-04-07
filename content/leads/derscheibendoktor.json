@@ -1,0 +1,19 @@
+{
+  "slug": "derscheibendoktor",
+  "name": "Derscheibendoktor",
+  "domain": "derscheibendoktor.ch",
+  "businessType": "Bedachungen",
+  "year": 2021,
+  "email": "muttenzerscarpoint@gmail.com",
+  "phone": "+4176418168",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 267,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ay-immobilien",
+  "name": "Ay Immobilien",
+  "domain": "ay-immobilien.ch",
+  "businessType": "Immobilien",
+  "year": 2023,
+  "email": "info@ay-immobilien.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 253,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

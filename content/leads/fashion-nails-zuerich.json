@@ -1,0 +1,19 @@
+{
+  "slug": "fashion-nails-zuerich",
+  "name": "Fashion Nails Zuerich",
+  "domain": "fashion-nails-zuerich.ch",
+  "businessType": "Kosmetik",
+  "year": 2023,
+  "email": "info@nailstudio-fashion.ch",
+  "phone": "+4128501908",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 268,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

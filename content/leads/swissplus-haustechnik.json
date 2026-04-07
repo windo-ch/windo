@@ -1,0 +1,19 @@
+{
+  "slug": "swissplus-haustechnik",
+  "name": "Swissplus Haustechnik",
+  "domain": "swissplus-haustechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2025,
+  "email": "info@swissplus-haustechnik.ch",
+  "phone": "+4197791677",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 610,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

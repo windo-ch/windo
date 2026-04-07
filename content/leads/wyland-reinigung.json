@@ -1,0 +1,19 @@
+{
+  "slug": "wyland-reinigung",
+  "name": "Wyland Reinigung",
+  "domain": "wyland-reinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "info@wyland-reinigung.ch",
+  "phone": "+4126362721",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

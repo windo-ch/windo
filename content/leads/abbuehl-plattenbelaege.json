@@ -1,0 +1,19 @@
+{
+  "slug": "abbuehl-plattenbelaege",
+  "name": "Abbuehl Plattenbelaege",
+  "domain": "abbuehl-plattenbelaege.ch",
+  "businessType": "Plattenleger",
+  "year": 2018,
+  "email": "abbuehl.plattenbelaege@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 282,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

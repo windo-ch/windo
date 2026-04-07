@@ -1,0 +1,19 @@
+{
+  "slug": "durin-reinigungen",
+  "name": "Durin Reinigungen",
+  "domain": "durin-reinigungen.ch",
+  "businessType": "Reinigung",
+  "year": 2021,
+  "email": "info@durin.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 238,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

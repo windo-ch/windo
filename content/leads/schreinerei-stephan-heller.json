@@ -1,0 +1,19 @@
+{
+  "slug": "schreinerei-stephan-heller",
+  "name": "Schreinerei Stephan Heller",
+  "domain": "schreinerei-stephan-heller.ch",
+  "businessType": "Schreinerei",
+  "year": 2018,
+  "email": "INFO@STEPHANHELLER.CH, info@stephanheller.ch",
+  "phone": "+4173121920",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 282,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

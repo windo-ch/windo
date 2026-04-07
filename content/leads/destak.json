@@ -1,0 +1,19 @@
+{
+  "slug": "destak",
+  "name": "Destak",
+  "domain": "destak.ch",
+  "businessType": "Immobilien",
+  "year": 2018,
+  "email": "destak@gmx.ch",
+  "phone": "+4154172895",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 246,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

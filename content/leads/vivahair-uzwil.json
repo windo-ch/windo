@@ -1,0 +1,19 @@
+{
+  "slug": "vivahair-uzwil",
+  "name": "Vivahair Uzwil",
+  "domain": "vivahair-uzwil.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "vivahair.uzwil@gmail.com",
+  "phone": "+412025731797",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 331,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

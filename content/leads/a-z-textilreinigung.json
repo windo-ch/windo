@@ -1,0 +1,19 @@
+{
+  "slug": "a-z-textilreinigung",
+  "name": "A Z Textilreinigung",
+  "domain": "a-z-textilreinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "annickauvray14@gmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 243,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

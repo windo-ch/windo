@@ -1,0 +1,19 @@
+{
+  "slug": "safemoving",
+  "name": "Safemoving",
+  "domain": "safemoving.ch",
+  "businessType": "Transport / Umzug",
+  "year": 2018,
+  "email": "contact@safemoving.ch",
+  "phone": "+4147944794",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 233,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

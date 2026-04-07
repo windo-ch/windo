@@ -1,0 +1,19 @@
+{
+  "slug": "hofmann-bernhard",
+  "name": "Hofmann Bernhard",
+  "domain": "hofmann-bernhard.ch",
+  "businessType": "Sonstige",
+  "year": 2021,
+  "email": "bernhard.hofmann@belponline.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 235,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

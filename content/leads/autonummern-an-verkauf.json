@@ -1,0 +1,19 @@
+{
+  "slug": "autonummern-an-verkauf",
+  "name": "Autonummern An Verkauf",
+  "domain": "autonummern-an-verkauf.ch",
+  "businessType": "Sonstige",
+  "year": 2023,
+  "email": "andreanussio@gmx.ch",
+  "phone": "+4151956332, +414796715808",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 236,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

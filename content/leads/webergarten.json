@@ -1,0 +1,19 @@
+{
+  "slug": "webergarten",
+  "name": "Webergarten",
+  "domain": "webergarten.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "info@webergarten.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 217,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

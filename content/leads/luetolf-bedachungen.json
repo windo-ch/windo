@@ -1,0 +1,19 @@
+{
+  "slug": "luetolf-bedachungen",
+  "name": "Luetolf Bedachungen",
+  "domain": "luetolf-bedachungen.ch",
+  "businessType": "Bedachungen",
+  "year": 2024,
+  "email": "info@luetolf-bedachungen.ch, luetolf.bedachungen@gmx.ch",
+  "phone": "+4171838129",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 293,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

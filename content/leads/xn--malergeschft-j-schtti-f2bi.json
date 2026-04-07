@@ -1,0 +1,19 @@
+{
+  "slug": "xn--malergeschft-j-schtti-f2bi",
+  "name": "Xn  Malergeschft J Schtti F2bi",
+  "domain": "xn--malergeschft-j-schtti-f2bi.ch",
+  "businessType": "Maler",
+  "year": 2021,
+  "email": "julia.schaetti@outlook.com",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

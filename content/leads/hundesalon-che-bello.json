@@ -1,0 +1,19 @@
+{
+  "slug": "hundesalon-che-bello",
+  "name": "Hundesalon Che Bello",
+  "domain": "hundesalon-che-bello.ch",
+  "businessType": "Hundeschule / -salon",
+  "year": 2023,
+  "email": "st-costa@hotmail.com",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 272,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

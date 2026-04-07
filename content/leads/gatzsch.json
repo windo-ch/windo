@@ -1,0 +1,19 @@
+{
+  "slug": "gatzsch",
+  "name": "Gatzsch",
+  "domain": "gatzsch.ch",
+  "businessType": "Schreinerei",
+  "year": 2023,
+  "email": "info@gatzsch.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 263,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

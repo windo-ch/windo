@@ -1,0 +1,19 @@
+{
+  "slug": "oggierautomobile",
+  "name": "Oggierautomobile",
+  "domain": "oggierautomobile.ch",
+  "businessType": "Autohandel",
+  "year": 2025,
+  "email": "oggierautomobile@bluewin.ch",
+  "phone": "+4115682937",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 264,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

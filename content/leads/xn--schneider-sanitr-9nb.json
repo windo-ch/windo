@@ -1,0 +1,19 @@
+{
+  "slug": "xn--schneider-sanitr-9nb",
+  "name": "Xn  Schneider Sanitr 9nb",
+  "domain": "xn--schneider-sanitr-9nb.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2023,
+  "email": "schneider-gmbh@bluewin.ch",
+  "phone": "+4119505204",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 210,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

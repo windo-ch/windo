@@ -1,0 +1,19 @@
+{
+  "slug": "metz-baumanagement",
+  "name": "Metz Baumanagement",
+  "domain": "metz-baumanagement.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "info@metz-baumanagement.ch",
+  "phone": "+4120571708",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 227,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dsb-homeservice",
+  "name": "Dsb Homeservice",
+  "domain": "dsb-homeservice.ch",
+  "businessType": "Immobilien",
+  "year": 2023,
+  "email": "info@dsb-service.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 233,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

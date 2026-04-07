@@ -1,0 +1,19 @@
+{
+  "slug": "brunibrennerei",
+  "name": "Brunibrennerei",
+  "domain": "brunibrennerei.ch",
+  "businessType": "Sonstige",
+  "year": 2020,
+  "email": "brunibrennerei@gmail.com, schnapser@hotmail.com",
+  "phone": "+4135550977",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 2315,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

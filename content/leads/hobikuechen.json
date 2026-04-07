@@ -1,0 +1,19 @@
+{
+  "slug": "hobikuechen",
+  "name": "Hobikuechen",
+  "domain": "hobikuechen.ch",
+  "businessType": "Schreinerei",
+  "year": 2021,
+  "email": "hobikuechen@bluewin.ch",
+  "phone": "+4189943101",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 269,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

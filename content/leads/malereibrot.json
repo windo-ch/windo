@@ -1,0 +1,19 @@
+{
+  "slug": "malereibrot",
+  "name": "Malereibrot",
+  "domain": "malereibrot.ch",
+  "businessType": "Gipser",
+  "year": 2024,
+  "email": "malereibrot@gmail.com, info.cleverando@gmail.com",
+  "phone": "+4104388401",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 265,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

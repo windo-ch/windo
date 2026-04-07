@@ -1,0 +1,19 @@
+{
+  "slug": "koni-wyrsch",
+  "name": "Koni Wyrsch",
+  "domain": "koni-wyrsch.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2017,
+  "email": "koni.wyrsch@bluewin.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

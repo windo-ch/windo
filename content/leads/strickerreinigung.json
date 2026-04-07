@@ -1,0 +1,19 @@
+{
+  "slug": "strickerreinigung",
+  "name": "Strickerreinigung",
+  "domain": "strickerreinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2018,
+  "email": "info@pronto-ag.ch, info@strickerreinigung.ch",
+  "phone": "+4133470854",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

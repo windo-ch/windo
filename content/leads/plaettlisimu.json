@@ -1,0 +1,19 @@
+{
+  "slug": "plaettlisimu",
+  "name": "Plaettlisimu",
+  "domain": "plaettlisimu.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2024,
+  "email": "plaettlisimu@gmail.com",
+  "phone": "+419371432559",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 257,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "spa-whirlpool-reparatur",
+  "name": "Spa Whirlpool Reparatur",
+  "domain": "spa-whirlpool-reparatur.ch",
+  "businessType": "Elektro",
+  "year": 2018,
+  "email": "info@azur-spadetente.ch, kontakt@sos-whirlpools.ch, Info@azur-spadetente.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 336,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

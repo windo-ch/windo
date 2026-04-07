@@ -1,0 +1,19 @@
+{
+  "slug": "kosmetiksalon-gerda",
+  "name": "Kosmetiksalon Gerda",
+  "domain": "kosmetiksalon-gerda.ch",
+  "businessType": "Kosmetik",
+  "year": 2024,
+  "email": "gerda@bluewin.ch",
+  "phone": "+417173636727",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 195,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rm-miklos",
+  "name": "Rm Miklos",
+  "domain": "rm-miklos.ch",
+  "businessType": "Gartenbau",
+  "year": 2023,
+  "email": "info@rm-miklos.ch",
+  "phone": "+4141736137",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 304,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

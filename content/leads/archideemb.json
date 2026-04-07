@@ -1,0 +1,19 @@
+{
+  "slug": "archideemb",
+  "name": "Archideemb",
+  "domain": "archideemb.ch",
+  "businessType": "Immobilien",
+  "year": 2018,
+  "email": "markus.buergin@archidee-mb.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 237,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

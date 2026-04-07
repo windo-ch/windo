@@ -1,0 +1,19 @@
+{
+  "slug": "yogapace",
+  "name": "Yogapace",
+  "domain": "yogapace.ch",
+  "businessType": "Wellness / Massage",
+  "year": 2019,
+  "email": "carmen@yogapace.ch",
+  "phone": "+4175307181",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 271,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "taxialpha",
+  "name": "Taxialpha",
+  "domain": "taxialpha.ch",
+  "businessType": "Taxi",
+  "year": 2026,
+  "email": "info@taxialpha.ch, +41796330300info@taxialpha.ch",
+  "phone": "+4179633030, +4195231107, +4170438072",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 218,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "donag-reinigungen",
+  "name": "Donag Reinigungen",
+  "domain": "donag-reinigungen.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "info@donag.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 255,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

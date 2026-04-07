@@ -1,0 +1,19 @@
+{
+  "slug": "ateliernaturel-blumen-fleurs",
+  "name": "Ateliernaturel Blumen Fleurs",
+  "domain": "ateliernaturel-blumen-fleurs.ch",
+  "businessType": "Florist",
+  "year": 2019,
+  "email": "atelier-naturel@rega-sense.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 250,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

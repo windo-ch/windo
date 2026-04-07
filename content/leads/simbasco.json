@@ -1,0 +1,19 @@
+{
+  "slug": "simbasco",
+  "name": "Simbasco",
+  "domain": "simbasco.ch",
+  "businessType": "Yoga / Wellness",
+  "year": 2023,
+  "email": "info@simbasco.ch",
+  "phone": "+4129776856",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 258,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

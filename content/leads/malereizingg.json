@@ -1,0 +1,19 @@
+{
+  "slug": "malereizingg",
+  "name": "Malereizingg",
+  "domain": "malereizingg.ch",
+  "businessType": "Maler",
+  "year": 2025,
+  "email": "malerei.zingg@gmail.com",
+  "phone": "+4169947338",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 308,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

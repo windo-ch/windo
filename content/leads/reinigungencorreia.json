@@ -1,0 +1,19 @@
+{
+  "slug": "reinigungencorreia",
+  "name": "Reinigungencorreia",
+  "domain": "reinigungencorreia.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "reinigungencorreia@gmail.com",
+  "phone": "+412639032945",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 660,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

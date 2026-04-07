@@ -1,0 +1,19 @@
+{
+  "slug": "dogcat-shop",
+  "name": "Dogcat Shop",
+  "domain": "dogcat-shop.ch",
+  "businessType": "Bedachungen",
+  "year": 2017,
+  "email": "dogcatshop.zollikon@gmail.com",
+  "phone": "+4168109712",
+  "tier": "starter",
+  "floppy": true,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 244,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

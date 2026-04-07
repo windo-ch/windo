@@ -1,0 +1,19 @@
+{
+  "slug": "sf-facilityservices",
+  "name": "Sf Facilityservices",
+  "domain": "sf-facilityservices.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "info@sf-facilityservices.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 251,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

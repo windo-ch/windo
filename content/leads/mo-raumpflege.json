@@ -1,0 +1,19 @@
+{
+  "slug": "mo-raumpflege",
+  "name": "Mo Raumpflege",
+  "domain": "mo-raumpflege.ch",
+  "businessType": "Reinigung",
+  "year": 2023,
+  "email": "info@mo-raumpflege.ch",
+  "phone": "+4101990728",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 323,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

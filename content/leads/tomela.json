@@ -1,0 +1,19 @@
+{
+  "slug": "tomela",
+  "name": "Tomela",
+  "domain": "tomela.ch",
+  "businessType": "Landmaschinen",
+  "year": 2023,
+  "email": "info@tomela.ch, tomela10@bluewin.ch",
+  "phone": "+4119982538",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 254,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

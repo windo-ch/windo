@@ -1,0 +1,19 @@
+{
+  "slug": "zieglerbrot",
+  "name": "Zieglerbrot",
+  "domain": "zieglerbrot.ch",
+  "businessType": "Restaurant",
+  "year": 2021,
+  "email": "info@zieglerbrot.ch, nfo@zieglerbrot.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 210,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

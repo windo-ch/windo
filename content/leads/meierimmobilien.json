@@ -1,0 +1,19 @@
+{
+  "slug": "meierimmobilien",
+  "name": "Meierimmobilien",
+  "domain": "meierimmobilien.ch",
+  "businessType": "Immobilien",
+  "year": 2023,
+  "email": "info@meier-immobilien.ch",
+  "phone": "",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 221,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

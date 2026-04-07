@@ -1,0 +1,19 @@
+{
+  "slug": "rainer-rothe",
+  "name": "Rainer Rothe",
+  "domain": "rainer-rothe.ch",
+  "businessType": "Anwalt",
+  "year": 2023,
+  "email": "anwalt@rainer-rothe.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 240,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

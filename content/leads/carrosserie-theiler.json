@@ -1,0 +1,19 @@
+{
+  "slug": "carrosserie-theiler",
+  "name": "Carrosserie Theiler",
+  "domain": "carrosserie-theiler.ch",
+  "businessType": "Garage / Werkstatt",
+  "year": 2018,
+  "email": "theiler.carross@bluewin.ch",
+  "phone": "+4113210413",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 237,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

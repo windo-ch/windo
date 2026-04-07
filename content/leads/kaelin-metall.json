@@ -1,0 +1,19 @@
+{
+  "slug": "kaelin-metall",
+  "name": "Kaelin Metall",
+  "domain": "kaelin-metall.ch",
+  "businessType": "Schlosserei",
+  "year": 2023,
+  "email": "info@kaelin-metall.ch",
+  "phone": "+4172527461",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 245,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

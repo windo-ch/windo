@@ -1,0 +1,19 @@
+{
+  "slug": "azra-reinigung",
+  "name": "Azra Reinigung",
+  "domain": "azra-reinigung.ch",
+  "businessType": "Reinigung",
+  "year": 2024,
+  "email": "azra.reinigungen@bluewin.ch",
+  "phone": "+419099768791",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 351,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "maag-plattenbelaege",
+  "name": "Maag Plattenbelaege",
+  "domain": "maag-plattenbelaege.ch",
+  "businessType": "Plattenleger",
+  "year": 2020,
+  "email": "info@maag-plattenbelaege.ch, nfo@maag-plattenbelaege.ch",
+  "phone": "",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 341,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hairstyling-annelise",
+  "name": "Hairstyling Annelise",
+  "domain": "hairstyling-annelise.ch",
+  "businessType": "Coiffeur",
+  "year": 2023,
+  "email": "keine@email.ch",
+  "phone": "+4129684579",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 287,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

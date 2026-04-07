@@ -1,0 +1,19 @@
+{
+  "slug": "wyrschmalergeschaeft",
+  "name": "Wyrschmalergeschaeft",
+  "domain": "wyrschmalergeschaeft.ch",
+  "businessType": "Gipser",
+  "year": 2024,
+  "email": "info@wyrschmalergeschaeft.ch",
+  "phone": "+4142610195",
+  "tier": "business",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 280,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

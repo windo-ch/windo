@@ -1,0 +1,19 @@
+{
+  "slug": "benz-geiger",
+  "name": "Benz Geiger",
+  "domain": "benz-geiger.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2022,
+  "email": "info@benz-geiger.ch",
+  "phone": "+4167044548",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 252,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}

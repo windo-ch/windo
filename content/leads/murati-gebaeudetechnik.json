@@ -1,0 +1,19 @@
+{
+  "slug": "murati-gebaeudetechnik",
+  "name": "Murati Gebaeudetechnik",
+  "domain": "murati-gebaeudetechnik.ch",
+  "businessType": "Sanitär / Heizung",
+  "year": 2023,
+  "email": "info@murati-gebaeudetechnik.ch",
+  "phone": "+414710363320",
+  "tier": "starter",
+  "floppy": false,
+  "checks": {
+    "ssl": true,
+    "mobileViewport": false,
+    "loadMs": 251,
+    "slowLoad": false
+  },
+  "hasDesktopScreenshot": true,
+  "hasMobileScreenshot": true
+}
