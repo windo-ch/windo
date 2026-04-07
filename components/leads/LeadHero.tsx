@@ -52,7 +52,7 @@ export default function LeadHero({ lead }: { lead: LeadContent }) {
           💬 WhatsApp
         </a>
       </div>
-      <p className="mt-4 text-xs text-gray-600">Kostenlos · Kein Auftrag nötig · 15 Minuten</p>
+      <p className="mt-4 text-xs text-gray-600">Kostenlos · 15 Minuten</p>
     </section>
   );
 }

@@ -21,7 +21,7 @@ export default function LeadAbout({ lead }: { lead: LeadContent }) {
               Ich bin Henry.
             </h2>
             <p className="text-gray-500 leading-relaxed max-w-lg">
-              Ich erstelle und betreue Websites für Schweizer KMU. Kein Büro, keine Agentur,
+              Ich erstelle und betreue Websites für Schweizer KMU. Keine Agentur,
               kein Ticket-System — Sie schreiben mir direkt per WhatsApp oder E-Mail,
               und ich kümmere mich darum. Ich kenne die Bedürfnisse von{" "}
               {lead.businessType !== "Sonstige"

@@ -147,7 +147,7 @@ export default function VergleichPage() {
           Der direkte Vergleich für Schweizer KMU.
         </p>
         <CTAButtons />
-        <p className="mt-4 text-xs text-gray-600">Kostenlos · Kein Auftrag nötig · 15 Minuten</p>
+        <p className="mt-4 text-xs text-gray-600">Kostenlos · 15 Minuten</p>
       </section>
 
       {/* SECTION 1: Das Problem */}
@@ -513,7 +513,7 @@ export default function VergleichPage() {
             <p className="text-gray-500 text-sm">079 175 20 20 · henry@windo.ch</p>
           </div>
           <CTAButtons className="justify-center" />
-          <p className="mt-4 text-xs text-gray-600">Kostenlos · Kein Auftrag nötig · 15 Minuten</p>
+          <p className="mt-4 text-xs text-gray-600">Kostenlos · 15 Minuten</p>
         </div>
       </section>
     </>

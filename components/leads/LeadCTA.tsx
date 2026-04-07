@@ -12,7 +12,7 @@ export default function LeadCTA({ lead }: { lead: LeadContent }) {
           Bereit loszulegen?
         </h2>
         <p className="text-gray-400 mb-10">
-          Kostenloses Gespräch — 15 Minuten. Kein Auftrag nötig.
+          Kostenloses Gespräch — 15 Minuten.
         </p>
         <div className="flex flex-wrap gap-4">
           <a

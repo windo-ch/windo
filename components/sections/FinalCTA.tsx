@@ -35,7 +35,7 @@ export default function FinalCTA() {
         >
           <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">Bereit?</h2>
           <p className="text-gray-400 text-lg mb-10 max-w-md">
-            Kostenloses Gespräch — 15 Minuten. Kein Auftrag nötig.
+            Kostenloses Gespräch — 15 Minuten.
           </p>
           <div className="flex flex-wrap gap-4 mb-10">
             <a

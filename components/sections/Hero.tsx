@@ -21,7 +21,7 @@ export default function Hero() {
           </h1>
           <p className="text-lg text-gray-500 max-w-lg mb-10 leading-relaxed">
             Professionell, schnell und direkt von Henry —
-            fertig in 10 Arbeitstagen. Kein Büro, keine Agentur, kein Ticketsystem.
+            fertig in 10 Arbeitstagen. Keine Agentur, kein Ticketsystem.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <a
