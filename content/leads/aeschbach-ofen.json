@@ -15,5 +15,8 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet kaum detaillierte Beschreibungen der angebotenen Plattenleger-Dienste, was potenzielle Kunden unsicher macht. Es fehlen Kundenbewertungen oder Referenzprojekte, um Vertrauen in die Qualität der Arbeiten aufzubauen. Die Öffnungszeiten sind unvollständig angegeben, ohne klare Wochentage oder Feiertagsregelungen für einen schnellen Terminüberblick. Es gibt keine prominenten Handlungsaufforderungen wie \"Jetzt anrufen\" oder ein Kontaktformular, um den nächsten Schritt einfach zu machen."
+  ]
 }

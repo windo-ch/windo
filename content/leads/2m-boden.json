@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Referenzseiten zeigen keine detaillierten Fotos oder Beschreibungen realisierter Projekte, was potenziellen Kunden das Vertrauen in die Qualität erschwert.",
+    "Es fehlen klare Informationen zu Preisen, Garantien oder Zertifizierungen, um Vertrauen aufzubauen und Vergleiche zu erleichtern.",
+    "Handlungsaufforderungen wie \"Jetzt anrufen\" oder \"Kostenloses Angebot einholen\" sind zu vage und nicht prominent platziert.",
+    "Der Inhalt beschreibt Angebote allgemein, ohne Vorteile für Kunden wie Langlebigkeit oder Pflegetipps hervorzuheben."
+  ]
 }

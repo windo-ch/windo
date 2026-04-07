@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Menükarte sollte detailliertere Preise und Zutatenlisten enthalten, um Kunden eine klare Kaufentscheidung zu ermöglichen.",
+    "Es fehlen Kundenbewertungen oder Fotos von Gerichten, was das Vertrauen in die Qualität der Speisen stärken würde.",
+    "Öffnungszeiten und genaue Bestellbestimmungen sind unvollständig dargestellt, was die Planung erschwert.",
+    "Auf jeder Seite sollte eine prominente Call-to-Action wie \"Jetzt bestellen\" oder \"Reservieren\" mit direktem Link zu Telefon oder Online-Plattformen stehen."
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte aktuelle Kundenbewertungen und Testimonials prominent einbinden, um das Vertrauen potenzieller Kunden sofort zu stärken.",
+    "Der Inhalt zu Reinigungsdiensten muss detaillierter beschrieben werden, damit Kunden genau wissen, welche Leistungen angeboten werden.",
+    "Preise oder eine klare Preisübersicht sollten sichtbarer platziert werden, um Transparenz und Klarheit zu schaffen.",
+    "Stärkere Handlungsaufforderungen wie \"Jetzt Offerte anfragen\" mit einem einfachen Formular würden den nächsten Schritt erleichtern."
+  ]
 }

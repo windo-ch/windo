@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Referenzseite sollte detailliertere Projektbeschreibungen, Kundenfeedback und vor/nach-Bilder enthalten, um mehr Vertrauen aufzubauen.",
+    "Preise oder grobe Kostenvoranschläge für gängige Leistungen wie Carports oder Terrassen fehlen, was die Planbarkeit für Kunden erschwert.",
+    "Handlungsaufforderungen wie „Jetzt unverbindlich anfragen“ oder ein Kontaktformular direkt auf den Dienstseiten würden den nächsten Schritt klarer machen.",
+    "Die Leistungsbeschreibungen sind zu allgemein und könnten mit konkreten Beispielen oder Vorteilen für den Kunden präziser werden."
+  ]
 }

@@ -15,5 +15,8 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet keine detaillierten Beschreibungen der angebotenen Dienstleistungen wie Gipser-, Sanitär- oder Spenglerarbeiten, was potenzielle Kunden unsicher macht. Es fehlen Kundenbewertungen oder Referenzprojekte mit konkreten Erfolgsstories, um Vertrauen aufzubauen. Die Inhalte vermischen unklar Sanitär, Spenglerei und möglicherweise Gipsarbeiten, was die Kernkompetenzen des Gipser-Betriebs verwischt. Es gibt keine prominenten und klaren Aufrufe wie \"Jetzt Termin vereinbaren\" oder \"Kostenloses Angebot anfordern\" auf der Startseite."
+  ]
 }

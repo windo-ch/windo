@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Basierend auf den verfügbaren Informationen von 3 Team Liechti kann ich folgende Verbesserungsvorschläge machen:",
+    "Die Website sollte detailliertere Beschreibungen der Dienstleistungen enthalten, um potenziellen Kunden sofort klar zu werden, welche konkreten Projekte das Unternehmen umsetzen kann.",
+    "Kundenbewertungen oder Referenzen würden das Vertrauen erheblich stärken und zeigen, dass andere Kunden mit den Arbeiten zufrieden waren.",
+    "Eine klare Handlungsaufforderung wie \"Kontaktieren Sie uns für ein kostenloses Angebot\" oder \"Vereinbaren Sie einen Besichtigungstermin\" sollte prominenter platziert werden."
+  ]
 }

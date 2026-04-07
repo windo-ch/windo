@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an detaillierten Erfolgsgeschichten oder Kundenreferenzen, um das Vertrauen potenzieller Kunden zu stärken.",
+    "Die Rechtsgebiete werden nur oberflächlich aufgelistet, ohne klare Erklärungen zu typischen Fällen oder Vorteilen für Klienten.",
+    "Es gibt keine prominenten und klaren Handlungsaufforderungen wie \"Jetzt Termin vereinbaren\" oder \"Kostenloses Erstgespräch anfragen\".",
+    "Die \"Über mich\"-Seite bietet zu wenig persönliche Informationen über Erfahrung, Qualifikationen oder Erfolge, was die Glaubwürdigkeit mindert."
+  ]
 }

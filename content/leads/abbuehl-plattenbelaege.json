@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte detailliertere Beispiele für abgeschlossene Projekte mit Kundenfeedback zeigen, um mehr Vertrauen aufzubauen.",
+    "Es fehlen klare Preise oder Kostenschätzungen für typische Umbauten, was die Entscheidungsfindung erschwert.",
+    "Die Leistungen wie Plattenverlegung und Sanierungen könnten präziser beschrieben werden, um potenziellen Kunden mehr Klarheit zu bieten.",
+    "Auf jeder Seite sollte eine prominente Aufforderung wie \"Jetzt unverbindlich anfragen\" mit direktem Kontaktformular stehen."
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Kontaktinformationen im Impressum sind unvollständig und fehlerhaft, was das Vertrauen eines Kunden mindert.",
+    "Die Öffnungszeiten auf der Kontaktseite sind lückenhaft und unübersichtlich dargestellt, was die Planung erschwert.",
+    "Es fehlen klare, motivierende Handlungsaufforderungen wie \"Jetzt Termin buchen\" oder \"Kostenlos beraten lassen\" auf den Hauptseiten.",
+    "Die Website bietet zu wenig detaillierten Inhalt zu Angeboten, Preisen oder Kundenbewertungen, um potenzielle Käufer zu überzeugen."
+  ]
 }

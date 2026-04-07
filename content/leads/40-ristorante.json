@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt einer detaillierten Speisekarte mit Preisen, was potenziellen Kunden die Auswahl und Budgetplanung erschwert.",
+    "Es werden keine Öffnungszeiten oder aktuelle Verfügbarkeiten angegeben, was die Planung eines Besuchs unsicher macht.",
+    "Konkrete Informationen zum Chefkoch Francesco D'Onghia wie Fotos oder Hintergrund fehlen, um mehr Vertrauen in die Qualität der Küche aufzubauen.",
+    "Die Reservierungsaufforderung ist zu vage ohne direkten Link oder Formular, was den nächsten Schritt für Kunden kompliziert."
+  ]
 }

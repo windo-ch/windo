@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Öffnungszeiten sind unvollständig und verwirrend dargestellt, ohne genaue Uhrzeiten für die Werktage.",
+    "Es fehlen Kundenbewertungen oder Zertifizierungen, um mehr Vertrauen aufzubauen.",
+    "Preise für Leistungen wie Teppich- oder Vorhangreinigung werden nicht klar angegeben.",
+    "Es gibt keine prominenten Handlungsaufforderungen wie \"Jetzt Termin buchen\" oder Kontaktformular."
+  ]
 }

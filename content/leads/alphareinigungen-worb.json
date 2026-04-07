@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an Kundenbewertungen oder Referenzen, um das Vertrauen potenzieller Kunden zu stärken.",
+    "Es gibt keine klaren Preisinformationen oder Leistungsübersichten, was die Entscheidungsfindung erschwert.",
+    "Handlungsaufforderungen wie \"Jetzt anfragen\" oder ein Kontaktformular sind nirgends prominent platziert.",
+    "Der Inhalt ist zu allgemein und beschreibt Dienstleistungen nicht detailliert mit Beispielen oder Vorteilen."
+  ]
 }

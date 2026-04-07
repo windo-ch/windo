@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte detailliertere Beschreibungen der Kursinhalte und Preise inklusive Materialkosten bieten, um potenzielle Kunden nicht im Unklaren zu lassen.",
+    "Es fehlen Kundenbewertungen oder Referenzen, was das Vertrauen in die Qualität der Angebote und die Expertise von Bea Balzarini stärken würde.",
+    "Die Öffnungszeiten sind unvollständig angegeben, was es Kunden erschwert, spontane Besuche zu planen.",
+    "Stärkere und klarere Handlungsaufforderungen wie direkte Buchungslinks oder ein einfaches Anmeldeformular würden den nächsten Schritt erleichtern."
+  ]
 }

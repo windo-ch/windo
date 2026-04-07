@@ -15,5 +15,9 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Ich kann die Website allergieasthma.ch nicht besuchen, da ich keinen direkten Internetzugang habe. Basierend auf den Forschungsergebnissen zu Asthma-Patienteninformation kann ich jedoch allgemeine Verbesserungsempfehlungen geben, die für solche medizinischen Websites relevant sind:",
+    "Die Website sollte Inhalte in einfacher, verständlicher Sprache präsentieren, da durchschnittliche Patienten Schwierigkeiten mit zu komplexen medizinischen Texten haben. Die Seite sollte klare Handlungsaufforderungen enthalten, die Patienten ermutigen, ärztliche Beratung zu suchen, besonders bei allgemeinen Fragen. Die Website sollte gezielt auf häufige Patientenbedenken eingehen – wie Angst vor Nebenwirkungen und Wirksamkeitszweifel von Medikamenten – um Vertrauen aufzubauen. Ein Qualitätszertifikat (wie HONcode) sollte deutlich sichtbar sein, um die Glaubwürdigkeit der medizinischen Informationen zu"
+  ]
 }

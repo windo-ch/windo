@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte klare Informationen zu den angebotenen Therapiearten und Preisen enthalten, um potenziellen Kunden sofort Transparenz zu bieten.",
+    "Es fehlen persönliche Erfahrungsberichte oder Zertifizierungen der Therapeuten, was das Vertrauen neuer Kunden stärken würde.",
+    "Die Öffnungszeiten und Kontaktdaten sind nicht prominent platziert, was die Klarheit für Terminvereinbarungen erschwert.",
+    "Stärkere Handlungsaufforderungen wie \"Jetzt Termin buchen\" mit einem einfachen Formular würden Kunden schneller zum nächsten Schritt motivieren."
+  ]
 }

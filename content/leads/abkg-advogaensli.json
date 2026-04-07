@@ -15,5 +15,8 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet zu wenig detaillierte Beschreibungen der Dienstleistungen in Bereichen wie Erbrecht oder Baurecht, was potenzielle Kunden unsicher macht. Es fehlen persönliche Informationen über Kurt Gaensli oder das Team, um Vertrauen durch Expertise und Erfahrung aufzubauen. Die Inhalte sind oft unklar strukturiert mit Wiederholungen von Kontaktdaten, statt klarer Übersichten zu Rechtsgebieten. Handlungsaufforderungen beschränken sich auf eine Telefonnummer, ohne Buttons für E-Mail-Anfragen oder kostenlose Erstberatungen."
+  ]
 }

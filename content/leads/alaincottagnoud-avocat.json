@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet keine klaren Erfolgsgeschichten oder Kundenreferenzen, um Vertrauen aufzubauen.",
+    "Die Spezialisierungen werden nur oberflächlich aufgelistet, ohne detaillierte Erklärungen zu typischen Fällen oder Vorteilen.",
+    "Es fehlen direkte Handlungsaufforderungen wie \"Kontaktieren Sie uns für eine erste Beratung\" auf den Hauptseiten.",
+    "Die zweisprachige Struktur ist unklar, was potenzielle Kunden in der Sprachwahl verwirren könnte."
+  ]
 }

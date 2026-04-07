@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website des Restaurant Linde zeigt mehrere Bereiche für Verbesserungen:",
+    "Die genauen Öffnungszeiten sind auf der Kontaktseite unvollständig dargestellt und sollten vollständig aufgelistet werden, damit potenzielle Gäste schnell planen können.",
+    "Die Speisekarte wird auf der Website nicht einsehbar präsentiert, obwohl konkrete Gerichte wie Rösti und Käsefondue erwähnt werden — eine detaillierte Online-Menü wäre hilfreich.",
+    "Es fehlt ein klarer Call-to-Action für Tischreservierungen, denn die Reservierungssektion verweist nur auf einen Anruf, ohne ein Online-Reservierungssystem oder ein Kontaktformular anzubieten."
+  ]
 }

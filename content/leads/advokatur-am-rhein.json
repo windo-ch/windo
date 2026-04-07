@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte klarere und detailliertere Beschreibungen der Erfolgsstories oder konkreter Fallbeispiele bieten, um das Vertrauen potenzieller Kunden zu stärken.",
+    "Es fehlen persönliche Profile mit Fotos und vollständigen Werdegängen aller Anwälte, was die Glaubwürdigkeit und Nähe mindert.",
+    "Die Honorarinformationen könnten durch ein einfaches Preismodell für Standardberatungen transparenter und kundenfreundlicher gestaltet werden.",
+    "Stärkere Handlungsaufforderungen wie „Rufen Sie jetzt für ein kostenloses Erstgespräch an“ mit direkten Telefonnummern auf jeder Seite würden den nächsten Schritt erleichtern."
+  ]
 }

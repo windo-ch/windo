@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an sichtbaren Kundenbewertungen oder Referenzen, was das Vertrauen potenzieller Kunden nicht aufbaut.",
+    "Es werden keine klaren Preise oder Leistungsdetails genannt, was die Entscheidungsfindung erschwert.",
+    "Handlungsaufforderungen wie \"Jetzt anfragen\" oder Kontaktformulare sind nicht prominent platziert.",
+    "Der Inhalt ist zu allgemein und beschreibt keine spezifischen Vorteile oder Erfolgsgeschichten für Kunden im Kanton Zürich."
+  ]
 }

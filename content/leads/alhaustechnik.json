@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt eine prominente Auflistung von Kundenbewertungen oder Referenzen, um Vertrauen potenzieller Kunden sofort zu stärken.",
+    "Es gibt keine klaren, detaillierten Preise oder Kostenvoranschläge für typische Leistungen wie Wärmepumpen oder Sanierungen, was die Entscheidungsfindung erschwert.",
+    "Handlungsaufforderungen wie \"Jetzt Termin vereinbaren\" oder \"Kostenloses Angebot anfordern\" sind nicht ausreichend sichtbar und wirken nicht einladend.",
+    "Der Inhalt zur Datenschutzerklärung dominiert unnötig, ohne ausreichend Fokus auf Dienstleistungen und Vorteilen für den Kunden."
+  ]
 }

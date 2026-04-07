@@ -15,5 +15,8 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet zu wenig detaillierte Beschreibungen der angebotenen Dienstleistungen wie Rechnungswesen oder Revisionen, was potenzielle Kunden unsicher macht. Es fehlen klare Erfolgsgeschichten, Kundenbewertungen oder Zertifizierungen, um Vertrauen aufzubauen. Die Inhalte sind nicht klar strukturiert und erklären nicht präzise, welche Vorteile für Unternehmen oder Privatpersonen entstehen. Es gibt keine prominenten Handlungsaufforderungen wie \"Jetzt Termin vereinbaren\" oder ein Kontaktformular, um den nächsten Schritt zu erleichtern."
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet zu wenig detaillierte Informationen über abgeschlossene Projekte mit Fotos oder Fallstudien, um das Vertrauen potenzieller Kunden zu stärken.",
+    "Es fehlen klare Angaben zu Preisen, Leistungszeiten oder typischen Kostenrahmen, was die Planbarkeit für Kunden erschwert.",
+    "Handlungsaufforderungen wie „Jetzt Anfrage stellen“ oder „Kostenloses Beratungsgespräch vereinbaren“ sind nicht prominent platziert.",
+    "Die Kontaktinformationen sind unübersichtlich, ohne direkte Links zu Formularen oder Telefonnummern für schnelle Anfragen."
+  ]
 }

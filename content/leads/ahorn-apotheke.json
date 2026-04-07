@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet zu wenig detaillierte Informationen zu spezifischen Dienstleistungen wie Alternativmedizin oder Gesundheitscoaching, was potenzielle Kunden unsicher macht.",
+    "Es fehlen Kundenbewertungen oder Zertifizierungen, um das Vertrauen in die holistische Expertise stärker zu untermauern.",
+    "Kontaktinformationen wie Adresse und Öffnungszeiten sind vorhanden, aber nicht prominent genug platziert für schnelle Auffindbarkeit.",
+    "Es gibt keine klaren Handlungsaufforderungen wie „Jetzt Termin vereinbaren“ oder „Produkte online bestellen“, die den nächsten Schritt erleichtern."
+  ]
 }

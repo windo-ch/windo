@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an klaren Preisen für Dienstleistungen, was potenziellen Kunden die Planung erschwert.",
+    "Es gibt keine sichtbaren Kundenbewertungen oder Erfolgsgeschichten, um Vertrauen aufzubauen.",
+    "Handlungsaufforderungen wie \"Jetzt Termin buchen\" oder Kontaktformulare sind nicht prominent platziert.",
+    "Die genauen Öffnungszeiten und Adresse werden nicht sofort ersichtlich dargestellt, was die Klarheit mindert."
+  ]
 }

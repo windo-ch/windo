@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website könnte klarer beschreiben, welche spezifischen Behandlungen gegen Adipositas angeboten werden und für wen sie geeignet sind.",
+    "Preise oder Kostenvoranschläge sollten transparenter dargestellt werden, um Unsicherheiten potenzieller Patienten zu vermeiden.",
+    "Patiententestimonials oder Erfolgsgeschichten fehlen, was das Vertrauen in die Praxis stärken würde.",
+    "Deutliche Call-to-Action-Buttons wie „Termin vereinbaren“ sollten auf jeder Seite prominent platziert sein, um den nächsten Schritt zu erleichtern."
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte aktuelle Fotos der Gerichte und des Interieurs zeigen, um potenzielle Kunden appetitlich anzusprechen und Vertrauen aufzubauen.",
+    "Die Öffnungszeiten und Gründungsinfos sind veraltet oder unklar (z. B. COVID-Hinweis), was Unsicherheit bei der Planung schafft.",
+    "Es fehlen klare Informationen zu Preisen oder Menüs, sodass Kunden die Kosten nicht einschätzen können.",
+    "Stärkere Handlungsaufforderungen wie \"Jetzt reservieren\" mit direktem Link würden den Buchungsprozess erleichtern."
+  ]
 }

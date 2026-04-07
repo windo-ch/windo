@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte sofort klarer erklären, welche spezifischen Bedachungsleistungen für Privatkunden oder Firmen angeboten werden.",
+    "Mehr Referenzprojekte mit Fotos und Kundenfeedback würden das Vertrauen potenzieller Kunden spürbar stärken.",
+    "Ein vollständiges Impressum mit Teamvorstellungen und klaren Kontaktdaten fehlt für mehr Transparenz.",
+    "Stärkere Handlungsaufforderungen wie \"Jetzt unverbindlich anfragen\" mit einfachem Formular würden Anfragen erleichtern."
+  ]
 }

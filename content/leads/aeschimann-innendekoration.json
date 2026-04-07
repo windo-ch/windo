@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte detailliertere Informationen zu Preisen und Kostenbeispielen für Bodenbeläge bieten, um potenziellen Kunden mehr Transparenz zu geben.",
+    "Es fehlen Kundenbewertungen oder Referenzprojekte, die das Vertrauen in die langjährige Expertise des Familienunternehmens stärken könnten.",
+    "Die angebotenen Dienstleistungen wie Parkett- oder Vinylverlegung sind nicht klar in Kategorien unterteilt, was die Übersichtlichkeit erschwert.",
+    "Stärkere Handlungsaufforderungen wie „Jetzt Termin vereinbaren“ oder Kontaktformulare fehlen, um Kunden direkt zum nächsten Schritt zu motivieren."
+  ]
 }

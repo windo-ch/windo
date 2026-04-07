@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt konkrete Beispiele oder Fotos von abgeschlossenen Gartenprojekten, um potenzielle Kunden von der Qualität zu überzeugen.",
+    "Es werden keine Kundenbewertungen oder Referenzen präsentiert, was das Vertrauen in die 17-jährige Expertise erschweren könnte.",
+    "Die Leistungen bleiben vage beschrieben ohne klare Preise oder Pakete, was die Entscheidungsfindung für Kunden erschwert.",
+    "Stärkere Handlungsaufforderungen wie \"Rufen Sie jetzt an für ein kostenloses Angebot\" fehlen auf den Hauptseiten."
+  ]
 }

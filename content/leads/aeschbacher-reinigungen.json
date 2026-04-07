@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte detailliertere Informationen zu den angebotenen Reinigungsdiensten für Privat- und Geschäftskunden enthalten, um potenzielle Kunden besser zu informieren.",
+    "Es fehlen konkrete Referenzen oder Fallbeispiele von Kundenprojekten, was das Vertrauen neuer Besucher stärken würde.",
+    "Preise oder grobe Kostenvoranschläge sind nicht ersichtlich, was die Entscheidungsfindung erschwert.",
+    "Klare und prominente Handlungsaufforderungen wie \"Jetzt kostenloses Angebot anfordern\" mit einem einfachen Kontaktformular fehlen."
+  ]
 }
