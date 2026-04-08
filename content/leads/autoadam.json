@@ -2,7 +2,7 @@
   "slug": "autoadam",
   "name": "Autoadam",
   "domain": "autoadam.ch",
-  "businessType": "Handwerk",
+  "businessType": "Autogarage",
   "year": 2018,
   "email": "adam.adam@sunrise.ch",
   "phone": "",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an Kundenbewertungen oder Erfahrungsberichten, was das Vertrauen potenzieller Kunden mindert.",
+    "Es werden keine Preise für Mietwagen, Käufe oder Reparaturen angegeben, was die Klarheit über Kosten erschwert.",
+    "Die angebotenen Dienstleistungen wie Reparaturen oder Partner sind zu vage beschrieben, ohne konkrete Beispiele.",
+    "Es gibt keine klaren Handlungsaufforderungen wie \"Jetzt anrufen\" oder \"Termin buchen\", um Kunden zum nächsten Schritt zu motivieren."
+  ]
 }

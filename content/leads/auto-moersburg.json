@@ -2,7 +2,7 @@
   "slug": "auto-moersburg",
   "name": "Auto Moersburg",
   "domain": "auto-moersburg.ch",
-  "businessType": "Garage / Werkstatt",
+  "businessType": "Autogarage",
   "year": 2020,
   "email": "info@auto-moersburg.ch",
   "phone": "",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Basierend auf den verfügbaren Informationen zur Website von Auto Mörsburg kann ich folgende Verbesserungen empfehlen:",
+    "Die Website sollte klarer kommunizieren, welche konkreten Reparatur- und Servicearbeiten angeboten werden, da derzeit nur einzelne Services wie Klimaservice und Reifenservice erwähnt sind.",
+    "Ein aktuelles Testimonial oder Kundenbewertungen würden das Vertrauen potenzieller Kunden stärken, insbesondere weil die 40 Jahre Erfahrung des Unternehmens ein grosses Vertrauenssignal darstellt.",
+    "Die Öffnungszeiten der Werkstatt sollten prominent auf der Startseite angezeigt werden, um Besuchern sofort Klarheit über die Erreichbarkeit zu geben."
+  ]
 }

@@ -2,7 +2,7 @@
   "slug": "babstattoo",
   "name": "Babstattoo",
   "domain": "babstattoo.ch",
-  "businessType": "Tattoo-Studio",
+  "businessType": "Tattoostudio",
   "year": 2019,
   "email": "info@babstattoo.ch",
   "phone": "+4108785059",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte ein Portfolio mit einer grösseren Auswahl an Tattoo-Beispielen und Kundenfotos zeigen, um potenzielle Kunden von der Qualität zu überzeugen.",
+    "Mehr detaillierte Informationen zu Öffnungszeiten und Beratungsterminen direkt auf der Startseite würden Klarheit schaffen und unnötige Fragen vermeiden.",
+    "Kundenbewertungen oder Testimonials sollten prominent platziert werden, um Vertrauen aufzubauen, da derzeit keine sichtbar sind.",
+    "Stärkere Handlungsaufforderungen wie „Jetzt Beratungstermin buchen“ oder „Kontaktieren Sie uns“ mit direkten Links würden Kunden leichter zum nächsten Schritt motivieren."
+  ]
 }

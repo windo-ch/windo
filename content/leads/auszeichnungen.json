@@ -2,7 +2,7 @@
   "slug": "auszeichnungen",
   "name": "Auszeichnungen",
   "domain": "auszeichnungen.ch",
-  "businessType": "Sonstige",
+  "businessType": "Gravurwerkstatt",
   "year": 2023,
   "email": "info@auszeichnungen.ch",
   "phone": "+4143315709",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt konkrete Beispiele oder Fotos von Kundenreferenzen mit Namen und Erfolgsgeschichten, um Vertrauen aufzubauen.",
+    "Es gibt keine klaren Informationen zu Preisen, Lieferzeiten oder Bestellprozessen, was die Entscheidungsfindung erschwert.",
+    "Handlungsaufforderungen wie \"Jetzt anfragen\" oder \"Kostenloses Angebot einholen\" sind zu schwach und nicht prominent platziert.",
+    "Der Inhalt auf \"Über uns\" ist zu allgemein und hebt keine einzigartigen Vorteile oder Zertifizierungen hervor, die potenzielle Kunden überzeugen."
+  ]
 }

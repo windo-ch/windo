@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Basierend auf den verfügbaren Informationen zur Website der Schreinerei Robert Bärtsch können folgende Verbesserungen aus Kundensicht empfohlen werden:",
+    "Die Öffnungszeiten sind unvollständig dargestellt und enden mit „07:00 - 12 ...\", weshalb potenzielle Kunden nicht wissen, wann der Betrieb tatsächlich geschlossen hat.",
+    "Auf der Website fehlen Fotos von realisierten Projekten oder dem Showroom, um das Vertrauen in die Handwerksqualität zu stärken.",
+    "Es gibt keine Informationen zu Preisen, Garantien oder Versicherungen, die für Kunden bei der Kaufentscheidung relevant sind."
+  ]
 }

@@ -2,7 +2,7 @@
   "slug": "assolari",
   "name": "Assolari",
   "domain": "assolari.ch",
-  "businessType": "Treuhand",
+  "businessType": "Baumanagement",
   "year": 2017,
   "email": "mail@assolari.ch",
   "phone": "+4104660710",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an detaillierten Beschreibungen der angebotenen Treuhand-Dienste, um potenzielle Kunden besser zu informieren.",
+    "Es werden keine Kundenbewertungen oder Erfolgsgeschichten präsentiert, was das Vertrauen in die Kompetenz des Unternehmens mindert.",
+    "Die Leistungen und Preise sind nicht klar strukturiert, sodass Kunden schnell überblicken können, was sie erwarten dürfen.",
+    "Es gibt keine prominenten Handlungsaufforderungen wie \"Jetzt Termin vereinbaren\" oder Kontaktformulare, um den nächsten Schritt zu erleichtern."
+  ]
 }

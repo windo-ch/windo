@@ -2,7 +2,7 @@
   "slug": "augenarzt-fischer",
   "name": "Augenarzt Fischer",
   "domain": "augenarzt-fischer.ch",
-  "businessType": "Augenarzt",
+  "businessType": "Augenarztpraxis",
   "year": 2023,
   "email": "augenarztpraxis@hin.ch",
   "phone": "+4132258996",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Das Behandlungsspektrum könnte detaillierter beschrieben werden, um potenziellen Kunden konkrete Leistungen wie spezifische Operationen klar zu zeigen.",
+    "Qualifikationen und Zertifikate der Ärztin sollten prominent hervorgehoben werden, um mehr Vertrauen bei neuen Patienten zu schaffen.",
+    "Handlungsaufforderungen wie „Rufen Sie jetzt an für einen Termin“ fehlen, was den nächsten Schritt für Interessierte unklar macht.",
+    "Patientenbewertungen oder Erfolgsgeschichten wären hilfreich, um die Praxis glaubwürdiger und einladender zu präsentieren."
+  ]
 }

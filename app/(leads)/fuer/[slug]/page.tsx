@@ -32,12 +32,12 @@ export default async function LeadPage({
   return (
     <>
       <LeadHero lead={lead} />
-      <LeadCurrentSite lead={lead} />
       <LeadInsights lead={lead} />
-      <LeadReferences />
+      <LeadCurrentSite lead={lead} />
       <LeadComparison lead={lead} />
       <LeadOffer lead={lead} />
       <LeadAbout lead={lead} />
+      <LeadReferences />
       <LeadCTA lead={lead} />
       <LeadFooter lead={lead} />
       <StickyMobileCTA lead={lead} />

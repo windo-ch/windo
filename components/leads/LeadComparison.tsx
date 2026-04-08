@@ -7,7 +7,7 @@ export default function LeadComparison({ lead }: { lead: LeadContent }) {
   const rows: { label: string; ls: string; windo: string }[] = [
     { label: "Design", ls: `Vorlage von ${lead.year}`, windo: "Individuell" },
     { label: "Texte", ls: "Nicht inklusive", windo: "✓ Inklusive" },
-    { label: "Google PageSpeed", ls: "~40–70/100", windo: "100/100" },
+    { label: "Google PageSpeed", ls: "~40–90/100", windo: "90+/100" },
     { label: "Ansprechpartner", ls: "Callcenter", windo: "✓ Direkt per WhatsApp" },
     { label: "Vertragslaufzeit", ls: "3 Jahre", windo: "Monatlich kündbar" },
     { label: "Website gehört Ihnen", ls: "✕", windo: "✓" },

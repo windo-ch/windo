@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet kaum detaillierte Informationen zu angebotenen Reinigungsleistungen wie Büroreinigung oder Endreinigung, was potenzielle Kunden unsicher macht.",
+    "Es fehlen Kundenbewertungen, Referenzen oder Zertifizierungen, um Vertrauen in die Professionalität der Asmara GmbH aufzubauen.",
+    "Preise oder Leistungsangebote sind nicht klar kommuniziert, sodass Kunden schwer abschätzen können, was sie erwartet.",
+    "Es gibt keine prominenten Handlungsaufforderungen wie \"Jetzt Termin buchen\" oder Kontaktformulare, die den nächsten Schritt erleichtern."
+  ]
 }

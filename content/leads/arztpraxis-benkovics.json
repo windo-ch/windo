@@ -2,7 +2,7 @@
   "slug": "arztpraxis-benkovics",
   "name": "Arztpraxis Benkovics",
   "domain": "arztpraxis-benkovics.ch",
-  "businessType": "Arzt / Praxis",
+  "businessType": "Allgemeinmedizin",
   "year": 2023,
   "email": "praxis.benkovics@hin.ch",
   "phone": "+415045099990",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte detaillierte Öffnungszeiten direkt auf der Startseite auflisten, um potenziellen Kunden sofortige Klarheit über Verfügbarkeit zu bieten.",
+    "Es fehlen Patientenbewertungen oder Erfolgsgeschichten, die das Vertrauen in die Praxis stärken könnten.",
+    "Klare Informationen zum mehrsprachigen Team und genauen Adresse in Bruggen sollten prominent platziert werden für bessere Orientierung.",
+    "Ein sichtbarer Button zum Terminbuchen oder Anrufen würde Handlungsaufforderungen für Interessenten erleichtern."
+  ]
 }

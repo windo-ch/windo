@@ -2,7 +2,7 @@
   "slug": "bagger-forstarbeiten-toggenburg",
   "name": "Bagger Forstarbeiten Toggenburg",
   "domain": "bagger-forstarbeiten-toggenburg.ch",
-  "businessType": "Landmaschinen",
+  "businessType": "Baggerarbeiten",
   "year": 2024,
   "email": "fam.kurath@bluewin.ch",
   "phone": "+4146727328",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet keine klaren Informationen über die angebotenen Maschinen und Dienstleistungen für Forstarbeiten, was potenzielle Kunden verunsichert.",
+    "Es fehlen Referenzen, Kundenbewertungen oder Zertifizierungen, um Vertrauen in die Kompetenz des Schweizer Betriebs aufzubauen.",
+    "Preise, Leistungen und Kontaktdaten sind nicht übersichtlich dargestellt, was die Orientierung erschwert.",
+    "Es gibt keine prominenten Handlungsaufforderungen wie \"Jetzt anfragen\" oder \"Kostenloses Angebot einholen\", um Kunden zum nächsten Schritt zu motivieren."
+  ]
 }

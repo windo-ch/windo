@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an klaren Informationen zu Öffnungszeiten und Standorten, was potenzielle Kunden unsicher macht.",
+    "Es gibt keine aktuellen Produktbilder oder Beschreibungen der Backwaren, um Appetit und Auswahl zu wecken.",
+    "Kontakt- und Bestellmöglichkeiten sind nicht prominent platziert, ohne direkte Handlungsaufforderungen wie \"Jetzt anrufen\".",
+    "Vertrauen würde durch Kundenbewertungen oder Zertifikate wie Bio-Qualitäten gestärkt werden."
+  ]
 }

@@ -2,7 +2,7 @@
   "slug": "atc-garage",
   "name": "Atc Garage",
   "domain": "atc-garage.ch",
-  "businessType": "Garage / Werkstatt",
+  "businessType": "Autogarage",
   "year": 2018,
   "email": "office@atc-garage.ch",
   "phone": "+4136347267",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte detailliertere Beschreibungen der angebotenen Dienstleistungen wie Tuning und Reparaturen enthalten, um potenziellen Kunden mehr Klarheit über den Umfang zu bieten.",
+    "Es fehlen Kundenbewertungen oder Zertifizierungen, was das Vertrauen in die Professionalität der seit 2017 bestehenden Garage stärken würde.",
+    "Die Öffnungszeiten sind unvollständig dargestellt, was die Planung von Besuchen erschwert und Klarheit mindert.",
+    "Stärkere Handlungsaufforderungen wie ein prominentes Online-Terminbuchungstool würden Kunden direkter zum Kontakt motivieren."
+  ]
 }

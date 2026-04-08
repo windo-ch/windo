@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte die Öffnungszeiten klarer und prominenter auf der Startseite darstellen, um spontane Besucher nicht zu frustrieren.",
+    "Es fehlen Kundenbewertungen oder Erfahrungsberichte, was das Vertrauen potenzieller Gäste in die Qualität mindert.",
+    "Die Speisekarte ist nicht leicht auffindbar oder detailliert beschrieben, was die Entscheidungsfindung erschwert.",
+    "Es gibt keine klaren Handlungsaufforderungen wie \"Jetzt reservieren\" mit einem einfachen Formular oder Telefonnummer-Link."
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte detailliertere Informationen zu spezifischen Behandlungen und Erkrankungen bieten, um potenziellen Kunden einen besseren Überblick zu geben.",
+    "Es fehlen persönliche Vorstellungen des Teams mit Qualifikationen oder Fotos, was das Vertrauen stärken würde.",
+    "Kontaktdaten und ein klares Online-Terminbuchungstool sollten prominenter platziert werden, um den nächsten Schritt zu erleichtern.",
+    "Stärkere und wiederholte Handlungsaufforderungen wie \"Jetzt Termin vereinbaren\" mit einem direkten Link würden die Conversion fördern."
+  ]
 }

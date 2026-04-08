@@ -2,7 +2,7 @@
   "slug": "autospritzwerk-stifter",
   "name": "Autospritzwerk Stifter",
   "domain": "autospritzwerk-stifter.ch",
-  "businessType": "Garage / Werkstatt",
+  "businessType": "Autospritzwerk",
   "year": 2024,
   "email": "juerg.stifter@bluewin.ch",
   "phone": "+417474541429",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Basierend auf den verfügbaren Suchergebnissen zur Website autospritzwerk-stifter.ch kann ich folgende Verbesserungspotenziale identifizieren:",
+    "Die Website sollte detaillierte Informationen zu den angebotenen Dienstleistungen und Fachbereichen enthalten, da derzeit nur vage von „professionellem Service rund ums Auto\" die Rede ist.",
+    "Kundenreferenzen oder Bewertungen würden das Vertrauen in die Fachkompetenz stärken, besonders da Jürg Stifter langjährige Erfahrung hat, die aber nur minimal präsentiert wird.",
+    "Ein klarer „Jetzt anfragen\" oder „Kostenvoranschlag anfordern\"-Button würde potenzielle Kunden zu einer konkreten Handlung auffordern, statt sie nur mit Kontaktdaten zu konfrontieren."
+  ]
 }

@@ -2,7 +2,7 @@
   "slug": "atelier-haenseler",
   "name": "Atelier Haenseler",
   "domain": "atelier-haenseler.ch",
-  "businessType": "Reinigung",
+  "businessType": "Teppichrestauration",
   "year": 2023,
   "email": "atelierhaenseler@bluewin.ch",
   "phone": "+4126500671",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an Kundenbewertungen oder Erfahrungsberichten, die Vertrauen aufbauen könnten.",
+    "Es werden keine klaren Preise oder Kostenvoranschläge für Reinigungsleistungen angegeben, was die Entscheidungsfindung erschwert.",
+    "Handlungsaufforderungen wie \"Jetzt Termin buchen\" oder Kontaktformulare sind nicht prominent platziert.",
+    "Der Inhalt zu Leistungen und Prozessen ist zu vage und könnte mit konkreten Beispielen ergänzt werden."
+  ]
 }

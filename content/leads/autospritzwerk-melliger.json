@@ -2,7 +2,7 @@
   "slug": "autospritzwerk-melliger",
   "name": "Autospritzwerk Melliger",
   "domain": "autospritzwerk-melliger.ch",
-  "businessType": "Garage / Werkstatt",
+  "businessType": "Autolackiererei",
   "year": 2022,
   "email": "c.s.melliger@bluewin.ch",
   "phone": "",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Öffnungszeiten sind unvollständig angegeben und erschweren potenziellen Kunden die Planung eines Besuchs.",
+    "Es fehlen detaillierte Informationen zu Leistungen wie Preisen oder Referenzarbeiten, was das Vertrauen in die Expertise mindert.",
+    "Kontaktmöglichkeiten wie ein Online-Formular oder eine klare Call-to-Action wie \"Jetzt Termin vereinbaren\" fehlen vollständig.",
+    "Es gibt keine Kundenbewertungen oder Zertifizierungen, die das Vertrauen in die Qualität der Lackierarbeiten stärken würden."
+  ]
 }

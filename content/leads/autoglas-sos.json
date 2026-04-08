@@ -2,7 +2,7 @@
   "slug": "autoglas-sos",
   "name": "Autoglas Sos",
   "domain": "autoglas-sos.ch",
-  "businessType": "Garage / Werkstatt",
+  "businessType": "Autoglas-Reparatur",
   "year": 2020,
   "email": "contact@sos-autoglas.ch",
   "phone": "",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt prominent platzierten Kundenbewertungen, um Vertrauen potenzieller Kunden schneller aufzubauen.",
+    "Es gibt keine klaren Erklärungen zu Preisen, Versicherungsabwicklung oder ADAS-Kalibrierung, was Unsicherheiten schafft.",
+    "Handlungsaufforderungen wie \"Jetzt Termin buchen\" oder \"Kostenloses Angebot einholen\" sind nicht sofort sichtbar und prominent.",
+    "Die Dienstleistungen werden nicht klar in Schritte unterteilt, sodass Kunden den Reparaturprozess nicht leicht nachvollziehen können."
+  ]
 }

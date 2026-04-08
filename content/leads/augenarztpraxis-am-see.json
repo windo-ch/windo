@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt eine klare Auflistung der Öffnungszeiten, was potenziellen Kunden die Planung eines Termins erschwert.",
+    "Es gibt keine sichtbaren Patientenbewertungen oder Erfahrungsberichte, was das Vertrauen in die Praxis erschweren könnte.",
+    "Die angebotenen Leistungen werden nicht detailliert beschrieben, sodass Kunden nicht schnell überprüfen können, ob ihre Bedürfnisse abgedeckt sind.",
+    "Es fehlen prominente Handlungsaufforderungen wie \"Jetzt Termin vereinbaren\" mit einem einfachen Formular oder Link."
+  ]
 }

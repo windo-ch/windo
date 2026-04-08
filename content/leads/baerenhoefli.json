@@ -2,7 +2,7 @@
   "slug": "baerenhoefli",
   "name": "Baerenhoefli",
   "domain": "baerenhoefli.ch",
-  "businessType": "Hotel",
+  "businessType": "Restaurant",
   "year": 2018,
   "email": "info@hotelmetropole.ch, info@kreuzbern.ch",
   "phone": "+4131329949, +411117881980, +411117881936",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet kaum detaillierte Informationen zu Speisekarten oder Preisen, was potenzielle Kunden unsicher macht.",
+    "Es fehlen aktuelle Öffnungszeiten und Reservierungsoptionen, um spontane Besuche zu erleichtern.",
+    "Keine Kundenbewertungen oder Erfolgsgeschichten bauen Vertrauen auf, obwohl externe Plattformen positiv sind.",
+    "Starke Handlungsaufforderungen wie „Jetzt buchen“ oder „Menü ansehen“ fehlen vollständig."
+  ]
 }

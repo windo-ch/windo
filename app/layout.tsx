@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Script from "next/script";
 import CookieBanner from "@/components/CookieBanner";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 import "./globals.css";
 
 const inter = Inter({
@@ -39,6 +40,7 @@ export default function RootLayout({
       <body className="font-sans antialiased">
         {children}
         <CookieBanner />
+        <GoogleAnalytics />
         <Script
           defer
           src="https://cloud.umami.is/script.js"

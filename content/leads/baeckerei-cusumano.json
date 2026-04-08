@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an Kundenbewertungen oder Testimonials, um Vertrauen potenzieller Kunden zu stärken.",
+    "Es werden keine detaillierten Öffnungszeiten vollständig angegeben, was die Planung eines Besuchs erschwert.",
+    "Die Angebote wie spezifische Torten oder Menüs sind nicht klar aufgelistet, was die Auswahl für Kunden unübersichtlich macht.",
+    "Es gibt keine prominenten Handlungsaufforderungen wie \"Jetzt anrufen\" oder \"Route planen\", um Kunden direkt zum Handeln zu motivieren."
+  ]
 }

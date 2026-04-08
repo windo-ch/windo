@@ -2,7 +2,7 @@
   "slug": "ay-immobilien",
   "name": "Ay Immobilien",
   "domain": "ay-immobilien.ch",
-  "businessType": "Immobilien",
+  "businessType": "Generalunternehmer",
   "year": 2023,
   "email": "info@ay-immobilien.ch",
   "phone": "",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt konkrete Beispiele oder Fotos von abgeschlossenen Referenzprojekten, um die Expertise greifbar zu machen.",
+    "Es werden keine Teammitglieder mit Qualifikationen oder Erfahrungen vorgestellt, was das Vertrauen potenzieller Kunden mindert.",
+    "Die Leistungen wie Planung, Bau oder Vermietung bleiben vage beschrieben ohne klare Schritte oder Preise, was die Klarheit erschwert.",
+    "Handlungsaufforderungen wie \"Kontaktieren Sie uns\" sind vorhanden, aber es fehlen einfache Formulare oder Next-Steps für ein unverbindliches Beratungsgespräch."
+  ]
 }

@@ -18,25 +18,13 @@ export default function LeadHero({ lead }: { lead: LeadContent }) {
         Persönliche Nachricht für {lead.name}
       </p>
       <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-[1.05] tracking-tight mb-6 max-w-2xl">
-        Ihre Website ist <span className="text-glow-deep">{age} alt</span> —{" "}
-        Zeit für einen Neustart.
+        Ihre Website kann mehr —{" "}
+        <span className="text-glow-deep">ich helfe Ihnen dabei.</span>
       </h1>
       <p className="text-gray-400 text-lg max-w-md leading-relaxed mb-10">
-        {lead.domain} — ich habe Ihr Angebot analysiert
-        und würde Ihnen gerne zeigen, was möglich ist.
+        Ich habe mir {lead.domain} angeschaut und sehe konkretes Potenzial.
+        Neue Website, fertig in 10 Tagen.
       </p>
-      {issues.length > 0 && (
-        <div className="flex flex-wrap gap-2 justify-center mb-10">
-          {issues.map((issue) => (
-            <span
-              key={issue}
-              className="text-xs font-medium bg-white/5 border border-white/10 text-gray-400 px-3 py-1.5 rounded-full"
-            >
-              {issue}
-            </span>
-          ))}
-        </div>
-      )}
       <div className="flex flex-col sm:flex-row gap-3 justify-center">
         <a
           href="tel:+41791752020"

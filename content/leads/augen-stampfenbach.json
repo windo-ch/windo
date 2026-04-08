@@ -2,7 +2,7 @@
   "slug": "augen-stampfenbach",
   "name": "Augen Stampfenbach",
   "domain": "augen-stampfenbach.ch",
-  "businessType": "Arzt / Praxis",
+  "businessType": "Augenarztpraxis",
   "year": 2021,
   "email": "augenarzt.casotti@hin.ch, info@augen-stampfenbach.ch",
   "phone": "",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt eine klare Übersicht über die angebotenen Behandlungen und Spezialisierungen der Augenpraxis, was potenziellen Kunden die Auswahl erschwert.",
+    "Es werden keine qualifizierenden Zertifikate, Erfahrungsberichte oder Ärzteprofile detailliert dargestellt, um Vertrauen aufzubauen.",
+    "Terminanfragen oder Kontaktmöglichkeiten sind nicht prominent und mit klaren Schritten erklärt, was die Handlungsschwelle erhöht.",
+    "Öffnungszeiten, Standortdetails und Parkmöglichkeiten fehlen, um die Planung eines Besuchs zu erleichtern."
+  ]
 }

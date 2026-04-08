@@ -2,7 +2,7 @@
   "slug": "autonummern-an-verkauf",
   "name": "Autonummern An Verkauf",
   "domain": "autonummern-an-verkauf.ch",
-  "businessType": "Sonstige",
+  "businessType": "Autonummern-Verkauf",
   "year": 2023,
   "email": "andreanussio@gmx.ch",
   "phone": "+4151956332, +414796715808",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Basierend auf den verfügbaren Informationen zur Website autonummern-an-verkauf.ch kann ich folgende Verbesserungen empfehlen:",
+    "Die Website sollte ein klares Leistungsversprechen oder Unique Selling Proposition prominent darstellen, um sich von anderen Anbietern zu unterscheiden.",
+    "Es fehlen Kundenbewertungen oder Testimonials, die Vertrauen und Glaubwürdigkeit bei potenziellen Kunden aufbauen würden.",
+    "Die Handlungsaufforderungen (Call-to-Action) sollten deutlicher und mehrfach platziert sein, nicht nur als Telefonnummer, sondern auch mit Online-Kontaktoptionen wie Formulare oder Chat."
+  ]
 }

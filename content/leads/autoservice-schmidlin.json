@@ -2,7 +2,7 @@
   "slug": "autoservice-schmidlin",
   "name": "Autoservice Schmidlin",
   "domain": "autoservice-schmidlin.ch",
-  "businessType": "Garage / Werkstatt",
+  "businessType": "Autogarage",
   "year": 2022,
   "email": "trschmidlin@bluewin.ch",
   "phone": "",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an konkreten Preisen oder Service-Paketen, was potenziellen Kunden die Planung erschwert.",
+    "Es werden keine Kundenbewertungen oder Referenzen präsentiert, um Vertrauen aufzubauen.",
+    "Die Inhalte wiederholen sich stark und bieten zu wenig detaillierte Infos zu angebotenen Reparaturen.",
+    "Handlungsaufforderungen wie \"Jetzt Termin buchen\" fehlen, stattdessen nur allgemeine Aufforderungen zum Kontakt."
+  ]
 }

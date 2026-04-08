@@ -2,7 +2,7 @@
   "slug": "backbar",
   "name": "Backbar",
   "domain": "backbar.ch",
-  "businessType": "Café / Bar",
+  "businessType": "Bäckerei",
   "year": 2019,
   "email": "info@backbar.ch",
   "phone": "+4144422471, +411968150207",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website zeigt keine klaren Öffnungszeiten an, was potenziellen Kunden die Planung eines Besuchs erschwert.",
+    "Es fehlen Preise oder Menüdetails, wodurch Kunden unsicher sind, ob das Angebot zu ihrem Budget passt.",
+    "Kontaktinformationen wie Telefon oder E-Mail sind nicht prominent platziert, was das Vertrauen in die Erreichbarkeit mindert.",
+    "Es gibt keine expliziten Handlungsaufforderungen wie \"Jetzt buchen\" oder \"Route planen\", um Kunden zum nächsten Schritt zu motivieren."
+  ]
 }

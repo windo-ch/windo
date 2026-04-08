@@ -2,7 +2,7 @@
   "slug": "asa-service",
   "name": "Asa Service",
   "domain": "asa-service.ch",
-  "businessType": "Immobilien",
+  "businessType": "Kanalservice",
   "year": 2025,
   "email": "info@asa-service.ch",
   "phone": "+4167490114",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte detailliertere Beschreibungen der Dienstleistungen wie Kanalreinigung oder Containerlogistik bieten, um potenziellen Kunden den genauen Nutzen klarer zu vermitteln.",
+    "Es fehlen Referenzen, Kundenbewertungen oder Zertifizierungen, die das Vertrauen in die seit 1996 bestehende Expertise stärken würden.",
+    "Preise oder grobe Kostenschätzungen für gängige Services wären hilfreich, um die Transparenz und Entscheidungsfindung zu verbessern.",
+    "Auf der Kontaktseite sollten klarere Handlungsaufforderungen wie ein Online-Formular für Angebote oder Buchungen integriert werden."
+  ]
 }

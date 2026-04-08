@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet keine detaillierte Produktliste mit Preisen oder Beschreibungen, was potenziellen Kunden die Auswahl erschwert.",
+    "Es fehlen Kundenbewertungen oder Zertifikate jenseits der Verbandsmitgliedschaft, um mehr Vertrauen aufzubauen.",
+    "Handlungsaufforderungen wie „Jetzt bestellen“ oder „Route planen“ sind nicht prominent platziert.",
+    "Die Öffnungszeiten und Ferientermine könnten klarer als Tabelle oder Kalender dargestellt werden für bessere Planbarkeit."
+  ]
 }

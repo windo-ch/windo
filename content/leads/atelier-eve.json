@@ -2,7 +2,7 @@
   "slug": "atelier-eve",
   "name": "Atelier Eve",
   "domain": "atelier-eve.ch",
-  "businessType": "Sonstige",
+  "businessType": "Sattlerei",
   "year": 2020,
   "email": "info@atelier-eve.ch",
   "phone": "+4145392092",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt eine klare Übersicht über die angebotenen Dienstleistungen, was potenzielle Kunden unsicher macht.",
+    "Es werden keine Kundenbewertungen oder Referenzprojekte präsentiert, um Vertrauen aufzubauen.",
+    "Preise und Konditionen sind nicht transparent dargestellt, was die Entscheidungsfindung erschwert.",
+    "Starke Handlungsaufforderungen wie „Jetzt Termin vereinbaren“ oder „Kontaktieren Sie uns“ fehlen, um Besucher zum nächsten Schritt zu motivieren."
+  ]
 }

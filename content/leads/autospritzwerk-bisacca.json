@@ -2,7 +2,7 @@
   "slug": "autospritzwerk-bisacca",
   "name": "Autospritzwerk Bisacca",
   "domain": "autospritzwerk-bisacca.ch",
-  "businessType": "Garage / Werkstatt",
+  "businessType": "Autospritzwerk",
   "year": 2021,
   "email": "autospritzwerk.bisacca@outlook.com",
   "phone": "+4129514429",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an detaillierten Beispielen früherer Lackierungsarbeiten oder Kundenfotos, um das Vertrauen potenzieller Kunden zu stärken.",
+    "Es gibt keine klaren Informationen zu Preisen oder typischen Kosten für Carrosserie-Reparaturen, was die Entscheidungsfindung erschwert.",
+    "Die Öffnungszeiten sind unvollständig angegeben, ohne genaue Uhrzeiten für Montag bis Freitag, was die Planung behindert.",
+    "Es fehlen direkte Handlungsaufforderungen wie \"Jetzt Termin vereinbaren\" mit einem prominenten Kontaktformular."
+  ]
 }

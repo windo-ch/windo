@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte Preise oder Tarife für Standardfahrten und Flughafentransfers klar auflisten, um Kunden sofort vergleichbare Angebote zu ermöglichen.",
+    "Es fehlen Kundenbewertungen oder Testimonials direkt auf der Seite, was das Vertrauen potenzieller Kunden durch fehlende soziale Beweise mindert.",
+    "Detaillierte Informationen zu speziellen Services wie Einkaufsbegleitung oder ProMobil-Fahrten sind zu knapp beschrieben und brauchen mehr Erklärungen.",
+    "Ein prominenter \"Jetzt buchen\"-Button oder klarer Anruf-zur-Handlung mit Telefonnummer fehlt, um schnelle Kontaktaufnahme zu erleichtern."
+  ]
 }

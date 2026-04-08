@@ -2,7 +2,7 @@
   "slug": "ateliernaturel-blumen-fleurs",
   "name": "Ateliernaturel Blumen Fleurs",
   "domain": "ateliernaturel-blumen-fleurs.ch",
-  "businessType": "Florist",
+  "businessType": "Blumenladen",
   "year": 2019,
   "email": "atelier-naturel@rega-sense.ch",
   "phone": "",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website bietet keine detaillierten Informationen zu verfügbaren Blumenarrangements oder Preisen, was potenzielle Kunden unsicher macht.",
+    "Es fehlen Kundenbewertungen oder Referenzen, um Vertrauen in die Qualität der Floristik aufzubauen.",
+    "Die Öffnungszeiten sind unvollständig und verwirrend dargestellt, ohne klare Angaben für alle Wochentage.",
+    "Es gibt keine prominenten Call-to-Actions wie \"Jetzt anrufen\" oder \"Kontaktieren Sie uns für ein Angebot\", die den nächsten Schritt erleichtern."
+  ]
 }

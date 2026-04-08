@@ -2,7 +2,7 @@
   "slug": "atelier-handwerk",
   "name": "Atelier Handwerk",
   "domain": "atelier-handwerk.ch",
-  "businessType": "Handwerk",
+  "businessType": "Textilatelier",
   "year": 2018,
   "email": "atelier-handwerk@gmx.ch, handwerk-atelier@gmx.ch",
   "phone": "+4115071511, +4115071607, +4115071707",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an detaillierten Beschreibungen der angebotenen Handwerksleistungen, um potenzielle Kunden besser zu informieren.",
+    "Es werden keine Kundenbewertungen oder Referenzprojekte präsentiert, was das Vertrauen in die Qualität des Betriebs erschweren würde.",
+    "Preise und Leistungsangebote sind nicht klar und transparent dargestellt, was die Entscheidungsfindung kompliziert.",
+    "Es gibt zu wenige klare Handlungsaufforderungen wie „Jetzt Termin vereinbaren“ oder Kontaktformulare, die den nächsten Schritt erleichtern."
+  ]
 }

@@ -2,7 +2,7 @@
   "slug": "auxartsdufeu",
   "name": "Auxartsdufeu",
   "domain": "auxartsdufeu.ch",
-  "businessType": "Coiffeur",
+  "businessType": "Porzellanladen",
   "year": 2023,
   "email": "info@auxartsdufeu.ch",
   "phone": "+4126763364",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website vermittelt keinen klaren Fokus als Coiffeur-Betrieb, sondern wirbt stattdessen für Innendekoration, Tischkultur und Produkte aus Porzellan.",
+    "Es fehlen Kundenerfahrungsberichte oder Bewertungen, um Vertrauen in die Dienstleistungen aufzubauen.",
+    "Die Inhalte sind zu vage und beschreiben keine spezifischen Haarschnitte, Styling-Optionen oder Preise für potenzielle Kunden.",
+    "Stärkere Handlungsaufforderungen wie \"Jetzt Termin buchen\" oder ein Online-Formular fehlen vollständig."
+  ]
 }

@@ -2,7 +2,7 @@
   "slug": "babor-beautyspa-zug",
   "name": "Babor Beautyspa Zug",
   "domain": "babor-beautyspa-zug.ch",
-  "businessType": "Kosmetik",
+  "businessType": "Kosmetikinstitut",
   "year": 2023,
   "email": "thuhanguyen27@hotmail.com, info@babor-zug.ch",
   "phone": "+417475634068",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Basierend auf den verfügbaren Informationen zur Website babor-beautyspa-zug.ch können folgende Verbesserungen aus Kundenperspektive empfohlen werden:",
+    "Die Öffnungszeiten sind auf der Website nicht klar ersichtlich, was potenzielle Kunden beim Planungsprozess behindert.",
+    "Es fehlen Kundenrezensionen oder Testimonials, die Vertrauen aufbauen und die Qualität der Dienstleistungen belegen würden.",
+    "Die genauen Preise für alle Behandlungsangebote sollten transparent auf der Startseite oder in einem leicht zugänglichen Menü aufgelistet sein, statt sie nur in einem Buchungssystem zu verstecken."
+  ]
 }

@@ -2,7 +2,7 @@
   "slug": "ba-service",
   "name": "Ba Service",
   "domain": "ba-service.ch",
-  "businessType": "Reinigung",
+  "businessType": "Betriebsnummern-Service",
   "year": 2024,
   "email": "blerand.bala@gmail.com",
   "phone": "+4172335533",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte detailliertere Informationen zu Preisen und Leistungsangeboten bieten, um potenzielle Kunden schneller zu überzeugen.",
+    "Kundenreferenzen oder Erfolgsgeschichten fehlen, was das Vertrauen in die Zuverlässigkeit des Reinigungsbetriebs stärken würde.",
+    "Die Kontaktmöglichkeiten sind nicht prominent genug platziert, was die Klarheit für schnelle Anfragen erschwert.",
+    "Stärkere Handlungsaufforderungen wie „Jetzt unverbindlich anfragen“ oder „Kostenloses Angebot einholen“ fehlen, um Besucher direkt zum nächsten Schritt zu motivieren."
+  ]
 }

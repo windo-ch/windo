@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an Kundenbewertungen oder Referenzprojekten, um Vertrauen potenzieller Kunden zu stärken.",
+    "Es werden keine Preise oder Kostenbeispiele genannt, was die Planbarkeit für Kunden erschwert.",
+    "Die Leistungen bleiben vage beschrieben ohne klare Unterscheidung zu typischen Anwendungen wie Badezimmer oder Terrassen.",
+    "Es gibt keine prominenten Handlungsaufforderungen wie \"Jetzt Termin vereinbaren\" oder ein einfaches Kontaktformular."
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die aktuelle Speisekarte ist nicht detailliert einsehbar, was potenzielle Kunden bei der Auswahl unsicher macht.",
+    "Es fehlen aktuelle Öffnungszeiten, sodass Kunden nicht wissen, wann das Restaurant erreichbar ist.",
+    "Kontaktinformationen wie Telefon und E-Mail sind nicht prominent platziert, was das schnelle Erreichen erschwert.",
+    "Handlungsaufforderungen wie \"Jetzt reservieren\" sind zu schwach formuliert und ohne direkten Link, um Besucher zum Handeln zu motivieren."
+  ]
 }

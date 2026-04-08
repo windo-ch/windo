@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt an detaillierten Produktbeschreibungen mit Preisen und Fotos, um potenzielle Kunden besser zu überzeugen.",
+    "Es gibt keine Kundenbewertungen oder Zertifizierungen, was das Vertrauen in die Qualität der Backwaren erschweren könnte.",
+    "Öffnungszeiten und genaue Lagebeschreibung sind nicht klar ersichtlich, was die Planung eines Besuchs erschwert.",
+    "Stärkere Handlungsaufforderungen wie \"Jetzt anrufen\" oder \"Route planen\" fehlen, um Kunden direkt zum Handeln zu motivieren."
+  ]
 }

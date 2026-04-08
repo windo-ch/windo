@@ -2,7 +2,7 @@
   "slug": "baertschi-bestattungen",
   "name": "Baertschi Bestattungen",
   "domain": "baertschi-bestattungen.ch",
-  "businessType": "Sonstige",
+  "businessType": "Bestattungsinstitut",
   "year": 2024,
   "email": "baertschi-bestattungen@bluewin.ch, info@baertschi-bestattungen.ch, info@allgemeine-bestattung.ch",
   "phone": "+4198875839",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Basierend auf den verfügbaren Informationen zur Website von Bärtschi Bestattungen kann ich folgende Verbesserungspunkte für potenzielle Kunden nennen:",
+    "Die Öffnungszeiten und Erreichbarkeit könnten deutlicher hervorgehoben werden, da Angehörige in Trauerfällen sofort wissen müssen, wie sie Kontakt aufnehmen können.",
+    "Transparente Informationen zu Preisen und Leistungspaketen wären hilfreich, um Vertrauen aufzubauen und Angehörigen die Orientierung zu erleichtern.",
+    "Konkrete Kundenbewertungen oder Testimonials könnten das Vertrauen in die Professionalität und Einfühlsamkeit des Unternehmens stärken."
+  ]
 }

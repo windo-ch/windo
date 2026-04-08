@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website zeigt keine aktuellen Öffnungszeiten, was potenziellen Kunden die Planung erschwert.",
+    "Es fehlt eine vollständige Speisekarte mit Preisen, sodass Kunden das Angebot nicht im Voraus einschätzen können.",
+    "Konkrete Buchungs- oder Reservierungsoptionen mit klaren Anweisungen fehlen, was die Handlung erschwert.",
+    "Mehr aktuelle Kundenbewertungen oder Erfolgsgeschichten würden das Vertrauen stärken."
+  ]
 }

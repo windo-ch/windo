@@ -2,7 +2,7 @@
   "slug": "az-gebaeudereinigung",
   "name": "Az Gebaeudereinigung",
   "domain": "az-gebaeudereinigung.ch",
-  "businessType": "Reinigung",
+  "businessType": "Gebäudereinigung",
   "year": 2022,
   "email": "azgebaeudereinigung@icloud.com, info@az-gebaeudereinigung.ch",
   "phone": "+415246053871, +415246054530",
@@ -15,5 +15,11 @@
     "slowLoad": true
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website fehlt klaren Preisinformationen oder Kostenschätzungen, was potenziellen Kunden die Planung erschwert.",
+    "Es gibt keine sichtbaren Kundenbewertungen oder Zertifikate, um das Vertrauen weiter zu stärken.",
+    "Die Dienstleistungsbeschreibungen sind zu allgemein und ohne Beispiele oder Fallstudien, was die Klarheit mindert.",
+    "Stärkere Handlungsaufforderungen wie \"Jetzt Anfrage stellen\" oder ein einfaches Kontaktformular fehlen prominent."
+  ]
 }

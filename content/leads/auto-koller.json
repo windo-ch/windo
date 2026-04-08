@@ -2,7 +2,7 @@
   "slug": "auto-koller",
   "name": "Auto Koller",
   "domain": "auto-koller.ch",
-  "businessType": "Garage / Werkstatt",
+  "businessType": "Autogarage",
   "year": 2024,
   "email": "info@auto-koller.ch",
   "phone": "",
@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website sollte klarer zwischen Angeboten für Neuwagen, Occasionen und Dienstleistungen unterscheiden, um potenzielle Kunden nicht zu verwirren.",
+    "Es fehlen Kundenbewertungen oder Zertifizierungen, die das Vertrauen in die 36-jährige Expertise stärken würden.",
+    "Preise oder Pauschalen für gängige Services wie Reifenservice oder Reparaturen sollten angegeben werden, für mehr Transparenz und Klarheit.",
+    "Stärkere Handlungsaufforderungen wie \"Jetzt Termin buchen\" oder \"Angebot anfordern\" direkt auf der Startseite fehlen, um Kunden zum nächsten Schritt zu motivieren."
+  ]
 }
