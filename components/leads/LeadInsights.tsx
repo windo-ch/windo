@@ -11,7 +11,7 @@ const INSIGHTS = [
   },
   {
     title: "Klare Handlungsaufforderung",
-    text: "Telefonnummer und WhatsApp prominent platziert, damit Besucher sofort wissen, wie sie Sie erreichen.",
+    text: "Telefon, E-Mail oder WhatsApp — der bevorzugte Kontaktweg, prominent platziert, damit Besucher sofort handeln können.",
   },
   {
     title: "Lokale Auffindbarkeit",
