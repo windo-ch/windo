@@ -3,7 +3,7 @@ import type { LeadContent } from "@/lib/types";
 
 function ageText(year: number): string {
   const age = 2026 - year;
-  return `${age} ${age === 1 ? 'Jahr' : 'Jahre'}`;
+  return `${age} ${age === 1 ? 'Jahr' : 'Jahren'}`;
 }
 
 export default function LeadCurrentSite({ lead }: { lead: LeadContent }) {

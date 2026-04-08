@@ -23,7 +23,6 @@ export default function LeadHero({ lead }: { lead: LeadContent }) {
       </h1>
       <p className="text-gray-400 text-lg max-w-md leading-relaxed mb-10">
         Ich habe mir {lead.domain} angeschaut und sehe konkretes Potenzial.
-        Neue Website, fertig in 10 Tagen.
       </p>
       <div className="flex flex-col sm:flex-row gap-3 justify-center">
         <a
