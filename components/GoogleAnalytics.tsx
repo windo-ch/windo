@@ -5,6 +5,7 @@ import { useEffect, useState } from 'react';
 import { getConsent } from './CookieBanner';
 
 const GA_ID = 'G-JYQ9R2VDL6';
+const AW_ID = 'AW-18070202530';
 
 export default function GoogleAnalytics() {
   const [consent, setConsent] = useState(false);
@@ -27,6 +28,7 @@ export default function GoogleAnalytics() {
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
           gtag('config', '${GA_ID}');
+          gtag('config', '${AW_ID}');
         `}
       </Script>
     </>

@@ -12,7 +12,7 @@ const faqs = [
   },
   {
     question: 'Was kostet eine neue Website?',
-    answer: "Einmalig CHF 1'750 (Oster-Aktion 2026), danach CHF 420/Jahr für Betreuung & Hosting. Alles transparent.",
+    answer: "Einmalig ab CHF 1'490 (Frühlings-Aktion 2026), danach CHF 59/Monat für Betreuung & Hosting. Alles transparent.",
   },
   {
     question: 'Muss ich technische Kenntnisse haben?',
