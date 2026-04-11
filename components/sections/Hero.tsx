@@ -25,10 +25,10 @@ export default function Hero() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="/check"
+              href="/analyse"
               className="inline-flex items-center justify-center gap-2 bg-glow-deep text-white font-semibold px-8 py-4 rounded-xl btn-glow text-base"
             >
-              Gratis Website-Check →
+              Gratis Analyse →
             </a>
             <a
               href="#wie-es-funktioniert"

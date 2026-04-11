@@ -39,10 +39,10 @@ export default function FinalCTA() {
           </p>
           <div className="flex flex-wrap gap-4 mb-10">
             <a
-              href="/check"
+              href="/analyse"
               className="inline-flex items-center gap-2 bg-glow-deep text-white font-semibold px-7 py-3.5 rounded-xl btn-glow"
             >
-              Gratis Website-Check →
+              Gratis Analyse →
             </a>
             <a
               href={WA_URL}

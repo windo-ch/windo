@@ -3,8 +3,8 @@ import Accordion from '@/components/ui/Accordion';
 
 const faqs = [
   {
-    question: 'Was kostet ein Website-Check?',
-    answer: 'Nichts. Der Check ist vollständig kostenlos — keine Anmeldung, keine Kreditkarte.',
+    question: 'Was kostet die Analyse?',
+    answer: 'Nichts. Die Analyse ist vollständig kostenlos — keine Anmeldung, keine Kreditkarte.',
   },
   {
     question: 'Wie lange dauert es, bis meine Website fertig ist?',

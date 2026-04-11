@@ -8,7 +8,7 @@ const industries = [
   { emoji: '🍽️', label: 'Restaurants', href: '/restaurant' },
   { emoji: '🔧', label: 'Handwerker', href: '/handwerker' },
   { emoji: '🩺', label: 'Arztpraxen', href: '/arztpraxis' },
-  { emoji: '🏢', label: 'Mehr KMU', href: '/check' },
+  { emoji: '🏢', label: 'Mehr KMU', href: '/analyse' },
 ];
 
 export default function Industries() {

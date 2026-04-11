@@ -30,10 +30,10 @@ export default function Nav() {
           </a>
         </nav>
         <a
-          href="/check"
+          href="/analyse"
           className="inline-flex items-center gap-2 bg-glow-deep text-white font-semibold px-4 py-2 rounded-lg btn-glow text-sm"
         >
-          Gratis Website-Check
+          Gratis Analyse
         </a>
       </div>
     </header>
