@@ -2,11 +2,11 @@ import { IndustryNav } from './industry-nav';
 import { RevealSection } from './reveal-section';
 import { Hero } from './hero';
 import { PainPoints } from './pain-points';
+import { VisualProof, type Reference } from './visual-proof';
 import { Features } from './features';
-import { AiHook } from './ai-hook';
+import { HowItWorks } from './how-it-works';
 import { PricingSection } from './pricing-section';
-import { Comparison } from './comparison';
-import { Testimonial } from './testimonial';
+import { AboutHenry } from './about-henry';
 import { CtaFooter } from './cta-footer';
 
 export interface IndustryPageProps {
@@ -23,26 +23,10 @@ export interface IndustryPageProps {
     { emoji: string; title: string; description: string },
     { emoji: string; title: string; description: string },
   ];
+  references?: Reference[];
   features: string[];
-  aiHook: {
-    chatPrompt: string;
-    result: string;
-    punchline: string;
-  };
   pricing: {
-    range: string;
-    context: string;
-    maintenanceFrom: string;
-    examples: { label: string; price: string }[];
-  };
-  comparison: {
-    before: string[];
-    after: string[];
-  };
-  testimonial?: {
-    quote: string;
-    name: string;
-    business: string;
+    recommendedTier?: 'starter' | 'business' | 'professional';
   };
   cta: {
     headline: string;
@@ -72,12 +56,18 @@ export default function IndustryPage(props: IndustryPageProps) {
           <PainPoints painPoints={props.painPoints} />
         </RevealSection>
 
+        {props.references && props.references.length > 0 && (
+          <RevealSection delay={100}>
+            <VisualProof references={props.references} />
+          </RevealSection>
+        )}
+
         <RevealSection delay={100}>
           <Features features={props.features} />
         </RevealSection>
 
         <RevealSection delay={100}>
-          <AiHook aiHook={props.aiHook} />
+          <HowItWorks />
         </RevealSection>
 
         <RevealSection delay={100}>
@@ -85,14 +75,8 @@ export default function IndustryPage(props: IndustryPageProps) {
         </RevealSection>
 
         <RevealSection delay={100}>
-          <Comparison comparison={props.comparison} />
+          <AboutHenry />
         </RevealSection>
-
-        {props.testimonial && (
-          <RevealSection delay={100}>
-            <Testimonial testimonial={props.testimonial} />
-          </RevealSection>
-        )}
 
         <RevealSection delay={100}>
           <CtaFooter cta={props.cta} slug={props.slug} />

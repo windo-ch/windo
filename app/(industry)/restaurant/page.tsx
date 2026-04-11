@@ -3,7 +3,7 @@ import IndustryPage, { type IndustryPageProps } from '@/components/industry-page
 
 export const metadata: Metadata = {
   title: 'Websites für Restaurants & Cafés — windo.ch',
-  description: 'Professionelle Websites für Restaurants und Cafés in der Schweiz.',
+  description: 'Professionelle Websites für Restaurants und Cafés in der Schweiz. Mehr Gäste, mehr Sichtbarkeit. Direkt mit Henry — ab CHF 1\'490.',
   alternates: { canonical: 'https://www.windo.ch/restaurant' },
 };
 
@@ -12,78 +12,50 @@ const content: IndustryPageProps = {
   industry: 'Restaurants & Cafés',
   metaTitle: 'Websites für Restaurants & Cafés — windo.ch',
   metaDescription: 'Professionelle Websites für Restaurants und Cafés in der Schweiz.',
-  headline: 'Ihr Restaurant verdient mehr Reservierungen.',
+  headline: 'Ihr Restaurant. Appetit gemacht, bevor der Gast kommt.',
   subline:
-    'Gäste suchen online nach einem Tisch — auf Google Maps, auf dem Handy. Wenn Ihre Website nicht überzeugt, buchen sie woanders.',
+    'Gäste entscheiden online, wo sie essen. Eine Website, die Ihr Ambiente zeigt und auf Google gefunden wird — das füllt Tische.',
   heroCtaPrimary: {
     label: 'Gespräch vereinbaren',
-    href: 'https://wa.me/41791752020?text=Hallo%20Henry%2C%20ich%20interessiere%20mich%20f%C3%BCr%20eine%20Restaurant-Website.',
+    href: 'tel:+41791752020',
   },
-  heroCtaSecondary: { label: 'Website checken', href: '/check' },
+  heroCtaSecondary: { label: 'Kostenlose Analyse', href: '/analyse' },
   painPoints: [
     {
-      emoji: '📋',
-      title: 'Speisekarte nicht online.',
+      emoji: '🍽️',
+      title: 'Ihr Ambiente kommt online nicht rüber.',
       description:
-        'Gäste wollen die Karte sehen, bevor sie kommen. Ohne Online-Menü verlieren Sie potenzielle Gäste.',
+        'Gäste wollen wissen, was sie erwartet — Atmosphäre, Menü, Stil. Eine schwache Website lässt sie woanders reservieren.',
     },
     {
-      emoji: '📅',
-      title: 'Keine Online-Reservierung.',
+      emoji: '📱',
+      title: 'Auf dem Handy kaum benutzbar.',
       description:
-        'Reservierungen per Telefon — nur während der Öffnungszeiten. Ohne Online-Buchung entgehen Ihnen Gäste.',
+        'Über 70% der Gäste suchen auf dem Smartphone. Wenn Ihre Seite dort nicht überzeugt, buchen sie ein anderes Restaurant.',
     },
     {
-      emoji: '📸',
-      title: 'Schlechte Fotos.',
+      emoji: '🔍',
+      title: 'Google zeigt andere Restaurants — nicht Sie.',
       description:
-        'Professionelle Bilder entscheiden, ob ein Gast kommt. Blasse Fotos kosten Sie Buchungen.',
+        'Wer "Restaurant [Ihr Ort]" sucht, findet Betriebe mit optimierten Einträgen. Ohne Google Business und lokale SEO entgehen Ihnen Gäste.',
     },
   ],
   features: [
-    'Mobiloptimierte Website mit Ihrer Speisekarte',
-    'Online-Reservierungssystem integriert',
-    'Google Maps und Google Business optimiert',
-    'Professionelle Bildgalerie — Ihr Ambiente in Szene gesetzt',
-    'Öffnungszeiten, Lage und Kontakt klar sichtbar',
-    'Eventseite für besondere Anlässe',
-    'Direkt mit Henry — kein Ticketsystem',
-    'Alles gehört Ihnen: Code, Domain, Inhalte',
+    'Professionelles Design, das Ihr Ambiente und Ihre Küche zeigt',
+    'Speisekarte, Öffnungszeiten und Lage klar sichtbar',
+    'Lokale SEO + Google Business — mehr Sichtbarkeit in Ihrer Region',
+    'Schnelle Ladezeiten (PageSpeed 90+)',
+    'Strukturierte Daten für Google und KI-Suchen',
+    'DSG-konform — Datenschutz ab Werk',
+    'Alles gehört Ihnen: Code, Domain, Inhalte. Kein Knebelvertrag.',
+    'Optional: Online-Reservierung, Eventseite, WhatsApp-Button',
   ],
-  aiHook: {
-    chatPrompt: 'Gutes Restaurant in Basel',
-    result: 'Ihr Restaurant wird nicht erwähnt.',
-    punchline: 'Das können wir ändern.',
-  },
   pricing: {
-    range: "CHF 1'490 – 2'490",
-    context: "Frühlings-Aktion bis 30. April 2026. Kein Abo — monatlich kündbar ab CHF 59/Monat.",
-    maintenanceFrom: "CHF 59",
-    examples: [
-      { label: 'Starter (bis 5 Seiten)', price: "CHF 1'490" },
-      { label: 'Business (bis 10 Seiten)', price: "CHF 1'990" },
-      { label: 'Professional (unbegrenzt)', price: "CHF 2'490" },
-    ],
-  },
-  comparison: {
-    before: [
-      'Speisekarte nur auf PDF',
-      'Reservierungen nur telefonisch',
-      'Bei Google Maps unvollständig',
-      'Veraltetes Design',
-      'Keine eigene Website',
-    ],
-    after: [
-      'Digitale Speisekarte, immer aktuell',
-      'Online-Reservierung rund um die Uhr',
-      'Google Business vollständig optimiert',
-      'Modernes Design, das Appetit macht',
-      'Eigene Website — unter Ihrer Kontrolle',
-    ],
+    recommendedTier: 'starter',
   },
   cta: {
     headline: 'Bereit für mehr Gäste?',
-    subline: 'Kurzes Gespräch, ehrliche Einschätzung — und dann entscheiden Sie.',
+    subline: 'Kurzes Gespräch, ehrliche Einschätzung. Kostenlos.',
     email: 'henry@windo.ch',
     phone: '+41 79 175 20 20',
     whatsapp: 'https://wa.me/41791752020?text=Hallo%20Henry%2C%20ich%20interessiere%20mich%20f%C3%BCr%20eine%20Restaurant-Website.',

@@ -3,8 +3,7 @@ import IndustryPage, { type IndustryPageProps } from '@/components/industry-page
 
 export const metadata: Metadata = {
   title: 'Websites für Zahnarztpraxen — windo.ch',
-  description:
-    'Professionelle Websites für Zahnarztpraxen in der Schweiz. Mehr Patienten durch bessere Online-Sichtbarkeit — auch auf ChatGPT. Kein Baukastensystem.',
+  description: 'Professionelle Websites für Zahnarztpraxen in der Schweiz. Mehr Patienten durch bessere Online-Sichtbarkeit. Direkt mit Henry — ab CHF 1\'490.',
   alternates: { canonical: 'https://www.windo.ch/zahnarzt' },
 };
 
@@ -13,78 +12,66 @@ const content: IndustryPageProps = {
   industry: 'Zahnarztpraxen',
   metaTitle: 'Websites für Zahnarztpraxen — windo.ch',
   metaDescription: 'Professionelle Websites für Zahnarztpraxen in der Schweiz.',
-  headline: 'Ihre Praxis verdient eine bessere Website.',
+  headline: 'Ihre Praxis. Ihr bester erster Eindruck.',
   subline:
-    'Patienten suchen online — auf Google, auf ChatGPT, auf dem Handy. Wenn Ihre Website nicht überzeugt, buchen sie woanders.',
+    'Patienten entscheiden in Sekunden, ob sie Ihnen vertrauen — noch bevor sie anrufen. Eine moderne Website macht den Unterschied.',
   heroCtaPrimary: {
     label: 'Gespräch vereinbaren',
-    href: 'https://wa.me/41791752020?text=Hallo%20Henry%2C%20ich%20interessiere%20mich%20f%C3%BCr%20eine%20Praxis-Website.',
+    href: 'tel:+41791752020',
   },
-  heroCtaSecondary: { label: 'Ihre Website checken', href: '/check' },
+  heroCtaSecondary: { label: 'Kostenlose Analyse', href: '/analyse' },
   painPoints: [
     {
+      emoji: '🦷',
+      title: 'Die Website sieht aus wie 2016.',
+      description:
+        'Ihre Praxis hat sich weiterentwickelt — neue Geräte, neues Team, neues Angebot. Ihre Website zeigt das nicht. Patienten sehen die alte Version und gehen zur Konkurrenz.',
+    },
+    {
       emoji: '📱',
-      title: 'Die Website funktioniert nicht auf dem Handy.',
+      title: 'Auf dem Handy kaum benutzbar.',
       description:
-        'Über 70 % der Patienten suchen auf dem Smartphone. Wenn Ihre Seite da nicht stimmt, sind sie weg — in Sekunden.',
+        'Über 70% der Patienten suchen auf dem Smartphone. Wenn Ihre Seite dort nicht funktioniert, finden sie eine Praxis, deren Seite es tut.',
     },
     {
-      emoji: '📅',
-      title: 'Keine Online-Terminbuchung.',
+      emoji: '🔍',
+      title: 'Google zeigt Ihre Kollegen — nicht Sie.',
       description:
-        'Patienten wollen rund um die Uhr buchen, nicht während der Sprechzeiten anrufen. Ohne Buchungssystem verlieren Sie Termine.',
+        'Wer "Zahnarzt [Ihr Ort]" googelt, findet Praxen mit optimierten Einträgen und modernen Websites. Ohne lokale SEO und Google Business sind Sie unsichtbar.',
+    },
+  ],
+  references: [
+    {
+      name: 'Zahnarzt Neumann',
+      domain: 'zahnarzt-neumann.ch',
+      screenshot: '/images/ref-zahnarzt-neumann.png',
+      caption: 'Modernes Design. PageSpeed 96/100. In 10 Arbeitstagen umgesetzt.',
+      href: 'https://zahnarzt-neumann.ch',
     },
     {
-      emoji: '🤖',
-      title: 'ChatGPT empfiehlt Ihre Praxis nicht.',
-      description:
-        'KI-Assistenten empfehlen nur Praxen, die online gut aufgestellt sind. Wer fehlt, verliert — ohne es zu merken.',
+      name: 'Schlafzahnmedizin',
+      domain: 'schlafzahnmedizin.ch',
+      screenshot: '/images/ref-schlafzahnmedizin.png',
+      caption: 'Klare Struktur. Alle Behandlungen sofort auffindbar. Mobile-first.',
+      href: 'https://schlafzahnmedizin.ch',
     },
   ],
   features: [
-    'Mobiloptimierte Website, die auf jedem Gerät überzeugt',
-    'Online-Terminbuchung integriert (Calendly, Cal.com oder ähnlich)',
-    'Google Business optimiert — mehr lokale Sichtbarkeit',
-    'Strukturierte Daten für bessere KI-Empfehlungen',
-    'Schnell, sicher, DSGVO-konform',
-    'Ihre Leistungen klar kommuniziert',
-    'Direkt mit Henry — kein Ticketsystem, kein Callcenter',
-    'Alles gehört Ihnen: Code, Domain, Inhalte',
+    'Professionelles Design, das Vertrauen schafft — auf jedem Gerät',
+    'Ihre Behandlungen, Ihr Team und Ihre Praxis optimal präsentiert',
+    'Lokale SEO + Google Business — damit Patienten in Ihrer Region Sie finden',
+    'Schnelle Ladezeiten (PageSpeed 90+)',
+    'Strukturierte Daten für Google und KI-Suchen',
+    'DSGVO/DSG-konform — Datenschutz ab Werk',
+    'Alles gehört Ihnen: Code, Domain, Inhalte. Kein Knebelvertrag.',
+    'Optional: Online-Terminbuchung, Kontaktformular, WhatsApp-Button',
   ],
-  aiHook: {
-    chatPrompt: 'Bester Zahnarzt in Zug',
-    result: 'Ihre Praxis wird nicht erwähnt.',
-    punchline: 'Das können wir ändern.',
-  },
   pricing: {
-    range: "CHF 1'490 – 2'490",
-    context: "Frühlings-Aktion bis 30. April 2026. Kein Abo — monatlich kündbar ab CHF 59/Monat.",
-    maintenanceFrom: "CHF 59",
-    examples: [
-      { label: 'Starter (bis 5 Seiten)', price: "CHF 1'490" },
-      { label: 'Business (bis 10 Seiten)', price: "CHF 1'990" },
-      { label: 'Professional (unbegrenzt)', price: "CHF 2'490" },
-    ],
-  },
-  comparison: {
-    before: [
-      '3–6 Monate Projektlaufzeit',
-      'Stundensatz unbekannt, Nachträge teuer',
-      'Account-Manager wechselt alle 6 Monate',
-      'Ihre Daten bleiben beim Anbieter',
-      'Support über Ticketsystem',
-    ],
-    after: [
-      '1–2 Wochen, fertig',
-      'Fixpreis — transparent von Anfang an',
-      'Immer direkt mit Henry',
-      'Ihr Code, Ihre Domain, alles Ihres',
-      'Support per Telefon & WhatsApp',
-    ],
+    recommendedTier: 'business',
   },
   cta: {
-    headline: 'Bereit für eine Website, die Patienten bringt?',
-    subline: 'Kein Pitch, keine Präsentation. Kurzes Gespräch, ehrliche Einschätzung.',
+    headline: 'Bereit für einen besseren ersten Eindruck?',
+    subline: 'Kurzes Gespräch, ehrliche Einschätzung. Kostenlos.',
     email: 'henry@windo.ch',
     phone: '+41 79 175 20 20',
     whatsapp: 'https://wa.me/41791752020?text=Hallo%20Henry%2C%20ich%20interessiere%20mich%20f%C3%BCr%20eine%20Praxis-Website.',
