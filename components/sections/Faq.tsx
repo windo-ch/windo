@@ -3,29 +3,34 @@ import Accordion from '@/components/ui/Accordion';
 
 const faqs = [
   {
-    question: 'Was kostet die Analyse?',
-    answer: 'Nichts. Die Analyse ist vollständig kostenlos — keine Anmeldung, keine Kreditkarte.',
-  },
-  {
-    question: 'Wie lange dauert es, bis meine Website fertig ist?',
-    answer: 'In der Regel 10 Arbeitstage. Bei grösseren Projekten können es 3 Wochen sein.',
-  },
-  {
-    question: 'Was kostet eine neue Website?',
-    answer: "Einmalig ab CHF 1'490 (Frühlings-Aktion 2026), danach CHF 59/Monat für Betreuung & Hosting. Alles transparent.",
-  },
-  {
-    question: 'Muss ich technische Kenntnisse haben?',
-    answer: 'Nein. Ich kümmere mich um alles Technische — Hosting, Domain, Updates, Sicherheit.',
-  },
-  {
-    question: 'Was passiert, wenn mir das Ergebnis nicht gefällt?',
-    answer: 'Sie sehen die neue Site, bevor sie online geht. Ihre Änderungswünsche werden eingearbeitet.',
-  },
-  {
-    question: 'Kann ich meine bestehende Domain behalten?',
+    question: 'Was ist der Unterschied zu Wix, Squarespace oder einem Baukasten?',
     answer:
-      'Ja. Ich kümmere mich um die Übertragung oder Verknüpfung, egal wo Ihre Domain registriert ist.',
+      'Baukästen machen alle Websites gleich. Jeder erkennt das. Meine Websites sind individuell gebaut — eigenes Design, eigene Texte, kein Template. Und sie laden schneller, ranken besser, und gehören wirklich Ihnen.',
+  },
+  {
+    question: '10 Arbeitstage — wirklich?',
+    answer:
+      'Ja. Ich habe den Prozess so aufgebaut, dass wir in zwei Wochen online sind: Briefing, Design, Texte, Feedback, Launch. Was es von Ihnen braucht: ein kurzes Gespräch und 1–2 Feedbackrunden. Den Rest übernehme ich.',
+  },
+  {
+    question: 'Was kostet es — und gibt es versteckte Kosten?',
+    answer:
+      "Einmalig ab CHF 790 (Landingpage) oder CHF 1'490 (Starter), danach CHF 59/Monat oder CHF 590/Jahr für Hosting, Support und Wartung. Das ist alles. Keine Setup-Gebühren, keine Überraschungen.",
+  },
+  {
+    question: 'Gehört mir die Website?',
+    answer:
+      'Ja — vollständig. Code, Inhalte, Domain: alles gehört Ihnen. Wenn Sie irgendwann wechseln möchten, nehmen Sie alles mit. Kein Lock-in, keine Abhängigkeit.',
+  },
+  {
+    question: 'Was passiert, wenn ich kündige?',
+    answer:
+      'Sie behalten Ihre Website und alle Inhalte. Sie können sie selbst hosten oder zu einem anderen Anbieter wechseln — ich helfe bei der Übergabe. Monatlich kündbar, keine Mindestlaufzeit.',
+  },
+  {
+    question: 'Muss ich Texte oder Bilder liefern?',
+    answer:
+      'Texte sind immer inklusive — ich schreibe alles, Sie lesen gegenseitig und geben Feedback. Eigene Fotos sind ein Plus, aber kein Muss: Ich arbeite auch mit lizenzfreiem Bildmaterial, wenn nichts vorhanden ist.',
   },
 ];
 

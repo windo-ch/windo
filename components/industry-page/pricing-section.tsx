@@ -1,6 +1,20 @@
 import { SectionLabel } from './section-label';
+import { AVAILABILITY } from '@/lib/config';
 
 const TIERS = [
+  {
+    id: 'landingpage' as const,
+    name: 'Landingpage',
+    price: "790",
+    note: '1 Seite',
+    features: [
+      'Professionelle Einzelseite',
+      'Klarer Fokus auf Ihre Kernleistung',
+      'Google Business Optimierung',
+      'Hosting & Support inklusive',
+      'Online in ~5 Arbeitstagen',
+    ],
+  },
   {
     id: 'starter' as const,
     name: 'Starter',
@@ -17,7 +31,7 @@ const TIERS = [
   {
     id: 'business' as const,
     name: 'Business',
-    price: "1'990",
+    price: "2'490",
     note: 'Bis 10 Seiten',
     features: [
       'Alles aus Starter',
@@ -30,7 +44,7 @@ const TIERS = [
   {
     id: 'professional' as const,
     name: 'Professional',
-    price: "2'490",
+    price: "3'990",
     note: 'Unbegrenzte Seiten',
     features: [
       'Alles aus Business',
@@ -44,7 +58,7 @@ const TIERS = [
 
 interface PricingProps {
   pricing: {
-    recommendedTier?: 'starter' | 'business' | 'professional';
+    recommendedTier?: 'landingpage' | 'starter' | 'business' | 'professional';
   };
 }
 
@@ -53,6 +67,9 @@ export function PricingSection({ pricing }: PricingProps) {
 
   return (
     <section className="py-16 md:py-20">
+      <div className="mb-6 rounded-xl bg-glow-ambient border border-glow-soft px-4 py-3 text-sm text-glow-deep font-medium text-center">
+        Noch {AVAILABILITY.slotsRemaining} Plätze frei im {AVAILABILITY.month} {AVAILABILITY.year}
+      </div>
       <SectionLabel text="Investition" />
       <h2 className="mt-6 text-2xl md:text-3xl font-semibold text-bg-dark leading-snug">
         Investition.
@@ -104,7 +121,7 @@ export function PricingSection({ pricing }: PricingProps) {
       </div>
 
       <p className="mt-5 text-xs text-gray-400">
-        Frühlings-Aktion bis 30. April 2026. CHF 59/Monat für Hosting, Support & Wartung — monatlich kündbar. Keine versteckten Kosten.
+        CHF 59/Monat für Hosting, Support & Wartung — monatlich kündbar. Keine versteckten Kosten. Alle Preise exkl. MWSt 8.1%.
       </p>
     </section>
   );

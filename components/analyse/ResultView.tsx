@@ -5,8 +5,8 @@ import FollowUpForm from "./FollowUpForm";
 
 const TIER_LABELS: Record<ResultProfile["recommendedTier"], string> = {
   starter: "Starter — CHF 1'490 + CHF 59/Mt.",
-  business: "Business — CHF 1'990 + CHF 59/Mt.",
-  professional: "Professional — CHF 2'490 + CHF 59/Mt.",
+  business: "Business — CHF 2'490 + CHF 59/Mt.",
+  professional: "Professional — CHF 3'990 + CHF 59/Mt.",
 };
 
 interface Props {

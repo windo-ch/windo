@@ -16,7 +16,7 @@ export default function JsonLd() {
     },
     description:
       'Professionelle Websites für Schweizer KMU. Fixpreis, 2 Wochen Umsetzungszeit, persönliche Betreuung.',
-    priceRange: 'CHF 1490–1990',
+    priceRange: 'CHF 790–3990',
     areaServed: {
       '@type': 'Country',
       name: 'Switzerland',

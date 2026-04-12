@@ -30,8 +30,7 @@ const LEISTUNG_ROWS = [
 const PACKAGES = [
   {
     name: "Starter",
-    regular: "2'900",
-    aktion: "1'490",
+    price: "1'490",
     subtitle: "Für Einzelunternehmer und kleine Betriebe",
     features: [
       "Individuelles Design",
@@ -45,8 +44,7 @@ const PACKAGES = [
   },
   {
     name: "Business",
-    regular: "3'900",
-    aktion: "1'990",
+    price: "2'490",
     subtitle: "Für etablierte KMU mit mehreren Dienstleistungen",
     features: [
       "Alles aus Starter",
@@ -59,8 +57,7 @@ const PACKAGES = [
   },
   {
     name: "Professional",
-    regular: "4'900",
-    aktion: "2'490",
+    price: "3'990",
     subtitle: "Für Praxen, Kanzleien und anspruchsvolle Betriebe",
     features: [
       "Alles aus Business",
@@ -76,7 +73,7 @@ const PACKAGES = [
 const FAQ_ITEMS = [
   {
     q: "Was kostet es insgesamt?",
-    a: "Einmalig ab CHF 1'490 (Frühlings-Aktion) für die neue Website. Danach CHF 59 im Monat für Betreuung, Hosting und Support — alles inklusive. Monatlich kündbar.",
+    a: "Einmalig ab CHF 1'490 für die neue Website. Danach CHF 59 im Monat für Betreuung, Hosting und Support — alles inklusive. Monatlich kündbar.",
   },
   {
     q: "Warum CHF 59 im Monat, wenn die Website mir gehört?",
@@ -208,22 +205,13 @@ export default function VergleichPage() {
               </thead>
               <tbody className="divide-y divide-gray-100">
                 <tr>
-                  <td className="py-3 px-4 text-gray-500 font-medium">Regulär</td>
+                  <td className="py-3 px-4 text-gray-500 font-medium">Einmalig</td>
                   <td className="py-3 px-4 text-gray-400">CHF 790</td>
                   <td className="py-3 px-4 text-gray-400">CHF 2&apos;490</td>
                   <td className="py-3 px-4 text-gray-400">CHF 5&apos;090</td>
-                  <td className="py-3 px-4 font-medium">CHF 2&apos;900</td>
-                  <td className="py-3 px-4 font-medium">CHF 3&apos;900</td>
-                  <td className="py-3 px-4 font-medium">CHF 4&apos;900</td>
-                </tr>
-                <tr className="bg-glow-ambient">
-                  <td className="py-3 px-4 text-glow-deep font-semibold">Frühlings-Aktion</td>
-                  <td className="py-3 px-4 text-gray-300">—</td>
-                  <td className="py-3 px-4 text-gray-300">—</td>
-                  <td className="py-3 px-4 text-gray-300">—</td>
                   <td className="py-3 px-4 font-bold text-glow-deep">CHF 1&apos;490</td>
-                  <td className="py-3 px-4 font-bold text-glow-deep">CHF 1&apos;990</td>
                   <td className="py-3 px-4 font-bold text-glow-deep">CHF 2&apos;490</td>
+                  <td className="py-3 px-4 font-bold text-glow-deep">CHF 3&apos;990</td>
                 </tr>
               </tbody>
             </table>
@@ -282,7 +270,7 @@ export default function VergleichPage() {
                   <td className="py-3 px-4 text-gray-500 font-medium">Setup</td>
                   <td className="py-3 px-4 text-gray-400">CHF 2&apos;490</td>
                   <td className="py-3 px-4">CHF 1&apos;490</td>
-                  <td className="py-3 px-4">CHF 1&apos;990</td>
+                  <td className="py-3 px-4">CHF 2&apos;490</td>
                 </tr>
                 <tr>
                   <td className="py-3 px-4 text-gray-500 font-medium">60 × Monatlich</td>
@@ -294,7 +282,7 @@ export default function VergleichPage() {
                   <td className="py-3 px-4 text-bg-dark">Total</td>
                   <td className="py-3 px-4 text-gray-500">CHF 5&apos;430</td>
                   <td className="py-3 px-4 text-glow-deep">CHF 5&apos;030</td>
-                  <td className="py-3 px-4 text-glow-deep">CHF 5&apos;530</td>
+                  <td className="py-3 px-4 text-glow-deep">CHF 6&apos;030</td>
                 </tr>
                 <tr>
                   <td className="py-3 px-4 text-gray-500 font-medium">Vertragsbindung</td>
@@ -382,7 +370,7 @@ export default function VergleichPage() {
       <section className="py-20 px-6 bg-bg-dark">
         <div className="max-w-3xl mx-auto">
           <p className="text-xs tracking-widest uppercase text-glow font-semibold mb-4">
-            Frühlings-Aktion 2026 · bis 30. April
+            Angebot
           </p>
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-10">
             Ihre neue Website — einmalig
@@ -399,11 +387,10 @@ export default function VergleichPage() {
               >
                 <p className="font-bold text-white mb-1">{pkg.name}</p>
                 <p className="text-xs text-gray-400 mb-4">{pkg.subtitle}</p>
-                <p className="text-gray-500 line-through text-sm mb-1">CHF {pkg.regular}</p>
                 <p className="text-4xl font-bold text-white tracking-tight leading-none mb-1">
-                  {pkg.aktion}.—
+                  {pkg.price}.—
                 </p>
-                <p className="text-xs text-gray-500 mb-5">CHF einmalig*</p>
+                <p className="text-xs text-gray-500 mb-5">CHF einmalig</p>
                 <ul className="space-y-1.5">
                   {pkg.features.map((f) => (
                     <li key={f} className="flex items-start gap-2 text-sm text-gray-300">
@@ -437,7 +424,7 @@ export default function VergleichPage() {
               ))}
             </ul>
           </div>
-          <p className="text-xs text-gray-600 mt-4">*Frühlings-Aktion gültig bis 30. April 2026. Alle Preise exkl. MWSt 8.1%.</p>
+          <p className="text-xs text-gray-600 mt-4">Alle Preise exkl. MWSt 8.1%.</p>
         </div>
       </section>
 

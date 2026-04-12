@@ -46,7 +46,7 @@ export default function LeadComparison({ lead }: { lead: LeadContent }) {
         </div>
 
         <p className="text-xs text-gray-400 mt-4">
-          Frühlings-Aktion bis 30. April 2026: CHF {formatChf(p.setupAktion)} (regulär CHF {formatChf(p.setupRegular)})
+          CHF {formatChf(p.setup)} einmalig · danach CHF 59/Monat · exkl. MWSt 8.1%
         </p>
       </div>
     </section>

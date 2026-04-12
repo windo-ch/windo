@@ -23,7 +23,7 @@ export default function LeadOffer({ lead }: { lead: LeadContent }) {
     <section className="bg-bg-dark py-20 px-6">
       <div className="max-w-3xl mx-auto">
         <p className="text-xs tracking-widest uppercase text-glow font-semibold mb-5">
-          Frühlings-Aktion 2026 · bis 30. April
+          Einmalige Investition
         </p>
         <h2 className="text-3xl sm:text-4xl font-bold text-white mb-10">
           Neue Website in 10 Arbeitstagen.
@@ -35,11 +35,8 @@ export default function LeadOffer({ lead }: { lead: LeadContent }) {
             <p className="text-xs font-semibold uppercase tracking-wide text-white/50 mb-4">
               Einmalig · Ihre neue Website
             </p>
-            <p className="text-white/40 line-through text-sm mb-1">
-              CHF {formatChf(p.setupRegular)}.—
-            </p>
             <p className="text-5xl font-bold text-white tracking-tight leading-none mb-1">
-              {formatChf(p.setupAktion)}.—
+              {formatChf(p.setup)}.—
             </p>
             <p className="text-xs text-white/40 mb-6">CHF einmalig · exkl. MWSt 8.1%</p>
             <ul className="space-y-2">
