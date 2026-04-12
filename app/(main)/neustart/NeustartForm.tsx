@@ -31,6 +31,7 @@ export default function NeustartForm() {
       vorname: fd.get("vorname") as string,
       nachname: fd.get("nachname") as string,
       telefon: fd.get("telefon") as string,
+      email: fd.get("email") as string,
       feedback: fd.get("feedback") as string,
     });
 
@@ -106,6 +107,17 @@ export default function NeustartForm() {
           name="telefon"
           required
           placeholder="079 ..."
+          className={inputClass}
+        />
+      </div>
+
+      <div>
+        <Label>E-Mail *</Label>
+        <input
+          type="email"
+          name="email"
+          required
+          placeholder="name@firma.ch"
           className={inputClass}
         />
       </div>
