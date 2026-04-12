@@ -59,9 +59,9 @@ export async function submitNeustart(
         </p>
         <p style="margin:0 0 8px;font-size:14px;font-weight:600;color:#1C1C1C;">Was als Nächstes passiert:</p>
         <table cellpadding="0" cellspacing="0" style="margin:0 0 24px;">
-          <tr><td style="padding:4px 0;font-size:14px;color:#444444;line-height:1.5;"><span style="color:#C94418;font-weight:700;margin-right:8px;">✓</span>Ich schaue mir Ihre aktuelle Website an</td></tr>
-          <tr><td style="padding:4px 0;font-size:14px;color:#444444;line-height:1.5;"><span style="color:#C94418;font-weight:700;margin-right:8px;">✓</span>Ich baue einen ersten Entwurf — in der Regel innerhalb von 48 Stunden</td></tr>
-          <tr><td style="padding:4px 0;font-size:14px;color:#444444;line-height:1.5;"><span style="color:#C94418;font-weight:700;margin-right:8px;">✓</span>Ich schicke Ihnen den Entwurf per E-Mail oder rufe Sie an</td></tr>
+          <tr><td style="padding:4px 0;font-size:14px;color:#444444;line-height:1.5;"><span style="color:#9A1E14;font-weight:700;margin-right:8px;">✓</span>Ich schaue mir Ihre aktuelle Website an</td></tr>
+          <tr><td style="padding:4px 0;font-size:14px;color:#444444;line-height:1.5;"><span style="color:#9A1E14;font-weight:700;margin-right:8px;">✓</span>Ich baue einen ersten Entwurf — in der Regel innerhalb von 48 Stunden</td></tr>
+          <tr><td style="padding:4px 0;font-size:14px;color:#444444;line-height:1.5;"><span style="color:#9A1E14;font-weight:700;margin-right:8px;">✓</span>Ich schicke Ihnen den Entwurf per E-Mail oder rufe Sie an</td></tr>
         </table>
         <p style="margin:0 0 20px;font-size:13px;color:#888888;line-height:1.6;">
           Kein Druck, keine Verpflichtung — Sie sehen den Entwurf und entscheiden selbst.

@@ -91,9 +91,9 @@ export async function submitAnalyse(
         </p>
         <p style="margin:0 0 8px;font-size:14px;font-weight:600;color:#1C1C1C;">Was als Nächstes passiert:</p>
         <table cellpadding="0" cellspacing="0" style="margin:0 0 24px;">
-          <tr><td style="padding:4px 0;font-size:14px;color:#444444;line-height:1.5;"><span style="color:#C94418;font-weight:700;margin-right:8px;">✓</span>Ihre Ergebnisse sind sofort einsehbar</td></tr>
-          <tr><td style="padding:4px 0;font-size:14px;color:#444444;line-height:1.5;"><span style="color:#C94418;font-weight:700;margin-right:8px;">✓</span>Ich schaue mir Ihren Betrieb an und melde mich persönlich</td></tr>
-          <tr><td style="padding:4px 0;font-size:14px;color:#444444;line-height:1.5;"><span style="color:#C94418;font-weight:700;margin-right:8px;">✓</span>Kein Verkaufsgespräch — ehrliche Einschätzung</td></tr>
+          <tr><td style="padding:4px 0;font-size:14px;color:#444444;line-height:1.5;"><span style="color:#9A1E14;font-weight:700;margin-right:8px;">✓</span>Ihre Ergebnisse sind sofort einsehbar</td></tr>
+          <tr><td style="padding:4px 0;font-size:14px;color:#444444;line-height:1.5;"><span style="color:#9A1E14;font-weight:700;margin-right:8px;">✓</span>Ich schaue mir Ihren Betrieb an und melde mich persönlich</td></tr>
+          <tr><td style="padding:4px 0;font-size:14px;color:#444444;line-height:1.5;"><span style="color:#9A1E14;font-weight:700;margin-right:8px;">✓</span>Kein Verkaufsgespräch — ehrliche Einschätzung</td></tr>
         </table>
         ${emailButton("Ergebnisse ansehen", resultUrl)}
       `,
@@ -179,11 +179,11 @@ export async function submitFollowUp(data: {
         </p>
         ${confirmLines.map(
           (line) =>
-            `<p style="margin:0 0 10px;font-size:14px;color:#1C1C1C;line-height:1.6;padding:12px 16px;background:#FFF5EF;border-left:3px solid #C94418;border-radius:0 6px 6px 0;">${line}</p>`
+            `<p style="margin:0 0 10px;font-size:14px;color:#1C1C1C;line-height:1.6;padding:12px 16px;background:#FFF0EE;border-left:3px solid #9A1E14;border-radius:0 6px 6px 0;">${line}</p>`
         ).join("")}
         <p style="margin:20px 0 0;font-size:13px;color:#888888;line-height:1.6;">
-          Bei Fragen vorher: <a href="tel:+41791752020" style="color:#C94418;text-decoration:none;">079 175 20 20</a>
-          oder <a href="https://wa.me/41791752020" style="color:#C94418;text-decoration:none;">WhatsApp</a>.
+          Bei Fragen vorher: <a href="tel:+41791752020" style="color:#9A1E14;text-decoration:none;">079 175 20 20</a>
+          oder <a href="https://wa.me/41791752020" style="color:#9A1E14;text-decoration:none;">WhatsApp</a>.
         </p>
       `,
     });

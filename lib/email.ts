@@ -26,8 +26,11 @@ export function brandedEmail({
 
           <!-- Header -->
           <tr>
-            <td style="background-color:#C94418;padding:20px 32px;">
-              <p style="margin:0;font-size:20px;font-weight:700;color:#FFFFFF;letter-spacing:-0.3px;">windo.ch</p>
+            <td style="background-color:#9A1E14;padding:16px 32px;">
+              <a href="https://windo.ch" style="text-decoration:none;display:inline-flex;align-items:center;gap:10px;">
+                <img src="https://www.windo.ch/windo-logo-2026-transparent.png" width="36" height="36" alt="windo.ch" style="display:block;border:0;" />
+                <span style="font-size:18px;font-weight:700;color:#FFFFFF;letter-spacing:-0.3px;">windo.ch</span>
+              </a>
             </td>
           </tr>
 
@@ -40,10 +43,10 @@ export function brandedEmail({
 
           <!-- Footer -->
           <tr>
-            <td style="background-color:#FFF5EF;border-top:1px solid #FFD4C0;padding:16px 32px;">
+            <td style="background-color:#FFF0EE;border-top:1px solid #F0C8C4;padding:16px 32px;">
               <p style="margin:0;font-size:12px;color:#999999;line-height:1.6;">
                 Henry Barrows &middot;
-                <a href="https://windo.ch" style="color:#C94418;text-decoration:none;">windo.ch</a>
+                <a href="https://windo.ch" style="color:#9A1E14;text-decoration:none;">windo.ch</a>
                 &middot;
                 <a href="tel:+41791752020" style="color:#999999;text-decoration:none;">079 175 20 20</a>
               </p>
@@ -60,10 +63,10 @@ export function brandedEmail({
 
 /** Reusable CTA button for confirmation emails */
 export function emailButton(label: string, href: string): string {
-  return `<a href="${href}" style="display:inline-block;background-color:#C94418;color:#FFFFFF;font-weight:600;font-size:14px;text-decoration:none;padding:12px 24px;border-radius:8px;margin-top:8px;">${label} →</a>`;
+  return `<a href="${href}" style="display:inline-block;background-color:#9A1E14;color:#FFFFFF;font-weight:600;font-size:14px;text-decoration:none;padding:12px 24px;border-radius:8px;margin-top:8px;">${label} →</a>`;
 }
 
 /** Reusable checkmark list item */
 export function emailCheck(text: string): string {
-  return `<tr><td style="padding:4px 0;font-size:14px;color:#444444;line-height:1.5;"><span style="color:#C94418;font-weight:700;margin-right:8px;">✓</span>${text}</td></tr>`;
+  return `<tr><td style="padding:4px 0;font-size:14px;color:#444444;line-height:1.5;"><span style="color:#9A1E14;font-weight:700;margin-right:8px;">✓</span>${text}</td></tr>`;
 }

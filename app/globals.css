@@ -4,14 +4,14 @@
   /* Colors */
   --color-bg: #FFFBF8;
   --color-bg-card: #FFFFFF;
-  --color-bg-subtle: #FFF5EF;
+  --color-bg-subtle: #FFF0EE;
   --color-bg-glow: #FFF0E8;
   --color-bg-dark: #1C1C1C;
-  --color-glow: #FF6B35;
-  --color-glow-deep: #C94418;
-  --color-glow-hot: #FF4D1A;
-  --color-glow-ambient: #FFF0E8;
-  --color-glow-soft: #FFD4C0;
+  --color-glow: #C53105;
+  --color-glow-deep: #9A1E14;
+  --color-glow-hot: #B52218;
+  --color-glow-ambient: #FFF0EE;
+  --color-glow-soft: #F0C8C4;
   --color-green-wa: #25D366;
 
   /* Font */
@@ -20,21 +20,21 @@
 
 /* Hero radial gradient background */
 .hero-gradient {
-  background: radial-gradient(ellipse 80% 60% at 50% -10%, #FFD4C0 0%, #FFFBF8 70%);
+  background: radial-gradient(ellipse 80% 60% at 50% -10%, #F0C8C4 0%, #FFFBF8 70%);
 }
 
 /* Card warm shadow */
 .card-warm {
-  box-shadow: 0 4px 24px rgba(201, 68, 24, 0.08), 0 1px 4px rgba(0,0,0,0.04);
+  box-shadow: 0 4px 24px rgba(154, 30, 20, 0.08), 0 1px 4px rgba(0,0,0,0.04);
 }
 
 /* CTA button glow */
 .btn-glow {
-  box-shadow: 0 4px 20px rgba(201, 68, 24, 0.35);
+  box-shadow: 0 4px 20px rgba(154, 30, 20, 0.35);
   transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 .btn-glow:hover {
-  box-shadow: 0 6px 28px rgba(201, 68, 24, 0.5);
+  box-shadow: 0 6px 28px rgba(154, 30, 20, 0.5);
   transform: translateY(-1px);
 }
 
