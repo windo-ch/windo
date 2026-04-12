@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "reto.egloff@bluewin.ch, danie.egloff@bluewin.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

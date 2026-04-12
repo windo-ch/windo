@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "vali_ziko@icloud.com",
   "phone": "+4121436741",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

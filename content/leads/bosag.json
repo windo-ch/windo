@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "cbosag@bluewin.ch",
   "phone": "+4116317143",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

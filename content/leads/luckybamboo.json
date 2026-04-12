@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "luckybamboo@gmx.ch",
   "phone": "+4181342223, +4152343181",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

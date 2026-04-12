@@ -51,7 +51,7 @@ const content: IndustryPageProps = {
     'Optional: Offertformular, Notfallnummer, WhatsApp-Button',
   ],
   pricing: {
-    recommendedTier: 'starter',
+    recommendedTier: 'basis',
   },
   cta: {
     headline: 'Bereit für mehr Aufträge?',

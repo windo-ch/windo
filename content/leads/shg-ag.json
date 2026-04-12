@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "info@shg-ag.ch, benjamin_huber@bluewin.ch",
   "phone": "+4160508656",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

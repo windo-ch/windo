@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "alaturka1994@hotmail.com",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

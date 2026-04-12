@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "helscher@bluewin.ch",
   "phone": "+4152832082",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

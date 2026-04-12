@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "2@teamamwerk.ch",
   "phone": "+4101357021",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

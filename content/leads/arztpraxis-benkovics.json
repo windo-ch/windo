@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "praxis.benkovics@hin.ch",
   "phone": "+415045099990",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

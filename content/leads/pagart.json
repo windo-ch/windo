@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "mail@pagart.ch",
   "phone": "+417942218752",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

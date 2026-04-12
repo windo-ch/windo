@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "mz.gartenbau@bluewin.ch",
   "phone": "+4148457833",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

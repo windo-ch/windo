@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "STOREN@MESSER-WYSS.CH, storen@messer-wyss.ch, info@messer-storen.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

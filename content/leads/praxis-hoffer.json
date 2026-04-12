@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "hofferpraxis@hin.ch",
   "phone": "+412025762658",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

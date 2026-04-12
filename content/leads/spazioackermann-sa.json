@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "info@spazioackermann.ch",
   "phone": "+4136194174",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

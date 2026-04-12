@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "marty-transport@bluewin.ch",
   "phone": "+4103229778",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "peterschultheiss@intergga.ch",
   "phone": "+412542950841",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

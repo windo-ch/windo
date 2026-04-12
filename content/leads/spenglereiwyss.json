@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@spenglereiwyss.ch",
   "phone": "+4114163738",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

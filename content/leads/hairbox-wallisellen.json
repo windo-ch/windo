@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "prisca.hairbox@bluewin.ch",
   "phone": "+414035318743, +4128708001",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

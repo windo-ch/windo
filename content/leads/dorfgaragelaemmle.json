@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "garage.laemmle@greenmail.ch",
   "phone": "+4188543255",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "karin.flueeler@bluewin.ch, karin.flueler@kfnmail.ch",
   "phone": "+4168389333",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

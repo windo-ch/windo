@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@home-garden-ag.ch",
   "phone": "+4136240095",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

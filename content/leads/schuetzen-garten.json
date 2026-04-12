@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "rest.schuetzengarten@bluewin.ch, schuetzengarten@bluewin.ch, rest@schuetzen-garten.ch",
   "phone": "+4191391077",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

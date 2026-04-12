@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "nunoheizungsanitar@gmx.ch",
   "phone": "+4198433639",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

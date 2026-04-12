@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "praxis.rusterholz@hin.ch",
   "phone": "+410833333333, +411666666666, +413333333333",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

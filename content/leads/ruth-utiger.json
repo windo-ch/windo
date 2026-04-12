@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "geschaeft@ruth-utiger-herrenmode.ch, GESCHAEFT@RUTH-UTIGER-HERRENMODE.CH",
   "phone": "+4141711087",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

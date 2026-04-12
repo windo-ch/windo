@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "INFO@FREYTECH.CH, info@freytech.ch",
   "phone": "+4160800573",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

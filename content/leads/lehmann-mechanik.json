@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "mechanik@lehmann-mechanik.ch",
   "phone": "",
-  "tier": "business",
+  "tier": "sichtbar",
   "floppy": false,
   "checks": {
     "ssl": true,

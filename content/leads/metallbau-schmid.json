@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "adrian.schmid@metallbau-schmid.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "mail@assolari.ch",
   "phone": "+4104660710",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

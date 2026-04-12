@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "marymann@swissonline.ch",
   "phone": "+412238264514",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

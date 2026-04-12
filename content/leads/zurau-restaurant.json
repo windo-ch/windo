@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "zur.au56restaurant@gmail.com",
   "phone": "+4132346568",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

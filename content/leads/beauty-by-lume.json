@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "beauty.by.lumee@gmail.com",
   "phone": "+4175142322",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

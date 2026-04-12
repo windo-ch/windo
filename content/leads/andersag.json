@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "richardandersag@gmail.com",
   "phone": "+418686051920",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

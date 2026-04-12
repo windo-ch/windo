@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "maler-casa-cattai@bluewin.ch",
   "phone": "+418823529411, +418235294117, +417647058823",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

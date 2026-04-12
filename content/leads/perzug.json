@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "info@perzug.ch",
   "phone": "+4175034674",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

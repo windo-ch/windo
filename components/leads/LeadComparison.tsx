@@ -2,7 +2,7 @@ import type { LeadContent } from "@/lib/types";
 import { PRICING, formatChf } from "@/lib/types";
 
 export default function LeadComparison({ lead }: { lead: LeadContent }) {
-  const p = PRICING[lead.tier] ?? PRICING.starter;
+  const p = PRICING[lead.tier] ?? PRICING.basis;
 
   const rows: { label: string; ls: string; windo: string }[] = [
     { label: "Design", ls: `Vorlage von ${lead.year}`, windo: "Individuell" },
@@ -46,7 +46,7 @@ export default function LeadComparison({ lead }: { lead: LeadContent }) {
         </div>
 
         <p className="text-xs text-gray-400 mt-4">
-          CHF {formatChf(p.setup)} einmalig · danach CHF 59/Monat · exkl. MWSt 8.1%
+          CHF {formatChf(p.yearOne)} erstes Jahr komplett · danach CHF 59/Mt. · exkl. MWSt 8.1%
         </p>
       </div>
     </section>

@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "mpa.witikon@hin.ch",
   "phone": "+414210461509, +416089818631",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

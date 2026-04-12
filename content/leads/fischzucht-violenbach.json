@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "fischzucht-violenbach@bluewin.ch",
   "phone": "+4172440804",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

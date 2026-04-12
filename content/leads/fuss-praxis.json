@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "team@fuss-praxis.ch",
   "phone": "+4132451447",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

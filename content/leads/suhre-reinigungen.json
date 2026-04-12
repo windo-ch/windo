@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "info@suhrereinigungen.ch",
   "phone": "+4128359395",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

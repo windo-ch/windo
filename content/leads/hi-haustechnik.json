@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "i-haustechnik@bluewin.ch",
   "phone": "+4133547514",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

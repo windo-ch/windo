@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "markus.streuli@bluewin.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "zahnarzt-jaksic@sso-hin.ch, zahnarztjaksic@hotmail.com, info@zahnarzt-jaksic.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

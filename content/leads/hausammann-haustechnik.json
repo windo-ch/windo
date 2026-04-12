@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "aeschacher@bluewin.ch",
   "phone": "+417474534653",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

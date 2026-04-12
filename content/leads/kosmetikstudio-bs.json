@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "barbara.scherrer60@bluewin.ch",
   "phone": "+4134068583",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

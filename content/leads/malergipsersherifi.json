@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "maler.gipser.sherifi@hotmail.com",
   "phone": "+414391769050",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "arif_abazi@bluewin.ch",
   "phone": "+414868277519",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

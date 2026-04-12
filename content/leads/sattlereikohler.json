@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "noemi.kohler@gmx.ch",
   "phone": "+4171428570, +4183333333, +4171428571",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

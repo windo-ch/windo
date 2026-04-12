@@ -67,7 +67,7 @@ const content: IndustryPageProps = {
     'Optional: Online-Terminbuchung, Kontaktformular, WhatsApp-Button',
   ],
   pricing: {
-    recommendedTier: 'business',
+    recommendedTier: 'sichtbar',
   },
   cta: {
     headline: 'Bereit für einen besseren ersten Eindruck?',

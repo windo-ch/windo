@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "purrerdach@bluewin.ch",
   "phone": "+4138921325",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

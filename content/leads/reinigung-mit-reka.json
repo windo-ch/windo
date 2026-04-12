@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "gtberger@bluewin.ch",
   "phone": "+411770276919",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

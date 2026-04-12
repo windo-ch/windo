@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "pacos-beauty@bluewin.ch",
   "phone": "+415049807770",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

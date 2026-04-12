@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@maler-jasari.ch",
   "phone": "+4185561962",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

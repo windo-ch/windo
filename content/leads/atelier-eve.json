@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "info@atelier-eve.ch",
   "phone": "+4145392092",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

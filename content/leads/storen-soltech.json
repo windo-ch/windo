@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "info@storen-soltech.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

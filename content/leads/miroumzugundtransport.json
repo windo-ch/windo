@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "miroumzug@gmail.com",
   "phone": "+4147944794",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

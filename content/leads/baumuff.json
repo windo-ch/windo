@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "baumuff@gmx.ch",
   "phone": "+4179641904",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

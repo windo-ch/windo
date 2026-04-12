@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@vari-sapori.ch, antonino.disilvestro@hotmail.ch",
   "phone": "+4161983800",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

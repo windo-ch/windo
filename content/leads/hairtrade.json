@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "info@hairtrade.ch",
   "phone": "+4158285516",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

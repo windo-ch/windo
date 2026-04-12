@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "kontakt@stmauritz.ch",
   "phone": "+419213913144",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

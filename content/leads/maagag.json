@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@maagag.ch",
   "phone": "+412615094931",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

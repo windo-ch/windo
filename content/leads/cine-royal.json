@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "caro@cine-royal.ch",
   "phone": "+4142797208, +4142798713, +4142798860",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

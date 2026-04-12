@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "info@sibora.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@sonnereiden.ch, sonne.reiden@raonet.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

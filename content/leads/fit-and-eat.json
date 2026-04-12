@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "michele@fit-and-eat.ch",
   "phone": "+4179889349",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

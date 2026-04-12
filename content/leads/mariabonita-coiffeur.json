@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "jocelma.silva.frey@gmail.com",
   "phone": "+4136089769",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

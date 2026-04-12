@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "thomasfelder1964@gmail.com",
   "phone": "+4186333692",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

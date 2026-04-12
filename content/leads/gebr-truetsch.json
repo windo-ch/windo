@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@gebr-truetsch.ch",
   "phone": "+4172273232",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

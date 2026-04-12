@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "esther.assenmacher@bluewin.ch",
   "phone": "+4102132877",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

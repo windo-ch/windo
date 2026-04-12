@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "praxis-kaeslin@outlook.com",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

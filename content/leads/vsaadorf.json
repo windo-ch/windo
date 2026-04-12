@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "jungschuetzen@vsaadorf.ch, pas.zbinden@bluewin.ch",
   "phone": "+410520251308, +410600836587",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

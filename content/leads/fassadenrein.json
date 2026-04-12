@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "bucher@fassadenrein.ch, kontakt@diefassadenreiniger.ch",
   "phone": "+410654418913",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

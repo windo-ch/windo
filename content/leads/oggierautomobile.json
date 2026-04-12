@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "oggierautomobile@bluewin.ch",
   "phone": "+4115682937",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "luetholdsmatt@bluewin.ch",
   "phone": "+4191396413",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

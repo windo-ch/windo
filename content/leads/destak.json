@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "destak@gmx.ch",
   "phone": "+4154172895",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

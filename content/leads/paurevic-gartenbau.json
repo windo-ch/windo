@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "z.paurevic-gartenbau@hotmail.ch",
   "phone": "+419165696721",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@maler-jorge.ch",
   "phone": "+4147908273",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@mettlertools.ch",
   "phone": "+410209912744",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

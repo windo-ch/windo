@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "marco.pratissoli@bluewin.ch",
   "phone": "+4185260667",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

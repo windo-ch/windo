@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "maler.spengler@bluewin.ch",
   "phone": "+4122040447",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

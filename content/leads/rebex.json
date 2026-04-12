@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "rebex@rebex.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

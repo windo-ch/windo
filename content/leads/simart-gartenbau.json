@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@simart-gartenbau.ch",
   "phone": "+412638900874",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

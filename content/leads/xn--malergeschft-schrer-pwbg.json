@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "jacques_schaerer-ag@bluewin.ch",
   "phone": "+4166405195",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "bonorand-guarda@bluewin.ch",
   "phone": "+412510805131, +4174839368",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

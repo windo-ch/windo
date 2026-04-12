@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "gherardi-maler@gmx.ch",
   "phone": "+4162925316",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

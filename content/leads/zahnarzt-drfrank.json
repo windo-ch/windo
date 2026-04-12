@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "hallo@zahnarzt-drfrank.ch",
   "phone": "+4123142679",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

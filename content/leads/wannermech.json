@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "info@wannermech.ch",
   "phone": "+410645842298, +4182877646",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info.dermadoc@bluewin.ch, Pierre.deViragh@hin.ch",
   "phone": "+418084861616",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

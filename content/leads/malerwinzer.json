@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "info@maler-winzer.ch",
   "phone": "+4179655346",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

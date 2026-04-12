@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "andreas.klakow@hin.ch, praxisbueren@hin.ch, info@praxisbueren.ch",
   "phone": "+412253062003",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

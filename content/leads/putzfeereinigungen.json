@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "m_kputzfee@bluewin.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

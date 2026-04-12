@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "restaurant.sternen@hotmail.com",
   "phone": "+416800141883",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

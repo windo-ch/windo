@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "rnbuehler@bluewin.ch",
   "phone": "+4196236711",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

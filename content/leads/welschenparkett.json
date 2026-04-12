@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "thomas.welschen@bluewin.ch",
   "phone": "+4197519462",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

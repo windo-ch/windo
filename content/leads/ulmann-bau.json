@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "reto.ulmann@gmx.ch",
   "phone": "+4100747629",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

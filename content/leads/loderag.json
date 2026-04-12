@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "loder@loderag.ch",
   "phone": "+417406091577",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

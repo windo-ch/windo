@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@wohnsicht.ch",
   "phone": "+414924154755",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

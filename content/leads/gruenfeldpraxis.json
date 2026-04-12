@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "gfp4123@bluewin.ch",
   "phone": "+4141425716",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

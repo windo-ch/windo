@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "helen.riedberger@bluewin.ch",
   "phone": "+4129893077",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "grubenmann_imed@hotmail.com",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

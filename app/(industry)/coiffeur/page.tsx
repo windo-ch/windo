@@ -60,7 +60,7 @@ const content: IndustryPageProps = {
     'Optional: Online-Terminbuchung, WhatsApp-Button, Preisliste',
   ],
   pricing: {
-    recommendedTier: 'starter',
+    recommendedTier: 'basis',
   },
   cta: {
     headline: 'Bereit für mehr Buchungen?',

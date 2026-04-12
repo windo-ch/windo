@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "spritzwerkperez@outlook.com",
   "phone": "+4171688660",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "engelbert.bischof@bluewin.ch",
   "phone": "+4175789151",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

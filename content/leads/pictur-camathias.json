@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "gp.camathias@bluewin.ch",
   "phone": "+4121620831",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

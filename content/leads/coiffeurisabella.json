@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "imonteleone@gmx.ch",
   "phone": "+4132653137, +415494519947",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

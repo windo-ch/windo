@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "gottfriedmeier3@gmail.com",
   "phone": "+4159056306",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

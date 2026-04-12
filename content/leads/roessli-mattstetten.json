@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "roessli-mattstetten@bluewin.ch",
   "phone": "+4193470478, +419788687777",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

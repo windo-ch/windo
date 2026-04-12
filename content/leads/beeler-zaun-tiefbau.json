@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "ernst.beeler@datazug.ch",
   "phone": "+416089877224",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

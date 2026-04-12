@@ -6,7 +6,7 @@
   "year": 2026,
   "email": "christin.ambord@gmail.com",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

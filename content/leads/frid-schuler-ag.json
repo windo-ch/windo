@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "schulerag@sunrise.ch, info@frid-schuler-ag.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

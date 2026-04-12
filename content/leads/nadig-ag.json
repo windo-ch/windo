@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "nadig.ag@bluewin.ch",
   "phone": "+4190305175",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@schmidfilisur.ch, nfo@schmidfilisur.ch",
   "phone": "+4100774907",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

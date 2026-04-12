@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@zahnarztkoch.ch",
   "phone": "+416518036651",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

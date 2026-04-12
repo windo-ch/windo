@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "bildhauen@bluewin.ch",
   "phone": "+4186105259",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

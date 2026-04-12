@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "maler.lichtsteiner@bluewin.ch",
   "phone": "+4186464816",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

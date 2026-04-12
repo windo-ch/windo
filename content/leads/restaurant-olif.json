@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "ppetros37@gmail.com",
   "phone": "+4128691527",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

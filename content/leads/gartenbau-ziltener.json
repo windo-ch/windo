@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "zilpag@bluewin.ch",
   "phone": "+4152223254",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

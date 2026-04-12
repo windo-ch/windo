@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "pfihero@bluewin.ch",
   "phone": "+4140271419",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

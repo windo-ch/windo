@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "streunoptik@sunrise.ch",
   "phone": "+417475184754",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

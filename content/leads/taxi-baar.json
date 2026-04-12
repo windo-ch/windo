@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "midmolnar@yahoo.com",
   "phone": "+4169857404",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

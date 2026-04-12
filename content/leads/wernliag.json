@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "mail@wernliag.ch",
   "phone": "+4134314084",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

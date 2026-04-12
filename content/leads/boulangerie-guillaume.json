@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "commandeboulangerie@bluewin.ch",
   "phone": "+4110828903",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

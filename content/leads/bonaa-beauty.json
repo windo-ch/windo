@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "bonaa.beauty@gmail.com",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

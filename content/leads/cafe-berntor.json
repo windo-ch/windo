@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "martat@bluewin.ch",
   "phone": "+4100223079",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

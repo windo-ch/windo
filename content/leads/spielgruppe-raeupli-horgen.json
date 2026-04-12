@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "giovanna.sohm@gmail.com",
   "phone": "+4168745278",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

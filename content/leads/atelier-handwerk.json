@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "atelier-handwerk@gmx.ch, handwerk-atelier@gmx.ch",
   "phone": "+4115071511, +4115071607, +4115071707",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

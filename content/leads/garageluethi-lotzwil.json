@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "garage.luethi@gmx.ch",
   "phone": "+4160508656",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

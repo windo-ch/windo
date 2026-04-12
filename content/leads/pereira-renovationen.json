@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info.pereira.renovationen@gmail.com",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

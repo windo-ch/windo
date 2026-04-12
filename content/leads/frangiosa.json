@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "frangiosa.cosimo@bluewin.ch",
   "phone": "+4122114715",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "ahorn-apotheke@bluewin.ch, 608904@ovan.ch",
   "phone": "+418085016949",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

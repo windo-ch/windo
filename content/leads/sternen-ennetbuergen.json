@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "sternen-ennetbuergen@bluewin.ch, info@sternen-ennetbuergen.ch",
   "phone": "+417474570605",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

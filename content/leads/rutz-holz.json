@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "brunorutz@rutz-holz.ch",
   "phone": "+4117856131",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

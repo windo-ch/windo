@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "iseligemuese@bluewin.ch",
   "phone": "+4132396161, +4179631276, +4132396163",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "thomasrein@bluewin.ch",
   "phone": "+4174948196",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

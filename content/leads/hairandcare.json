@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "info@hairandcare.ch",
   "phone": "+414589725403",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

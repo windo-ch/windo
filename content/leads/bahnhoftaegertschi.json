@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "sabine.gilb@gmx.ch",
   "phone": "+412542646978",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

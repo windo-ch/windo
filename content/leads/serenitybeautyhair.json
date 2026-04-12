@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "serenitysayar@gmail.com",
   "phone": "+411349390122",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

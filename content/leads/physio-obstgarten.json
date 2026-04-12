@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "info@physio-obstgarten.ch, obstgarten@physio-hin.ch",
   "phone": "+410649290604",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

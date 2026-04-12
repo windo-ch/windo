@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "baumann-ag@bluewin.ch",
   "phone": "+4189465939",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

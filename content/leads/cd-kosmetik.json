@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "corneliadangelo@hotmail.com",
   "phone": "+4192874685",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@wettler-gmbh.ch, wettler-ag@bluewin.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

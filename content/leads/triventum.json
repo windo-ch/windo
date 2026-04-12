@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@triventum.ch",
   "phone": "+4197215150, +4172121943",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

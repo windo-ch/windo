@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "art-style@gmx.ch, lobafon@gmx.ch",
   "phone": "+410844043395",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "maler.buchmann@bluewin.ch",
   "phone": "+4182962507",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

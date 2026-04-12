@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "praxis.peters@hin.ch",
   "phone": "+4173499542",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

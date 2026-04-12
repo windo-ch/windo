@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "info@backbar.ch",
   "phone": "+4144422471, +411968150207",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

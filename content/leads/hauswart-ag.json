@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "info@hauswart-ag.ch, u.ruggle@hauswart-ag.ch",
   "phone": "+4119393721",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

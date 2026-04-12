@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "info@designausstein.ch, designausstein@gmx.ch",
   "phone": "+4110001000, +4179511768, +415889280386",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "holzbau@chb-ag.ch",
   "phone": "+4158833243",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

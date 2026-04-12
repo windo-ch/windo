@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "hotel.landgasthof@loewen-sins.ch, paul.waser@loewen-sins.ch",
   "phone": "+414281134171",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

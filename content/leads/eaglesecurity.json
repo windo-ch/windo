@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "thun@eaglesecurity.ch, bern@eaglesecurity.ch, info@eaglesecurity.ch",
   "phone": "",
-  "tier": "business",
+  "tier": "sichtbar",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "ronelmiger@bluewin.ch",
   "phone": "+4174121582",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

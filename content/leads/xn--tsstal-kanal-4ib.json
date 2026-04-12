@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "info@toesstal-kanal.ch",
   "phone": "+4147977794",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

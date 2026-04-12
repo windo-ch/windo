@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "malerberlinger@bluewin.ch",
   "phone": "+4130154404",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

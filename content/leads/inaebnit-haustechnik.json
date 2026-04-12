@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "inaebnit-haustechnik@bluewin.ch, trachselholz@hotmail.com",
   "phone": "+411666666666, +412083333333, +418333333333",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

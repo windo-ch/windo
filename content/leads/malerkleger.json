@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "malerkleger@bluewin.ch",
   "phone": "+4152626876",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

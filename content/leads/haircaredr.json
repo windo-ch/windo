@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "dianaroetlich@gmail.com",
   "phone": "+4140881672",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

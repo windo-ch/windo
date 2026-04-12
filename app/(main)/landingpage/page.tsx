@@ -3,9 +3,9 @@ import Image from 'next/image';
 import { AVAILABILITY } from '@/lib/config';
 
 export const metadata: Metadata = {
-  title: 'Professionelle Landingpage — CHF 790 | windo.ch',
+  title: 'Professionelle Landingpage — CHF 990 | windo.ch',
   description:
-    "Landingpage erstellen lassen Schweiz ab CHF 790. One-Page-Website für Kleinunternehmen — individuelles Design, professionelle Texte, in 2–3 Arbeitstagen online. Günstige Website Schweiz.",
+    "Landingpage erstellen lassen Schweiz ab CHF 990. One-Page-Website für Kleinunternehmen — individuelles Design, professionelle Texte, in 2–3 Arbeitstagen online. Erstes Jahr komplett.",
   alternates: { canonical: 'https://www.windo.ch/landingpage' },
   keywords: [
     'website erstellen lassen günstig schweiz',
@@ -24,7 +24,7 @@ const FEATURES = [
   'Ihr Angebot, Kontakt und Standort — alles auf einer Seite',
   'Professionelle Texte inklusive',
   'In 2–3 Arbeitstagen online',
-  'Hosting & Betreuung: CHF 59/Mt. oder CHF 590/Jahr',
+  'Erstes Jahr komplett: Hosting, Betreuung & Support inklusive',
 ];
 
 const FOR_WHO = [
@@ -62,10 +62,10 @@ export default function LandingpagePage() {
       {/* Hero */}
       <div className="max-w-3xl mx-auto px-6 py-20 sm:py-28">
         <p className="text-xs tracking-widest uppercase text-glow-deep/70 font-semibold mb-5">
-          Landingpage · CHF 790
+          Landingpage · CHF 990
         </p>
         <h1 className="text-4xl sm:text-5xl font-bold text-bg-dark leading-tight mb-6">
-          Eine Seite. Alles drauf.<br />CHF 790.
+          Eine Seite. Alles drauf.<br />CHF 990 im ersten Jahr.
         </h1>
         <p className="text-lg text-gray-500 max-w-xl leading-relaxed mb-10">
           Nicht jeder Betrieb braucht 10 Seiten. Manchmal reicht eine —
@@ -117,31 +117,14 @@ export default function LandingpagePage() {
       <div className="bg-bg-dark">
         <div className="max-w-3xl mx-auto px-6 py-16 sm:py-20 text-white">
           <p className="text-xs tracking-widest uppercase text-glow font-semibold mb-6">
-            Gesamtkosten Jahr 1
+            Jahr 1 — komplett
           </p>
-          <div className="flex flex-col sm:flex-row sm:items-end gap-6 sm:gap-16">
-            <div>
-              <p className="text-5xl sm:text-6xl font-bold tracking-tight leading-none mb-2">
-                1'380.—
-              </p>
-              <p className="text-gray-400 text-sm">CHF im ersten Jahr. Komplett.</p>
-            </div>
-            <div className="text-sm text-gray-400 space-y-2">
-              <div className="flex justify-between gap-8">
-                <span>Einmalig (Landingpage)</span>
-                <span className="font-medium text-white">CHF 790</span>
-              </div>
-              <div className="flex justify-between gap-8">
-                <span>Jahresabo Hosting & Betreuung</span>
-                <span className="font-medium text-white">CHF 590</span>
-              </div>
-              <div className="border-t border-white/10 pt-2 flex justify-between gap-8 font-semibold text-white">
-                <span>Total Jahr 1</span>
-                <span>CHF 1'380</span>
-              </div>
-              <p className="text-xs text-gray-600 pt-1">Alle Preise exkl. MWSt 8.1%.</p>
-            </div>
-          </div>
+          <p className="text-5xl sm:text-6xl font-bold tracking-tight leading-none mb-3">
+            990.—
+          </p>
+          <p className="text-gray-400 text-sm mb-2">CHF — Website, Hosting, Betreuung & Support. Alles inklusive.</p>
+          <p className="text-gray-500 text-sm">Ab Jahr 2: CHF 59/Mt. oder CHF 590/Jahr. Monatlich kündbar.</p>
+          <p className="text-xs text-gray-600 mt-4">Alle Preise exkl. MWSt 8.1%.</p>
         </div>
       </div>
 
@@ -224,15 +207,14 @@ export default function LandingpagePage() {
           Ihre Website wächst mit.
         </h2>
         <p className="text-gray-500 leading-relaxed mb-8 max-w-xl">
-          Wenn Ihr Betrieb grösser wird, können Sie jederzeit upgraden —
-          auf Starter (bis 5 Seiten) oder Business (bis 10 Seiten).
+          Wenn Ihr Betrieb grösser wird, können Sie jederzeit auf Basis oder Sichtbar upgraden.
           Der Aufpreis ist die Differenz. Kein Neustart, kein Verlust.
         </p>
         <div className="grid sm:grid-cols-3 gap-4">
           {[
-            { name: 'Landingpage', price: '790', note: '1 Seite', current: true },
-            { name: 'Starter', price: "1\u2019490", note: 'Bis 5 Seiten' },
-            { name: 'Business', price: "2\u2019490", note: 'Bis 10 Seiten' },
+            { name: 'Landingpage', price: '990', note: 'Eine Seite. Alles drauf.', current: true },
+            { name: 'Basis', price: "1\u2019990", note: 'Professionell online.' },
+            { name: 'Sichtbar', price: "2\u2019990", note: 'Gefunden werden.' },
           ].map((tier) => (
             <div
               key={tier.name}
@@ -266,7 +248,7 @@ export default function LandingpagePage() {
             In 2–3 Tagen online.
           </h2>
           <p className="text-gray-400 mb-10">
-            Kurzes Gespräch, dann lege ich los. CHF 790 einmalig, danach CHF 59/Mt.
+            Kurzes Gespräch, dann lege ich los. CHF 990 — erstes Jahr komplett.
           </p>
           <div className="flex flex-wrap gap-4">
             <a

@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "blumenhaueter@bluewin.ch",
   "phone": "+412510002100",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

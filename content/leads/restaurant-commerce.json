@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "gm.siegfried@gmail.com",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

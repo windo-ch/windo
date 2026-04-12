@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "carmenrodriguez@bluewin.ch",
   "phone": "+4154612113",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

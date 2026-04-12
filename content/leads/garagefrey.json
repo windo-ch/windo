@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "garagefrey@bluewin.ch",
   "phone": "+4106143030, +410614301024, +4106143076",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "reinigungencorreia@gmail.com",
   "phone": "+412639032945",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

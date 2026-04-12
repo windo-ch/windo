@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "kovaci.reinigung@aol.ch",
   "phone": "+4162639857",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@ok-transporte.ch",
   "phone": "+410725867567, +4180484160, +4114436864",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

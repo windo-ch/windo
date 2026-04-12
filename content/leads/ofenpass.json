@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "ofenpass@gmx.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

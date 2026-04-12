@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "h-strebel@bluewin.ch",
   "phone": "+4156664560",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

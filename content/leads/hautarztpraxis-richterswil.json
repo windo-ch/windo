@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "r.h.derzi@bluewin.ch",
   "phone": "+417475485062",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

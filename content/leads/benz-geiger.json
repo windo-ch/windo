@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "info@benz-geiger.ch",
   "phone": "+4167044548",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

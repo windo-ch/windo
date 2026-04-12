@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@tomela.ch, tomela10@bluewin.ch",
   "phone": "+4119982538",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

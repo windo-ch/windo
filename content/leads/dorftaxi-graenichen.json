@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "graenichen-dorf-taxi@gmx.ch",
   "phone": "+4157304101",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

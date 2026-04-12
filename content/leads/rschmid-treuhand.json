@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "darazita@bluewin.ch",
   "phone": "+4120053881",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

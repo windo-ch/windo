@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@walserholzbau.ch",
   "phone": "+4135922240",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

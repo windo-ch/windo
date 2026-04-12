@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@mueggler-spenglertechnik.ch, spengler@mueggler.ch",
   "phone": "+4173032479",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@cleanline.ch",
   "phone": "+414015641920",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

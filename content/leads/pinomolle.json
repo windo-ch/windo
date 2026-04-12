@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "coiffure.molle@sunrise.ch",
   "phone": "+4117472299",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

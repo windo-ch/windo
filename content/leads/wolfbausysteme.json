@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@wolfbausysteme.ch",
   "phone": "+414700350885, +417474941841",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

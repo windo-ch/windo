@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@beckweder.ch, beck.weder@gmail.com",
   "phone": "+4157485966",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

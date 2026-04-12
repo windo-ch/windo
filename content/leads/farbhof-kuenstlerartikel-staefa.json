@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "farbhofgmbh@bluewin.ch",
   "phone": "+4173258553",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

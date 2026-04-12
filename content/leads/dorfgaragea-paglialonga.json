@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "ap70@bluewin.ch",
   "phone": "+4103916974",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

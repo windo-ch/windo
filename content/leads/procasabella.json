@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "ernestobossi@bluewin.ch",
   "phone": "+413176126844",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

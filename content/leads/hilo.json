@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "info@hilo.ch, INFO@HILO.CH",
   "phone": "+417295161920",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

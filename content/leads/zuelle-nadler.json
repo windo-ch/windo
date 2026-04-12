@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "info@zuena.ch",
   "phone": "+4199117988",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

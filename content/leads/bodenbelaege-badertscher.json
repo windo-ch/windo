@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "info@boeden-badertscher.ch",
   "phone": "+4174414063",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

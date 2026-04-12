@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "info@autotransport-gretener.ch",
   "phone": "+4128637766",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

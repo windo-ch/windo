@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "luebkebau@bluewin.ch, info@luebkebau.ch",
   "phone": "+4181841405",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

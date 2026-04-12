@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "erni-ag.baumalerei@bluewin.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "gaby.beer@bluewin.ch",
   "phone": "+4158587892",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

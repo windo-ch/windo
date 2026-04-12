@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "vip-coiffeur@hotmail.com",
   "phone": "+414256906162, +414456998670, +4147944794",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

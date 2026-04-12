@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "dogcatshop.zollikon@gmail.com",
   "phone": "+4168109712",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

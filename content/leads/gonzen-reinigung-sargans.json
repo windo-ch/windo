@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "boder@gmx.ch",
   "phone": "+4174875341",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

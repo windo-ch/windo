@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "susannastaehli@gmx.ch",
   "phone": "+4109856711",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

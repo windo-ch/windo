@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "info@inauenag.ch, dein@email.com",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

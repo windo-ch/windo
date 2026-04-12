@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "confiserie.cafe.cusumano@bluewin.ch",
   "phone": "+412895247899, +417474861822",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

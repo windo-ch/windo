@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "fam.kurath@bluewin.ch",
   "phone": "+4146727328",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

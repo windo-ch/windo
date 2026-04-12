@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "autospritzwerk.bisacca@outlook.com",
   "phone": "+4129514429",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

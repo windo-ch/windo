@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@tcmlinan.ch",
   "phone": "+419095167297",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

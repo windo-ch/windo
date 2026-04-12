@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "gaby.heinzen@gmx.ch",
   "phone": "+4124494741",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

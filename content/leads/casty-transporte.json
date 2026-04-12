@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "casty@casty-transporte.ch",
   "phone": "+411315857809",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

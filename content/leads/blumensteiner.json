@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "blumensteiner@bluewin.ch",
   "phone": "+4114081792",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "admin@kaminfeger-odermatt.ch",
   "phone": "+4159993327",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

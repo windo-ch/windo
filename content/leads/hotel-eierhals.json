@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@hotel-eierhals.ch",
   "phone": "+418084845306",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

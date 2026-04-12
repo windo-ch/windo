@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "marleni.kistler@hotmail.ch",
   "phone": "+4128526561",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

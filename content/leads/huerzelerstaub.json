@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "huerzelerstaub@bluewin.ch",
   "phone": "+4157736309",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

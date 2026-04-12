@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@lindcarrosserie.ch",
   "phone": "+410031383132",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "minigolf-ergolz@bluewin.ch",
   "phone": "+4155165835",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

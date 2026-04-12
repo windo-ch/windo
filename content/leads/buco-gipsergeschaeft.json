@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "constantin.b@bluewin.ch",
   "phone": "+4176703374",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

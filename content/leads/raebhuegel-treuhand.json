@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@raebhuegel-treuhand.ch",
   "phone": "+419046817333",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

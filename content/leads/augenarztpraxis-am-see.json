@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "augenarzt-am-see@bluewin.ch, augenarztpraxis.am.see@hin.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

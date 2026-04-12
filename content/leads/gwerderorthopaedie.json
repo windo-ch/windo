@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "mail@gwerderorthopaedie.ch",
   "phone": "+417724491332",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

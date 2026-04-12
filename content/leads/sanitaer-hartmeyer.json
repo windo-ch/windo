@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "hartmeyerag@bluewin.ch",
   "phone": "+419699694146",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

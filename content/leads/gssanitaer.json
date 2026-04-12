@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@gs-sanitaer.ch",
   "phone": "+419114401873",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

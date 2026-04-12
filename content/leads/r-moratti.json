@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@r-moratti.ch",
   "phone": "+4192905243",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

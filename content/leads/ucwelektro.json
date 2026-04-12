@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@ucw-elektro.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

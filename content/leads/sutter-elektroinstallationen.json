@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "sutter.elektro@bluewin.ch",
   "phone": "+4144510641",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

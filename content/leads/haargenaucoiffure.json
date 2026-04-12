@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "sade_weber@bluemail.ch",
   "phone": "+4111838787",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

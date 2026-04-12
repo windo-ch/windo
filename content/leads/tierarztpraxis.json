@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "ihrkleintierarzt@gmail.com",
   "phone": "+4136421335",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

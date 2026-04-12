@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@jhuerlimann.ch, nfo@jhuerlimann.ch",
   "phone": "+4137379966",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

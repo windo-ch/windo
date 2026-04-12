@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "istanbulstreetfood.bs@gmail.com",
   "phone": "+413675511633",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

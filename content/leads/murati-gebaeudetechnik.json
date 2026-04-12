@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@murati-gebaeudetechnik.ch",
   "phone": "+414710363320",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "alain.cottagnoud@bluewin.ch, lb@etude-batista.ch, l.batista@etude-ac.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

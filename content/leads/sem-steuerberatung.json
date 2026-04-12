@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "s.e.m.steuerberatung@bluewin.ch",
   "phone": "+4176412226, +417192554557",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

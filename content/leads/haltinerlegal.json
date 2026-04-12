@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "haltiner@haltinerlegal.ch, zimmerli@haltinerlegal.ch",
   "phone": "+4148837034",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

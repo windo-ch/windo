@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "roger.niggeli@bluewin.ch",
   "phone": "+4129248179",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -24,9 +24,9 @@ export default function Pricing() {
         <div className="grid sm:grid-cols-2 gap-x-16 gap-y-10 mb-14">
           <div>
             <p className="text-6xl font-bold text-white tracking-tight leading-none mb-2">
-              1&apos;490.—
+              1&apos;990.—
             </p>
-            <p className="text-sm text-gray-500">ab CHF einmalig · danach CHF 59/Monat · exkl. MWSt</p>
+            <p className="text-sm text-gray-500">ab CHF · erstes Jahr komplett · danach CHF 59/Mt.</p>
           </div>
 
           <ul className="space-y-3 self-center">

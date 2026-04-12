@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "packia@hotmail.ch",
   "phone": "+4133180670, +4109980776, +4129496215",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -4,9 +4,9 @@ import ScanSection from "./ScanSection";
 import FollowUpForm from "./FollowUpForm";
 
 const TIER_LABELS: Record<ResultProfile["recommendedTier"], string> = {
-  starter: "Starter — CHF 1'490 + CHF 59/Mt.",
-  business: "Business — CHF 2'490 + CHF 59/Mt.",
-  professional: "Professional — CHF 3'990 + CHF 59/Mt.",
+  basis:    "Basis — CHF 1'990, erstes Jahr komplett",
+  sichtbar: "Sichtbar — CHF 2'990, erstes Jahr komplett",
+  dominant: "Dominant — CHF 4'490, erstes Jahr komplett",
 };
 
 interface Props {
@@ -83,6 +83,25 @@ export default function ResultView({ profile, contactName, contactEmail, domain 
             </a>
           </p>
           <FollowUpForm prefillName={contactName} prefillEmail={contactEmail} />
+        </div>
+      </section>
+
+      {/* Neustart nudge */}
+      <section className="bg-glow-ambient border-t border-glow-soft py-8 px-6">
+        <div className="max-w-sm mx-auto text-center">
+          <p className="font-semibold text-bg-dark mb-1">
+            Noch einen Schritt weiter?
+          </p>
+          <p className="text-gray-500 text-sm mb-4">
+            Ich zeige Ihnen kostenlos, wie Ihre neue Website aussehen könnte —
+            bevor Sie sich entscheiden.
+          </p>
+          <a
+            href="/neustart"
+            className="inline-flex items-center gap-2 bg-glow-deep text-white font-semibold px-6 py-3 rounded-xl btn-glow text-sm"
+          >
+            Kostenloser Entwurf →
+          </a>
         </div>
       </section>
     </>

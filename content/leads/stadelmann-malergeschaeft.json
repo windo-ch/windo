@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "benno.stadelmann@gmail.com",
   "phone": "+4121528522",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

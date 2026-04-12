@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "kanzlei@notariat-advokatur.ch, meier@notariat-advokatur.ch, doerflinger@notariat-advokatur.ch",
   "phone": "+4112864703, +412025548711",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

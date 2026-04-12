@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@reichertreuhand.ch",
   "phone": "+419285464757",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

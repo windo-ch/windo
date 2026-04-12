@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "praxis.zurfluh@hin.ch",
   "phone": "+4196126279",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

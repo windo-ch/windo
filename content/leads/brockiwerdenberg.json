@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "brockiwerdenberg@bluewin.ch",
   "phone": "+417811355344",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

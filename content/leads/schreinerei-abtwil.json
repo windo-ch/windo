@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "schreinerei.wrechsteiner@bluewin.ch, andreas.lieberherr@gaiserwald.net",
   "phone": "+4171966509",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

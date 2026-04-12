@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@hehlenbedachungen.ch",
   "phone": "+4102695263",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

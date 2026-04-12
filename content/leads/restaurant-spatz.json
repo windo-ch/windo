@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@restaurant-spatz.ch",
   "phone": "+4103985216",
-  "tier": "business",
+  "tier": "sichtbar",
   "floppy": false,
   "checks": {
     "ssl": true,

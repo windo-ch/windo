@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "herti-garage@bluewin.ch",
   "phone": "+4111163710",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

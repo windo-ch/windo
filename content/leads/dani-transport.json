@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "info@dani-transport.ch",
   "phone": "+4157748724",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

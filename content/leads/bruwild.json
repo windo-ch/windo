@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@bruwild.ch",
   "phone": "+415049932865",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "info@doktorpersi.ch",
   "phone": "+4146445249",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

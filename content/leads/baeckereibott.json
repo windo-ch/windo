@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "caterina.bott@bluewin.ch",
   "phone": "+4152428074",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

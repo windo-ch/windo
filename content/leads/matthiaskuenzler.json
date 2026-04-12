@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "matthiaskuenzler@bluemail.ch",
   "phone": "+412638216734",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

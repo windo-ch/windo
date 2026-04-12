@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "blertajoni@icloud.com",
   "phone": "+4107584765",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

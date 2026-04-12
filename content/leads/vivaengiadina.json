@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "vivaengiadina@mail.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

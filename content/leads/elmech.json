@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "info@elmech.ch",
   "phone": "+4178927536",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

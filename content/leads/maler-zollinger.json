@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@maler-zollinger.ch",
   "phone": "+4183884641",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "complexbaufudali@gmail.com, info@theiler-uster.ch",
   "phone": "+4181762779",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

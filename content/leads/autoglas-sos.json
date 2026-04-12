@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "contact@sos-autoglas.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

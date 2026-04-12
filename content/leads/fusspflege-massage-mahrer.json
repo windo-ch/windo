@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "mireille.mahrer@gmail.com",
   "phone": "+4117225503",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

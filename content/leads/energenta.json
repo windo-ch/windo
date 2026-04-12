@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "info@energenta.ch, b.isepponi@energenta.ch",
   "phone": "+4100776803",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

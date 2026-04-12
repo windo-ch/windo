@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "blerand.bala@gmail.com",
   "phone": "+4172335533",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

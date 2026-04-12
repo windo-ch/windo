@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@gartenjoller.ch",
   "phone": "+4179377884",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

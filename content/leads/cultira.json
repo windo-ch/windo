@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "cultira@bluewin.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

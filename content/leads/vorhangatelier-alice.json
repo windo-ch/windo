@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "alicek@bluewin.ch",
   "phone": "+414160867721",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "duko-alarm@bluewin.ch",
   "phone": "+412542555167",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

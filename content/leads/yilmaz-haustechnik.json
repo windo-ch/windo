@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@yilmaz-haustechnik.ch",
   "phone": "+410561573992",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

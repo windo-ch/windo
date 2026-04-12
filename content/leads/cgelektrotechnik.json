@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "cg-elektrotechnik@sunrise.ch",
   "phone": "+418006650473",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

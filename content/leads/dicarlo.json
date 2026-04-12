@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "info@dicarlo.ch",
   "phone": "+413594201920",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

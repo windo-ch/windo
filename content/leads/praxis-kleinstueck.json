@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "praxisrudishaldenstrasse@hin.ch",
   "phone": "+4144720224, +4170608387, +416089830790",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

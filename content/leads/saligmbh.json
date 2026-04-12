@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "sali.gmbh@bluewin.ch",
   "phone": "+4163107708",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

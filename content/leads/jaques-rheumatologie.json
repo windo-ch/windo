@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "manueljaques@hin.ch, marta.urukalo@hin.ch",
   "phone": "+4170405307",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

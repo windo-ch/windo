@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "tropical5@hotmail.ch",
   "phone": "+4124845248",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "info@advo-marty.ch",
   "phone": "+412408084671",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

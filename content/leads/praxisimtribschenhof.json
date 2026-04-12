@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "praxisimtribschenhof@hin.ch",
   "phone": "+4161412567",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

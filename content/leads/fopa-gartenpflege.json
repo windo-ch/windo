@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "fopa.gartenpflege@hotmail.com",
   "phone": "+4128595362",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

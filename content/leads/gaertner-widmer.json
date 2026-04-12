@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@gaertner-widmer.ch",
   "phone": "+4144576674",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

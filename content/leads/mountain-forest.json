@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "mountain-forest@gmx.ch",
   "phone": "+4156196338",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

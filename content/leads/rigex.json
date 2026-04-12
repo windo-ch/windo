@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "info@rigex.ch",
   "phone": "+4158139311",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

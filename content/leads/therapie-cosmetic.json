@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "rimlekosmetik@gmail.com",
   "phone": "+4191128576",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

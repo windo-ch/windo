@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "amuji.gmbh@gmail.com",
   "phone": "+4157392187",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

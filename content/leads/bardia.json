@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "bardiaservice@outlook.com",
   "phone": "+4166673326",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

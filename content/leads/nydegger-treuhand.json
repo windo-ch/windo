@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "nydegger.treuhand@bluewin.ch",
   "phone": "+415153771920",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

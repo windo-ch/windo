@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "hobikuechen@bluewin.ch",
   "phone": "+4189943101",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

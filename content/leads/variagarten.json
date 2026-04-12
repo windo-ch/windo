@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@variagarten.ch",
   "phone": "+4186621599",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

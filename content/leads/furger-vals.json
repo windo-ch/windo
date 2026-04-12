@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "info@furger-vals.ch",
   "phone": "+4102582138",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

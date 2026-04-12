@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "a.borner@bluewin.ch",
   "phone": "+4120281404",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

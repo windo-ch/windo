@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "grossmann@extremclean.ch, seger@extremclean.ch, info@extremclean.ch",
   "phone": "+4110931699",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

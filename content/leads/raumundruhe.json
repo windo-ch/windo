@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "raumundruhe@gmail.com",
   "phone": "",
-  "tier": "business",
+  "tier": "sichtbar",
   "floppy": false,
   "checks": {
     "ssl": true,

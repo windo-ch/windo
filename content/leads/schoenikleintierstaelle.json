@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "schreinerei.schoeni@bluewin.ch, schreinerei-schoeni@bluewin.ch, Schreinerei-schoeni@bluewin.ch",
   "phone": "+4181413871",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

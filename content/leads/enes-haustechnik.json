@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "enes-haustechnik@gmx.net",
   "phone": "+4117467440",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

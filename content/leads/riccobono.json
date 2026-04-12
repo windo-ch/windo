@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "mail@riccobono.ch",
   "phone": "+4156250656",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

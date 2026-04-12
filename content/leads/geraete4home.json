@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "arcari5703@gmx.ch",
   "phone": "+4132419757",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

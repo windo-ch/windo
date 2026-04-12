@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "frei.rene@bluewin.ch",
   "phone": "+4115860490",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

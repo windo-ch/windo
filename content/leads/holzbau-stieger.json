@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "stieger-holzbau@bluewin.ch",
   "phone": "+4181302136, +416089635922",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

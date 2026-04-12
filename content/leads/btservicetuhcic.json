@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "btservice@gmx.ch",
   "phone": "+4149592169",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

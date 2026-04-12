@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "acarmattias@hotmail.com",
   "phone": "+4110068683",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

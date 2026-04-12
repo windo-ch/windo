@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "gartenglueck.christen@gmail.com",
   "phone": "+4183543728",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "chunhuatcm@gmail.com",
   "phone": "+412025776274",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

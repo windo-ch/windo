@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "praxis-p11@hin.ch, info@praxis-p11.ch",
   "phone": "+413841157215",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

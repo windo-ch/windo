@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "deval@deval.ch",
   "phone": "+4158652069, +4128436547",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

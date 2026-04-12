@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "resmaag@bluewin.ch",
   "phone": "+412542702276",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "melchior.koller@hotmail.com",
   "phone": "+417890338380",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

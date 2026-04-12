@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "optitex@bluemail.ch",
   "phone": "+4150062150",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "bajramimaler@gmail.com",
   "phone": "+4175168034",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

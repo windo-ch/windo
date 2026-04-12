@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "dr.udo.werner@hin.ch, mpa.dr.werner@hin.ch",
   "phone": "",
-  "tier": "business",
+  "tier": "sichtbar",
   "floppy": false,
   "checks": {
     "ssl": true,

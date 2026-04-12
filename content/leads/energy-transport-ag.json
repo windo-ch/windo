@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@energy-transport-ag.ch",
   "phone": "+416025456844, +4172187271",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "kuonendaniel26@hotmail.com",
   "phone": "+4174273627",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

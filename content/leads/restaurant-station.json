@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "gaby-hafner@bluewin.ch",
   "phone": "+413140897246",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "muttenzerscarpoint@gmail.com",
   "phone": "+4176418168",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

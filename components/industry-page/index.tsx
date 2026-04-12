@@ -26,7 +26,7 @@ export interface IndustryPageProps {
   references?: Reference[];
   features: string[];
   pricing: {
-    recommendedTier?: 'starter' | 'business' | 'professional';
+    recommendedTier?: 'basis' | 'sichtbar' | 'dominant';
   };
   cta: {
     headline: string;

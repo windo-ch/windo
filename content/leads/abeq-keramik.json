@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@abeq-keramik.ch",
   "phone": "+4109387152",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "anita.wey@gmx.ch",
   "phone": "+411199999999, +417901499373, +415473327636",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

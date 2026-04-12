@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@veraschneiders.ch, infoveraschneiders@sso-hin.ch",
   "phone": "+4110931699",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

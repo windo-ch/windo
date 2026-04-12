@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "maler@giuliani-ag.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

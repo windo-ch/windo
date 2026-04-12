@@ -15,7 +15,7 @@ const faqs = [
   {
     question: 'Was kostet es — und gibt es versteckte Kosten?',
     answer:
-      "Einmalig ab CHF 790 (Landingpage) oder CHF 1'490 (Starter), danach CHF 59/Monat oder CHF 590/Jahr für Hosting, Support und Wartung. Das ist alles. Keine Setup-Gebühren, keine Überraschungen.",
+      "Ab CHF 990 (Landingpage) oder CHF 1'990 (Basis) — erstes Jahr komplett, inkl. Website, Hosting und Betreuung. Ab dem zweiten Jahr CHF 59/Mt. oder CHF 590/Jahr. Keine Setup-Gebühren, keine Überraschungen.",
   },
   {
     question: 'Gehört mir die Website?',

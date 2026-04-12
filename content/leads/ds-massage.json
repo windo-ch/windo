@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "d.schnider@ds-massage.ch",
   "phone": "+4156653598",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "freyerwin@gmx.ch",
   "phone": "+4179652412, +4137389291, +4174543695",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

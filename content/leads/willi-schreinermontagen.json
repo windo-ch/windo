@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "willi-montagen@quicknet.ch",
   "phone": "+4171048614",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

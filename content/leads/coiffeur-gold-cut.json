@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "goldcutcoiffeur@gmail.com",
   "phone": "+411858065125",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

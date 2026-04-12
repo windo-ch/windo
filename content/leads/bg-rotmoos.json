@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "info@bg-rotmoos.ch, bg-rotmoos@bluewin.ch",
   "phone": "+4186150831",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

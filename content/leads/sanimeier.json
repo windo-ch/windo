@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "sanimeier@bluewin.ch",
   "phone": "+412430991034, +416089682639",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

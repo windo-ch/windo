@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "bruno.demarchi@bluewin.ch, bruno.dermarchi@bluewin.ch",
   "phone": "+4101842183",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

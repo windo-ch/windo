@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "coiffeurardianaa@gmail.com",
   "phone": "+4145241415",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

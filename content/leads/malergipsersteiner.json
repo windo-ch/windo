@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "malgisteiner@bluewin.ch",
   "phone": "+4180995587",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

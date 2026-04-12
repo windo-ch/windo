@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "widmer.holzbau@bluewin.ch, info@toesstal-kanal.ch",
   "phone": "+4102401920",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

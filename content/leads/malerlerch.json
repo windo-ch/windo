@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "lerchgmbh@bluewin.ch",
   "phone": "+4147488038",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@hotel-locanda.ch",
   "phone": "+4184948141",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "edl-hlk@outlook.com",
   "phone": "+413568588851",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

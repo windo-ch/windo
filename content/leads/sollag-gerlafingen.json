@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "sollag@bluewin.ch",
   "phone": "+412487285449",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

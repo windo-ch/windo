@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@gluekler-metallbau.ch",
   "phone": "+4128218834",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

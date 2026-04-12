@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@aufenanger.ch, zahnarzt-dr.aufenanger@sso-hin.ch",
   "phone": "+4148104090",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

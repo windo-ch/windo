@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "procopio@bluewin.ch",
   "phone": "+4162723662",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

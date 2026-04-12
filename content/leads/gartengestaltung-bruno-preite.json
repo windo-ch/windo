@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "bruno.preite@bluewin.ch",
   "phone": "+418340695488, +4149381762",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

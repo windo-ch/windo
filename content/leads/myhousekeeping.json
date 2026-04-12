@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@myhousekeeping.ch, ifo@myhousekeeping.ch, fo@myhousekeeping.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

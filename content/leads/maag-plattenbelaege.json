@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "info@maag-plattenbelaege.ch, nfo@maag-plattenbelaege.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

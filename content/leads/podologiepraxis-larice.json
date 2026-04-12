@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "podologie-praxis.larice@outlook.de",
   "phone": "+4134649826",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

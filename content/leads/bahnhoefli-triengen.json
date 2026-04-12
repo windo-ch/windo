@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "ida.qiupetruch@gmail.com",
   "phone": "+4104224193",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

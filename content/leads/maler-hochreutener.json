@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "m.hochreutener@bluewin.ch, info@simplistica.ch",
   "phone": "+4190520278",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

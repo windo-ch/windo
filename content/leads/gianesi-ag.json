@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "gianesi@bluewin.ch",
   "phone": "+4197479786",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

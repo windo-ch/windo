@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@unser-hauswart.ch",
   "phone": "+4115937432",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

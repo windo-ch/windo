@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "patrizia.dantico@gmail.com",
   "phone": "+4147153522",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

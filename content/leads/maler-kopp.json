@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "m.kopp@ggs.ch",
   "phone": "+4140979089",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

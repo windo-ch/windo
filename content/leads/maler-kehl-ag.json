@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "kehl.ag.office@gmail.com",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

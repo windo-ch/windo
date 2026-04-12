@@ -3,79 +3,75 @@ import { AVAILABILITY } from '@/lib/config';
 
 const TIERS = [
   {
-    id: 'landingpage' as const,
-    name: 'Landingpage',
-    price: "790",
-    note: '1 Seite',
+    id: 'basis' as const,
+    name: 'Basis',
+    tagline: 'Professionell online.',
+    price: "1'990",
     features: [
-      'Professionelle Einzelseite',
-      'Klarer Fokus auf Ihre Kernleistung',
-      'Google Business Optimierung',
-      'Hosting & Support inklusive',
-      'Online in ~5 Arbeitstagen',
-    ],
-  },
-  {
-    id: 'starter' as const,
-    name: 'Starter',
-    price: "1'490",
-    note: 'Bis 5 Seiten',
-    features: [
-      'Modernes responsives Design',
-      'Google Business Optimierung',
-      'Lokale SEO-Grundlagen',
-      'Hosting & Support inklusive',
+      'Individuelles Design — kein Template, kein Baukasten',
+      'Alle Seiten, die Ihr Betrieb braucht',
+      'Professionelle Texte inklusive',
+      'Mobile-first, PageSpeed 90+',
+      'SEO-Grundlagen & Google Business',
+      'Hosting & Betreuung — 12 Monate inklusive',
       'Online in ~10 Arbeitstagen',
     ],
   },
   {
-    id: 'business' as const,
-    name: 'Business',
-    price: "2'490",
-    note: 'Bis 10 Seiten',
+    id: 'sichtbar' as const,
+    name: 'Sichtbar',
+    tagline: 'Gefunden werden.',
+    price: "2'990",
     features: [
-      'Alles aus Starter',
-      'Erweiterte Unterseiten & Leistungen',
-      'Team-Vorstellung mit Fotos',
+      'Alles aus Basis',
+      'Google Unternehmensprofil: Einrichtung & Optimierung',
+      'SEO-Texte — auf Ihre Region und Branche optimiert',
+      'Schema-Markup für Google & KI-Suchen',
+      'Eigene Seite pro Dienstleistung',
       'Kontaktformular oder Buchungssystem',
       'Online in ~10–15 Arbeitstagen',
     ],
   },
   {
-    id: 'professional' as const,
-    name: 'Professional',
-    price: "3'990",
-    note: 'Unbegrenzte Seiten',
+    id: 'dominant' as const,
+    name: 'Dominant',
+    tagline: 'Die Referenz in Ihrer Branche.',
+    price: "4'490",
     features: [
-      'Alles aus Business',
-      'Mehrsprachig (DE/FR/EN)',
-      'Blog & Inhaltsseiten',
-      'Erweiterte SEO-Strategie',
-      'Premium Schema-Markup',
+      'Alles aus Sichtbar',
+      'Premium-Texte & Content-Strategie',
+      'Optimiert für KI-Suchen (ChatGPT, Perplexity)',
+      'Vollständiges branchenspezifisches Schema-Markup',
+      'Google Business: Vollständige Optimierung',
+      'Prioritäts-Support (Antwort am selben Tag)',
+      'Online in ~15 Arbeitstagen',
     ],
   },
 ];
 
 interface PricingProps {
   pricing: {
-    recommendedTier?: 'landingpage' | 'starter' | 'business' | 'professional';
+    recommendedTier?: 'basis' | 'sichtbar' | 'dominant';
   };
 }
 
 export function PricingSection({ pricing }: PricingProps) {
-  const recommended = pricing.recommendedTier ?? 'business';
+  const recommended = pricing.recommendedTier ?? 'sichtbar';
 
   return (
     <section className="py-16 md:py-20">
-      <div className="mb-6 rounded-xl bg-glow-ambient border border-glow-soft px-4 py-3 text-sm text-glow-deep font-medium text-center">
-        Noch {AVAILABILITY.slotsRemaining} Plätze frei im {AVAILABILITY.month} {AVAILABILITY.year}
+      {/* Availability banner */}
+      <div className="mb-8 rounded-xl bg-glow-ambient border border-glow-soft px-4 py-3 text-sm text-glow-deep font-medium text-center">
+        🗓️ {AVAILABILITY.month} {AVAILABILITY.year} — noch {AVAILABILITY.slotsRemaining} Plätze verfügbar ·{' '}
+        <span className="font-normal text-gray-600">Zufriedenheitsgarantie inklusive</span>
       </div>
+
       <SectionLabel text="Investition" />
       <h2 className="mt-6 text-2xl md:text-3xl font-semibold text-bg-dark leading-snug">
-        Investition.
+        Erstes Jahr komplett.
       </h2>
       <p className="mt-3 text-sm text-gray-500 max-w-lg">
-        Was eine Agentur für CHF 8'000–15'000 verkauft — bei mir ab CHF 1'490. Gleiche Qualität, direkter Kontakt.
+        Website, Hosting, Betreuung und Support — ein Preis, ein Jahr. Ab Jahr 2: CHF 59/Mt.
       </p>
 
       <div className="mt-8 grid grid-cols-1 gap-4">
@@ -100,11 +96,11 @@ export function PricingSection({ pricing }: PricingProps) {
                       </span>
                     )}
                   </div>
-                  <p className="text-xs text-gray-400 mt-0.5">{tier.note}</p>
+                  <p className="text-xs text-gray-500 mt-0.5 italic">{tier.tagline}</p>
                 </div>
                 <div className="text-right shrink-0">
                   <p className="text-xl font-bold text-bg-dark">CHF {tier.price}</p>
-                  <p className="text-xs text-gray-400">+ CHF 59/Mt.</p>
+                  <p className="text-xs text-gray-400">erstes Jahr komplett</p>
                 </div>
               </div>
               <ul className="space-y-1.5">
@@ -120,8 +116,18 @@ export function PricingSection({ pricing }: PricingProps) {
         })}
       </div>
 
+      {/* Landingpage mention */}
+      <div className="mt-6 rounded-xl bg-bg-subtle border border-gray-200 px-5 py-4 text-center">
+        <p className="text-sm text-gray-600">
+          Brauchen Sie erst mal nur eine Seite?{' '}
+          <a href="/landingpage" className="text-glow-deep font-semibold hover:underline">
+            Landingpage — CHF 990, erstes Jahr komplett →
+          </a>
+        </p>
+      </div>
+
       <p className="mt-5 text-xs text-gray-400">
-        CHF 59/Monat für Hosting, Support & Wartung — monatlich kündbar. Keine versteckten Kosten. Alle Preise exkl. MWSt 8.1%.
+        Ab Jahr 2: CHF 59/Monat oder CHF 590/Jahr. Monatlich kündbar. Alle Preise exkl. MWSt 8.1%.
       </p>
     </section>
   );

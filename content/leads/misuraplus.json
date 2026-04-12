@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "misuraplus@sunrise.ch",
   "phone": "+414575271892, +4172102012",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

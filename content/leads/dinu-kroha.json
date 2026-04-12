@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "dinu.kroha@bluewin.ch",
   "phone": "+415049890307",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

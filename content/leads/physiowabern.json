@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "physiowabern@gmx.ch",
   "phone": "+4194034449",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

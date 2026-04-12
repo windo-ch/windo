@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@design-glas.ch",
   "phone": "+4101171920",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "d.schmidt@treuhandschmidt.ch",
   "phone": "+4195549302",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

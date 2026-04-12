@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "roger.schaad@teamschaad.ch",
   "phone": "+4194828353",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "bodmer.wabern@bluewin.ch",
   "phone": "+410207969120",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

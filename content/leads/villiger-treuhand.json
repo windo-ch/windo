@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@villiger-treuhand.ch",
   "phone": "+415356685367",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "s-pizzeria@gmx.ch",
   "phone": "+4121081703",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

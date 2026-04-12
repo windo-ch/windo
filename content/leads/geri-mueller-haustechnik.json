@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "gaeri.mueller@bluewin.ch",
   "phone": "+417462807478, +4148421081",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

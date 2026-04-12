@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "info@fischer-shop.ch",
   "phone": "+4167329464",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

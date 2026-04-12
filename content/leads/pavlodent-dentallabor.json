@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "pavlodent@bluewin.ch",
   "phone": "+4173680959",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

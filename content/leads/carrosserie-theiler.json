@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "theiler.carross@bluewin.ch",
   "phone": "+4113210413",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

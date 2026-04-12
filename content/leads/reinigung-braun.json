@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@braun-services.ch, info@example.ch",
   "phone": "+4178666201, +4171571316, +410065194552",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

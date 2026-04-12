@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@rm-miklos.ch",
   "phone": "+4141736137",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

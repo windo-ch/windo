@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "info@anis-lufttechnik.ch",
   "phone": "+4155153741",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

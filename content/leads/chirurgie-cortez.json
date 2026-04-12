@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "gerardo.cortez@hin.ch",
   "phone": "+4142044367",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

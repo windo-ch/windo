@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "beauty-werkstatt@bluewin.ch",
   "phone": "+4179288996",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

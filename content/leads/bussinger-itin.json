@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "info@bussinger-itin.ch",
   "phone": "+4124493349",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

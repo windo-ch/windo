@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "maeder26@bluewin.ch",
   "phone": "+413590412267",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

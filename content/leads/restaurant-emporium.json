@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "restaurant.emporium2023@gmail.com",
   "phone": "+416016627385",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

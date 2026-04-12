@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "franc_gojani@hotmail.com",
   "phone": "+4112868939",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

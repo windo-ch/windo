@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "spring.monika@bluewin.ch",
   "phone": "+4188252045",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

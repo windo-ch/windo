@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@gesundheitspraxis-sutter.ch",
   "phone": "+4145298803",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

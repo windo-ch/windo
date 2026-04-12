@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "heimatwerk.saanen@bluewin.ch",
   "phone": "+414395604395, +418080803581, +415910706524",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

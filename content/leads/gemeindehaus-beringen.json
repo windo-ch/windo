@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "info@gemeindehaus-beringen.ch",
   "phone": "+4106892010",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

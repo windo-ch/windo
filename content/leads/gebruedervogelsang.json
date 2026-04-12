@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@vogelsangag.ch, vogelsangag@gmx.ch",
   "phone": "+4128972",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

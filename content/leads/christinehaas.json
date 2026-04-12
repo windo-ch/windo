@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "praxis@christinehaas.ch",
   "phone": "+4173360839",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

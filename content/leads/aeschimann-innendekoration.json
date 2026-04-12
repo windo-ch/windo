@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "aeschimanngmbh@bluewin.ch",
   "phone": "+4198999816",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

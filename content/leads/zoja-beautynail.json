@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "zoja.akinci@outlook.com",
   "phone": "+413254983142",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

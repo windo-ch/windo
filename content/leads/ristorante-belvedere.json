@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "ristorante-belvedere@bluewin.ch",
   "phone": "+4160478506",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

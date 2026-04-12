@@ -54,7 +54,7 @@ export type ResultProfile = {
   headline: string;
   subheadline: string;
   bullets: string[];
-  recommendedTier: "starter" | "business" | "professional";
+  recommendedTier: "basis" | "sichtbar" | "dominant";
   urgencyNote: string;
   ctaText: string;
 };

@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "info@malergraf.ch",
   "phone": "+4186915882",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

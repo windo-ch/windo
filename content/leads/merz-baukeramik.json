@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "umerz@shinternet.ch",
   "phone": "+4169429066",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

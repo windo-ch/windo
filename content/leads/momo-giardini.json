@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@momogiardini.ch",
   "phone": "+4120078713",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

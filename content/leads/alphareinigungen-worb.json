@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "info@alphareinigungen-worb.ch",
   "phone": "+4141214389",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

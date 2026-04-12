@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@gartenbauag.ch",
   "phone": "+4165301344",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

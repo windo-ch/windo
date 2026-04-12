@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "malergeschaeft.schwarten@bluewin.ch",
   "phone": "+4174796069",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "mail@switax.ch",
   "phone": "+4156825166",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

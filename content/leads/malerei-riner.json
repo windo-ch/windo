@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "thomas.riner@bluewin.ch",
   "phone": "+4179297088",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

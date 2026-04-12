@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "zeltner@umzugslogistik.ch, pia.zeltner@umzugslogistik.ch",
   "phone": "+411494061520, +413254823847",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

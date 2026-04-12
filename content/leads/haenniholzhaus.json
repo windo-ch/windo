@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "zimmerei.haenni@gmail.com",
   "phone": "+4171024878",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

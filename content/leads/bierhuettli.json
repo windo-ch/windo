@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "ccaspar@gmx.net",
   "phone": "+4175794250",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

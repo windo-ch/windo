@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "janine.bienert@gmail.com",
   "phone": "+4157773390",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

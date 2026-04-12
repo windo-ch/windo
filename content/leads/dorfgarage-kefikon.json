@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "dorf-garage-kefikon@bluewin.ch, %C3%A2%C2%80%C2%8Bdorf-garage-kefikon@bluewin.ch",
   "phone": "+4110001000, +4152383277, +4179252670",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "elite.embrach@hotmail.com",
   "phone": "+415784174319",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

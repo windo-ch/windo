@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "bleisch.holzbau@gmail.com",
   "phone": "+4141485496",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

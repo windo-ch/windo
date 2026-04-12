@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "ng.felsberger@sunrise.ch",
   "phone": "+410021428571, +410005829850, +410116597014",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

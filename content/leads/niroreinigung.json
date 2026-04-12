@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "niroreinigung@gmail.com",
   "phone": "+4120673350",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

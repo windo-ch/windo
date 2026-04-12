@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@frike-geraete.ch",
   "phone": "+412025798263",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

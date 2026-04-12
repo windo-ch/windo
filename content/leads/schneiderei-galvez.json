@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "schneider.atelier.lg@gmail.com",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

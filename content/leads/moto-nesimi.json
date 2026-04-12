@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "moto.nesimi@gmail.com",
   "phone": "+4155437777",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

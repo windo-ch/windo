@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@elektro-res.ch",
   "phone": "+4124677937",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

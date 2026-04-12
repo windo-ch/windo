@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "g.h.schweizer@bluewin.ch",
   "phone": "+4164795805",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

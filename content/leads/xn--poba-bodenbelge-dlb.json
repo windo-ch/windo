@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "poba.bodenbelaege@gmx.ch",
   "phone": "+4126635441, +4128768654",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

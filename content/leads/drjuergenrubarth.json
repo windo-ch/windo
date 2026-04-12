@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "juergenrubarth@hin.ch",
   "phone": "+4131721530",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

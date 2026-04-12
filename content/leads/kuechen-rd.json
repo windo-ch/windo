@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "INFO@RD-KUECHEN.CH, info@rd-kuechen.ch",
   "phone": "+412882599356",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

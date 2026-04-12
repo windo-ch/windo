@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@peter-gmbh.ch",
   "phone": "+410299910924",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

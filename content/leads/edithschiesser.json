@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@edithschiesser.ch",
   "phone": "+4191935906",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

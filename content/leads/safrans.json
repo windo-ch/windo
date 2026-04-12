@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "info@safrans.ch",
   "phone": "+4127768949",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "chur@obag-gr.ch, pontresina@obag-gr.ch, scuol@obag-gr.ch",
   "phone": "+4105822309",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

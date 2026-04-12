@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "brunokramer@bluewin.ch",
   "phone": "+4133193222",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

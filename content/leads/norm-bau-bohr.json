@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "office-normbau.bohr@mail.ch",
   "phone": "+4129652166",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

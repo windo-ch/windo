@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@sportpark-olten.ch",
   "phone": "+410826641920",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

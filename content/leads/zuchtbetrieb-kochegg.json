@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "karlhudelist@bluewin.ch",
   "phone": "+4106594394",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@40-ristorante.ch",
   "phone": "+4127220264",
-  "tier": "business",
+  "tier": "sichtbar",
   "floppy": false,
   "checks": {
     "ssl": true,

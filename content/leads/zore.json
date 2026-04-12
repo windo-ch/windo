@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "zore.jungo@bluewin.ch",
   "phone": "+4156559249",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

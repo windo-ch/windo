@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "alexander_hoelzle@gmx.ch",
   "phone": "+4141620982",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "sandroorrulecoiffeur@gmail.com",
   "phone": "+4174441945, +413254723806",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

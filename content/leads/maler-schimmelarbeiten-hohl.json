@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "hohl-buenzli@bluewin.ch",
   "phone": "+410461183165",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

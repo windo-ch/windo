@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "info@solnovatec.ch, hassan.abdi.q97@gmail.com",
   "phone": "+4133450618",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

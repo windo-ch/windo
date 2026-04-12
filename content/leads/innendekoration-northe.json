@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "raum.bild@hispeed.ch",
   "phone": "+4147648518",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

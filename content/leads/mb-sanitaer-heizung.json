@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@mbsh.ch",
   "phone": "+414457254339",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

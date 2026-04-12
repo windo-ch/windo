@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@baier-elgg.ch",
   "phone": "+415049856414",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

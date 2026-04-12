@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "mail@umbau-schawalder.ch",
   "phone": "+4169697788",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

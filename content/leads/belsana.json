@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "b.vonsalis@bluewin.ch",
   "phone": "+4110393659",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

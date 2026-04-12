@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "ilmosaico@hotmail.ch",
   "phone": "+4153230884",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

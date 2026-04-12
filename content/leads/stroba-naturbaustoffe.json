@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "stroba@stroba.ch, bestellung@stroba.ch",
   "phone": "+4138932543",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

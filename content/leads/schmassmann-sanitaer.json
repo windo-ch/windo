@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "schmassmannag@bluewin.ch",
   "phone": "+4193932664, +413881911920, +417474963990",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

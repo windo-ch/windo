@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "sonja.schwengeler@bluewin.ch",
   "phone": "+4171911329",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

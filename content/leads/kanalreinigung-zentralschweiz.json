@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "mail@ceni.ch",
   "phone": "+4124637261",
-  "tier": "business",
+  "tier": "sichtbar",
   "floppy": false,
   "checks": {
     "ssl": true,

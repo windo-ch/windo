@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "matthias.herzog@gmx.ch",
   "phone": "+417475766611",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

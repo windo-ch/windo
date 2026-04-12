@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "fusspflegepraxis@me.com",
   "phone": "+4196930741",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

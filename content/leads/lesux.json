@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@lesux.ch",
   "phone": "+417123464505",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

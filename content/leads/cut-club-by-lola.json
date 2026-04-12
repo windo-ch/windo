@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "vlora.osmani87@gmail.com",
   "phone": "+4175362896",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

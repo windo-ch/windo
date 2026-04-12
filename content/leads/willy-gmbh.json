@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "claudio@willy-gmbh.ch",
   "phone": "+410492383608",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

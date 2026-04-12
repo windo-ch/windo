@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "rheumatologie@klinik-impuls.ch",
   "phone": "+4135530349, +4166613252",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

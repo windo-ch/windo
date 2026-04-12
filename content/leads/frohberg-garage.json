@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@frohberg-garage.ch",
   "phone": "+414120898384, +4155155385",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

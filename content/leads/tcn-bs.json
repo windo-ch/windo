@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@tcn-bs.ch, therapiecenterneubad@hin.physio",
   "phone": "+4108962358, +4196648930",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

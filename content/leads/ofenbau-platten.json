@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "christian.duessel@bluewin.ch",
   "phone": "+419075176582",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

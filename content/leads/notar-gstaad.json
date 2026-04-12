@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@notar-gstaad.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "thilo.g@swak.ch, office@swak.ch, office@zahn-bewusstsein.ch",
   "phone": "+414255640244",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

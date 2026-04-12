@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "carmen@yogapace.ch",
   "phone": "+4175307181",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

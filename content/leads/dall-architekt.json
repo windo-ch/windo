@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "dall.architekt@bluewin.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "brodbeck.f@bluewin.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "sblandez@icloud.com, sblandez@icloude.com",
   "phone": "+4181593054",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

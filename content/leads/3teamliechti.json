@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "3team@bluewin.ch",
   "phone": "+4132614344, +4179418241",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

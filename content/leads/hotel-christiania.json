@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@hotel-christiania.ch, hotel.christiania@bluewin.ch",
   "phone": "+4140133014",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@ronywigert.ch",
   "phone": "+4141163538",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

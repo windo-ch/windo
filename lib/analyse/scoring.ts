@@ -5,21 +5,21 @@ export function buildResultProfile(state: AnalyseFormState): ResultProfile {
   const { situation, priorities, industry, timeline } = state;
 
   // --- Recommended tier ---
-  let recommendedTier: ResultProfile["recommendedTier"] = "starter";
+  let recommendedTier: ResultProfile["recommendedTier"] = "basis";
 
   if (
     priorities.includes("google-visibility") &&
     priorities.includes("more-clients")
   ) {
-    recommendedTier = "business";
+    recommendedTier = "sichtbar";
   }
   if (situation === "has-agency-site") {
-    recommendedTier = "business";
+    recommendedTier = "sichtbar";
   }
 
   const complexIndustries = ["zahnarzt", "arztpraxis", "anwalt", "immobilien"];
   if (industry && complexIndustries.includes(industry)) {
-    recommendedTier = "professional";
+    recommendedTier = "dominant";
   }
 
   // --- Bullets ---

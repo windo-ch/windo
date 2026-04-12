@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "matthiasrippstein@hotmail.com",
   "phone": "+4162844116",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

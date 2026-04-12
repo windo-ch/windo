@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "augenarztpraxis@hin.ch",
   "phone": "+4132258996",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

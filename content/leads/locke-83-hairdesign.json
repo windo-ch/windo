@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "sili.k@bluemail.ch",
   "phone": "+4195165473",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

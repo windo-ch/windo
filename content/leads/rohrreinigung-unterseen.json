@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "kermifritz@bluewin.ch",
   "phone": "+4134367957",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

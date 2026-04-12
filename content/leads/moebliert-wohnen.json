@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "bressanag@bluewin.ch",
   "phone": "+414864415075, +418085204546",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

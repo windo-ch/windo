@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "beat.mantel@lilli.ch",
   "phone": "+4145420298",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "brustzentrum@bethesda-spital.ch",
   "phone": "+415406897690, +4144504271",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

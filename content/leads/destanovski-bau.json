@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "ismaildestanovski@gmx.ch",
   "phone": "+417476480880",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

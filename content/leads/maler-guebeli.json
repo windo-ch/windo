@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "guebeliothmar@bluewin.ch",
   "phone": "+4183301838",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

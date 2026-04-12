@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "kleffel2@hin.ch, info@drkleffel.ch",
   "phone": "+4110002369",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

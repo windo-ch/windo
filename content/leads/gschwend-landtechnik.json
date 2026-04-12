@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "gschwend-landtechnik@bluewin.ch",
   "phone": "+4171755304",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

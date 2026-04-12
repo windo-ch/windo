@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "info@kaltetechnik.ch",
   "phone": "+4167587889",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

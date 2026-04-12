@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "lapiazza.glattbrugg@gmail.com",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

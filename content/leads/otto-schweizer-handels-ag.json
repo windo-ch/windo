@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "o.schweizer.handelsag@w-antenen.ch",
   "phone": "+413139063921, +417474579456",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

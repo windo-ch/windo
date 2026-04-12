@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "madoerin-ag@bluewin.ch",
   "phone": "+4157950478",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

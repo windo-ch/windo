@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "malta.gschwind@bluewin.ch",
   "phone": "+4147464040",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

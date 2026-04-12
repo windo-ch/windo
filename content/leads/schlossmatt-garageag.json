@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@schlossmatt-garageag.ch, schlossmatt-garageag@bluewin.ch",
   "phone": "+4126475698",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

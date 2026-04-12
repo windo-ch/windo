@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@meyer-meyer.ch",
   "phone": "+4131947418",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

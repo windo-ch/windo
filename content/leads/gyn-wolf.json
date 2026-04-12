@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@gyn-wolf.ch, info.gyn.wolf@hin.ch",
   "phone": "+4110451685, +416090322174",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

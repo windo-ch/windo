@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@gartenbau-arnold.ch",
   "phone": "+412638611384",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

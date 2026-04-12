@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "rubeliajnunez@hotmail.com",
   "phone": "+4128751570",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

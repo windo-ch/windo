@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "klauszurfluh@gmail.com, k.c.zurfluh@bluewin.ch",
   "phone": "+4143054242",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

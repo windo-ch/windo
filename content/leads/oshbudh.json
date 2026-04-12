@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@oshbudh.ch",
   "phone": "+4137245730",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

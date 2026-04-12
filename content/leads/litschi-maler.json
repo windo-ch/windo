@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "litschi-maler@bluewin.ch",
   "phone": "+414457317308",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

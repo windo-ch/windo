@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "cinzano.battagliese1971@gmail.com",
   "phone": "+4113191524",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

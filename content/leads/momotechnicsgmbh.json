@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "momotechnics.gmbh@yahoo.com",
   "phone": "+4113605700",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

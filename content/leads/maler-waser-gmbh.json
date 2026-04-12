@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "maler-waser-gmbh@bluewin.ch",
   "phone": "+4149534937",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

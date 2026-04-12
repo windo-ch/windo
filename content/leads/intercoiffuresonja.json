@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "coiffuresonja@bluewin.ch",
   "phone": "+4157382090",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

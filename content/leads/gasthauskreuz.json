@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "anita.kottmann@bluewin.ch, anitabrechbuehl@bluewin.ch",
   "phone": "+4149818711, +414155241323",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

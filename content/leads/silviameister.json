@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "info@silviameister.ch",
   "phone": "+4165357504",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

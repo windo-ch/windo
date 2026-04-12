@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "mirjam.mum@gmail.com",
   "phone": "+4143421390",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

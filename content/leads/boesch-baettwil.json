@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "info@boesch-witterswil.ch",
   "phone": "+4153121279",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

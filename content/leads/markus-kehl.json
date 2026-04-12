@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "markus-kehl@gmx.ch",
   "phone": "+4161413094",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

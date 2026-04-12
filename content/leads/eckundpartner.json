@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "udoeck@hotmail.com",
   "phone": "+4140514954",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "petra.reichl@art-uniqa.ch",
   "phone": "+4152501648",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

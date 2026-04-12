@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "pavic.niko@bluewin.ch",
   "phone": "+4173606538",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

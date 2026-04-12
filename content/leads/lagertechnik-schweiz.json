@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@lts-regalsysteme.ch, lagertechnik@bluewin.ch",
   "phone": "+4165456886",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

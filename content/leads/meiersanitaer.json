@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "meier.sanitaer@bluewin.ch, anitaer@bluewin.ch",
   "phone": "+412473792231",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

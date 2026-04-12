@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "rizzi-ag@bluewin.ch",
   "phone": "+4196096270",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

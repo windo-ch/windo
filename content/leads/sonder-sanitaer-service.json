@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "sondersanitaerservice@outlook.com",
   "phone": "+4116712764",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@megaplus.ch",
   "phone": "+4112248955, +419833827679, +4189636192",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

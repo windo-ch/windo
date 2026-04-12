@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "azra.reinigungen@bluewin.ch",
   "phone": "+419099768791",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

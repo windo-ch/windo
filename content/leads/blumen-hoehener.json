@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "gartenbauhoehener@bluewin.ch",
   "phone": "+4195880566",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

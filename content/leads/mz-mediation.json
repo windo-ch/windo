@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "zwahlen@mz-mediation.ch",
   "phone": "+4179719371",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

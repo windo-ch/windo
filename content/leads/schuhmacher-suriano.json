@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "roccolatella62@gmail.com",
   "phone": "+413741445107",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

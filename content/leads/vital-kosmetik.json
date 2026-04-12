@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "info@boutiquemary.ch",
   "phone": "+4118233883",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

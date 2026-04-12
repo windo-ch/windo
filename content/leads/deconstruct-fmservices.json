@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "greta.noteva@gmail.com",
   "phone": "+4181136929",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

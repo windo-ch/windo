@@ -6,7 +6,7 @@
   "year": 2025,
   "email": "heusi@heusigmbh.ch",
   "phone": "+417979407979, +410116597014, +410029149253",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

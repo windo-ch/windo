@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "linde8134@gmail.com",
   "phone": "+410125660471",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

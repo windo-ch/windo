@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@pferdeklinikmoosweid.ch",
   "phone": "+417475536611",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

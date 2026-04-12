@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "baumpflegesimon@gmail.com",
   "phone": "+4152914733",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

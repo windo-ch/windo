@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "info@fiftynine.ch",
   "phone": "+4174676273",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

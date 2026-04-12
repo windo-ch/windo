@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "bildhandwerker@bluewin.ch",
   "phone": "+410661908279, +4189299582, +417647538303",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

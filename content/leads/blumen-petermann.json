@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "herbert.petermann@bluewin.ch",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

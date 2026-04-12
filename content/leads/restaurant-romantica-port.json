@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "mazlum70@hotmail.ch",
   "phone": "+4161786489",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

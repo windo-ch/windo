@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "fabian.bregenzer@bluewin.ch",
   "phone": "+4179081158",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

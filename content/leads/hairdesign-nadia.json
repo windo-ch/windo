@@ -6,7 +6,7 @@
   "year": 2019,
   "email": "nadia.halbeisen@hotmail.com",
   "phone": "+4179613671, +419887054602",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "rico.pianezzi@bluewin.ch",
   "phone": "+4118013875",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "info@mobiliarumzugsservice.ch",
   "phone": "+4133612558",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

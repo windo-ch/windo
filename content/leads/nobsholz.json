@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "nobsholz@bluewin.ch",
   "phone": "+417344376905",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "malerei.hauri@bluewin.ch",
   "phone": "+4176100276",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

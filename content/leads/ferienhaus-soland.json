@@ -6,7 +6,7 @@
   "year": 2020,
   "email": "soland-daniel@gmx.ch",
   "phone": "+4165990790",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

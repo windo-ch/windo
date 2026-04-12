@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "michaelbrunnbauer85@gmx.ch",
   "phone": "+4184972828",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "INFO@WEBERMETALLBAU.CH, info@webermetallbau.ch",
   "phone": "+4163717303",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

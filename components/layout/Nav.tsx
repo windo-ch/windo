@@ -25,6 +25,9 @@ export default function Nav() {
           <a href="/angebot" className="text-bg-dark hover:text-glow-deep transition-colors">
             Angebot
           </a>
+          <a href="/neustart" className="text-bg-dark hover:text-glow-deep transition-colors">
+            Neustart
+          </a>
           <a href="/ueber-mich" className="text-bg-dark hover:text-glow-deep transition-colors">
             Über mich
           </a>

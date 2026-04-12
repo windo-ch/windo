@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "peterurwyler@bluewin.ch",
   "phone": "+4138334867",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

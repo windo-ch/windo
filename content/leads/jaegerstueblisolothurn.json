@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "viktoriya.furer@gmail.com",
   "phone": "+4152563049",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

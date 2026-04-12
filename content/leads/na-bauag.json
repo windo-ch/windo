@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "info@na-bauag.ch, Nuferanderegg@bluewin.ch",
   "phone": "+4173742855",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

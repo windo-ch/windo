@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "chesteberg-cafe@hispeed.ch",
   "phone": "+4181849009",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

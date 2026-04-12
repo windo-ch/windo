@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@propac.ch",
   "phone": "+4180178312",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

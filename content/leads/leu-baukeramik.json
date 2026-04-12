@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "info@leu-baukeramik.ch",
   "phone": "+4103975325",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

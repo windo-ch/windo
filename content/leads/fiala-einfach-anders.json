@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "info@fiala-einfach-anders.ch",
   "phone": "+4149380858, +4175396191",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

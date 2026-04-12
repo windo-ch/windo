@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "massage.groebli@bluewin.ch, groebli@bluewin.ch",
   "phone": "+4148758307",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

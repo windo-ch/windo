@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "martin.mueller@montagen-mueller.ch",
   "phone": "+4131050895",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

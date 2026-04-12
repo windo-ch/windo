@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "m.marco@gmx.ch",
   "phone": "+4121007175",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2021,
   "email": "b.kreuzer79@gmail.com",
   "phone": "",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

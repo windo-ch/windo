@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "coiffeur-insieme@sunrise.ch",
   "phone": "+413698800104",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

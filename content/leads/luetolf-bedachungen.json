@@ -6,7 +6,7 @@
   "year": 2024,
   "email": "info@luetolf-bedachungen.ch, luetolf.bedachungen@gmx.ch",
   "phone": "+4171838129",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

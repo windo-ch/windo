@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "info@gefa-gipser-gmbh.ch",
   "phone": "+4150603599",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

@@ -6,7 +6,7 @@
   "year": 2023,
   "email": "silviokuenzler@outlook.com",
   "phone": "+4103411858",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

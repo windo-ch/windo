@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "bsonnenmoser@bluewin.ch",
   "phone": "+4154847759",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": true,
   "checks": {
     "ssl": true,

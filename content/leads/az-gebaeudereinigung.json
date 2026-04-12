@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "azgebaeudereinigung@icloud.com, info@az-gebaeudereinigung.ch",
   "phone": "+415246053871, +415246054530",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

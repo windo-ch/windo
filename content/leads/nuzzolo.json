@@ -6,7 +6,7 @@
   "year": 2017,
   "email": "contact@nuzzolo.ch",
   "phone": "+4104718269",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

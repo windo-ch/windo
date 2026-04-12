@@ -6,7 +6,7 @@
   "year": 2018,
   "email": "info@hotelmetropole.ch, info@kreuzbern.ch",
   "phone": "+4131329949, +411117881980, +411117881936",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,

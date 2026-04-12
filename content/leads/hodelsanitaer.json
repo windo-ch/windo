@@ -6,7 +6,7 @@
   "year": 2022,
   "email": "haller.hodel@abix.ch",
   "phone": "+4109504732",
-  "tier": "starter",
+  "tier": "basis",
   "floppy": false,
   "checks": {
     "ssl": true,
