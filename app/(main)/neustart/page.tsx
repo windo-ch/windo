@@ -135,7 +135,7 @@ export default function NeustartPage() {
       </div>
 
       {/* 3. FÜR WEN */}
-      <div className="bg-bg-subtle py-16 px-6">
+      <div className="hero-gradient py-16 px-6">
         <div className="max-w-4xl mx-auto">
           <p className="text-xs tracking-widest uppercase text-gray-400 font-semibold mb-3 text-center">
             Ist das etwas für Sie?
@@ -192,7 +192,7 @@ export default function NeustartPage() {
       </div>
 
       {/* 6. QUICK STATS */}
-      <div className="bg-glow-ambient py-10 px-6">
+      <div className="hero-gradient py-10 px-6">
         <div className="max-w-3xl mx-auto grid grid-cols-3 gap-6 text-center">
           <div>
             <p className="text-3xl font-bold text-bg-dark">97+</p>
@@ -226,7 +226,7 @@ export default function NeustartPage() {
       </div>
 
       {/* 8. FAQ */}
-      <div className="bg-bg-subtle py-16 px-6">
+      <div className="hero-gradient py-16 px-6">
         <div className="max-w-3xl mx-auto">
           <p className="text-xs tracking-widest uppercase text-gray-400 font-semibold mb-10 text-center">
             Häufige Fragen

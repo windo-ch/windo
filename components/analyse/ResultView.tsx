@@ -57,7 +57,7 @@ export default function ResultView({ profile, contactName, contactEmail, domain 
       </section>
 
       {/* Recommendation */}
-      <section className="bg-glow-ambient py-10 px-6">
+      <section className="hero-gradient py-10 px-6">
         <div className="max-w-lg mx-auto text-center">
           <p className="text-sm font-semibold text-glow-deep uppercase tracking-wide mb-2">
             {RESULT_COPY.result_recommendation_label}

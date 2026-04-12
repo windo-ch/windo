@@ -27,7 +27,7 @@ const steps = [
 
 export default function HowItWorks() {
   return (
-    <section id="wie-es-funktioniert" className="bg-bg-subtle py-24 sm:py-32">
+    <section id="wie-es-funktioniert" className="hero-gradient py-24 sm:py-32">
       <div className="max-w-3xl mx-auto px-6">
         <p className="text-xs tracking-widest uppercase text-glow-deep/70 font-semibold mb-5">
           Ablauf

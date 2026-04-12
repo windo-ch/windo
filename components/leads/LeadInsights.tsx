@@ -21,7 +21,7 @@ const INSIGHTS = [
 
 export default function LeadInsights({ lead: _lead }: { lead: LeadContent }) {
   return (
-    <section className="bg-bg-subtle py-20 px-6">
+    <section className="hero-gradient py-20 px-6">
       <div className="max-w-3xl mx-auto">
         <p className="text-xs tracking-widest uppercase text-glow-deep/70 font-semibold mb-5">
           Was wir angehen

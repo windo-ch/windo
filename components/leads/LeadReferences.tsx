@@ -23,7 +23,7 @@ const REFERENCES = [
 
 export default function LeadReferences() {
   return (
-    <section className="bg-bg-subtle py-20 px-6">
+    <section className="hero-gradient py-20 px-6">
       <div className="max-w-3xl mx-auto">
         <div className="w-full h-px bg-gray-200 mb-12" />
         <p className="text-xs tracking-widest uppercase text-glow-deep/70 font-semibold mb-5">

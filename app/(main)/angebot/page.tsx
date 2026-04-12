@@ -157,7 +157,7 @@ export default function AngebotPage() {
       </div>
 
       {/* 3. How it works */}
-      <div className="bg-glow-ambient py-8 px-6">
+      <div className="hero-gradient py-8 px-6">
         <div className="max-w-2xl mx-auto text-center">
           <p className="text-bg-dark text-base leading-relaxed">
             <strong>So einfach:</strong> Sie zahlen einmal — und das erste Jahr ist komplett abgedeckt.
@@ -248,7 +248,7 @@ export default function AngebotPage() {
       </div>
 
       {/* 5. After Year 1 */}
-      <div className="bg-bg-subtle py-16 px-6">
+      <div className="hero-gradient py-16 px-6">
         <div className="max-w-3xl mx-auto">
           <p className="text-xs tracking-widest uppercase text-gray-400 font-semibold mb-3 text-center">
             Nach dem ersten Jahr
@@ -393,7 +393,7 @@ export default function AngebotPage() {
       </div>
 
       {/* 7. FAQ */}
-      <div className="bg-bg-subtle py-16 px-6">
+      <div className="hero-gradient py-16 px-6">
         <div className="max-w-3xl mx-auto">
           <p className="text-xs tracking-widest uppercase text-gray-400 font-semibold mb-10 text-center">
             Häufige Fragen

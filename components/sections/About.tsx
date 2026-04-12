@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 
 export default function About() {
   return (
-    <section id="ueber-mich" className="bg-bg-subtle py-24 sm:py-32">
+    <section id="ueber-mich" className="hero-gradient py-24 sm:py-32">
       <div className="max-w-3xl mx-auto px-6">
         <p className="text-xs tracking-widest uppercase text-glow-deep/70 font-semibold mb-5">
           Über mich

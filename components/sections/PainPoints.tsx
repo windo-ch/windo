@@ -27,7 +27,7 @@ const pains = [
 
 export default function PainPoints() {
   return (
-    <section className="bg-bg-subtle py-24 sm:py-32">
+    <section className="hero-gradient py-24 sm:py-32">
       <div className="max-w-3xl mx-auto px-6">
         <p className="text-xs tracking-widest uppercase text-glow-deep/70 font-semibold mb-5">
           Kommt Ihnen das bekannt vor?
