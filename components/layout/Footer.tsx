@@ -8,8 +8,9 @@ export default function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 mb-10">
           <div>
             <p className="font-bold text-xl mb-2">windo.ch</p>
+            <p className="text-sm text-gray-300 italic mb-1">Ihr Schaufenster im Netz.</p>
             <p className="text-sm text-gray-400 leading-relaxed">
-              Professionelle Websites für Schweizer KMU. Schnell, modern und auf Erfolg ausgerichtet.
+              Professionelle Websites für Schweizer KMU — individuell, schnell, ohne Agentur-Overhead.
             </p>
           </div>
           <div>

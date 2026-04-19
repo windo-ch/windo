@@ -8,6 +8,8 @@
   "phone": "+4104660710",
   "tier": "basis",
   "floppy": true,
+  "status": "closed_lost",
+  "notes": "Inhaber hat berufliche Tätigkeit altershalber beendet, Firma wird gelöscht.",
   "checks": {
     "ssl": true,
     "mobileViewport": false,

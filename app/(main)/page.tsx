@@ -4,6 +4,7 @@ import PainPoints from '@/components/sections/PainPoints';
 import StatsBar from '@/components/sections/StatsBar';
 import Industries from '@/components/sections/Industries';
 import HowItWorks from '@/components/sections/HowItWorks';
+import SchaufensterSection from '@/components/sections/SchaufensterSection';
 import HonestySection from '@/components/sections/HonestySection';
 import References from '@/components/sections/References';
 import Pricing from '@/components/sections/Pricing';
@@ -24,6 +25,7 @@ export default function HomePage() {
       <PainPoints />
       <StatsBar />
       <Industries />
+      <SchaufensterSection />
       <HowItWorks />
       <HonestySection />
       <References />

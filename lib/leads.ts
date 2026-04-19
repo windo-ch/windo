@@ -8,7 +8,8 @@ export function getAllLeads(): LeadContent[] {
   return fs
     .readdirSync(LEADS_DIR)
     .filter((f) => f.endsWith(".json"))
-    .map((f) => JSON.parse(fs.readFileSync(path.join(LEADS_DIR, f), "utf-8")));
+    .map((f) => JSON.parse(fs.readFileSync(path.join(LEADS_DIR, f), "utf-8")))
+    .filter((l: LeadContent) => l.status !== "closed_lost");
 }
 
 export function getLeadBySlug(slug: string): LeadContent | null {

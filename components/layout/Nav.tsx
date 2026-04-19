@@ -18,9 +18,14 @@ export default function Nav() {
       }`}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-        <a href="/" className="font-bold text-xl text-bg-dark hover:text-glow-deep transition-colors">
-          windo.ch
-        </a>
+        <div className="flex flex-col leading-tight">
+          <a href="/" className="font-bold text-xl text-bg-dark hover:text-glow-deep transition-colors">
+            windo.ch
+          </a>
+          <span className="hidden md:block text-[11px] text-gray-400 italic tracking-wide -mt-0.5">
+            Ihr Schaufenster im Netz.
+          </span>
+        </div>
         <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
           <a href="/angebot" className="text-bg-dark hover:text-glow-deep transition-colors">
             Angebot

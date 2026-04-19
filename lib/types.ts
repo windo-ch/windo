@@ -8,6 +8,8 @@ export interface LeadContent {
   phone: string;
   tier: "basis" | "sichtbar" | "dominant";
   floppy: boolean;
+  status?: "closed_lost";
+  notes?: string;
   checks: {
     ssl: boolean;
     mobileViewport: boolean;
