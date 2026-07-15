@@ -22,12 +22,12 @@ export default function Hero() {
           <p className="text-sm text-gray-400 mb-7">
             Zuletzt gebaut:{' '}
             <a
-              href="https://drobrenovic.ch"
+              href="https://zahnarzt-neumann.ch"
               target="_blank"
               rel="noopener noreferrer"
               className="underline underline-offset-4 hover:text-gray-600 transition-colors"
             >
-              drobrenovic.ch
+              zahnarzt-neumann.ch
             </a>
             {' '}— Google PageSpeed 100/100.
           </p>

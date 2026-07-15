@@ -57,18 +57,30 @@ function Slider() {
   );
 }
 
-const PAGESPEED = [
-  {
-    label: 'Desktop',
-    before: '/images/drobrenovic-pagespeed-before-desktop.png',
-    after: '/images/drobrenovic-pagespeed-after-desktop.png',
-  },
-  {
-    label: 'Mobile',
-    before: '/images/drobrenovic-pagespeed-before-mobile.png',
-    after: '/images/drobrenovic-pagespeed-after-mobile.png',
-  },
+const SCORES = [
+  { label: 'Performance Desktop', before: 79,  after: 100 },
+  { label: 'Performance Mobile',  before: 63,  after: 74  },
+  { label: 'SEO',                 before: 92,  after: 100 },
+  { label: 'Accessibility',       before: 85,  after: 100 },
 ];
+
+function ScoreBar({ before, after }: { before: number; after: number }) {
+  const improved = after > before;
+  return (
+    <div className="flex items-center gap-3">
+      <span className="w-8 text-right text-sm text-gray-400 tabular-nums">{before}</span>
+      <div className="flex-1 h-2 bg-gray-200 rounded-full overflow-hidden">
+        <div
+          className={`h-full rounded-full ${improved ? 'bg-glow-deep' : 'bg-gray-400'}`}
+          style={{ width: `${after}%` }}
+        />
+      </div>
+      <span className={`w-8 text-sm font-bold tabular-nums ${after === 100 ? 'text-glow-deep' : 'text-bg-dark'}`}>
+        {after}
+      </span>
+    </div>
+  );
+}
 
 export default function BeforeAfter() {
   return (
@@ -81,7 +93,7 @@ export default function BeforeAfter() {
           Dr. Obrenovic, Zahnarzt.
         </h2>
         <p className="text-gray-500 mb-3">
-          Alte Website — 3 Jahre alt, nicht mobiloptimiert. Neue Website in 10 Arbeitstagen.
+          Eigengebaut, veraltet — neue Website in 10 Arbeitstagen.
         </p>
         <a
           href="https://drobrenovic.ch"
@@ -98,41 +110,21 @@ export default function BeforeAfter() {
           <p className="text-xs text-gray-400 text-center mt-2">Schieben zum Vergleichen</p>
         </div>
 
-        {/* PageSpeed comparison */}
+        {/* PageSpeed scores */}
         <p className="text-xs tracking-widest uppercase text-gray-400 font-semibold mb-6">
-          Google PageSpeed
+          Google PageSpeed — Vorher → Nachher
         </p>
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-          {PAGESPEED.map(({ label, before, after }) => (
-            <div key={label}>
-              <p className="text-sm font-semibold text-bg-dark mb-3">{label}</p>
-              <div className="grid grid-cols-2 gap-2">
-                <div>
-                  <p className="text-xs text-gray-400 mb-1.5 text-center">Vorher</p>
-                  <div className="relative aspect-video rounded-xl overflow-hidden bg-gray-100 border border-gray-200">
-                    <Image
-                      src={before}
-                      alt={`PageSpeed ${label} vorher`}
-                      fill
-                      className="object-cover object-top"
-                    />
-                  </div>
-                </div>
-                <div>
-                  <p className="text-xs text-glow-deep font-semibold mb-1.5 text-center">Nachher</p>
-                  <div className="relative aspect-video rounded-xl overflow-hidden bg-gray-100 border border-glow-soft">
-                    <Image
-                      src={after}
-                      alt={`PageSpeed ${label} nachher`}
-                      fill
-                      className="object-cover object-top"
-                    />
-                  </div>
-                </div>
-              </div>
+        <div className="space-y-4">
+          {SCORES.map(({ label, before, after }) => (
+            <div key={label} className="grid grid-cols-[140px_1fr] items-center gap-4">
+              <p className="text-sm text-gray-500">{label}</p>
+              <ScoreBar before={before} after={after} />
             </div>
           ))}
         </div>
+        <p className="text-xs text-gray-400 mt-4">
+          Quelle: Google PageSpeed Insights, 15. Juli 2026.
+        </p>
       </div>
     </section>
   );
