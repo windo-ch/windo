@@ -4,7 +4,7 @@ import { AvailabilityBadge } from '@/components/ui/AvailabilityBadge';
 export const metadata: Metadata = {
   title: 'Website-Session — 1 Stunde, CHF 250 | windo.ch',
   description:
-    'In einer Stunde bauen wir gemeinsam die erste Version Ihrer neuen Website — live, auf Ihrem Domain. CHF 250, kein Abo, keine Verpflichtung.',
+    'Ich baue Ihre neue Website live auf meinem Bildschirm — Sie sehen, kommentieren, entscheiden. Eine Stunde. CHF 250. Sie wissen danach genau, was Sie bekommen.',
   alternates: { canonical: 'https://www.windo.ch/neustart' },
   keywords: [
     'website erstellen lassen schweiz',
@@ -23,49 +23,49 @@ const WHAT_HAPPENS = [
   {
     n: '1',
     title: 'Kurzes Gespräch vorher.',
-    body: 'Sie schicken mir Domain, Logo und ein paar Zeilen zu Ihrem Betrieb. Ich bereite alles vor — damit wir die Stunde nicht mit Setup verschwenden.',
+    body: 'Sie schicken mir Logo und ein paar Zeilen zu Ihrem Betrieb. Ich bereite alles vor — damit wir die Stunde nicht mit Setup verschwenden.',
   },
   {
     n: '2',
     title: 'Eine Stunde zusammen.',
-    body: 'Wir bauen live: Design, Texte, Struktur. Sie sehen, wie es entsteht — und entscheiden sofort, was Ihnen gefällt und was nicht.',
+    body: 'Ich baue live auf meinem Bildschirm — Sie sehen es entstehen, kommentieren sofort, wir steuern gemeinsam. Design, Texte, Struktur.',
   },
   {
     n: '3',
-    title: 'V1 ist online.',
-    body: 'Am Ende der Stunde steht eine erste Version Ihrer neuen Website — auf Ihrer Domain, mobiloptimiert, sichtbar auf Google.',
+    title: 'Klares Bild. Klare Grundlage.',
+    body: 'Am Ende wissen Sie genau, wie Ihre Website aussehen wird. Den Code schicke ich Ihnen danach — bereit zum Fertigbauen.',
   },
 ];
 
 const YOU_GET = [
-  'Fertige V1 — auf Ihrer Domain, in 1 Stunde online',
-  'Individuelles Design — kein Baukasten, kein Template',
-  'Professionelle Texte für Ihre Branche',
-  'Mobile-first, schnell geladen',
-  'SEO-Grundlagen: Titel, Meta, Google Business',
   'Sie sehen live, wie Ihre Website entsteht',
+  'Sofortiges Feedback statt wochenlanger E-Mail-Schleifen',
+  'Individuelles Design — kein Baukasten, kein Template',
+  'Eigene Farben, eigene Texte, eigene Struktur',
+  'Keine Überraschungen — Sie entscheiden mit',
+  'Code gehört Ihnen — Grundlage für die fertige Website',
 ];
 
 const FAQ = [
   {
     q: 'Was genau entsteht in der Stunde?',
-    a: 'Eine vollständige erste Version Ihrer Website — mit Ihrem Angebot, Ihren Kontaktdaten, Ihren Farben. Nicht ein Entwurf. Eine echte Website, die läuft.',
+    a: 'Die Grundlage Ihrer neuen Website — live auf meinem Bildschirm gebaut, während Sie zusehen und steuern. Am Ende sehen Sie, wie Ihre Website aussehen wird. Fertig ist sie noch nicht, aber der Weg ist klar.',
   },
   {
-    q: 'Was, wenn ich danach noch mehr will?',
-    a: 'Die Session zählt als Anzahlung — die CHF 250 werden vom Preis des nächsten Pakets abgezogen, falls Sie weitermachen wollen. Kein Muss.',
+    q: 'Was bekomme ich nach der Session?',
+    a: 'Den Code schicke ich Ihnen danach. Wenn Sie weitermachen wollen, baue ich den Rest fertig — die CHF 250 werden angerechnet. Wenn nicht, gehört der Code trotzdem Ihnen.',
   },
   {
     q: 'Muss ich selbst etwas vorbereiten?',
-    a: 'Nur wenig: Ihr Logo, Ihre Domain (falls vorhanden) und ein paar Sätze zu Ihrem Betrieb. Den Rest machen wir gemeinsam.',
+    a: 'Nur wenig: Ihr Logo und ein paar Sätze zu Ihrem Betrieb. Den Rest klären wir gemeinsam in der Stunde.',
   },
   {
-    q: 'Wie läuft die Session ab — Telefon, Video, vor Ort?',
-    a: 'Video-Call. Sie sehen meinen Bildschirm live — ich erkläre, was ich tue, und Sie geben sofort Feedback.',
+    q: 'Wie läuft die Session ab?',
+    a: 'Video-Call. Sie sehen meinen Bildschirm live, ich erkläre was ich tue, Sie geben sofort Feedback. Kein Termin vor Ort nötig.',
   },
   {
-    q: 'Was kostet die Website danach?',
-    a: 'Die V1 aus der Session bleibt Ihre. Hosting, Betreuung und Support kosten ab Jahr 2 CHF 59/Monat. Für mehr Seiten, SEO-Texte oder ein vollständiges Redesign gibt es die Pakete ab CHF 1\'990 — die CHF 250 werden angerechnet.',
+    q: 'Was kostet die fertige Website danach?',
+    a: 'Die Pakete starten ab CHF 1\'990 für das erste Jahr komplett — inkl. Hosting, Betreuung und Support. Die CHF 250 aus der Session werden abgezogen.',
   },
 ];
 
@@ -79,12 +79,12 @@ export default function NeustartPage() {
           Website-Session
         </p>
         <h1 className="text-4xl sm:text-5xl font-bold text-white leading-[1.05] tracking-tight mb-6 max-w-2xl mx-auto">
-          Ihre neue Website.{' '}
-          <span className="text-glow-deep">In einer Stunde.</span>
+          Sehen Sie Ihre Website{' '}
+          <span className="text-glow-deep">live entstehen.</span>
         </h1>
         <p className="text-gray-400 text-lg max-w-lg mx-auto leading-relaxed mb-4">
-          Wir bauen gemeinsam — live. Am Ende der Stunde
-          steht eine echte Website, keine Präsentation.
+          Ich baue auf meinem Bildschirm — Sie sehen, kommentieren, entscheiden.
+          Eine Stunde. Am Ende wissen Sie genau, was Sie bekommen.
         </p>
         <p className="text-white text-2xl font-bold mb-10">CHF 250</p>
         <div className="flex flex-col sm:flex-row gap-3 justify-center">
@@ -125,7 +125,7 @@ export default function NeustartPage() {
             Was Sie bekommen
           </p>
           <p className="text-2xl font-bold text-bg-dark text-center mb-10">
-            Keine Präsentation. Eine fertige Website.
+            Eine Stunde. Kein Raten mehr.
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {YOU_GET.map((f) => (

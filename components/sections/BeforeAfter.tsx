@@ -58,10 +58,9 @@ function Slider() {
 }
 
 const SCORES = [
-  { label: 'Performance Desktop', before: 79,  after: 100 },
-  { label: 'Performance Mobile',  before: 63,  after: 74  },
-  { label: 'SEO',                 before: 92,  after: 100 },
-  { label: 'Accessibility',       before: 85,  after: 100 },
+  { label: 'Performance (Desktop)', before: 79, after: 100 },
+  { label: 'SEO',                   before: 92, after: 100 },
+  { label: 'Accessibility',         before: 85, after: 100 },
 ];
 
 function ScoreBar({ before, after }: { before: number; after: number }) {

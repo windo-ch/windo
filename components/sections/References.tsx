@@ -3,6 +3,7 @@
 import { motion } from 'framer-motion';
 
 const REFERENCES = [
+  { domain: 'drobrenovic.ch', type: 'Zahnarztpraxis', since: 2026 },
   { domain: 'zahnarzt-neumann.ch', type: 'Zahnarztpraxis', since: 2024 },
   { domain: 'schlafzahnmedizin.ch', type: 'Schlafmedizin / Zahnarzt', since: 2025 },
   { domain: 'topcutbarber.ch', type: 'Barbershop', since: 2025 },
