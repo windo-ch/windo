@@ -83,7 +83,7 @@ export default function NeustartPage() {
           <span className="text-glow-deep">In einer Stunde.</span>
         </h1>
         <p className="text-gray-400 text-lg max-w-lg mx-auto leading-relaxed mb-4">
-          Wir bauen gemeinsam — live, auf Ihrer Domain. Am Ende der Stunde
+          Wir bauen gemeinsam — live. Am Ende der Stunde
           steht eine echte Website, keine Präsentation.
         </p>
         <p className="text-white text-2xl font-bold mb-10">CHF 250</p>
