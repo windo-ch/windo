@@ -29,7 +29,7 @@ export default function Hero() {
             >
               zahnarzt-neumann.ch
             </a>
-            {' '}— Google PageSpeed 100/100.
+            {' '}— heute live.
           </p>
           <p className="text-lg text-gray-500 max-w-lg mb-10 leading-relaxed">
             Professionell, schnell und direkt von Henry —

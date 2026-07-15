@@ -34,7 +34,7 @@ export default function Pricing() {
             {[
               'Individuelles Design',
               'Professionelle Texte inklusive',
-              'Google PageSpeed: 100/100',
+              'Schnell geladen auf allen Geräten',
               'SEO & Schema-Markup',
               'Hosting & Betreuung inklusive',
               'Monatlich kündbar',

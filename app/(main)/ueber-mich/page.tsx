@@ -17,7 +17,7 @@ const REFERENCES = [
     type: 'Zahnarztpraxis',
     screenshot: '/images/ref-zahnarzt-neumann.png',
     href: 'https://zahnarzt-neumann.ch',
-    note: 'PageSpeed 96/100',
+    note: 'Seit 2024',
   },
   {
     domain: 'schlafzahnmedizin.ch',

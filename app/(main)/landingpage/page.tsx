@@ -20,7 +20,7 @@ const WA = 'https://wa.me/41791752020?text=Hallo%20Henry%2C%20ich%20interessiere
 
 const FEATURES = [
   'Individuelles Design — kein Baukasten, kein Template',
-  'Mobile-first, Google PageSpeed 90+',
+  'Mobile-first, schnell geladen',
   'Ihr Angebot, Kontakt und Standort — alles auf einer Seite',
   'Professionelle Texte inklusive',
   'In 2–3 Arbeitstagen online',
@@ -50,7 +50,7 @@ const REFERENCES = [
     name: 'Dr. Obrenovic',
     domain: 'drobrenovic.ch',
     screenshot: '/images/drobrenovic-after.png',
-    caption: 'Zahnarztpraxis Zug. Neue Website in 10 Arbeitstagen, PageSpeed 100/100.',
+    caption: 'Zahnarztpraxis Zug. Neue Website in 10 Arbeitstagen.',
     href: 'https://drobrenovic.ch',
   },
   {

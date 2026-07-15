@@ -9,7 +9,7 @@ const REFERENCES = [
 ];
 
 function pagespeedUrl(domain: string) {
-  return `https://pagespeed.web.dev/analysis?url=https%3A%2F%2F${domain}`;
+  return `https://pagespeed.web.dev/analysis?url=https%3A%2F%2F${domain}&form_factor=desktop`;
 }
 
 export default function References() {
@@ -22,7 +22,7 @@ export default function References() {
         <h2 className="text-3xl sm:text-4xl font-bold text-bg-dark mb-3">
           Schweizer KMU, die schon wechselten.
         </h2>
-        <p className="text-gray-500 mb-14">Alle Websites: Google PageSpeed 100/100.</p>
+        <p className="text-gray-500 mb-14">Technisch sauber gebaut. Schnell auf allen Geräten.</p>
         <div className="divide-y divide-gray-100">
           {REFERENCES.map((ref, i) => (
             <motion.div

@@ -11,7 +11,7 @@ const TIERS = [
       'Individuelles Design — kein Template, kein Baukasten',
       'Alle Seiten, die Ihr Betrieb braucht',
       'Professionelle Texte inklusive',
-      'Mobile-first, PageSpeed 90+',
+      'Mobile-first, schnell geladen',
       'SEO-Grundlagen & Google Business',
       'Hosting & Betreuung — 12 Monate inklusive',
       'Online in ~10 Arbeitstagen',

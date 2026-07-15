@@ -41,7 +41,7 @@ const YOU_GET = [
   'Fertige V1 — auf Ihrer Domain, in 1 Stunde online',
   'Individuelles Design — kein Baukasten, kein Template',
   'Professionelle Texte für Ihre Branche',
-  'Mobile-first, Google PageSpeed 90+',
+  'Mobile-first, schnell geladen',
   'SEO-Grundlagen: Titel, Meta, Google Business',
   'Sie sehen live, wie Ihre Website entsteht',
 ];

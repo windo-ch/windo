@@ -33,7 +33,7 @@ const LEISTUNG_ROWS = [
   {
     label: "Google PageSpeed",
     ls: "Typisch 40–70 / 100 ¹",
-    windo: "✓ 90+ / 100 (messbar auf pagespeed.web.dev)",
+    windo: "✓ Schnell — technisch sauber, ohne Vorlagen-Ballast",
   },
   {
     label: "SEO (Schema, Sitemap, Meta)",
@@ -76,7 +76,7 @@ const PACKAGES = [
       "Individuelles Design — kein Template, kein Baukasten",
       "Alle Seiten, die Ihr Betrieb braucht",
       "Professionelle Texte inklusive",
-      "Mobile-First, PageSpeed 90+",
+      "Mobile-first, schnell geladen",
       "SEO-Grundlagen & Google Business",
       "Hosting & Betreuung — 12 Monate inklusive",
       "Online in ~10 Arbeitstagen",
@@ -137,8 +137,8 @@ const FAQ_ITEMS = [
     a: "Nicht nach dem ersten Jahr. Das erste Jahr ist komplett: Sie zahlen einmal, sind zwölf Monate abgedeckt. Danach monatlich kündbar — Sie können jederzeit gehen und nehmen alles mit.",
   },
   {
-    q: 'Was bedeutet "PageSpeed 90+/100"?',
-    a: 'Google bewertet jede Website auf einer Skala von 0–100. Vorlagen-basierte Websites erreichen typisch 40–70. Meine Websites erreichen 90–100 — messbar und öffentlich überprüfbar auf pagespeed.web.dev. Besserer Score = schnellere Seite = besseres Google-Ranking.',
+    q: 'Sind Ihre Websites wirklich schneller?',
+    a: 'Ja — weil ich ohne Vorlagen, ohne Page-Builder und ohne unnötige Plugins baue. Vorlagen-basierte Websites tragen dutzende Scripts mit, die sie verlangsamen. Meine Websites laden das, was gebraucht wird. Das sehen Sie auf pagespeed.web.dev — messbar und öffentlich überprüfbar.',
   },
   {
     q: "Kann ich die Website später selbst verwalten?",
@@ -442,7 +442,7 @@ export default function VergleichPage() {
                 <p className="text-xs text-gray-500 mb-2">{ref.type}</p>
                 <p className="text-xs text-glow-deep font-medium">✓ Seit {ref.since}</p>
                 <span className="inline-block mt-2 bg-glow-ambient text-glow-deep text-xs font-semibold px-2 py-0.5 rounded-full">
-                  PageSpeed 90+/100
+                  Schnell geladen
                 </span>
               </div>
             ))}
