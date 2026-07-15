@@ -10,7 +10,7 @@ export default function DatenschutzPage() {
   return (
     <div className="max-w-2xl mx-auto px-6 py-24 sm:py-32">
       <h1 className="text-3xl sm:text-4xl font-bold text-bg-dark mb-3">Datenschutzerklärung</h1>
-      <p className="text-sm text-gray-400 mb-12">Stand: April 2026</p>
+      <p className="text-sm text-gray-400 mb-12">Stand: Juli 2026</p>
 
       <div className="prose-like space-y-10 text-gray-600 leading-relaxed">
 

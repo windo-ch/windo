@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { AVAILABILITY } from '@/lib/config';
+import { AvailabilityBadge } from '@/components/ui/AvailabilityBadge';
 
 export const metadata: Metadata = {
   title: 'Angebot — windo.ch',
@@ -134,25 +134,12 @@ export default function AngebotPage() {
       {/* 2. Availability banner */}
       <div className="bg-bg-dark pb-10 px-6">
         <div className="max-w-xl mx-auto bg-white/5 border border-white/10 rounded-xl py-5 px-8 text-center">
-          {AVAILABILITY.slotsRemaining > 0 ? (
-            <>
-              <p className="text-white font-semibold text-lg mb-1">
-                🗓️ {AVAILABILITY.month} {AVAILABILITY.year} — noch {AVAILABILITY.slotsRemaining} Plätze verfügbar.
-              </p>
-              <p className="text-gray-400 text-sm">
-                Zufriedenheitsgarantie: Gefällt Ihnen der Entwurf nicht, zahlen Sie nichts.
-              </p>
-            </>
-          ) : (
-            <>
-              <p className="text-white font-semibold text-lg mb-1">
-                {AVAILABILITY.month} {AVAILABILITY.year} komplett ausgebucht.
-              </p>
-              <p className="text-gray-400 text-sm">
-                Nächster freier Slot: Jetzt reservieren.
-              </p>
-            </>
-          )}
+            <p className="text-white font-semibold text-lg mb-1">
+            🗓️ <AvailabilityBadge className="inline" />
+          </p>
+          <p className="text-gray-400 text-sm">
+            Zufriedenheitsgarantie: Gefällt Ihnen der Entwurf nicht, zahlen Sie nichts.
+          </p>
         </div>
       </div>
 

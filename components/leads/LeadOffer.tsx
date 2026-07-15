@@ -1,6 +1,6 @@
 import type { LeadContent } from "@/lib/types";
 import { PRICING, formatChf } from "@/lib/types";
-import { AVAILABILITY } from "@/lib/config";
+import { AvailabilityBadge } from "@/components/ui/AvailabilityBadge";
 
 const YEAR_ONE_FEATURES = [
   "Individuelles Design — keine Vorlage",
@@ -33,7 +33,7 @@ export default function LeadOffer({ lead }: { lead: LeadContent }) {
         {/* Availability banner */}
         <div className="bg-white/5 border border-white/10 rounded-xl py-3 px-5 text-center mb-10">
           <p className="text-white font-semibold text-sm mb-0.5">
-            🗓️ {AVAILABILITY.month} {AVAILABILITY.year} — noch {AVAILABILITY.slotsRemaining} Plätze verfügbar.
+            🗓️ <AvailabilityBadge className="inline" />
           </p>
           <p className="text-gray-400 text-xs">
             Zufriedenheitsgarantie: Gefällt Ihnen der Entwurf nicht, zahlen Sie nichts.

@@ -13,7 +13,14 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.windo.ch"),
+  title: {
+    default: 'windo.ch — Professionelle Websites für Schweizer KMU',
+    template: '%s | windo.ch',
+  },
+  description: "Individuelle Website für Ihr KMU — fertig in 10 Arbeitstagen. Ab CHF 1'990, erstes Jahr komplett. Direkt mit Henry Barrows, ohne Agentur.",
   openGraph: {
+    siteName: 'windo.ch',
+    locale: 'de_CH',
     images: [{ url: '/windo-og-1.png', width: 1200, height: 630 }],
   },
   twitter: {

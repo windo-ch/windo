@@ -2,7 +2,7 @@ import Image from "next/image";
 import type { LeadContent } from "@/lib/types";
 
 function ageText(year: number): string {
-  const age = 2026 - year;
+  const age = new Date().getFullYear() - year;
   return `${age} ${age === 1 ? 'Jahr' : 'Jahren'}`;
 }
 

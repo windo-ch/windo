@@ -26,7 +26,8 @@ export default function Pricing() {
             <p className="text-6xl font-bold text-white tracking-tight leading-none mb-2">
               1&apos;990.—
             </p>
-            <p className="text-sm text-gray-500">ab CHF · erstes Jahr komplett · danach CHF 59/Mt.</p>
+            <p className="text-sm text-gray-500">ab CHF · erstes Jahr komplett</p>
+          <p className="text-sm text-gray-400 mt-1">danach CHF 59/Monat — Hosting, Sicherheit, Updates und kleine Anpassungen inklusive. Sie müssen sich um nichts kümmern.</p>
           </div>
 
           <ul className="space-y-3 self-center">

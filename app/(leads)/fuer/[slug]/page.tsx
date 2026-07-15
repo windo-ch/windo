@@ -10,6 +10,7 @@ import LeadOffer from "@/components/leads/LeadOffer";
 import LeadAbout from "@/components/leads/LeadAbout";
 import LeadCTA from "@/components/leads/LeadCTA";
 import LeadFooter from "@/components/leads/LeadFooter";
+import { LeadMainLink } from "@/components/leads/LeadMainLink";
 import StickyMobileCTA from "@/components/leads/StickyMobileCTA";
 import BedarfsanalyseWizard from "@/components/analyse/BedarfsanalyseWizard";
 
@@ -55,6 +56,7 @@ export default async function LeadPage({
       <LeadAbout lead={lead} />
       <LeadReferences />
       <LeadCTA lead={lead} />
+      <LeadMainLink />
       <LeadFooter lead={lead} />
       <StickyMobileCTA lead={lead} />
       <div className="h-16 md:hidden" />

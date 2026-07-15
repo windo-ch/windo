@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { NEUSTART_AVAILABILITY } from '@/lib/config';
+import { AvailabilityBadge } from '@/components/ui/AvailabilityBadge';
 import NeustartForm from './NeustartForm';
 
 export const metadata: Metadata = {
@@ -126,7 +126,7 @@ export default function NeustartPage() {
       <div className="bg-bg-dark pb-12 px-6">
         <div className="max-w-xl mx-auto bg-white/5 border border-white/10 rounded-xl py-5 px-8 text-center">
           <p className="text-white font-semibold text-lg mb-1">
-            🗓️ {NEUSTART_AVAILABILITY.month} {NEUSTART_AVAILABILITY.year} — noch {NEUSTART_AVAILABILITY.slotsRemaining} Neustart-Plätze frei.
+            🗓️ <AvailabilityBadge className="inline" />
           </p>
           <p className="text-gray-400 text-sm">
             Ich nehme pro Monat maximal 5 Neustart-Projekte an.

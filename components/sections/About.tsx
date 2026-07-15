@@ -32,6 +32,9 @@ export default function About() {
               Ich erstelle und betreue Websites für Schweizer KMU. Keine Agentur, kein Ticket-System.
               Sie schreiben mir direkt per WhatsApp oder E-Mail, und ich kümmere mich darum.
             </p>
+            <p className="text-gray-500 leading-relaxed max-w-lg mt-3">
+              Sie sprechen immer direkt mit mir — nie mit einer Agentur-Hotline.
+            </p>
             <div className="mt-6 text-sm">
               <div className="flex flex-wrap gap-x-6 gap-y-2 mb-2">
                 <a href="tel:+41791752020" className="text-glow-deep font-medium hover:text-glow-hot transition-colors">

@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Image from 'next/image';
-import { AVAILABILITY } from '@/lib/config';
+import { AvailabilityBadge } from '@/components/ui/AvailabilityBadge';
 
 export const metadata: Metadata = {
   title: 'Professionelle Landingpage — CHF 990 | windo.ch',
@@ -46,6 +46,13 @@ const FOR_WHO = [
 ];
 
 const REFERENCES = [
+  {
+    name: 'Dr. Obrenovic',
+    domain: 'drobrenovic.ch',
+    screenshot: '/images/drobrenovic-after.png',
+    caption: 'Zahnarztpraxis Zug. Neue Website in 10 Arbeitstagen, PageSpeed 100/100.',
+    href: 'https://drobrenovic.ch',
+  },
   {
     name: 'Top Cut Barber',
     domain: 'topcutbarber.ch',
@@ -93,7 +100,7 @@ export default function LandingpagePage() {
       {/* Availability banner */}
       <div className="max-w-3xl mx-auto px-6 pb-16">
         <div className="rounded-xl bg-glow-ambient border border-glow-soft px-5 py-3.5 text-sm text-glow-deep font-medium text-center">
-          Noch {AVAILABILITY.slotsRemaining} Plätze frei im {AVAILABILITY.month} {AVAILABILITY.year}
+          <AvailabilityBadge />
         </div>
       </div>
 
@@ -176,23 +183,6 @@ export default function LandingpagePage() {
                 </div>
               </a>
             ))}
-            {/* Mobile screenshot fill when fewer than 2 references */}
-            <div className="bg-white border border-gray-200 rounded-2xl overflow-hidden">
-              <div className="aspect-video relative bg-gray-50 overflow-hidden">
-                <Image
-                  src="/images/windo-old-vs-new-phone.png"
-                  alt="Mobile-first Design"
-                  fill
-                  className="object-cover object-top"
-                />
-              </div>
-              <div className="p-5">
-                <p className="font-semibold text-bg-dark text-sm mb-0.5">Mobile-first</p>
-                <p className="text-xs text-gray-500">
-                  Jede Landingpage ist auf dem Smartphone perfekt — dort, wo Ihre Kunden suchen.
-                </p>
-              </div>
-            </div>
           </div>
         </div>
       </div>

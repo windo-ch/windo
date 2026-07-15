@@ -11,7 +11,10 @@
     "leads:send": "tsx scripts/send-outreach.ts",
     "leads:stage": "tsx scripts/update-stage.ts",
     "leads:status": "tsx scripts/status.ts",
-    "leads:insights": "tsx scripts/generate-insights.ts"
+    "leads:insights": "tsx scripts/generate-insights.ts",
+    "leads:floppy-targets": "tsx scripts/select-floppy-targets.ts",
+    "leads:call-list": "tsx scripts/export-call-list.ts",
+    "call": "tsx scripts/call.ts"
   },
   "dependencies": {
     "@netlify/plugin-nextjs": "^5.15.9",

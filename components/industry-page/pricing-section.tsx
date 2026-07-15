@@ -1,5 +1,5 @@
 import { SectionLabel } from './section-label';
-import { AVAILABILITY } from '@/lib/config';
+import { AvailabilityBadge } from '@/components/ui/AvailabilityBadge';
 
 const TIERS = [
   {
@@ -62,8 +62,8 @@ export function PricingSection({ pricing }: PricingProps) {
     <section className="py-16 md:py-20">
       {/* Availability banner */}
       <div className="mb-8 rounded-xl bg-glow-ambient border border-glow-soft px-4 py-3 text-sm text-glow-deep font-medium text-center">
-        🗓️ {AVAILABILITY.month} {AVAILABILITY.year} — noch {AVAILABILITY.slotsRemaining} Plätze verfügbar ·{' '}
-        <span className="font-normal text-gray-600">Zufriedenheitsgarantie inklusive</span>
+        🗓️ <AvailabilityBadge className="inline" />{' '}
+        <span className="font-normal text-gray-600">· Zufriedenheitsgarantie inklusive</span>
       </div>
 
       <SectionLabel text="Investition" />

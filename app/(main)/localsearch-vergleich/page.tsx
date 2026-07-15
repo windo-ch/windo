@@ -13,7 +13,7 @@ const REFERENCES = [
   { domain: "topcutbarber.ch", type: "Barbershop", since: 2025 },
 ];
 
-// Leistungsvergleich: Grossanbieter (typische Vertragsbedingungen, Stand April 2026) vs. windo.ch
+// Leistungsvergleich: Grossanbieter (typische Vertragsbedingungen, Stand Juli 2026) vs. windo.ch
 const LEISTUNG_ROWS = [
   {
     label: "Design",
@@ -293,7 +293,7 @@ export default function VergleichPage() {
             ¹ PageSpeed-Angaben für Vorlagen-Websites sind Richtwerte; messbar auf pagespeed.web.dev.<br />
             ² Vertragslaufzeiten und Konditionen von Drittanbietern können abweichen.
             Prüfen Sie die aktuellen AGB des jeweiligen Anbieters.
-            Angaben basieren auf öffentlich verfügbaren Produktinformationen (Stand April 2026).
+            Angaben basieren auf öffentlich verfügbaren Produktinformationen (Stand Juli 2026).
           </p>
         </div>
       </section>
@@ -377,7 +377,7 @@ export default function VergleichPage() {
             </table>
           </div>
           <p className="text-xs text-gray-400 leading-relaxed">
-            Drittanbieter-Preise basieren auf öffentlich verfügbaren Informationen (Stand April 2026).
+            Drittanbieter-Preise basieren auf öffentlich verfügbaren Informationen (Stand Juli 2026).
             Aktuelle Konditionen beim jeweiligen Anbieter prüfen.
             Windo Basis über 5 Jahre günstiger als Grossanbieter M — mit individuellem Design, professionellen
             Texten und voller Eigentümerschaft an der Website.
@@ -614,7 +614,7 @@ export default function VergleichPage() {
           <CTAButtons className="justify-center" />
           <p className="mt-6 text-xs text-gray-600">
             windo.ch ist nicht mit localsearch AG assoziiert. Alle Angaben zu Drittanbietern
-            basieren auf öffentlich verfügbaren Informationen (Stand April 2026).
+            basieren auf öffentlich verfügbaren Informationen (Stand Juli 2026).
           </p>
         </div>
       </section>

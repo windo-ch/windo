@@ -14,11 +14,23 @@ export default function Hero() {
           <p className="text-xs tracking-widest uppercase text-glow-deep/70 font-semibold mb-6">
             Websites für Schweizer KMU
           </p>
-          <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-bg-dark leading-[1.05] tracking-tight mb-7">
+          <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-bg-dark leading-[1.05] tracking-tight mb-5">
             Eine Website,<br />
             die für Sie<br />
             <span className="text-glow-deep">arbeitet.</span>
           </h1>
+          <p className="text-sm text-gray-400 mb-7">
+            Zuletzt gebaut:{' '}
+            <a
+              href="https://drobrenovic.ch"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline underline-offset-4 hover:text-gray-600 transition-colors"
+            >
+              drobrenovic.ch
+            </a>
+            {' '}— Google PageSpeed 100/100.
+          </p>
           <p className="text-lg text-gray-500 max-w-lg mb-10 leading-relaxed">
             Professionell, schnell und direkt von Henry —
             fertig in 10 Arbeitstagen. Keine Agentur, kein Ticketsystem.

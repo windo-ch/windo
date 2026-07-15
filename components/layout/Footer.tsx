@@ -16,6 +16,11 @@ export default function Footer() {
           <div>
             <p className="font-semibold mb-3 text-gray-300">Kontakt</p>
             <ul className="space-y-2 text-sm text-gray-400">
+              <li className="not-italic">
+                Henry Barrows<br />
+                Theilerstrasse 13<br />
+                6300 Zug, Schweiz
+              </li>
               <li>
                 <a
                   href={WA_URL}
