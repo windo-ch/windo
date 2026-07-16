@@ -93,14 +93,14 @@ export default function ResultView({ profile, contactName, contactEmail, domain 
             Noch einen Schritt weiter?
           </p>
           <p className="text-gray-500 text-sm mb-4">
-            Ich zeige Ihnen kostenlos, wie Ihre neue Website aussehen könnte —
-            bevor Sie sich entscheiden.
+            In einer Stunde sehen Sie live, wie Ihre neue Website aussieht —
+            Henry baut, Sie steuern. CHF 250, anrechenbar.
           </p>
           <a
             href="/neustart"
             className="inline-flex items-center gap-2 bg-glow-deep text-white font-semibold px-6 py-3 rounded-xl btn-glow text-sm"
           >
-            Kostenloser Entwurf →
+            Website-Session — CHF 250 →
           </a>
         </div>
       </section>

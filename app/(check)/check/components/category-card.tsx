@@ -29,6 +29,8 @@ export function CategoryCard({ category, result, index }: CategoryCardProps) {
   const label = CATEGORY_LABELS[category] ?? category
   const icon = CATEGORY_ICONS[category] ?? '●'
 
+  const isGoogleDependent = category === 'speed' || category === 'mobile'
+
   if (!result.available) {
     return (
       <div
@@ -39,7 +41,11 @@ export function CategoryCard({ category, result, index }: CategoryCardProps) {
           <span className="text-lg">{icon}</span>
           <h3 className="font-semibold text-gray-400">{label}</h3>
         </div>
-        <p className="text-sm text-gray-400">Konnte nicht geprüft werden</p>
+        <p className="text-sm text-gray-400">
+          {isGoogleDependent
+            ? 'Henry führt diese Analyse manuell durch — Ergebnis via WhatsApp.'
+            : 'Konnte nicht geprüft werden'}
+        </p>
       </div>
     )
   }

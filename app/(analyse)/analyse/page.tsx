@@ -4,7 +4,7 @@ import BedarfsanalyseWizard from "@/components/analyse/BedarfsanalyseWizard";
 export const metadata: Metadata = {
   title: "Bedarfsanalyse — Welche Website braucht Ihr KMU? | windo.ch",
   description:
-    "In 60 Sekunden herausfinden, was Ihre Website können muss — und was sie kosten würde. Kostenlos und unverbindlich.",
+    "In 60 Sekunden herausfinden, was Ihre Website können muss — und was sie kosten würde. Unverbindlich.",
 };
 
 export default function AnalysePage() {

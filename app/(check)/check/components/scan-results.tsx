@@ -93,29 +93,29 @@ export function ScanResults({ result, isShared, onReset }: ScanResultsProps) {
       {isLowScore ? (
         <div className="rounded-2xl border border-glow-soft bg-glow-ambient p-6 sm:p-8 text-center">
           <p className="text-glow-deep text-xs font-semibold uppercase tracking-wider mb-3">
-            Kostenlose Beratung
+            Website-Session
           </p>
           <h2 className="text-xl font-bold text-bg-dark mb-3">
-            Wir verbessern Ihre Website — garantiert.
+            Sehen Sie die neue Version live entstehen.
           </h2>
           <p className="text-gray-600 text-sm mb-6 max-w-sm mx-auto">
-            Henry zeigt Ihnen in einem kostenlosen 15-Minuten-Gespräch,
-            was konkret verbessert werden kann.
+            Eine Stunde, CHF 250 — Henry baut auf seinem Bildschirm,
+            Sie sehen und steuern live mit.
           </p>
           <a
-            href="https://wa.me/41791752020?text=Hallo%20Henry%2C%20ich%20habe%20meine%20Website%20gecheckt%20und%20würde%20gerne%20mehr%20erfahren."
+            href="https://wa.me/41791752020?text=Hallo%20Henry%2C%20ich%20habe%20meine%20Website%20gecheckt%20und%20würde%20gerne%20eine%20Session%20buchen."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block rounded-xl bg-glow-deep hover:bg-glow-hot btn-glow text-white font-semibold px-8 py-3.5 transition-colors"
           >
-            Kostenlose Beratung via WhatsApp
+            💬 Session buchen via WhatsApp
           </a>
           <p className="text-gray-500 text-xs mt-3">
             oder{' '}
             <a href="mailto:henry@windo.ch" className="text-glow-deep hover:text-glow-hot transition-colors underline underline-offset-2">
               henry@windo.ch
             </a>
-            {' '}· Keine Verpflichtung
+            {' '}· CHF 250 werden angerechnet bei vollem Paket
           </p>
         </div>
       ) : (

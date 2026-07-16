@@ -51,7 +51,7 @@ export function ScanForm({ onSubmit, isLoading }: ScanFormProps) {
       <div className="mb-10 text-center">
         <div className="inline-flex items-center gap-2 text-xs font-medium text-glow-deep bg-glow-ambient border border-glow-soft rounded-full px-3 py-1 mb-6">
           <span className="w-1.5 h-1.5 rounded-full bg-glow-deep animate-pulse" />
-          Kostenloser Website-Check
+          Website-Check
         </div>
         <h1 className="text-3xl sm:text-4xl font-bold text-bg-dark mb-4 leading-tight">
           Wie gut ist Ihre Website<br className="hidden sm:block" /> wirklich?
@@ -96,7 +96,7 @@ export function ScanForm({ onSubmit, isLoading }: ScanFormProps) {
       </form>
 
       <p className="text-center text-xs text-gray-400 mt-4">
-        Kostenlos · Kein Konto nötig · Ergebnis in ~15 Sekunden
+        Kein Konto nötig · SEO, Sicherheit & Struktur · Google-Analyse von Henry persönlich
       </p>
     </div>
   )

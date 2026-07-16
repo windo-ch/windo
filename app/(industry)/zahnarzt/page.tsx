@@ -19,7 +19,7 @@ const content: IndustryPageProps = {
     label: 'Gespräch vereinbaren',
     href: 'tel:+41791752020',
   },
-  heroCtaSecondary: { label: 'Kostenlose Analyse', href: '/analyse' },
+  heroCtaSecondary: { label: 'Bedarfsanalyse', href: '/analyse' },
   painPoints: [
     {
       emoji: '🦷',
@@ -71,7 +71,7 @@ const content: IndustryPageProps = {
   },
   cta: {
     headline: 'Bereit für einen besseren ersten Eindruck?',
-    subline: 'Kurzes Gespräch, ehrliche Einschätzung. Kostenlos.',
+    subline: 'Kurzes Gespräch, ehrliche Einschätzung.',
     email: 'henry@windo.ch',
     phone: '+41 79 175 20 20',
     whatsapp: 'https://wa.me/41791752020?text=Hallo%20Henry%2C%20ich%20interessiere%20mich%20f%C3%BCr%20eine%20Praxis-Website.',

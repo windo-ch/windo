@@ -21,8 +21,8 @@ export async function generateMetadata({ searchParams }: Props): Promise<Metadat
   }
 
   return {
-    title: 'Kostenloser Website-Check — windo.ch',
-    description: 'Analysieren Sie Ihre Website in 15 Sekunden. Ladegeschwindigkeit, SEO, Sicherheit, Mobile und KI-Sichtbarkeit — alles auf einen Blick.',
+    title: 'Website-Check — windo.ch',
+    description: 'Analysieren Sie Ihre Website: SEO, Sicherheit, Struktur und KI-Sichtbarkeit — alles auf einen Blick. Google-Ladezeit-Analyse von Henry persönlich.',
   }
 }
 
