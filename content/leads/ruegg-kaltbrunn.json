@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Ruegg Kaltbrunn-Website könnte durch eine Überarbeitung der Inhaltsstruktur und eine verbesserte Übersichtlichkeit auf der Startseite profitieren, um den Besuchern eine einfachere Navigation und bessere Orientierung zu bieten",
+    "Eine regelmäßige Aktualisierung der Inhalte und Angebote auf der Website würde helfen, die Besucher zu binden und die Sichtbarkeit im Internet zu erhöhen, insbesondere in der Elektrobranche, in der sich Trends und Technologien schnell ändern",
+    "Die Implementierung eines Content-Management-Systems würde es der Firma Ruegg Kaltbrunn ermöglichen, ihre Website einfacher und unabhängiger zu verwalten, ohne auf externe Hilfe angewiesen zu sein",
+    "Durch die Einbindung von Kundenbewertungen und -rezensionen auf der Website könnte die Glaubwürdigkeit und Vertrauenswürdigkeit von Ruegg Kaltbrunn bei potenziellen Kunden gestärkt werden, was insbesondere in der Elektrobranche, in der Vertrauen eine wichtige Rolle spielt, von Vorteil wäre"
+  ]
 }

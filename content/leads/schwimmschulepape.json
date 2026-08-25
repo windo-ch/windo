@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Schwimmschulepape sollte ihre Website mobile-optimieren, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden in der Fitnessbranche zu gewährleisten",
+    "Eine Reduzierung der Ladezeit von 418ms auf unter 200ms würde die Konversionsraten und die allgemeine Benutzerfreundlichkeit der Website schwimmschulepape.ch erheblich verbessern",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und somit die Kommunikation mit den Kunden und Interessenten der Schwimmschulepape verbessern",
+    "Die Schwimmschulepape sollte ihre Online-Präsenz durch regelmäßige Updates und eine aktive Kommunikation mit den Nutzern auf den sozialen Medien und der Website stärken, um ihre Position in der Fitnessbranche zu festigen und neue Kunden anzuziehen"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Malerbossard-Website könnte durch eine Optimierung für mobile Geräte deutlich verbessert werden, da viele Kunden heutzutage mit Smartphones auf das Internet zugreifen und eine nicht optimierte Website zu einer negativen Nutzererfahrung führen kann",
+    "Um die Sichtbarkeit und den Online-Auftritt der Malerbossard zu stärken, wäre es ratsam, eine regelmäßige Aktualisierung und Pflege der Website durchzuführen, um sie auch nach acht Jahren Online-Präsenz seit 2018 aktuell und attraktiv zu halten",
+    "Die Ladezeit von 278ms ist noch im bescheidenen Rahmen, jedoch könnte durch eine weitere Optimierung der Bilder und des Codes die Ladezeit noch weiter verkürzt werden, um die Nutzererfahrung zu verbessern und die Konversionsraten zu steigern",
+    "Eine weitere Empfehlung wäre die Implementierung eines Content-Management-Systems oder eines Baukastens, um die Verwaltung und Wartung der Website zu erleichtern und somit auch die Integration neuer Funktionen und Inhalte zu vereinfachen"
+  ]
 }

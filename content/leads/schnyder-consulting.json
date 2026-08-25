@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Schnyder Consulting sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobilen Kunden in der Treuhandbranche zu bieten",
+    "Die Ladezeit von 280ms ist zwar noch im grünen Bereich, könnte aber durch Optimierungen der Bildgrössen und des Codes noch weiter verbessert werden, um die Konkurrenzfähigkeit von Schnyder Consulting zu stärken",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder TYPO3 zu verwenden, um die Wartung und Pflege der Website zu erleichtern und die Kosten für zukünftige Anpassungen zu reduzieren",
+    "Die SSL-Zertifizierung ist ein wichtiger Schritt für die Sicherheit der Website, jedoch sollten auch regelmässige Sicherheitsupdates und -scans durchgeführt werden, um die Daten der Kunden von Schnyder Consulting zu schützen und das Vertrauen in die Marke zu stärken"
+  ]
 }

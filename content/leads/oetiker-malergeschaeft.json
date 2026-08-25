@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Oetiker Malergeschaeft sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobilen Kunden zu gewährleisten",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die verschiedenen Dienstleistungen und Angebote des Malergeschäfts besser zu präsentieren und den Besuchern eine einfache Orientierung zu ermöglichen",
+    "Die Ladezeit von 283ms ist zwar im Durchschnitt, könnte aber durch eine Optimierung der Bildgrößen und eine effizientere Verwendung von Ressourcen noch verbessert werden, um die Konversionsraten zu steigern",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, beispielsweise durch einen Blog oder ein News-Section, würde helfen, die Besucher zu binden und die Sichtbarkeit des Unternehmens in der Malerbranche zu erhöhen"
+  ]
 }

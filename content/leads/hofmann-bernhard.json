@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Hofmann Bernhard sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer grösser werdende Zahl von mobilen Besuchern zu gewährleisten",
+    "Eine Überarbeitung der Seitenstruktur und eine Verbesserung der Navigation würden helfen, die Besucher besser durch die Website zu führen und die relevanten Informationen schneller zu finden",
+    "Die Ladezeit von 235ms ist im Vergleich zu anderen Websites relativ langsam, eine Optimierung der Bildgrössen und eine Verwendung von Content Delivery Networks könnten hier Abhilfe schaffen",
+    "Eine regelmässige Aktualisierung der Website-Inhalte und eine stärkere Präsenz in sozialen Medien würden helfen, die Besucher zu binden und neue Kunden zu gewinnen, insbesondere in der Branche Sonstige, in der eine starke Online-Präsenz entscheidend ist"
+  ]
 }

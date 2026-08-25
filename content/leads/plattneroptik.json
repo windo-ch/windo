@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Plattneroptik sollte ihre Website mobil-optimieren, um eine bessere Nutzererfahrung für Kunden zu bieten, die über Smartphones oder Tablets auf die Seite zugreifen",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, die Ladezeit von 272ms zu reduzieren und somit die Benutzerfreundlichkeit zu verbessern",
+    "Es wäre ratsam, die Website mit einem Content-Management-System zu erstellen, um zukünftige Änderungen und Updates zu vereinfachen und flexibler auf Kundenanforderungen reagieren zu können",
+    "Die Integration von Funktionen wie Online-Terminbuchung oder einer Produktkonfigurator könnte die Website von Plattneroptik noch attraktiver machen und den Kunden zusätzliche Dienstleistungen bieten"
+  ]
 }

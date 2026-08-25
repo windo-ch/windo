@@ -15,5 +15,11 @@
     "slowLoad": true
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Mathis Malerei sollte dringend mobile-optimiert werden, da die meisten Nutzer heutzutage über Smartphones surfen und eine nicht optimierte Seite zu einer hohen Abbruchrate führen kann",
+    "Die Ladezeit von 12259ms ist deutlich zu lang und sollte durch Optimierungen wie Bildkomprimierung oder Code-Optimierung verkürzt werden, um die Nutzererfahrung zu verbessern",
+    "Es wäre ratsam, einen modernen Baukasten wie WordPress oder Joomla zu verwenden, um die Website besser zu strukturieren und einfacher zu pflegen",
+    "Die Firma Mathis Malerei sollte auch ihre Online-Präsenz durch regelmäßige Updates und Neuigkeiten aufpeppen, um ihre Kunden besser zu informieren und eine stärkere Bindung aufzubauen"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Mode Jordi sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden zu bieten",
+    "Eine Überarbeitung der Seitenstruktur und Inhalte könnte dazu beitragen, die Ladezeit von 290ms zu reduzieren und somit die Konversionsraten zu steigern",
+    "Es wäre ratsam, eine klare und einfache Navigation zu implementieren, um den Besuchern eine einfache Orientierung auf der Website zu ermöglichen",
+    "Eine regelmäßige Aktualisierung der Inhalte und eine aktive Pflege der Social-Media-Kanäle könnten dazu beitragen, die Sichtbarkeit und Reichweite von Mode Jordi zu erhöhen"
+  ]
 }

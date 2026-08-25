@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung ihrer Website priorisieren, da dies für die Nutzerfreundlichkeit und die Suchmaschinenoptimierung von entscheidender Bedeutung ist, insbesondere in der Branche der Storen, wo Kunden oft auf ihrem Smartphone nach Angeboten suchen",
+    "Die Ladezeit von 391ms ist im Vergleich zu anderen Websites relativ langsam, daher wäre es ratsam, die Website zu optimieren, um die Benutzererfahrung zu verbessern und die Abbruchrate zu reduzieren",
+    "Es wäre hilfreich, wenn die Perfecta Storen Tore-Website eine klare und übersichtliche Struktur hätte, um den Kunden eine einfache Navigation und einen schnellen Zugriff auf die gewünschten Informationen zu ermöglichen",
+    "Die Verwendung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und es ermöglichen, regelmäßig neue Inhalte zu veröffentlichen, um die Kunden zu binden und die Suchmaschinen zu optimieren"
+  ]
 }

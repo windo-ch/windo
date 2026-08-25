@@ -80,7 +80,13 @@ export default function UeberMichPage() {
             </p>
             <p className="text-base text-gray-500 leading-relaxed">
               Ich bin in Zug und erreichbar per WhatsApp, Telefon oder E-Mail.
-              Ich antworte selbst.
+              Telefonisch erreichen Sie immer mich.
+            </p>
+            <p className="text-base text-gray-500 leading-relaxed mt-4">
+              Per E-Mail antwortet oft Karin — meine KI-Assistentin,
+              die ich selbst gebaut habe. Sie nimmt Anfragen entgegen und
+              bereitet Änderungen vor. Jede Änderung prüfe ich persönlich,
+              bevor sie live geht.
             </p>
           </div>
         </div>

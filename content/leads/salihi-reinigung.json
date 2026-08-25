@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Salihi Reinigung sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobilen Kunden in der Reinigungsbranche zu gewährleisten",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, dass potenzielle Kunden die Dienstleistungen von Salihi Reinigung leichter finden und verstehen",
+    "Die Ladezeit von 229ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und Code eine weitere Verbesserung erzielt werden",
+    "Eine regelmäßige Aktualisierung des Inhalts und der Angebote auf der Website würde dazu beitragen, dass Salihi Reinigung in der Reinigungsbranche als aktiver und kundenorientierter Anbieter wahrgenommen wird"
+  ]
 }

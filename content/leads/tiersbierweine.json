@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Benutzerfreundlichkeit für Mobilnutzer zu verbessern, sollte die Website tiersbierweine.ch eine mobile Optimierung durchführen, da dies heutzutage ein wichtiger Faktor für die Kundenzufriedenheit und die Suchmaschinenoptimierung ist.",
+    "Die Ladezeit von 264ms ist im Vergleich zu anderen Websites relativ langsam, daher wäre es ratsam, die Ladezeit durch Optimierung von Bildern, Code und Servereinstellungen zu reduzieren, um die Nutzererfahrung zu verbessern.",
+    "Da die Firma Tiersbierweine in einer speziellen Branche tätig ist, wäre es hilfreich, die Websiteinhalte und die Navigation zu überarbeiten, um sie besser an die Bedürfnisse der Zielgruppe anzupassen und somit die Usability zu erhöhen.",
+    "Um die Sicherheit und Vertrauenswürdigkeit der Website zu erhöhen, sollte die SSL-Zertifizierung regelmäßig überprüft und aktualisiert werden, da dies ein wichtiger Aspekt für den Schutz der Kundendaten und die Glaubwürdigkeit des Unternehmens ist."
+  ]
 }

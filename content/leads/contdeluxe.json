@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website contdeluxe.ch sollte dringend mobile-optimiert werden, um den wachsenden Anteil von mobilen Nutzern besser zu bedienen und die Benutzererfahrung zu verbessern",
+    "Es wäre ratsam, die Ladezeit von 238ms zu überprüfen und gegebenenfalls zu optimieren, um sicherzustellen, dass die Website schnell und effizient lädt",
+    "Contdeluxe könnte von einer Überarbeitung der Website-Struktur und -Navigation profitieren, um den Nutzern eine einfachere und intuitivere Erfahrung zu bieten",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte wäre empfehlenswert, um den Nutzern aktuelle und relevante Informationen zu bieten und die Sichtbarkeit in Suchmaschinen zu verbessern"
+  ]
 }

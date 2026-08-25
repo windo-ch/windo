@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Bmhairandbeauty sollte unbedingt mobile-optimiert werden, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Es wäre ratsam, die Ladezeit von 271ms zu reduzieren, um die Nutzererfahrung zu verbessern und die Abbruchrate zu senken",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die Inhalte besser zu organisieren und den Besuchern eine einfachere Orientierung zu bieten",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und somit die Kommunikation mit den Kunden verbessern"
+  ]
 }

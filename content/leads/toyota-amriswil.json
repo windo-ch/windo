@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Nutzererfahrung zu verbessern, sollten Sie die Website von Toyota Amriswil mobil-optimieren, da viele Kunden wahrscheinlich über ihre Smartphones auf die Seite zugreifen werden",
+    "Die Ladezeit von 218ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte die Implementierung eines Content Delivery Networks die Ladezeit weiter reduzieren und so die Benutzerfreundlichkeit erhöhen",
+    "Es wäre ratsam, eine klare Auflistung der angebotenen Dienstleistungen und Preise auf der Website zu integrieren, um potenziellen Kunden eine bessere Übersicht über das Angebot von Toyota Amriswil zu bieten",
+    "Die Einbindung von Kundenbewertungen und -rezensionen auf der Website könnte die Glaubwürdigkeit und Vertrauenswürdigkeit von Toyota Amriswil bei potenziellen Kunden erhöhen und so den Online-Auftritt stärken"
+  ]
 }

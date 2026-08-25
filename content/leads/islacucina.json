@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung für die Islacucina-Website priorisieren, da dies die Nutzererfahrung für die meisten Besucher, die über Smartphones auf die Seite zugreifen, erheblich verbessern würde",
+    "Die Ladezeit von 248ms ist im Vergleich zu anderen Websites in der Restaurantbranche relativ langsam, daher wäre es ratsam, die Website zu optimieren, um die Ladezeit zu verkürzen und die Benutzererfahrung zu verbessern",
+    "Es wäre hilfreich, wenn die Islacucina-Website eine einfache und intuitive Navigation hätte, um den Besuchern eine einfache Suche nach Speisen, Getränken und Öffnungszeiten zu ermöglichen",
+    "Die Islacucina-Website könnte von einer regelmäßigen Aktualisierung der Inhalte profitieren, um den Besuchern aktuelle Informationen über neue Gerichte, Veranstaltungen und Angebote zu bieten und sie so zu wiederholten Besuchen zu ermutigen"
+  ]
 }

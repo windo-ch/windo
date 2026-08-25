@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Metz Baumanagement sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden in der Sanitär- und Heizungsbranche zu gewährleisten",
+    "Ein moderner und responsiver Webdesign-Ansatz würde es ermöglichen, dass die Besucher die Website problemlos auf verschiedenen Geräten wie Smartphones und Tablets nutzen können",
+    "Die Ladezeit von 227ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und die Minimierung von CSS- und JavaScript-Dateien eine weitere Verbesserung erzielt werden",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens würde es dem Team von Metz Baumanagement ermöglichen, Inhalte einfacher zu aktualisieren und zu verwalten, was insbesondere für eine junge Website wie metz-baumanagement.ch, die seit 2024 online ist, von Vorteil wäre"
+  ]
 }

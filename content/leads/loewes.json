@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten dringend eine mobile-optimierte Version ihrer Website loewes.ch entwickeln, da die meisten Nutzer heutzutage über mobile Geräte surfen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Die Ladezeit von 223ms ist im Vergleich zu anderen Websites in der Branche der Plattenleger noch akzeptabel, jedoch sollten Sie weiterhin nach Möglichkeiten suchen, diese Zeit zu reduzieren, um die Nutzererfahrung zu verbessern",
+    "Eine Überarbeitung der Website-Struktur und des Inhalts könnte dazu beitragen, dass potenzielle Kunden leichter finden, was sie auf loewes.ch suchen, und somit die Konversionsraten erhöhen",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und es ermöglichen, dass Mitarbeiter ohne umfangreiche technische Kenntnisse Inhalte hinzufügen und bearbeiten können"
+  ]
 }

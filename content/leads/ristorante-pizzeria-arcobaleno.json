@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Ristorante Pizzeria Arcobaleno sollte unbedingt eine mobile Optimierung erhalten, da viele Kunden auf ihrem Smartphone nach Restaurants in der Nähe suchen und eine benutzerfreundliche Oberfläche erwarten",
+    "Eine Überarbeitung der Seitenstruktur und eine Vereinfachung der Navigation würden helfen, den Besuchern die wichtigsten Informationen wie Speisekarte, Öffnungszeiten und Kontaktmöglichkeiten schneller zugänglich zu machen",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens zou die Pflege und Aktualisierung der Website erheblich erleichtern und ermöglichen, regelmäßig neue Inhalte wie Spezialangebote oder Events zu veröffentlichen",
+    "Eine Analyse der Nutzungsdaten und eine regelmäßige Überprüfung der Ladezeit würden es ermöglichen, gezielte Optimierungen vorzunehmen und die Benutzererfahrung kontinuierlich zu verbessern, was insbesondere für ein Restaurant wie Ristorante Pizzeria Arcobaleno wichtig ist, das Online-Bestellungen und Reservierungen anbietet"
+  ]
 }

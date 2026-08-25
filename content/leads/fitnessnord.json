@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Fitnessnord sollte unbedingt mobile-optimiert werden, um den wachsenden Anteil von Nutzern zu bedienen, die über Smartphones auf die Seite zugreifen",
+    "Eine reduzierte Ladezeit von 330ms auf unter 200ms durch Optimierung von Bildern und Code würde die Nutzererfahrung verbessern und die Konversionsraten steigern",
+    "Die Einbindung von Kundenbewertungen und Erfolgsgeschichten auf der Website würde die Glaubwürdigkeit und das Vertrauen in die Marke Fitnessnord stärken",
+    "Eine klare und einfache Navigation sowie eine übersichtliche Struktur der Inhalte würden es den Besuchern erleichtern, die gewünschten Informationen zu finden und sich für die Angebote von Fitnessnord zu interessieren"
+  ]
 }

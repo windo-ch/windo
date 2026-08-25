@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Salonluma sollte dringend mobile-optimiert werden, da die meisten Kunden heutzutage über Smartphones auf Webseiten zugreifen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Um die Ladezeit von 375ms zu verbessern, könnte Salonluma die Bilder und Grafiken auf der Website komprimieren und optimieren, um eine schnellere Ladezeit zu erzielen",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und Salonluma ermöglichen, regelmäßig neue Inhalte zu veröffentlichen",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte wäre ratsam, um sicherzustellen, dass die Kunden von Salonluma immer die aktuellen Angebote und Informationen erhalten und die Website nicht veraltet"
+  ]
 }

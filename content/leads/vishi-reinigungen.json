@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Vishi Reinigungen sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden zu bieten",
+    "Es wäre ratsam, eine klare Auflistung der angebotenen Reinigungsdienstleistungen auf der Startseite zu integrieren, um potenziellen Kunden eine schnelle Übersicht zu bieten",
+    "Eine regelmäßige Aktualisierung des News- oder Blogbereichs könnte dazu beitragen, die Kundenbindung zu stärken und die Suchmaschinenoptimierung zu verbessern",
+    "Die Implementierung eines einfachen und benutzerfreundlichen Kontaktformulars würde es Kunden erleichtern, in Kontakt mit Vishi Reinigungen zu treten und somit den Umsatz zu steigern"
+  ]
 }

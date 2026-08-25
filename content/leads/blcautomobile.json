@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Blcautomobile sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzererfahrung und die Suchmaschinenoptimierung ist",
+    "Es wäre ratsam, die Ladezeit von 330ms zu reduzieren, um die Nutzerzufriedenheit zu steigern und die Abbruchrate zu senken",
+    "Die Verwendung eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und somit die Kosten reduzieren",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte ist erforderlich, um die Kunden von Blcautomobile über die neuesten Angebote und Dienstleistungen im Autohandel zu informieren"
+  ]
 }

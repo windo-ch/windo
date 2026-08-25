@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": false,
-  "hasMobileScreenshot": false
+  "hasMobileScreenshot": false,
+  "insights": [
+    "Die Website von Gesundimmo sollte dringend eine mobile Optimierung durchführen, da die meisten Nutzer heutzutage über mobile Geräte surfen und eine nicht optimierte Website zu einer schlechten Benutzererfahrung führen kann",
+    "Die Ladezeit von 0ms ist sehr gut, jedoch sollte Gesundimmo sicherstellen, dass diese Ladezeit auch bei größerem Traffic und komplexen Inhalten erhalten bleibt",
+    "Es wäre ratsam, wenn Gesundimmo eine moderne Baukasten-Lösung implementieren würde, um die Wartung und Erweiterung der Website zu vereinfachen und somit flexibler auf zukünftige Anforderungen reagieren zu können",
+    "Die Branche Transport und Umzug erfordert eine einfache und übersichtliche Navigation, daher sollte Gesundimmo die website vereinfachen und die wichtigsten Informationen und Dienstleistungen direkt auf der Startseite anbieten"
+  ]
 }

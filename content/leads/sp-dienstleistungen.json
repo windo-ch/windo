@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten ihre Website mobile-optimieren, um eine bessere Nutzererfahrung für ihre Kunden zu bieten, die hauptsächlich mit Smartphones surfen",
+    "Die Ladezeit von 239ms ist im Vergleich zu anderen Websites im Gartenbau-Bereich relativ langsam, daher wäre es ratsam, die Bilder und anderen Elemente auf der Website zu optimieren",
+    "Eine Überarbeitung der Navigation und eine klare Strukturierung der Inhalte würden es den Besuchern erleichtern, die gewünschten Informationen auf der Website von Sp Dienstleistungen zu finden",
+    "Die Einbindung von Kundenbewertungen und -referenzen auf der Website könnte dazu beitragen, das Vertrauen potenzieller Kunden in die Dienstleistungen von Sp Dienstleistungen zu stärken"
+  ]
 }

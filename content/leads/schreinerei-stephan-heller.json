@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Schreinerei Stephan Heller sollte ihre Website mobiloptimiert umgestalten, um eine bessere Nutzererfahrung für Kunden zu gewährleisten, die mit Smartphones auf die Seite zugreifen",
+    "Ein regelmäßiges Update der Website-Inhalte würde helfen, potenzielle Kunden über neue Projekte und Dienstleistungen der Schreinerei zu informieren und die Sichtbarkeit im Internet zu erhöhen",
+    "Die Nutzung eines Content-Management-Systems wie WordPress oder TYPO3 würde die Pflege und Aktualisierung der Website-Inhalte erleichtern und ermöglichen, dass Mitarbeiter der Schreinerei selbständig Änderungen vornehmen können",
+    "Durch die Integration von Kundenbewertungen und -referenzen auf der Website könnte die Schreinerei Stephan Heller ihre Glaubwürdigkeit und Vertrauenswürdigkeit bei potenziellen Kunden steigern und ihre Wettbewerbsfähigkeit im Markt der Schreinereien in der Schweiz verbessern"
+  ]
 }

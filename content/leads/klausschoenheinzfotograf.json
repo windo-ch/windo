@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Klausschoenheinzfotograf könnte durch eine Überarbeitung der Bildergalerien profitieren, um eine einfachere und intuitivere Navigation für die Besucher zu ermöglichen",
+    "Eine regelmäßige Aktualisierung des Portfolios mit neuen Fotografien würde helfen, die Besucher zu binden und die Sichtbarkeit in Suchmaschinen zu verbessern",
+    "Die Implementierung einer Suchfunktion auf der Website würde es den Besuchern erleichtern, spezifische Fotografien oder Kategorien zu finden, was insbesondere für eine Fotografie-Website wie klausschoenheinzfotograf.ch wichtig ist",
+    "Die Erstellung eines Blogs oder einer News-Seite, auf der Klaus Schoenheinz seine Erfahrungen und Tipps zum Thema Fotografie teilt, könnte dazu beitragen, die Besucher zu unterhalten und gleichzeitig die Expertise des Fotografen zu unterstreichen"
+  ]
 }

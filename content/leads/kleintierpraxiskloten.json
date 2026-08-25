@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website der Kleintierpraxiskloten sollte mobile-optimiert werden, um eine bessere Benutzererfahrung für die immer mehr mit ihrem Smartphone surfenden Tierhalter zu bieten",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, dass wichtige Informationen wie Öffnungszeiten und Kontaktmöglichkeiten schneller auffindbar sind",
+    "Die Ladezeit von 241ms ist im Vergleich zu anderen Websites bereits sehr gut, jedoch könnte durch die Optimierung von Bildern und anderen Medien die Ladezeit noch weiter verbessert werden",
+    "Ein regelmäßiges Update der Website mit aktuellen Nachrichten und Informationen über die Praxis und ihre Angebote könnte dazu beitragen, dass die Besucher sich mit der Kleintierpraxiskloten identifizieren und deren Dienstleistungen in Anspruch nehmen"
+  ]
 }

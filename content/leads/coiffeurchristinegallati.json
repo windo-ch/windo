@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten ihre Website mobil-optimieren, um eine bessere Nutzererfahrung für ihre Kunden zu gewährleisten, da viele potenzielle Kunden über ihre Smartphones auf die Website von Coiffeurchristinegallati zugreifen",
+    "Eine Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website coiffeurchristinegallati.ch erleichtern und somit die Online-Präsenz der Firma stärken",
+    "Um ihre Sichtbarkeit im Internet zu erhöhen, wäre es ratsam, wenn Coiffeurchristinegallati eine Suchmaschinenoptimierung durchführen würde, um höhere Platzierungen in den Suchergebnissen zu erzielen",
+    "Die Ladezeit von 270ms ist akzeptabel, jedoch könnte durch die Optimierung von Bildern und die Minimierung von CSS- und JavaScript-Dateien eine weitere Verbesserung erzielt werden, um die Nutzererfahrung zu optimieren"
+  ]
 }

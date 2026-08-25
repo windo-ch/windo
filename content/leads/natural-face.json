@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Natural Face sollte unbedingt mobile-optimiert werden, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Die Ladezeit von 365ms ist noch im Rahmen des Akzeptablen, jedoch könnte eine Optimierung der Bildgrößen und der Verwendung von Browser-Caching die Ladezeit weiter verbessern",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder Shopify zu verwenden, um die Wartung und Aktualisierung der Website zu erleichtern und um Funktionen wie Online-Shops oder Blogs einfach integrieren zu können",
+    "Die Website sollte auch regelmäßig aktualisiert und erweitert werden, um den Kunden von Natural Face aktuelle Informationen und Angebote zur Verfügung zu stellen und um die Marke in der Kosmetikbranche weiter zu stärken"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Gwenkosmetikwettingen sollte unbedingt mobile-optimiert werden, da die meisten Nutzer heutzutage über Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Abbruchrate führen kann",
+    "Eine Überarbeitung der Seitenstruktur und eine Vereinfachung der Navigation würde helfen, die Kundenerfahrung zu verbessern und die Besucher dazu anregen, länger auf der Seite zu bleiben und die Dienstleistungen von Gwenkosmetikwettingen zu erkunden",
+    "Die Ladezeit von 340ms ist zwar im Durchschnitt, könnte aber durch Optimierung der Bildgrößen und eine effizientere Verwendung von Ressourcen noch verbessert werden, um eine schnellere und flüssigere Nutzererfahrung zu gewährleisten",
+    "Es wäre ratsam, einen regelmäßigen Blog oder eine News-Sektion auf der Website zu integrieren, um Kunden über neue Kosmetiktrends, Angebote und Dienstleistungen von Gwenkosmetikwettingen zu informieren und so eine stärkere Bindung zu den Kunden aufzubauen"
+  ]
 }

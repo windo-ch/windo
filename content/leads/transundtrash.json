@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Transundtrash sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihrem Smartphone surfenden Kunden zu bieten",
+    "Eine Überarbeitung der Seitenstruktur und Inhalte könnte dazu beitragen, dass die Besucher der Website von Transundtrash einfacher finden, wonach sie suchen, und somit die Konversionsraten erhöhen",
+    "Es wäre ratsam, einen regelmäßigen Audit und eine kontinuierliche Aktualisierung der Website durchzuführen, um sicherzustellen, dass die Technologie und die Inhalte auf dem neuesten Stand bleiben und den Bedürfnissen der Kunden in der Reinigungsbranche gerecht werden",
+    "Die Ladezeit von 244ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Implementierung von Browser-Caching und der Optimierung von Bildern die Ladezeit noch weiter reduziert werden, um die Nutzererfahrung zu verbessern"
+  ]
 }

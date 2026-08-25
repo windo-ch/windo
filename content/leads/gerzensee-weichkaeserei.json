@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website der Gerzensee Weichkaeserei sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden zu gewährleisten",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die verschiedenen Käse-Sorten und -Produkte besser zu präsentieren und somit den Online-Verkauf zu fördern",
+    "Die Implementierung eines Content-Management-Systems würde es der Gerzensee Weichkaeserei ermöglichen, ihre Website einfacher und regelmäßiger zu aktualisieren, um so ihre Kunden über neue Produkte und Angebote zu informieren",
+    "Eine Suche nach relevanten Schlüsselwörtern und die Optimierung der Website für Suchmaschinen würde dazu beitragen, dass die Gerzensee Weichkaeserei in den Suchergebnissen besser gefunden wird und somit mehr Kunden anzieht"
+  ]
 }

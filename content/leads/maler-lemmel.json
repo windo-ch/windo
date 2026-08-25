@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Maler Lemmel sollte die Website mobil optimieren, um eine bessere Nutzererfahrung für die immer mehr mit Smartphones surfenden Kunden zu bieten",
+    "Die Ladezeit von 272ms ist im Vergleich zu anderen Websites recht schnell, jedoch könnte durch die Implementierung eines Content Delivery Networks die Ladezeit noch weiter reduziert werden",
+    "Es wäre ratsam, wenn Maler Lemmel regelmässig Updates und Neuigkeiten auf der Website veröffentlichen würde, um die Kunden über die neuesten Entwicklungen und Angebote informiert zu halten",
+    "Die Implementierung eines Baukastensystems könnte die Wartung und Pflege der Website erleichtern und es Maler Lemmel ermöglichen, leichter Inhalte hinzuzufügen oder zu bearbeiten"
+  ]
 }

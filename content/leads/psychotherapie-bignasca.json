@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Psychotherapie Bignasca sollte dringend eine mobile Optimierung erhalten, da viele potenzielle Klienten über ihre Smartphones nach Therapeuten suchen und eine nicht optimierte Seite sie möglicherweise davon abhält, die Dienstleistungen der Praxis zu nutzen",
+    "Es wäre ratsam, die Ladezeit von 286ms zu überprüfen und gegebenenfalls zu optimieren, um sicherzustellen, dass die Website schnell und reibungslos lädt, was insbesondere für Besucher mit langsamen Internetverbindungen wichtig ist",
+    "Eine Überarbeitung der Website-Struktur und -Navigation könnte dazu beitragen, dass Besucher leichter die gewünschten Informationen finden und sich somit besser über die Angebote und Leistungen von Psychotherapie Bignasca informieren können",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und es ermöglichen, regelmäßig neue Inhalte zu veröffentlichen, was für die Suchmaschinenoptimierung und die Bindung von Besuchern wichtig ist"
+  ]
 }

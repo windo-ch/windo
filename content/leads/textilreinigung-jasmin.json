@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Textilreinigung Jasmin sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihrem Smartphone surfenden Kunden zu bieten",
+    "Es wäre ratsam, eine klare Auflistung der angebotenen Dienstleistungen und Preise auf der Website zu integrieren, um potenziellen Kunden eine einfache Möglichkeit zu bieten, die Leistungen von Textilreinigung Jasmin zu verstehen",
+    "Die Ladezeit von 266ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und der Implementierung eines Content Delivery Networks die Ladezeit noch weiter reduziert werden",
+    "Um die Sichtbarkeit und den Online-Auftritt von Textilreinigung Jasmin zu verbessern, wäre es empfehlenswert, regelmäßig aktualisierte Inhalte wie Blogbeiträge oder Nachrichten über die Reinigungsbranche zu veröffentlichen und somit eine aktive Online-Präsenz zu demonstrieren"
+  ]
 }

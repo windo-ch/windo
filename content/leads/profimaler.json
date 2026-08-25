@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Profimaler sollte unbedingt eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere in der Immobilienbranche, in der viele Nutzer mit ihrem Smartphone nach Objekten suchen",
+    "Die Ladezeit von 286ms ist zwar noch im Rahmen, aber es gibt sicherlich Möglichkeiten, diese zu verbessern, um den Nutzern ein noch besseres Erlebnis zu bieten, zum Beispiel durch die Optimierung von Bildern und die Verwendung von Content Delivery Networks",
+    "Es wäre ratsam, eine klare und einfache Navigation auf der Website zu implementieren, um den Nutzern eine einfache Suche nach Immobilien zu ermöglichen und sie so zum Ziel zu führen, ein Objekt zu finden und kontaktieren zu können",
+    "Die Website von Profimaler könnte auch von einer klaren und überzeugenden Darstellung der Unique Selling Points der Firma profitieren, um sich von anderen Immobilienanbietern abzuheben und den Nutzern einen klaren Grund zu geben, warum sie gerade Profimaler wählen sollten"
+  ]
 }

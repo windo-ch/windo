@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von G Gvozdanovictochterundsoehne sollte dringend eine Mobile-Optimierung durchführen, da die meisten Nutzer heutzutage über ihre Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Abbruchrate führen kann",
+    "Es wäre ratsam, eine moderne Baukasten-Lösung wie WordPress oder TYPO3 zu implementieren, um die Wartung und Pflege der Website zu erleichtern und flexibler auf Änderungen reagieren zu können",
+    "Die Ladezeit von 296ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch sollte man versuchen, diese durch Optimierung von Bildern und Code weiter zu reduzieren, um die Nutzererfahrung zu verbessern",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte, insbesondere im Bereich der Landmaschinen, wäre empfehlenswert, um die Kunden über neue Produkte und Entwicklungen zu informieren und die Website als Informationsplattform zu etablieren"
+  ]
 }

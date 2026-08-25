@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Blumen Atelier Koster sollte unbedingt mobile-optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihren Smartphones surfenden Kunden zu bieten",
+    "Eine Optimierung der Ladezeit von 429ms könnte durch die Komprimierung von Bildern und die Minimierung von CSS- und JavaScript-Dateien erreicht werden, um die Konkurrenzfähigkeit im Floristensektor zu steigern",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder Shopify zu verwenden, um die Website einfacher zu aktualisieren und zu verwalten, was insbesondere für eine Floristin wie Blumen Atelier Koster wichtig ist, die regelmäßig neue Blumenarrangements und Angebote präsentieren möchte",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte, wie zum Beispiel die Saisonangebote und die Blumen des Monats, könnte dazu beitragen, die Kundenbindung zu stärken und die Website zu einem wichtigen Verkaufskanal für Blumen Atelier Koster zu machen"
+  ]
 }

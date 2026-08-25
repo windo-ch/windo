@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Fashion Nails Zuerich sollte unbedingt mobile-optimiert werden, da die meisten Kunden heute mit ihrem Smartphone nach Kosmetik-Angeboten suchen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Es wäre ratsam, die Ladezeit von 268ms zu überprüfen und gegebenenfalls zu optimieren, um eine bessere Nutzererfahrung zu gewährleisten, insbesondere da die Konkurrenz in der Kosmetikbranche sehr hoch ist",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website von Fashion Nails Zuerich erleichtern und somit die Kommunikation mit den Kunden verbessern",
+    "Ein regelmäßiges Update der Website-Inhalte und -Fotos wäre empfehlenswert, um den Kunden von Fashion Nails Zuerich ein aktuelles und attraktives Angebot zu präsentieren und so die Kundenbindung zu stärken"
+  ]
 }

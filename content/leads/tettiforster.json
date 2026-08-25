@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Tettiforster sollte dringend eine Mobile-Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, dass die Besucher von tettiforster.ch einfacher finden, wonach sie suchen, insbesondere im Bereich der Landmaschinen",
+    "Es wäre ratsam, eine regelmäßige Überprüfung und Aktualisierung der Website durchzuführen, um sicherzustellen, dass die Informationen aktuell und relevant bleiben, was insbesondere in der Branche der Landmaschinen wichtig ist",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website von Tettiforster vereinfachen und flexibler gestalten, was insbesondere für eine junge Website wie tettiforster.ch, die seit 2024 online ist, von Vorteil sein könnte"
+  ]
 }

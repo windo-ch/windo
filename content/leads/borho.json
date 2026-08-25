@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Borho sollte unbedingt eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Nutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere in der Immobilienbranche, in der Kunden oft unterwegs nach Objekten suchen",
+    "Die Ladezeit von 265ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten Sie prüfen, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern oder Code zu reduzieren, um die Nutzererfahrung zu verbessern",
+    "Es wäre ratsam, einen Baukasten oder ein Content-Management-System zu verwenden, um die Website von Borho einfacher zu aktualisieren und zu pflegen, was insbesondere für eine Immobilienfirma wie Borho wichtig ist, die regelmäßig neue Objekte und Angebote veröffentlichen muss",
+    "Die SSL-Zertifizierung ist ein wichtiger Schritt zur Sicherheit der Website, jedoch sollten Sie auch regelmäßig Updates und Sicherheitsaudits durchführen, um die Sicherheit der Website und der Daten Ihrer Kunden zu gewährleisten, was in der Immobilienbranche, in der oft sensible Daten gehandelt werden, von besonderer Bedeutung ist"
+  ]
 }

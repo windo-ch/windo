@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Lfmaler sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihrem Smartphone surfenden Kunden zu gewährleisten",
+    "Eine Überarbeitung der Website-Struktur und des Designs könnte helfen, die Dienstleistungen von Lfmaler besser darzustellen und potenziellen Kunden einen ersten Eindruck zu vermitteln",
+    "Die Ladezeit von 255ms ist im Vergleich zu anderen Websites relativ langsam, es wäre ratsam, die Bilder und anderen Medien zu komprimieren, um die Ladezeit zu verkürzen",
+    "Ein regelmäßiges Update der Website und der Inhalte könnte dazu beitragen, dass Lfmaler in der Malerbranche als aktives und professionelles Unternehmen wahrgenommen wird"
+  ]
 }

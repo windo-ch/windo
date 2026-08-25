@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Durrerenergie sollte dringend eine mobile Optimierung erhalten, um eine bessere Nutzererfahrung für die zahlreichen Besucher mit Smartphones zu gewährleisten",
+    "Eine Implementierung eines Content-Management-Systems oder eines Baukastens würde die Pflege und Aktualisierung der Website erheblich vereinfachen und somit die Effizienz steigern",
+    "Um die Ladezeit von 295ms zu verbessern, sollten Sie prüfen, ob es möglich ist, die Anzahl der HTTP-Anfragen zu reduzieren oder die Dateigrößen zu minimieren, ohne dabei die Qualität der Inhalte zu beeinträchtigen",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte würde es Durrerenergie ermöglichen, ihre Kunden besser über neue Entwicklungen und Angebote in der Elektrobranche zu informieren und somit ihre Position im Markt zu stärken"
+  ]
 }

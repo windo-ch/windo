@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Stylingoase sollte ihre Website mobile-optimieren, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden in der Elektrobranche zu gewährleisten",
+    "Die Ladezeit von 333ms ist für eine moderne Website wie stylingoase.ch zu lang und sollte durch Optimierungen wie Bildkomprimierung oder Code-Optimierung verbessert werden",
+    "Die Verwendung eines Baukastens könnte die Wartung und Pflege der Website vereinfachen und somit die Aktualität und Konsistenz der Inhalte verbessern",
+    "Um den Kunden eine höhere Sicherheit zu bieten und das Vertrauen in die Marke Stylingoase zu stärken, sollte die Website regelmäßig aktualisiert und mit den neuesten Sicherheitspatches versehen werden, auch wenn bereits ein SSL-Zertifikat vorhanden ist"
+  ]
 }

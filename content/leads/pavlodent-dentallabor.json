@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website ist nicht für Mobilgeräte optimiert. Über 60% Ihrer potenziellen Kunden suchen auf dem Handy — und sehen eine verkleinerte Desktop-Ansicht.",
+    "Ihre Website ist seit 9 Jahren online. Technologie und Design haben sich weiterentwickelt — ein zeitgemässer Auftritt signalisiert: «Wir sind aktiv.»",
+    "Online-Terminbuchung würde Patienten den Anruf ersparen und Ihr Team entlasten — besonders ausserhalb der Öffnungszeiten.",
+    "Strukturierte Daten (Schema.org) für medizinische Leistungen sorgen dafür, dass Ihre Praxis in Google-Suchen wie «Zahnarzt Dentallabor» besser erscheint."
+  ]
 }

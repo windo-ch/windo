@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Bl Reinigungen sollte dringend mobile-optimiert werden, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Um die Wettbewerbsfähigkeit in der Reinigungsbranche zu steigern, sollten Sie eine klare und einfache Navigation sowie eine übersichtliche Darstellung der Dienstleistungen auf der Website implementieren",
+    "Die Ladezeit von 230ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten Sie prüfen, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern oder Code zu reduzieren",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und ein aktives Social-Media-Engagement könnten dazu beitragen, die Sichtbarkeit und Glaubwürdigkeit von Bl Reinigungen in der Online-Welt zu erhöhen"
+  ]
 }

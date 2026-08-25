@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Besisdachservice sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Die Ladezeit von 234ms ist im Vergleich zu anderen Websites in der Branche der Bedachungen relativ langsam und könnte durch Optimierungen an der Seite und am Server verbessert werden",
+    "Es wäre ratsam, eine klare Auflistung der angebotenen Dienstleistungen und Referenzen auf der Website von Besisdachservice zu erstellen, um potenziellen Kunden eine bessere Übersicht über das Angebot zu geben",
+    "Eine regelmäßige Aktualisierung der Website mit neuen Inhalten, wie zum Beispiel Blog-Beiträgen über aktuelle Trends in der Bedachungsbranche, könnte dazu beitragen, die Sichtbarkeit und Glaubwürdigkeit von Besisdachservice im Internet zu erhöhen"
+  ]
 }

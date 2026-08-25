@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung ihrer Website lapiazza.ch priorisieren, da dies für die Nutzung durch Kunden mit Smartphones von entscheidender Bedeutung ist und die Konkurrenzfähigkeit in der Restaurantbranche erheblich verbessern kann",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, die Ladezeit von 254ms zu reduzieren und somit die Nutzererfahrung auf lapiazza.ch zu verbessern",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und Lapiazza somit mehr Flexibilität und Unabhängigkeit bei der Verwaltung ihres Online-Auftritts bieten",
+    "Eine regelmäßige Analyse der Website-Daten und des Nutzerverhaltens könnte Lapiazza helfen, gezielte Verbesserungen vorzunehmen und ihre Online-Präsenz kontinuierlich zu optimieren, um letztendlich mehr Kunden in ihr Restaurant zu locken"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um Ihre Website besser an die Bedürfnisse Ihrer Kunden anzupassen, sollten Sie eine mobile Optimierung durchführen, da viele potenzielle Kunden über ihre Smartphones auf Ihre Dienstleistungen zugreifen werden",
+    "Eine Überarbeitung der Seitenstruktur und eine Vereinfachung der Navigation würden es Besuchern erleichtern, die gewünschten Informationen über die Dienstleistungen von Hairstyling Annelise zu finden",
+    "Die Ladezeit von 287ms ist im Vergleich zu anderen Websites relativ schnell, dennoch könnte eine Optimierung der Bildgrößen und eine Komprimierung der Dateien die Ladezeit weiter verbessern und somit die Benutzererfahrung erhöhen",
+    "Eine regelmäßige Aktualisierung des Contents und die Einbindung von Kundenbewertungen und -feedbacks auf der Website würden die Glaubwürdigkeit und den Ruf von Hairstyling Annelise stärken und potenzielle Kunden davon überzeugen, Ihre Dienstleistungen in Anspruch zu nehmen"
+  ]
 }

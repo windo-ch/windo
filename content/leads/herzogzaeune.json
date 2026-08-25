@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Herzogzaeune sollte mobil optimiert werden, um den wachsenden Anteil von Besuchern mit Smartphones zu bedienen und eine bessere Nutzererfahrung zu bieten",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die Besucher besser durch das Angebot von Herzogzaeune zu führen und die relevanten Informationen schneller zu finden",
+    "Die Ladezeit von 271ms ist im Vergleich zu anderen Websites relativ langsam, daher wäre es ratsam, die Website zu optimieren, um die Ladezeit zu verkürzen und die Besucher nicht zu verlieren",
+    "Die Einbindung von Kundenbewertungen und -referenzen auf der Website würde die Glaubwürdigkeit und den Ruf von Herzogzaeune als Schreinerei stärken und potenzielle Kunden überzeugen"
+  ]
 }

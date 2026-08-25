@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Whw1920 Alarmanlagen sollte ihre Branche besser widerspiegeln, indem sie Inhalte und Bilder aus der Kosmetik-Branche verwendet, anstatt Alarmanlagen zu zeigen, um die Zielgruppe besser anzusprechen",
+    "Eine mobile Optimierung der Website wäre ratsam, da viele Nutzer über ihre Smartphones surfen und eine nicht optimierte Website zu einer hohen Absprungrate führen kann",
+    "Die Ladezeit von 283ms ist relativ schnell, jedoch könnte die Website durch die Verwendung von Browser-Caching und der Komprimierung von Bildern noch weiter beschleunigt werden",
+    "Die Verwendung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und die Kosten für zukünftige Anpassungen reduzieren"
+  ]
 }

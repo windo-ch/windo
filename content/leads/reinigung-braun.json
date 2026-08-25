@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Ein Preisrechner oder klare Preistabelle würde Anfragen von Interessenten mit realistischen Erwartungen bringen.",
+    "Google-Bewertungen prominent einbinden — bei Reinigungsfirmen ist Vertrauen der wichtigste Faktor.",
+    "Ein klarer Call-to-Action auf der Startseite — «Jetzt anrufen» oder «Offerte anfragen» — würde Besucher direkter zum Handeln bewegen.",
+    "Google-Bewertungen direkt auf der Website würden das Vertrauen neuer Kunden sofort stärken."
+  ]
 }

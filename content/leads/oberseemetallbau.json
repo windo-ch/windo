@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Oberseemetallbau sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden in der Metallbau-Branche zu gewährleisten",
+    "Die Ladezeit von 291ms ist zwar im Durchschnitt, könnte aber durch Optimierung der Bildgrössen und des Codes noch verbessert werden, um die Konkurrenzfähigkeit von Oberseemetallbau zu stärken",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder Joomla zu verwenden, um die Wartung und Aktualisierung der Website zu vereinfachen und so den Fokus auf das Kerngeschäft des Metallbaus legen zu können",
+    "Eine regelmässige Überprüfung und Aktualisierung der Website-Inhalte wäre empfehlenswert, um die Kunden von Oberseemetallbau über die neuesten Entwicklungen und Angebote in der Metallbau-Branche zu informieren und so die Kundenbindung zu stärken"
+  ]
 }

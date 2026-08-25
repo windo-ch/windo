@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Ladezeit von 2967ms ist deutlich zu lang und sollte durch Optimierungen wie Bildkomprimierung oder Code-Minifizierung auf unter 2000ms reduziert werden, um die Benutzererfahrung auf der Website von Restaurantlaposte zu verbessern",
+    "Ein klarer Call-to-Action wie 'Tisch reservieren' oder 'Speisekarte anzeigen' direkt auf der Startseite würde den Besuchern helfen, ihre Ziele schneller zu erreichen und die Konversionsrate erhöhen",
+    "Die Integration von Kundenbewertungen und -rezensionen auf der Website würde die Glaubwürdigkeit und den Ruf von Restaurantlaposte stärken und potenzielle Kunden bei ihrer Entscheidung unterstützen",
+    "Eine regelmäßige Aktualisierung des News- oder Blog-Bereichs mit Informationen über neue Gerichte, Events oder Angebote würde die Besucher binden und sie dazu anregen, öfter auf die Website zurückzukehren, um nach neuen Inhalten zu suchen"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Haar Lokal6370 sollte unbedingt mobile-optimiert werden, da die meisten Kunden heutzutage über ihre Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Abbruchrate führen kann",
+    "Es wäre ratsam, die Ladezeit von 309ms zu überprüfen und gegebenenfalls zu optimieren, da eine lange Ladezeit die User Experience beeinträchtigen und zu einer schlechten Bewertung der Website führen kann",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und ein Blog mit Tipps und Trends aus der Coiffeur-Branche könnten dazu beitragen, die Kundenbindung zu stärken und neue Kunden anzuziehen",
+    "Die Implementierung eines einfachen Online-Buchungssystems auf der Website von Haar Lokal6370 könnte den Kunden die Terminbuchung erleichtern und somit den Umsatz steigern"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Jovatech GmbH sollte ihre Website auf eine mobile-optimierte Version umstellen, um den wachsenden Anteil von Besuchern zu bedienen, die Immobilien über ihre Smartphones suchen",
+    "Eine Überarbeitung der Nutzererfahrung auf jovatech-gmbh.ch könnte dazu beitragen, dass Besucher länger auf der Seite bleiben und mehr über die angebotenen Immobilien erfahren",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und somit die Kommunikation mit potenziellen Kunden verbessern",
+    "Eine regelmäßige Analyse der Ladezeit und der allgemeinen Leistung von jovatech-gmbh.ch könnte dazu beitragen, potenzielle technische Probleme zu identifizieren und die Benutzerfreundlichkeit zu erhöhen"
+  ]
 }

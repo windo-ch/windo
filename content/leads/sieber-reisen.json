@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sieber Reisen sollte ihre Website mobil-optimieren, um eine bessere Nutzererfahrung für die wachsende Zahl von Mobilnutzern zu bieten, insbesondere in der Yoga- und Wellnessbranche, in der Menschen oft unterwegs nach Angeboten suchen",
+    "Die Ladezeit von 298ms ist noch im Rahmen, aber es gibt sicherlich Potenzial für Verbesserungen, um die Konversionsraten zu steigern und die Nutzerzufriedenheit zu erhöhen, beispielsweise durch die Optimierung von Bildern und Code",
+    "Es wäre ratsam, wenn Sieber Reisen einen Baukasten wie WordPress oder eine ähnliche Lösung in Betracht ziehen würde, um die Wartung und Aktualisierung der Website zu vereinfachen und flexibler auf veränderte Anforderungen reagieren zu können",
+    "Eine Überarbeitung der Inhalte und eine stärkere Fokussierung auf die Zielgruppe von Yoga- und Wellness-Interessierten könnte dazu beitragen, die Besucherbindung zu erhöhen und letztendlich mehr Buchungen und Anfragen für Sieber Reisen zu generieren"
+  ]
 }

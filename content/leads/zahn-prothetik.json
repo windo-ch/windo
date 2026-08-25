@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Zahn Prothetik sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über mobile Geräte auf die Seite zugreifen",
+    "Es ist auffällig, dass die Firma Zahn Prothetik in der Branche Garage / Werkstatt tätig ist, aber der Name und die Daten darauf hindeuten, dass es sich um eine zahnmedizinische Einrichtung handeln könnte, was zu Verwirrung führen könnte",
+    "Die Ladezeit von 226ms ist im Vergleich zu anderen Seiten relativ schnell, jedoch könnte durch weitere Optimierungen die Benutzerfreundlichkeit noch weiter verbessert werden",
+    "Die Website sollte auch über eine moderne und flexible Baukasten-Struktur verfügen, um zukünftige Anpassungen und Erweiterungen zu erleichtern und um den Bedürfnissen der Besucher besser gerecht zu werden"
+  ]
 }

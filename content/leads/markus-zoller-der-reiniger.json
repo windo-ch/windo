@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website ist nicht für Mobilgeräte optimiert. Über 60% Ihrer potenziellen Kunden suchen auf dem Handy — und sehen eine verkleinerte Desktop-Ansicht.",
+    "Ein Preisrechner oder klare Preistabelle würde Anfragen von Interessenten mit realistischen Erwartungen bringen.",
+    "Google-Bewertungen prominent einbinden — bei Reinigungsfirmen ist Vertrauen der wichtigste Faktor.",
+    "Ein klarer Call-to-Action auf der Startseite — «Jetzt anrufen» oder «Offerte anfragen» — würde Besucher direkter zum Handeln bewegen."
+  ]
 }

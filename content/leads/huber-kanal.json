@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Benutzererfahrung auf mobilen Geräten zu verbessern, sollte die Website von Huber Kanal dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Nutzerfreundlichkeit ist",
+    "Die Ladezeit von 240ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Implementierung von Browser-Caching und der Optimierung von Bildern die Ladezeit noch weiter reduziert werden, um die Nutzerzufriedenheit zu steigern",
+    "Die Tatsache, dass die Website von Huber Kanal seit 2023 online ist und bereits über eine SSL-Verschlüsselung verfügt, ist ein guter Start, jedoch sollten regelmäßige Sicherheitsaudits durchgeführt werden, um die Sicherheit der Website und der Nutzerdaten zu gewährleisten",
+    "Um die Sichtbarkeit und den Online-Auftritt von Huber Kanal zu stärken, wäre es ratsam, eine umfassende Suchmaschinenoptimierung durchzuführen, um die Website besser auf die Bedürfnisse der Kunden in der Reinigungsbranche abzustimmen und somit mehr potenzielle Kunden anzusprechen"
+  ]
 }

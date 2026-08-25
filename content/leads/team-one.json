@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Team One sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihrem Smartphone surfenden Immobilienkäufer und -verkäufer zu bieten",
+    "Ein schnellerer Server oder eine Optimierung der Bildgrößen könnte die Ladezeit von 228ms weiter reduzieren und so die Konversionsraten verbessern",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website vereinfachen und so den Aufwand für das Team von Team One verringern",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Sicherheitszertifikate und -protokolle, wie SSL, ist wichtig, um die Sicherheit der Website und der Nutzerdaten zu gewährleisten und so das Vertrauen der Kunden in die Marke Team One zu stärken"
+  ]
 }

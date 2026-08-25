@@ -15,5 +15,11 @@
     "slowLoad": true
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Ladezeit von 4378ms ist deutlich zu lang und könnte potenzielle Kunden davon abhalten, die Website von Geiger Wellness zu besuchen, daher sollte die Optimierung der Ladezeit durch technische Maßnahmen wie Code-Optimierung oder Bildkomprimierung priorisiert werden",
+    "Die Website von Geiger Wellness sollte mehr interaktive Elemente wie Videos oder 360-Grad-Bilder integrieren, um den Kunden ein immersives Erlebnis zu bieten und sie so länger auf der Website zu halten",
+    "Um die Sichtbarkeit und Erreichbarkeit der Website zu verbessern, sollte Geiger Wellness eine umfassende Suchmaschinenoptimierung durchführen, einschließlich der Optimierung von Meta-Tags, Header-Tags und der Erstellung von qualitativ hochwertigem Content",
+    "Die Integration von Kundenbewertungen und -rezensionen auf der Website von Geiger Wellness könnte die Glaubwürdigkeit und das Vertrauen potenzieller Kunden stärken und so zu mehr Buchungen und Umsatz führen"
+  ]
 }

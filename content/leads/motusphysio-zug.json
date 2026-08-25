@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Motusphysio Zug sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihrem Smartphone surfenden Kunden zu bieten",
+    "Es wäre ratsam, die Ladezeit von 291ms zu reduzieren, um die Konversionsraten zu verbessern und die Nutzerzufriedenheit zu steigern",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die verschiedenen Physiotherapie-Angebote und -Leistungen von Motusphysio Zug besser zu präsentieren und zu finden",
+    "Die Einbindung von Kundenbewertungen und -testimonials auf der Website würde die Glaubwürdigkeit und Vertrauenswürdigkeit von Motusphysio Zug bei potenziellen Kunden erhöhen"
+  ]
 }

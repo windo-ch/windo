@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Wkb Isolierungen sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer grösser werdende Zahl von Besuchern mit mobilen Geräten zu bieten",
+    "Eine Überarbeitung der Website-Struktur und des Inhalts könnte dazu beitragen, dass die Besucher leichter finden, wonach sie suchen, insbesondere im Bereich Isolierung, wo klare Informationen über die angebotenen Dienstleistungen entscheidend sind",
+    "Die Ladezeit von 242ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Implementierung von Browser-Caching und der Optimierung von Bildern die Ladezeit noch weiter reduziert werden, um die Konversionen zu steigern",
+    "Die Einbindung von Kundenbewertungen und -referenzen auf der Website könnte dazu beitragen, das Vertrauen potenzieller Kunden in die Dienstleistungen von Wkb Isolierungen zu stärken und somit die Conversion Rate zu erhöhen"
+  ]
 }

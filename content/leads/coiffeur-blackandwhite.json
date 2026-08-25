@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Coiffeur Blackandwhite sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Eine Überarbeitung der Seitenstruktur und eine Vereinfachung der Navigation würden helfen, die Besucher besser durch die Angebote von Coiffeur Blackandwhite zu führen und somit die Konversionen zu erhöhen",
+    "Es wäre ratsam, regelmäßig neue Inhalte wie Blogbeiträge oder Angebote auf der Website zu veröffentlichen, um die Besucher zu binden und die Suchmaschinenoptimierung zu verbessern",
+    "Eine Analyse der Besucherzahlen und -verhaltens mit Tools wie Google Analytics würde Coiffeur Blackandwhite helfen, die Effektivität der Website besser zu verstehen und gezielte Verbesserungen vorzunehmen"
+  ]
 }

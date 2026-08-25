@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Blumenhabitus sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mobilen Kunden zu gewährleisten",
+    "Es wäre ratsam, eine klare Auflistung der angebotenen Blumen und Dienstleistungen auf der Startseite zu integrieren, um den Kunden einen schnellen Überblick über das Angebot zu ermöglichen",
+    "Die Ladezeit von 301ms ist noch im Rahmen des Akzeptablen, jedoch könnte durch die Optimierung von Bildern und die Verwendung eines Content Delivery Networks die Ladezeit weiter verkürzt werden",
+    "Eine regelmäßige Aktualisierung des News- oder Blogbereichs könnte dazu beitragen, die Kundenbindung zu stärken und die Suchmaschinenoptimierung zu verbessern, indem beispielsweise saisonale Blumenarrangements oder Floristik-Tipps vorgestellt werden"
+  ]
 }

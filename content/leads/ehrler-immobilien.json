@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Ehrler Immobilien sollte dringend eine mobile Optimierung erhalten, da die meisten Nutzer heutzutage über Smartphones auf Immobilien-Websites zugreifen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Um die Benutzererfahrung zu verbessern, wäre es ratsam, die Ladezeit von 246ms zu reduzieren, indem man beispielsweise die Bildgrößen optimiert oder den Code überarbeitet",
+    "Eine weitere Empfehlung wäre, einen Baukasten zu verwenden, um die Website flexibler und einfacher zu gestalten, was insbesondere für eine Immobilien-Website wie ehrler-immobilien.ch von Vorteil wäre, um verschiedene Arten von Inhalten wie Objektbeschreibungen und Fotos einfach zu integrieren",
+    "Es wäre auch sinnvoll, die Suchfunktion auf der Website zu überarbeiten, um es den Nutzern einfacher zu machen, bestimmte Immobilien zu finden, indem man beispielsweise eine Filterfunktion nach Ort, Preis und Zimmerzahl einbaut"
+  ]
 }

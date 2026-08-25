@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Coiffeur Sardans sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die heutzutage vorwiegend mit Smartphones im Internet unterwegs sind",
+    "Ein einfacher und übersichtlicher Online-Terminbuchungsprozess würde es den Kunden von Coiffeur Sardans erleichtern, einen Friseurtermin zu buchen, ohne vorher anrufen zu müssen",
+    "Die Ladezeit von 255ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Implementierung eines Content Delivery Networks (CDN) die Ladezeit weiter reduziert werden, um die Nutzerzufriedenheit zu steigern",
+    "Ein regelmäßiges Update des News- oder Blogbereichs auf der Website von Coiffeur Sardans würde helfen, die Besucher zu binden und gleichzeitig die Suchmaschinenoptimierung zu verbessern, indem frische und relevante Inhalte bereitgestellt werden"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Benutzererfahrung auf mobilen Geräten zu verbessern, empfehle ich, die Website moesler-meier.ch für eine mobile Optimierung anzupassen, da dies heutzutage ein wichtiger Faktor für die Nutzerfreundlichkeit ist",
+    "Die Ladezeit von 270ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch könnte eine Optimierung der Bilder und eine Minimierung der CSS-Dateien die Ladezeit weiter verkürzen und so die User Experience verbessern",
+    "Die Firma Moesler Meier sollte ihre Website regelmäßig aktualisieren, um ihre Kunden über neue Entwicklungen und Angebote im Immobilienmarkt auf dem Laufenden zu halten",
+    "Um die Sichtbarkeit und Auffindbarkeit der Website zu erhöhen, wäre es ratsam, eine Search Engine Optimization (SEO) durchzuführen, um die Positionen in den Suchmaschinen wie Google zu verbessern und so mehr potenzielle Kunden anzuziehen"
+  ]
 }

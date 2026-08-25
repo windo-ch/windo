@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Extra Hair sollte unbedingt mobile-optimiert werden, da die meisten Kunden heutzutage über ihre Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Die Ladezeit von 298ms ist zwar nicht schlecht, aber es gibt noch Potential für Verbesserungen, indem beispielsweise große Bilddateien komprimiert oder der Code optimiert wird",
+    "Es wäre ratsam, eine klare Auflistung der angebotenen Dienstleistungen und Preise auf der Website zu integrieren, um potenziellen Kunden eine bessere Übersicht über das Angebot von Extra Hair zu geben",
+    "Eine regelmäßige Aktualisierung der Website mit neuen Inhalten, wie beispielsweise Hairstyling-Tipps oder Neuigkeiten aus der Branche, könnte dazu beitragen, die Kundenbindung zu stärken und die Website zu einem wertvollen Informationskanal für Kunden von Extra Hair zu machen"
+  ]
 }

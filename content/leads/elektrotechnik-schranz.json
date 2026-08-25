@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Benutzererfahrung zu verbessern, sollte die Website von Elektrotechnik Schranz auf eine mobile-optimierte Version umgestellt werden, da dies heutzutage ein wichtiger Aspekt für die Usability und die Suchmaschinenoptimierung ist",
+    "Die Ladezeit von 408ms ist zwar noch im Rahmen, jedoch könnte durch eine Optimierung der Bilder und eine minimale Komprimierung der Code-Dateien diese Zeit noch weiter verkürzt werden, um die Nutzerzufriedenheit zu steigern",
+    "Es wäre ratsam, wenn Elektrotechnik Schranz ihre Website auf einen aktuellen Baukasten wie WordPress umstellen würde, um die Wartung und Pflege der Website zu vereinfachen und ein breiteres Spektrum an Erweiterungsmöglichkeiten zu erhalten",
+    "Um die Sichtbarkeit und den Bekanntheitsgrad der Firma zu erhöhen, sollte Elektrotechnik Schranz eine regelmäßige Aktualisierung von Inhalten und Angeboten auf der Website durchführen, um so die Kunden und Interessenten über neue Entwicklungen und Dienstleistungen im Bereich der Elektrotechnik zu informieren"
+  ]
 }

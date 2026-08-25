@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Washandstyle sollte unbedingt eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Nutzererfahrung und die Suchmaschinenoptimierung ist, insbesondere in der Coiffeur-Branche, in der Kunden oft unterwegs nach Empfehlungen suchen",
+    "Es wäre ratsam, die Ladezeit von 298ms zu überprüfen und zu optimieren, da langsame Ladezeiten zu einer höheren Absprungrate führen können und somit die Kundenbindung negativ beeinflussen",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte und -Funktionen wäre wichtig, um die Kunden von Washandstyle stets auf dem neuesten Stand zu halten und eine treue Kundenbasis aufzubauen",
+    "Die Implementierung eines Content-Management-Systems oder einer ähnlichen Lösung könnte die Administration und Pflege der Website erheblich vereinfachen und die Effizienz der Online-Präsenz von Washandstyle steigern"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Kosmetik Parata sollte dringend eine Mobile-Optimierung durchführen, um eine bessere Nutzererfahrung für die immer mehr mit Smartphones surfenden Kunden zu gewährleisten",
+    "Es wäre ratsam, den Inhalt der Website zu überarbeiten, um ihn an die Bedürfnisse und Erwartungen der Kosmetik-Kunden anzupassen und somit die Konversionsraten zu steigern",
+    "Die Ladezeit von 255ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten Sie prüfen, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern oder Code zu reduzieren",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte würde helfen, die Kunden über neue Produkte und Dienstleistungen von Kosmetik Parata zu informieren und somit die Kundenbindung zu stärken"
+  ]
 }

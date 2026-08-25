@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Sennenergie sollte mobil optimiert werden, um eine bessere Benutzererfahrung für die immer mehr mit ihrem Smartphone surfenden Kunden zu bieten",
+    "Es wäre ratsam, die Ladezeit von 263ms zu überprüfen und gegebenenfalls zu optimieren, um sicherzustellen, dass die Website schnell und effizient lädt",
+    "Die Firma Sennenergie könnte von einer Überarbeitung der Website-Navigation profitieren, um den Kunden eine einfachere und intuitivere Suche nach Sanitär- und Heizungslösungen zu ermöglichen",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und eine stärkere Fokussierung auf Suchmaschinenoptimierung würden dazu beitragen, die Online-Präsenz von Sennenergie zu stärken und mehr Kunden anzuziehen"
+  ]
 }

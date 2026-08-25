@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung für taxialpha.ch priorisieren, da die meisten Kunden wahrscheinlich über ihre Smartphones Taxis buchen und eine nicht optimierte Website zu einer schlechten Nutzererfahrung führen kann",
+    "Die Ladezeit von 218ms ist im Vergleich zu anderen Websites sehr schnell, dennoch könnte eine weitere Optimierung der Bilder und Inhalte die Ladezeit noch weiter reduzieren und so die Nutzererfahrung verbessern",
+    "Es wäre ratsam, eine Baukasten-Lösung für die Website in Betracht zu ziehen, um die Wartung und Aktualisierung der Inhalte zu vereinfachen und so die Kosten für die Instandhaltung der Website zu reduzieren",
+    "Die Integration einer einfachen und benutzerfreundlichen Buchungsplattform auf taxialpha.ch könnte die Konversionrate erhöhen und so den Umsatz für Taxialpha steigern, da Kunden dann direkt über die Website Taxis buchen können"
+  ]
 }

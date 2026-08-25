@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Remaelektro sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Die Ladezeit von 239ms ist im Vergleich zu anderen Websites relativ langsam, es wäre ratsam, die Bilder und andere Elemente zu optimieren, um die Ladezeit zu verkürzen",
+    "Die Website von Remaelektro könnte von einer Überarbeitung der Inhalte profitieren, um sie besser an die Bedürfnisse der Kunden in der Elektrobranche anzupassen",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und eine aktivere Nutzung von Social-Media-Kanälen könnte dazu beitragen, die Sichtbarkeit und den Bekanntheitsgrad von Remaelektro zu erhöhen"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Xn Bltenhandwerk Xob könnte durch eine Überarbeitung der Inhaltsstruktur und eine stärkere Fokussierung auf die Darstellung der Blumenarrangements und -dekorationen verbessert werden, um den Besuchern ein besseres Erlebnis zu bieten",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, insbesondere der Blog-Beiträge und der Social-Media-Verlinkungen, wäre ratsam, um die Besucher zu binden und die Sichtbarkeit in den Suchmaschinen zu erhöhen",
+    "Die Ladezeit von 753ms ist zwar nicht extrem langsam, könnte aber durch eine Optimierung der Bildgrößen und eine Verwendung von Content-Delivery-Networks (CDNs) noch weiter reduziert werden, um die Benutzererfahrung zu verbessern",
+    "Eine Einbindung von Online-Bestell- und Zahlungsfunktionen würde es den Kunden ermöglichen, Blumen und Dekorationen direkt über die Website zu bestellen, was den Umsatz und die Kundenzufriedenheit von Xn Bltenhandwerk Xob steigern könnte"
+  ]
 }

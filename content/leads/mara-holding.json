@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Mara Holding sollte ihre Website mobil-optimieren, um eine bessere Nutzererfahrung für die immer mehr mit Smartphones surfenden Kunden zu bieten",
+    "Ein schnellerer Seitenbau durch den Einsatz von modernen Baukastensystemen könnte die Ladezeit von 251ms weiter reduzieren und so die Konversionsraten steigern",
+    "Die Reinigungsbranche lebt von Vertrauen, daher sollte die Mara Holding ihre Website mit Kundenbewertungen und -referenzen ausstatten, um potenziellen Kunden eine bessere Vorstellung von der Qualität ihrer Dienstleistungen zu geben",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte wäre ratsam, um sicherzustellen, dass die Informationen immer aktuell und relevant für die Kunden sind, insbesondere nach dem Online-Gang im Jahr 2025"
+  ]
 }

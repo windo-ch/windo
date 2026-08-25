@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Fresh Pi Lounge Affoltern sollte ihre Website mobile-optimieren, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden zu gewährleisten, insbesondere in der Restaurantbranche, in der Spontanbesuche und Reservierungen oft über das Smartphone getätigt werden.",
+    "Ein weiterer wichtiger Punkt wäre die Implementierung eines Content-Management-Systems oder eines Baukastens, um die Administration und Aktualisierung der Website zu vereinfachen und somit die Pflege der Online-Präsenz zu erleichtern.",
+    "Die Ladezeit von 232ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch könnte durch eine Optimierung der Bildgrößen und eine effizientere Verwaltung der Ressourcen eine weitere Verbesserung erzielt werden, um die Nutzerzufriedenheit zu steigern.",
+    "Um die Sichtbarkeit und Auffindbarkeit der Fresh Pi Lounge Affoltern zu erhöhen, wäre es ratsam, eine Suchmaschinenoptimierung durchzuführen, um sicherzustellen, dass die Website bei relevanten Suchanfragen wie 'Restaurant Affoltern' oder 'Lounge Affoltern' höher in den Suchergebnissen rangiert."
+  ]
 }

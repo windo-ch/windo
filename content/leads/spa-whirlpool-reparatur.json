@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Spa Whirlpool Reparatur sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihrem Smartphone surfenden Kunden zu gewährleisten",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, dass die Kunden schneller finden, wonach sie suchen, und somit die Conversion-Rate steigern",
+    "Die Ladezeit von 336ms ist zwar noch im grünen Bereich, aber es gibt sicherlich Potential für Verbesserungen, indem man beispielsweise die Bilddaten komprimiert oder den Code optimiert",
+    "Eine regelmäßige Aktualisierung des Angebots und der Inhalte auf der Website würde dazu beitragen, dass die Kunden von Spa Whirlpool Reparatur immer auf dem neuesten Stand sind und somit die Treue zu dem Unternehmen gefördert wird"
+  ]
 }

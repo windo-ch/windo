@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Gartenbau Hartmann sollte dringend eine Mobile-Optimierung erhalten, da die meisten Nutzer heutzutage über Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Die Ladezeit von 284ms ist zwar noch im Rahmen, könnte aber durch eine Optimierung der Bilder und eine Nutzung von Content Delivery Networks noch weiter verbessert werden, um die Nutzererfahrung zu steigern",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder Joomla zu verwenden, um die Website einfacher zu aktualisieren und zu verwalten, insbesondere für eine Firma wie Gartenbau Hartmann, die möglicherweise nicht über umfangreiche technische Ressourcen verfügt",
+    "Die Integration von Kundenbewertungen und -rezensionen auf der Website könnte helfen, das Vertrauen potenzieller Kunden zu stärken und die Glaubwürdigkeit von Gartenbau Hartmann als seriösem Gartenbau-Unternehmen zu unterstreichen"
+  ]
 }

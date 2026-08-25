@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Safemoving-Website sollte dringend eine Mobiloptimierung durchführen, da dies heutzutage ein wichtiger Faktor für die Nutzererfahrung und Suchmaschinenoptimierung ist",
+    "Ein weiterer Punkt, der verbessert werden könnte, ist die übersichtliche Darstellung der Dienstleistungen auf der Website, da die aktuellen Inhalte teilweise sehr lang und unübersichtlich sind",
+    "Es wäre förderlich, wenn die Safemoving-Website eine klare Auflistung der Vorteile und spezifischen Angebote für Umzüge und Transporte bereitstellen würde, um potenzielle Kunden besser anzusprechen",
+    "Die Ladezeit von 233ms ist akzeptabel, jedoch könnte durch eine regelmäßige Überprüfung und Optimierung der Website-Code und -Inhalte weitere Verbesserungspotenziale genutzt werden, um die effiziente Darstellung der Website zu gewährleisten"
+  ]
 }

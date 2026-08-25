@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Heinzweber Carrosserie sollte ihre Website mobil-optimieren, um eine bessere Benutzererfahrung für die zunehmend mobil agierenden Kunden zu gewährleisten",
+    "Eine Überarbeitung der Inhalte und eine klare Strukturierung der Angebote würden helfen, potenziellen Kunden die Vorteile der Heinzweber Carrosserie besser zu vermitteln",
+    "Die Ladezeit von 235ms ist im Vergleich zu anderen Websites sehr schnell, jedoch könnte eine weitere Optimierung der Bilder und der Code-Struktur die Ladezeit noch weiter reduzieren",
+    "Eine regelmäßige Aktualisierung der Website mit aktuellen Angeboten, News und Kundenbewertungen würde die Heinzweber Carrosserie als aktives und kundenorientiertes Unternehmen darstellen und die Bindung an bestehende Kunden stärken"
+  ]
 }

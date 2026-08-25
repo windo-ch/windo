@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Kaminfeger Wald sollte unbedingt eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    " Eine Überarbeitung der Nutzeroberfläche und eine verbesserte Strukturierung der Inhalte würden helfen, die Aufmerksamkeit der Besucher zu erhalten und dieNavigation auf der Website zu erleichtern",
+    "Es wäre ratsam, regelmäßig aktuelle Inhalte und Neuigkeiten im Bereich der Kaminfegerbranche zu veröffentlichen, um die Website interessant und aktuell zu halten und die Besucher zu einer Rückkehr zu motivieren",
+    "Die Ladezeit von 219ms ist für eine Website, die erst 2023 online ging, rekordverdächtig langsam, daher sollte die Seite technisch überprüft und optimiert werden, um bessere Leistungen zu erzielen und die Besucherzufriedenheit zu steigern"
+  ]
 }

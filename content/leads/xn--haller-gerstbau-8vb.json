@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Xn Haller Gerstbau 8vb sollte mobil optimiert werden, um eine bessere Benutzererfahrung für die zunehmend mobilen Besucher zu bieten, insbesondere in der Bauunternehmens-Branche, in der oft vor Ort recherchiert wird.",
+    "Um die Ladezeit von 310ms zu verbessern, könnten Bilder und andere Medien auf der Website komprimiert werden, um die gesamte Ladezeit zu verkürzen und somit die Benutzerzufriedenheit zu steigern.",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und somit die Kommunikation mit den Kunden und Interessenten verbessern.",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte wäre ratsam, um sicherzustellen, dass die Besucher stets die aktuellen Informationen über die Dienstleistungen und Projekte von Xn Haller Gerstbau 8vb erhalten."
+  ]
 }

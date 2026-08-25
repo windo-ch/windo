@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Kaelingartenbau sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobilen Kunden in der Gartenbau-Branche zu bieten",
+    "Eine Überarbeitung der Seitenstruktur und eine Verbesserung der internen Verlinkung könnten dazu beitragen, dass Kunden auf der Website von Kaelingartenbau leichter finden, was sie suchen",
+    "Die Ladezeit von 273ms ist im Vergleich zu anderen Websites im Gartenbau-Bereich relativ langsam, eine Optimierung der Bildgrößen und eine Nutzung von Content-Delivery-Networks könnten hier Abhilfe schaffen",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und ein Blog, in dem aktuelle Trends und Tipps aus der Gartenbau-Branche präsentiert werden, könnten dazu beitragen, dass die Website von Kaelingartenbau für Kunden und Suchmaschinen interessanter wird"
+  ]
 }

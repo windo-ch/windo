@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Malereilocher sollte dringend eine mobile Optimierung erhalten, da viele potenzielle Kunden über ihre Smartphones auf die Seite zugreifen und eine nicht optimierte Seite zu einer hohen Abbruchrate führen kann. Durch die Optimierung kann Malereilocher eine bessere Nutzererfahrung bieten und somit mehr Kunden gewinnen.",
+    "Die Ladezeit von 239ms ist im Vergleich zu anderen Websites relativ schnell, jedoch gibt es noch Potential für Verbesserung, indem beispielsweise Bilder und andere Medien optimiert werden, um die Ladezeit weiter zu reduzieren und die Nutzererfahrung zu verbessern.",
+    "Es wäre ratsam, wenn Malereilocher ein Content-Management-System oder einen Baukasten wie WordPress oder TYPO3 einsetzen würde, um die Inhalte auf der Website einfacher zu verwalten und zu aktualisieren, was insbesondere für eine Firma wie Malereilocher wichtig ist, die regelmäßig neue Projekte und Angebote präsentieren möchte.",
+    "Um die Sichtbarkeit und den Online-Auftritt von Malereilocher zu verbessern, sollten regelmäßig aktuelle Inhalte wie Blog-Beiträge, Projektberichte oder Kundenbewertungen veröffentlicht werden, um die Zielgruppe zu informieren und zu binden, und um somit die Positionierung von Malereilocher als kompetenter Maler in der Schweiz zu stärken."
+  ]
 }

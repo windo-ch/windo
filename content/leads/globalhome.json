@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Website von Globalhome auf ein mobile-optimiertes Design umstellen, um die wachsende Zahl von mobilen Nutzern besser zu bedienen und die Benutzererfahrung zu verbessern",
+    "Eine Überarbeitung der Seitenstruktur und Inhalte könnte dazu beitragen, dass die Website von Globalhome besser auf die Bedürfnisse von Kunden aus der Gipserbranche eingeht und somit mehr Leads generiert",
+    "Die Ladezeit von 262ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch könnte eine Optimierung der Bildgrößen und eine Verwendung von Content Delivery Networks die Ladezeit weiter reduzieren und die Nutzererfahrung verbessern",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und ein Engagement in den sozialen Medien könnten dazu beitragen, dass Globalhome als aktives und kundenorientiertes Unternehmen in der Gipserbranche wahrgenommen wird und somit die Online-Präsenz stärkt"
+  ]
 }

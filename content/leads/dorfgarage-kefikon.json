@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Ein klarer Call-to-Action auf der Startseite — «Jetzt anrufen» oder «Offerte anfragen» — würde Besucher direkter zum Handeln bewegen.",
+    "Google-Bewertungen direkt auf der Website würden das Vertrauen neuer Kunden sofort stärken.",
+    "Ein kurzer «Über uns»-Bereich mit Foto macht die Website persönlicher — KMU-Kunden kaufen von Menschen.",
+    "Strukturierte Daten (Schema.org) helfen Google, Ihr Angebot richtig einzuordnen und in lokalen Suchen zu zeigen."
+  ]
 }

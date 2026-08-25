@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten dringend eine mobile-optimierte Version Ihrer Website dr-egloff.ch entwickeln, da dies heutzutage ein wichtiger Faktor für die Usability und Suchmaschinenoptimierung ist, besonders in der Branche von Ärzten und Praxen",
+    "Die Ladezeit von 246ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und Code eine weitere Verbesserung erzielt werden, um die Patientenerfahrung zu verbessern",
+    "Es wäre ratsam, einen regelmäßigen Audit und Update-Prozess für die Website einzuführen, um sicherzustellen, dass die Informationen über Dr. Egloffs Praxis und Leistungen stets aktuell und korrekt sind",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website dr-egloff.ch erleichtern und somit die Kommunikation mit den Patienten verbessern"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Duri Haustechnik sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobilen Kunden in der Sanitär- und Heizungsbranche zu bieten",
+    "Es wäre ratsam, eine klare Auflistung der angebotenen Dienstleistungen und Produkte auf der Startseite zu integrieren, um den Besuchern eine schnelle und einfache Orientierung zu ermöglichen",
+    "Eine Suche nach Kundenbewertungen und Erfahrungsberichten auf der Website von Duri Haustechnik ergab keine relevanten Ergebnisse, es wäre daher empfehlenswert, ein Bewertungssystem zu implementieren, um die Glaubwürdigkeit und Transparenz zu erhöhen",
+    "Die Ladezeit von 228ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Implementierung eines Content Delivery Networks (CDN) und die Optimierung der Bildgrößen die Ladezeit noch weiter reduziert werden, um die Nutzererfahrung zu verbessern"
+  ]
 }

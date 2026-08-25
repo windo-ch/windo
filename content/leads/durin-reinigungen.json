@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Durin Reinigungen sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Es wäre ratsam, den Aufbau der Website zu überarbeiten, um eine einfachere Navigation und eine bessere Struktur zu ermöglichen, was insbesondere für potenzielle Kunden in der Reinigungsbranche wichtig ist",
+    "Die Ladezeit von 238ms ist im Vergleich zu anderen Websites relativ schnell, aber es gibt trotzdem Potential für Optimierungen, um die Seitenladegeschwindigkeit weiter zu verbessern und damit die User Experience zu steigern",
+    "Durin Reinigungen könnte von der Einbindung von Kundenbewertungen und -empfehlungen auf der Website profitieren, um Vertrauen aufzubauen und die Glaubwürdigkeit des Unternehmens in der Reinigungsbranche zu stärken"
+  ]
 }

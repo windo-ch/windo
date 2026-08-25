@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Harmoniebasel sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer grösser werdende Anzahl von mobilen Besuchern zu gewährleisten",
+    "Es wäre ratsam, die Ladezeit von 262ms zu überprüfen und gegebenenfalls zu optimieren, um sicherzustellen, dass die Website schnell und effizient lädt",
+    "Die Verwendung eines Baukastens könnte die Wartung und Aktualisierung der Website von Harmoniebasel vereinfachen und somit die Kosten reduzieren",
+    "Eine regelmässige Überprüfung und Aktualisierung der Website-Inhalte wäre empfehlenswert, um sicherzustellen, dass die Besucher von harmoniebasel.ch immer die aktuellsten Informationen erhalten"
+  ]
 }

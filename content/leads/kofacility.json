@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Kofacility sollte unbedingt mobile-optimiert werden, um eine bessere Nutzererfahrung für die wachsende Zahl von Mobilnutzern zu bieten",
+    "Es wäre ratsam, den Inhalt der Website zu überarbeiten, um ihn spezifischer auf die Bedürfnisse von Kunden in der Reinigungsbranche auszurichten und somit die Konkurrenzfähigkeit von Kofacility zu verbessern",
+    "Eine Weiterentwicklung der Website unter Verwendung eines Baukastens könnte die Pflege und Aktualisierung der Inhalte erleichtern und somit die Online-Präsenz von Kofacility stärken",
+    "Die Ladezeit von 244ms ist akzeptabel, aber es gibt womöglich noch Potential für Optimierungen, um die Leistung der Website zu verbessern und somit die Nutzererfahrung zu erhöhen"
+  ]
 }

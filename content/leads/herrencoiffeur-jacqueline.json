@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Herrencoiffeur Jacqueline sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zahlreichen Besucher zu bieten, die über ihr Smartphone auf die Seite zugreifen",
+    "Es wäre ratsam, eine klare Auflistung der angebotenen Dienstleistungen und Preise auf der Website zu integrieren, um potenziellen Kunden eine bessere Übersicht zu bieten",
+    "Die Ladezeit von 231ms ist im Vergleich zu anderen Websites relativ langsam, es wäre daher empfehlenswert, die Bilder und anderen Elemente auf der Website zu optimieren, um die Ladezeit zu verkürzen",
+    "Eine regelmäßige Aktualisierung der Website mit neuen Inhalten, wie zum Beispiel Hairstyling-Tipps oder Neuigkeiten aus dem Salon, könnte helfen, die Besucher zu binden und die Sichtbarkeit von Herrencoiffeur Jacqueline in der Suchmaschinen zu verbessern"
+  ]
 }

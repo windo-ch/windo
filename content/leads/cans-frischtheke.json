@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Cans Frischtheke sollte unbedingt eine mobile Optimierung erhalten, da viele potenzielle Kunden über ihr Smartphone nach Restaurants in der Nähe suchen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Um die Benutzererfahrung zu verbessern, könnte die Ladezeit von 295ms durch eine Optimierung der Bildgrößen und eine Verwendung von Content Delivery Networks reduziert werden",
+    "Es wäre ratsam, eine einfache und intuitive Navigation auf der Website zu implementieren, um es den Kunden leichter zu machen, die verschiedenen Angebote und Speisen von Cans Frischtheke zu finden",
+    "Eine regelmäßige Aktualisierung der Website mit aktuellen Angeboten, Events und Nachrichten aus dem Restaurant würde helfen, die Kunden zu binden und eine treue Gemeinschaft aufzubauen"
+  ]
 }

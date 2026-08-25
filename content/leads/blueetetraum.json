@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Blueetetraum sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden in der Floristenbranche zu bieten",
+    "Eine reduzierte Ladezeit, beispielsweise durch Optimierung der Bildgrössen oder Nutzung eines Content Delivery Networks, könnte die Konversionrate auf blueetetraum.ch verbessern",
+    "Ein Baukastensystem könnte die Wartung und Aktualisierung der Website vereinfachen und somit die Kosten für zukünftige Anpassungen senken",
+    "Eine regelmässige Überprüfung und Aktualisierung der Sicherheitszertifikate, insbesondere des SSL-Zertifikats, ist wichtig, um die Sicherheit und Vertrauenswürdigkeit der Website von Blueetetraum zu gewährleisten"
+  ]
 }

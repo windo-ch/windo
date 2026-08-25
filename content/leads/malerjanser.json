@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Malerjanser sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden in der Gipserbranche zu bieten",
+    "Eine Überarbeitung der Seitenstruktur und Inhalte könnte dazu beitragen, dass potenzielle Kunden die Dienstleistungen von Malerjanser besser verstehen und leichter finden",
+    "Die Ladezeit von 264ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch sollte man sich bemühen, diese durch Optimierung der Bilder und des Codes weiter zu reduzieren, um die Konversionrate zu steigern",
+    "Eine regelmässige Aktualisierung der Website mit neuen Inhalten, wie zum Beispiel Referenzen oder Kundenbewertungen, könnte dazu beitragen, dass Malerjanser in der Suche besser gefunden wird und eine höhere Glaubwürdigkeit bei potenziellen Kunden aufbaut"
+  ]
 }

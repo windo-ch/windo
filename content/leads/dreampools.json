@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Dreampools sollte mobil optimiert werden, um den wachsenden Anteil von Besuchern, die über Smartphones zugreifen, besser zu bedienen und eine bessere Nutzererfahrung zu bieten",
+    "Die Ladezeit von 242ms ist im Vergleich zu anderen Websites in der Yoga- und Wellnessbranche relativ langsam, daher sollten Sie prüfen, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern oder Code zu reduzieren",
+    "Es wäre ratsam, einen Baukasten oder ein Content-Management-System zu verwenden, um die Pflege und Aktualisierung der Website zu erleichtern und flexibler auf Änderungen im Unternehmen oder in der Branche reagieren zu können",
+    "Die Website sollte auch eine klarere Struktur und einfacher navigierbare Inhalte aufweisen, um den Besuchern eine einfache und intuitive Erfahrung zu bieten und sie dazu anzuregen, länger auf der Website zu bleiben und die Angebote von Dreampools zu erkunden"
+  ]
 }

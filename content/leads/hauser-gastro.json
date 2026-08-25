@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Nutzererfahrung zu verbessern, sollten Sie die Website von Hauser Gastro mobil-optimieren, da viele Kunden wahrscheinlich über Smartphones auf die Seite zugreifen werden",
+    "Die Ladezeit von 244ms ist im Vergleich zu anderen Websites im Küchenbau-Bereich relativ langsam, daher wäre es ratsam, die Bilder und Inhalte zu optimieren, um die Ladezeit zu verkürzen",
+    "Eine Möglichkeit, die Benutzerfreundlichkeit zu erhöhen, wäre die Implementierung eines Baukastensystems, um Kunden bei der Planung und Konfiguration ihrer Küchen zu unterstützen",
+    "Es wäre auch hilfreich, wenn Hauser Gastro regelmäßig Updates und Neuigkeiten auf der Website veröffentlichen würde, um Kunden über neue Trends und Angebote im Küchenbau-Bereich zu informieren und die Website aktuell zu halten"
+  ]
 }

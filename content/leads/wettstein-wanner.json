@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Wettstein Wanner sollte dringend eine Mobile-Optimierung erhalten, um den wachsenden Anteil von Besuchern mit mobilen Geräten besser zu bedienen und die Nutzererfahrung zu verbessern",
+    "Die Ladezeit von 2334ms ist deutlich zu lang und sollte durch Optimierungen wie Bildkomprimierung und Code-Optimierung reduziert werden, um die Besucherzufriedenheit zu steigern",
+    "Es wäre ratsam, eine moderne Baukasten-Lösung zu implementieren, um die Wartung und Pflege der Website zu erleichtern und flexibler auf zukünftige Anforderungen reagieren zu können",
+    "Die Website sollte auch eine klare Auflistung der angebotenen Bedachungsdienstleistungen und Referenzen erhalten, um potenziellen Kunden eine bessere Übersicht über das Leistungsangebot von Wettstein Wanner zu bieten"
+  ]
 }

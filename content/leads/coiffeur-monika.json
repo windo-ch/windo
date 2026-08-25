@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Coiffeur Monika sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Es wäre ratsam, eine einfache Online-Terminbuchungsfunktion auf der Website zu integrieren, um Kunden die Möglichkeit zu geben, bequem einen Friseurtermin zu buchen",
+    "Die Ladezeit von 254ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten Sie prüfen, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern oder Code zu verkürzen",
+    "Eine regelmäßige Aktualisierung der Website mit neuen Inhalten, wie zum Beispiel Frisur-Trends oder Spezialangeboten, könnte dazu beitragen, dass Kunden regelmäßig auf die Website zurückkehren und ein positives Bild von Coiffeur Monika bekommen"
+  ]
 }

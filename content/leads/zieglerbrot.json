@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung für die Website zieglerbrot.ch umsetzen, da dies für eine gute Nutzererfahrung und eine bessere Platzierung in den Suchmaschinen unerlässlich ist, insbesondere in der Restaurantbranche, in der Kunden oft auf ihrem Smartphone nach Lokalen suchen",
+    "Die Ladezeit von 210ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und die Verwendung eines Content-Delivery-Networks (CDN) die Ladezeit noch weiter reduziert werden, um die Nutzerzufriedenheit zu erhöhen",
+    "Ein Baukastensystem für die Website würde es dem Team von Zieglerbrot ermöglichen, Inhalte einfacher zu aktualisieren und anzupassen, ohne dass umfassende technische Kenntnisse erforderlich sind, was die Pflege und Erweiterung der Website erleichtern würde",
+    "Die Einbindung von Online-Bestell- und Reservierungsfunktionen auf der Website zieglerbrot.ch könnte den Umsatz und die Kundenbindung für Zieglerbrot steigern, da Kunden immer mehr nach Möglichkeiten suchen, online zu bestellen oder Tische zu reservieren, ohne die Website verlassen zu müssen"
+  ]
 }

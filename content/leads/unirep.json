@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Unirep sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mobilen Besucher zu gewährleisten, insbesondere in der Branche des Schlüsseldienstes, wo Kunden oft schnell Hilfe benötigen",
+    "Die Ladezeit von 281ms ist zwar noch im Rahmen, aber es gibt sicherlich Potential für Optimierungen, um die Nutzererfahrung weiter zu verbessern und die Konkurrenzfähigkeit von Unirep zu stärken",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder ähnliches zu verwenden, um die Wartung und Aktualisierung der Website zu erleichtern und die Flexibilität bei zukünftigen Anpassungen zu erhöhen",
+    "Unirep sollte auch die Suchmaschinenoptimierung (SEO) überprüfen und gegebenenfalls anpassen, um sicherzustellen, dass die Website leicht auffindbar ist, wenn Kunden nach Schlüsseldienstleistungen in der Schweiz suchen"
+  ]
 }

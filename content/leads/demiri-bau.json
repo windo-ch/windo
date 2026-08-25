@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Demiri Bau sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zahlreichen Besucher zu gewährleisten, die über ihre Smartphones auf die Seite zugreifen.",
+    "Es wäre ratsam, eine Möglichkeit zu schaffen, damit Kunden leichter Angebote und Preise von Demiri Bau online anfordern können, um so den Kaufprozess zu beschleunigen und die Konversion zu erhöhen.",
+    "Die Ladezeit von 242ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Implementierung eines Content Delivery Networks (CDN) und die Optimierung von Bildern die Ladezeit noch weiter reduziert werden, um so die Nutzerzufriedenheit zu steigern.",
+    "Um die Sichtbarkeit und den Online-Auftritt von Demiri Bau zu verbessern, wäre es empfehlenswert, regelmäßig aktuelle und informative Inhalte über Gartenbau und die Dienstleistungen des Unternehmens auf der Website zu veröffentlichen, um so die Suchmaschinenoptimierung (SEO) zu stärken und potenzielle Kunden anzuziehen."
+  ]
 }

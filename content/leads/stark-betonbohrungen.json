@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Stark Betonbohrungen sollte dringend auf eine mobile-optimierte Version umgestellt werden, da dies heutzutage ein wichtiger Faktor für die Benutzererfahrung und die Suchmaschinenoptimierung ist",
+    "Eine Überarbeitung der Website-Struktur und - Navigation würde helfen, die Nutzer besser durch die Angebote von Stark Betonbohrungen zu führen und die Konversionrate zu erhöhen",
+    "Die Ladezeit von 247ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten Sie prüfen, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern oder Code zu reduzieren",
+    "Eine regelmäßige Aktualisierung von Inhalten und Angeboten auf der Website würde helfen, die Nutzer zu binden und die Sichtbarkeit von Stark Betonbohrungen in der Branche zu erhöhen"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Thommen Orthopaedie sollte dringend mobile-optimiert werden, da die meisten Nutzer heutzutage über Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Abbruchrate führen kann",
+    "Eine Überarbeitung der Seitenstruktur und -inhalte könnte dazu beitragen, dass die Besucher von thommen-orthopaedie.ch einfacher finden, wonach sie suchen, und somit eine bessere User Experience haben",
+    "Es wäre ratsam, den Inhalt der Website regelmäßig zu aktualisieren, um die Besucher über neue Entwicklungen und Angebote in der Orthopädie-Branche zu informieren und so die Bindung an die Marke Thommen Orthopaedie zu stärken",
+    "Eine Implementierung eines Content-Management-Systems könnte die Wartung und Pflege der Website erleichtern und es ermöglichen, dass Mitarbeiter von Thommen Orthopaedie ohne umfassende technische Kenntnisse Inhalte veröffentlichen und aktualisieren können"
+  ]
 }

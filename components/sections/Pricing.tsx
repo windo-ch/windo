@@ -37,6 +37,7 @@ export default function Pricing() {
               'Schnell geladen auf allen Geräten',
               'SEO & Schema-Markup',
               'Hosting & Betreuung inklusive',
+              'Änderungen innert 24 Stunden',
               'Monatlich kündbar',
             ].map((item) => (
               <li key={item} className="flex items-start gap-2.5 text-sm text-gray-400">

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Beauty Life sollte dringend mobile-optimiert werden, da die meisten Nutzer heutzutage über Smartphones auf Internetseiten zugreifen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Um die Nutzererfahrung zu verbessern, könnte die Ladezeit von 350ms durch Optimierung der Bildgrößen und Nutzung eines Content Delivery Networks reduziert werden",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder Joomla zu verwenden, um die Wartung und Aktualisierung der Website zu vereinfachen und so Kosten und Zeit zu sparen",
+    "Die SEO von beauty-life.ch könnte durch gezielte Optimierung der Meta-Tags, Header und Inhalte verbessert werden, um eine bessere Sichtbarkeit in Suchmaschinen zu erzielen und so mehr Kunden für die Kosmetikbranche zu gewinnen"
+  ]
 }

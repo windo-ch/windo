@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Gatzsch sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden der Schreinerei-Branche zu gewährleisten",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die verschiedenen Dienstleistungen und Produkte von Gatzsch besser zu präsentieren und somit die Konversionrate zu erhöhen",
+    "Die Ladezeit von 263ms ist im Vergleich zu anderen Websites relativ langsam, eine Optimierung der Bildgrößen und eine Implementierung von Lazy-Loading könnten hier Abhilfe schaffen",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, beispielsweise durch einen Blog oder ein News-Section, würde helfen, die Kunden von Gatzsch über neue Entwicklungen und Trends in der Schreinerei-Branche zu informieren und somit die Bindung zu den Kunden zu stärken"
+  ]
 }

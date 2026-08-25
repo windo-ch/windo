@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Salon Meligiu sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Ein modernes Content-Management-System mit Baukastenfunktionen würde die Pflege und Aktualisierung der Website erheblich vereinfachen und flexibler gestalten",
+    "Um die Sichtbarkeit und Reichweite zu erhöhen, sollten regelmäßig aktuelle Inhalte wie Frisur-Trends, Styling-Tipps oder spezielle Angebote für Stammkunden auf der Website veröffentlicht werden",
+    "Die Ladezeit von 253ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch könnte durch die Optimierung von Bildern und die Verwendung von Content-Delivery-Networks die Ladezeit weiter verkürzt und die Benutzerfreundlichkeit verbessert werden"
+  ]
 }

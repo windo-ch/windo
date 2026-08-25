@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um Ihren Kunden eine optimale Nutzererfahrung zu bieten, wäre es ratsam, die Website von Elviras Beauty mobil zu optimieren, da viele Nutzer über ihre Smartphones auf Kosmetikseiten zugreifen",
+    "Ein weiterer wichtiger Punkt wäre die Implementierung eines Content-Management-Systems, um die Aktualisierung von Inhalten wie Produktbeschreibungen und Preisen zu erleichtern und so die Website stets auf dem neuesten Stand zu halten",
+    "Die Ladezeit von 194ms ist im Vergleich zu anderen Websites im selben Bereich relativ langsam, daher sollte die Optimierung der Bilder und der Code-Qualität Priorität haben, um eine schnellere Ladezeit zu erzielen",
+    "Da die Branche der Kosmetik sehr visuell dominiert ist, wäre es vorteilhaft, hochwertige Bildinhalte auf der Website zu integrieren, um die Produkte und Dienstleistungen von Elviras Beauty ansprechend darzustellen und so den Kunden eine umfassende Übersicht zu bieten"
+  ]
 }

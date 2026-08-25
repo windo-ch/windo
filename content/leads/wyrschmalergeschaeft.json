@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Wyrschmalergeschaeft sollte unbedingt eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Es wäre ratsam, die Ladezeit von 280ms zu überprüfen und gegebenenfalls zu optimieren, um sicherzustellen, dass die Website schnell und reibungslos lädt",
+    "Eine Überarbeitung der Website-Struktur und des Designs könnte dazu beitragen, die Inhalte besser zu präsentieren und die Besucher zu einer Kontaktaufnahme mit dem Gipser-Unternehmen zu ermutigen",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und es dem Wyrschmalergeschaeft ermöglichen, regelmäßig neue Inhalte zu veröffentlichen"
+  ]
 }

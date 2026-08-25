@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website ist nicht für Mobilgeräte optimiert. Über 60% Ihrer potenziellen Kunden suchen auf dem Handy — und sehen eine verkleinerte Desktop-Ansicht.",
+    "Aktuelle Preise und Pakete transparent zeigen — Fahrschüler vergleichen vor der Anmeldung.",
+    "Google-Bewertungen einbinden — bei Fahrschulen entscheidet der Ruf.",
+    "Ein klarer Call-to-Action auf der Startseite — «Jetzt anrufen» oder «Offerte anfragen» — würde Besucher direkter zum Handeln bewegen."
+  ]
 }

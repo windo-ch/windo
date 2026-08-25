@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Haueter Haustechnik sollte unbedingt mobile-optimiert werden, da die meisten Nutzer heutzutage über Smartphones auf das Internet zugreifen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Um die Ladezeit von 251ms zu verbessern, könnte die Implementierung eines Content Delivery Networks (CDN) hilfreich sein, da dies die Last auf mehrere Server verteilt und somit die Ladezeit verkürzt",
+    "Die Firma Haueter Haustechnik sollte ihre Website mit einem Baukastensystem wie WordPress oder Joomla erstellen, um einfacher und schneller Inhalte zu verwalten und zu aktualisieren",
+    "Es wäre ratsam, eine Suchfunktion auf der Website zu integrieren, um den Nutzern zu ermöglichen, schnell und einfach nach bestimmten Produkten oder Dienstleistungen wie Heizungen oder Sanitärinstallationen zu suchen"
+  ]
 }

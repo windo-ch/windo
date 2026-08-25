@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Cosmetic Laboheme sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und Suchmaschinenoptimierung ist",
+    "Die Ladezeit von 235ms ist im Vergleich zu anderen Websites relativ langsam und könnte durch Optimierung der Bildgrößen und Komprimierung von Dateien verbessert werden",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder Shopify zu verwenden, um die Website einfacher zu aktualisieren und zu verwalten",
+    "Die Website sollte auch regelmäßig aktualisiert werden, um neue Produkte und Dienstleistungen von Cosmetic Laboheme anzubieten und die Kunden zu binden"
+  ]
 }

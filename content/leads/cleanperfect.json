@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Cleanperfect-Website sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mobilen Besucher zu gewährleisten, insbesondere in der Reinigungsbranche, in der Kunden oft unterwegs nach Dienstleistungen suchen",
+    "Eine Überarbeitung der Seitenstruktur und eine Vereinfachung der Navigation würden helfen, die Ladezeit zu reduzieren und die Benutzerfreundlichkeit zu verbessern, was insbesondere für eine Reinigungsfirma wie Cleanperfect wichtig ist, um potenzielle Kunden schnell und einfach zu ihren Dienstleistungen zu führen",
+    "Es wäre ratsam, eine Suche nach Schlüsselwörtern wie 'Reinigung Schweiz' oder 'Cleanperfect' durchzuführen, um die Sichtbarkeit der Website in Suchmaschinen zu erhöhen und somit mehr organischen Traffic zu generieren",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und ermöglichen, dass Cleanperfect ihre Online-Präsenz effizienter pflegt und an die Bedürfnisse ihrer Kunden anpasst"
+  ]
 }

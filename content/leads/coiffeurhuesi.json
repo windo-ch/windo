@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Coiffeurhuesi sollte mobil optimiert werden, um eine bessere Benutzererfahrung für die meisten Nutzer zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, dass potenzielle Kunden einfacher finden, was sie suchen, und somit mehr Buchungen über die Website generiert werden",
+    "Die Ladezeit von 233ms ist im Vergleich zu anderen Websites sehr schnell, jedoch könnte durch die Implementierung eines Content Delivery Networks (CDN) die Ladezeit weiter verbessert werden",
+    "Eine regelmäßige Aktualisierung des Angebots und der Preise auf der Website würde helfen, dass Kunden immer die aktuellen Informationen erhalten und somit das Vertrauen in das Unternehmen gestärkt wird"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Korak sollte dringend eine mobile Optimierung erhalten, um den wachsenden Anteil von mobilen Besuchern besser zu bedienen und die Nutzererfahrung zu verbessern",
+    "Eine Überarbeitung der Seitenstruktur und Inhalte könnte dazu beitragen, dass Kunden von Korak einfacher die gesuchten Informationen über Elektroprodukte und -dienstleistungen finden",
+    "Die Ladezeit von 258ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und die Verwendung eines modernen Caching-Systems diese Zeit noch weiter reduziert werden",
+    "Um die Positionierung von Korak in der Elektrobranche zu stärken, wäre es ratsam, regelmäßig aktuelle und informative Inhalte wie Blogartikel oder Nachrichten über neue Elektrotechnologien und Trends zu veröffentlichen"
+  ]
 }

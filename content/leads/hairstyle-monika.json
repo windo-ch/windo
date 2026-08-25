@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Hairstyle Monika sollte unbedingt eine mobile Optimierung erhalten, da die meisten Kunden heutzutage über Smartphones surfen und eine nicht optimierte Seite zu einer hohen Abbruchrate führen kann",
+    "Es wäre ratsam, die Ladezeit von 333ms zu reduzieren, indem man beispielsweise die Bilddaten komprimiert oder den Code optimiert, um die User Experience zu verbessern",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, beispielsweise durch einen Blog über die neuesten Frisur-Trends, würde helfen, die Kunden zu binden und die Suchmaschinenoptimierung zu verbessern",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens würde es Hairstyle Monika ermöglichen, Inhalte einfacher zu verwalten und zu aktualisieren, ohne dabei auf externe Hilfe angewiesen zu sein"
+  ]
 }

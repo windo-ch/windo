@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Das Kosmetikstudio Im Hof sollte dringend eine mobile-optimierte Version seiner Website entwickeln, da die meisten Kunden heutzutage über Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einem hohen Bounce-Rate führen kann",
+    "Die Ladezeit von 200ms ist sehr gut, jedoch sollten regelmäßige Überprüfungen durchgeführt werden, um sicherzustellen, dass die Seite auch in Zukunft schnell lädt und die Kunden nicht durch lange Ladezeiten vertrieben werden",
+    "Es wäre ratsam, einen Blog oder eine News-Seite auf der Website des Kosmetikstudios Im Hof zu integrieren, um Kunden über neue Behandlungen, Produkte und Angebote zu informieren und somit die Kundenbindung zu stärken",
+    "Das Kosmetikstudio Im Hof könnte seine Online-Präsenz durch die Einbindung von sozialen Medien wie Instagram oder Facebook stärken, um mit den Kunden in Kontakt zu treten, Behind-the-Scenes-Einblicke zu gewähren und somit eine Community aufzubauen"
+  ]
 }

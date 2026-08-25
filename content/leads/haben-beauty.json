@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Haben Beauty sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Es wäre ratsam, die Ladezeit von 224ms zu überprüfen und gegebenenfalls zu optimieren, um sicherzustellen, dass die Seite schnell genug lädt und die Besucher nicht verliert",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und somit die Kommunikation mit den Kunden verbessern",
+    "Um die Positionierung von Haben Beauty in der Kosmetikbranche zu stärken, könnte die Website durch die Integration von Kundenbewertungen, Blogartikeln oder Videos, die sich auf die Produkte und Dienstleistungen konzentrieren, aufgewertet werden"
+  ]
 }

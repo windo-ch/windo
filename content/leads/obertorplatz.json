@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung für die Website obertorplatz.ch priorisieren, da viele potenzielle Klienten über mobile Geräte auf die Seite zugreifen und eine nicht optimierte Seite zu einer schlechten Nutzererfahrung führen kann",
+    "Die Ladezeit von 259ms ist im Allgemeinen gut, jedoch könnte durch eine Optimierung der Bildgrößen und eine effizientere Verwendung von Ressourcen eine noch schnellere Ladezeit erzielt werden",
+    "Als Anwalt ist es wichtig, dass die Website professionell und seriös wirkt, daher sollten Sie in Betracht ziehen, die Gestaltung und das Design der Website zu überarbeiten, um ein zeitgemäßes und ansprechendes Erscheinungsbild zu erzielen",
+    "Die Tatsache, dass die Website seit 2018 online ist und noch nicht auf einen Baukasten umgestellt wurde, könnte darauf hindeuten, dass die Website möglicherweise nicht regelmäßig aktualisiert oder gewartet wird, was zu Sicherheitsrisiken führen kann, daher sollten Sie eine regelmäßige Wartung und Aktualisierung der Website in Betracht ziehen"
+  ]
 }

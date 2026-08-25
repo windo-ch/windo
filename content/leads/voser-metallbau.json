@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Website von Voser Metallbau mobil-optimieren, um eine bessere Nutzererfahrung für Besucher mit Smartphones zu gewährleisten, da viele Kunden heutzutage über mobile Geräte surfen",
+    "Die Ladezeit von 175ms ist sehr schnell, aber es wäre ratsam, regelmäßig die Website zu überprüfen, um sicherzustellen, dass sie auch in Zukunft schnell bleibt und die Nutzer nicht durch lange Ladezeiten verliert",
+    "Es wäre hilfreich, wenn Sie auf der Website von Voser Metallbau eindeutige Calls-to-Action wie 'Kontaktieren Sie uns' oder 'Angebot anfordern' einfügen würden, um den Besuchern eine klare Aufforderung zu geben, wie sie mit dem Unternehmen in Kontakt treten können",
+    "Die Verwendung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website von Voser Metallbau erleichtern und es dem Unternehmen ermöglichen, regelmäßig neue Inhalte zu veröffentlichen und die Website auf dem neuesten Stand zu halten"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um den Kunden eine optimale Nutzererfahrung zu bieten, sollte die Website von Restaurant Bahnhoefli Kueblis mobil-optimiert werden, da viele Kunden wahrscheinlich über ihr Smartphone nach Restaurants in der Nähe suchen",
+    "Die Ladezeit von 250ms ist relativ schnell, jedoch könnte die Implementierung eines Content Delivery Networks (CDN) die Ladezeit weiter verbessern und somit die Kundenzufriedenheit steigern",
+    "Es wäre ratsam, eine einfache und intuitive Online-Reservierungsfunktion auf der Website zu integrieren, um Kunden die Möglichkeit zu geben, leicht und schnell einen Tisch zu reservieren",
+    "Um die Sichtbarkeit und Auffindbarkeit der Website zu verbessern, sollte Restaurant Bahnhoefli Kueblis eine Search Engine Optimization (SEO)-Strategie umsetzen, die speziell auf die Bedürfnisse von Restaurants in der Schweiz zugeschnitten ist"
+  ]
 }

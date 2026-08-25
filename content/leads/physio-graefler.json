@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Physio Graefler sollte dringend eine mobile Optimierung erhalten, da die meisten Nutzer heutzutage über Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Abbruchrate führen kann",
+    "Es wäre ratsam, die Ladezeit von 236ms zu überprüfen und gegebenenfalls zu optimieren, da eine schnelle Ladezeit für eine gute Nutzererfahrung in der Physiotherapie-Branche essentiell ist",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte wäre empfehlenswert, um sicherzustellen, dass die Informationen für die Patienten von Physio Graefler immer aktuell und relevant sind",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und somit die Effizienz von Physio Graefler steigern"
+  ]
 }

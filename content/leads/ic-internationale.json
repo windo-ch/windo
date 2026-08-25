@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Ic Internationale sollte dringend mobile-optimiert werden, da viele Kunden von Coiffeuren heutzutage über ihre Smartphones nach Dienstleistungen suchen und eine nicht optimierte Website die Benutzererfahrung stark beeinträchtigen kann",
+    "Es wäre ratsam, den Inhalt der Website zu überarbeiten und stärker auf die Vorzüge und Angebote von Ic Internationale als Coiffeur zu konzentrieren, um potenzielle Kunden besser anzusprechen",
+    "Die Ladezeit von 207ms ist akzeptabel, aber es gibt potenziell Möglichkeiten, diese durch Optimierung von Bildern und Code noch weiter zu reduzieren, um die Benutzererfahrung zu verbessern",
+    "Eine regelmäßige Aktualisierung der Website mit neuen Inhalten, wie z.B. Frisur-Trends oder besonderen Angeboten, könnte helfen, bestehende Kunden zu binden und neue zu gewinnen, indem ein professionelles und aktuelles Erscheinungsbild von Ic Internationale vermittelt wird"
+  ]
 }

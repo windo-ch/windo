@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Holz Team sollte mobile-optimiert werden, um eine bessere Benutzererfahrung für die zunehmend mobil agierenden Kunden in der Zimmerei-Branche zu bieten",
+    "Ein moderner Baukasten würde die Wartung und Pflege der Website holz-team.ch erheblich vereinfachen und somit die Kosten reduzieren",
+    "Die Ladezeit von 239ms ist zwar im Durchschnitt, könnte aber durch Optimierung der Bildgrößen und -formate noch verbessert werden, um die Konversionsraten zu steigern",
+    "Um die Sichtbarkeit und Glaubwürdigkeit von Holz Team zu erhöhen, sollten regelmäßig aktuelle Referenzen und Projekte auf der Website veröffentlicht werden, um die Fachkompetenz der Firma zu demonstrieren"
+  ]
 }

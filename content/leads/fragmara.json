@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Fragmara könnte durch eine Überarbeitung der Inhaltsstruktur und eine bessere Übersichtlichkeit profitieren, um den Besuchern eine einfache Navigation und einen schnellen Zugriff auf die angebotenen Handwerksleistungen zu ermöglichen.",
+    "Ein regelmäßiges Update der Website-Inhalte und eine aktive Pflege des News-Bereichs oder Blogs könnten dazu beitragen, die Besucher zu binden und die Suchmaschinenoptimierung zu verbessern, was insbesondere für ein Handwerksunternehmen wie Fragmara wichtig ist.",
+    "Die Ladezeit von 399ms ist zwar im Rahmen des Akzeptablen, könnte aber durch eine Optimierung der Bildgrößen und eine Verbesserung der Serverkonfiguration noch weiter reduziert werden, um eine noch bessere Benutzererfahrung zu gewährleisten.",
+    "Die Einbindung von Kundenbewertungen und -referenzen auf der Website könnte die Glaubwürdigkeit und Vertrauenswürdigkeit von Fragmara bei potenziellen Kunden erhöhen und so den Erfolg des Unternehmens im Wettbewerb der Handwerksbranche unterstützen."
+  ]
 }

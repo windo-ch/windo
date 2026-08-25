@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website ist nicht für Mobilgeräte optimiert. Über 60% Ihrer potenziellen Kunden suchen auf dem Handy — und sehen eine verkleinerte Desktop-Ansicht.",
+    "Ihre Website ist seit 8 Jahren online. Technologie und Design haben sich weiterentwickelt — ein zeitgemässer Auftritt signalisiert: «Wir sind aktiv.»",
+    "Referenzprojekte mit Fotos würden die Qualität Ihrer Arbeit sofort zeigen.",
+    "Ein Offert-Formular direkt auf der Website senkt die Hemmschwelle für Anfragen."
+  ]
 }

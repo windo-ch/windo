@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Schubo-Website sollte unbedingt eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Es wäre ratsam, die Website auf ein modernes Baukastensystem umzustellen, um die Wartung und Pflege zu vereinfachen und die Flexibilität zu erhöhen",
+    "Die Ladezeit von 242ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten Sie prüfen, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern oder Code zu reduzieren",
+    "Die Schubo-Website könnte von einer Überarbeitung der Inhalte profitieren, um besser auf die Bedürfnisse von Kunden aus der Bodenbelagsbranche zuzuschneiden und eine stärkere Bindung an die Marke Schubo zu fördern"
+  ]
 }

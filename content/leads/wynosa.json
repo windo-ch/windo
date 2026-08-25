@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Wynosa-Website sollte unbedingt eine mobile Optimierung erhalten, da viele potenzielle Kunden über ihre Smartphones nach Yoga- und Wellness-Angeboten suchen",
+    "Eine Überarbeitung der Seitenstruktur und -inhalte könnte dazu beitragen, die Ladezeit zu reduzieren und somit die Nutzererfahrung zu verbessern",
+    "Es wäre ratsam, eine klare und übersichtliche Darstellung der verschiedenen Yoga- und Wellness-Kurse auf der Website zu implementieren, um den Kunden eine einfache Orientierung zu ermöglichen",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, beispielsweise durch einen Blog oder Newsletter, könnte dazu beitragen, die Kunden an die Marke Wynosa zu binden und neue Kunden anzuziehen"
+  ]
 }

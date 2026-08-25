@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Coiffeur Mery sollte dringend mobile-optimiert werden, da viele Kunden wahrscheinlich über ihr Smartphone nach Coiffeur-Dienstleistungen suchen und eine nicht optimierte Seite sie möglicherweise davon abhält, die Dienstleistungen zu buchen",
+    "Es wäre ratsam, eine einfache und intuitive Online-Terminbuchungsfunktion auf der Website zu integrieren, um den Kunden von Coiffeur Mery ein einfacheres und komfortableres Erlebnis zu bieten",
+    "Die Ladezeit von 204ms ist im Allgemeinen akzeptabel, jedoch könnte durch die Optimierung von Bildern und die Verwendung eines Content-Delivery-Networks (CDN) die Ladezeit noch weiter verbessert werden, um die Benutzererfahrung zu steigern",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, beispielsweise durch die Veröffentlichung von Blog-Beiträgen oder Angeboten, könnte dazu beitragen, die Kunden von Coiffeur Mery zu binden und neue Kunden anzuziehen, indem die Website als aktives und dynamisches Informationsmedium wahrgenommen wird"
+  ]
 }

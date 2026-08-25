@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Wasserette Textilreinigung sollte ihre Website mobil-optimieren, um eine bessere Nutzererfahrung für die immer mehr mobilen Besucher zu gewährleisten, da dies auch den Conversion-Raten und der Suchmaschinen-Optimierung zugutekommt",
+    "Um die Ladezeit von 251ms zu verbessern, könnte die Wasserette Textilreinigung ihre Bilder und anderen Medien optimieren, um die Dateigrößen zu reduzieren und somit die Seitenladezeit zu verkürzen",
+    "Die Wasserette Textilreinigung könnte ihre Dienstleistungen und Preise auf der Website detaillierter darstellen, um den potenziellen Kunden eine bessere Vorstellung von den Angeboten zu geben und somit die Entscheidung für eine Textilreinigung zu erleichtern",
+    "Die Einbindung von Kundenbewertungen und -rezensionen auf der Website der Wasserette Textilreinigung könnte dazu beitragen, das Vertrauen potenzieller Kunden zu stärken und somit die Konvertierungsrate zu erhöhen, da positive Erfahrungen von bestehenden Kunden ein wichtiger Faktor bei der Entscheidungsfindung sind"
+  ]
 }

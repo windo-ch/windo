@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website coiffeurmanuela.ch sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die heutzutage über Smartphones surfen",
+    "Die Ladezeit von 433ms ist im Vergleich zu anderen Websites relativ langsam und könnte durch Optimierung der Bilder und des Codes verbessert werden, um die Besucherzufriedenheit zu steigern",
+    "Es wäre ratsam, eine klare und einfache Navigation auf der Website zu implementieren, um den Kunden den Zugang zu den verschiedenen Dienstleistungen und Angeboten des Coiffeurmanuela zu erleichtern",
+    "Die Integration von Kundenbewertungen und -feedbacks auf der Website könnte dazu beitragen, das Vertrauen und die Glaubwürdigkeit des Coiffeurmanuela bei potenziellen Kunden zu stärken und die Online-Präsenz zu verbessern"
+  ]
 }

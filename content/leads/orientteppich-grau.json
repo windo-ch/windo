@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Orientteppich Grau sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Die Ladezeit von 244ms ist im Vergleich zu anderen Websites relativ langsam, es wäre ratsam, die Bilder und Inhalte zu optimieren, um die Ladezeit zu verkürzen",
+    "Es wäre hilfreich, wenn die Website von Orientteppich Grau eine klare und übersichtliche Struktur hätte, um den Kunden eine einfache Navigation und eine gute Übersicht über die angebotenen Reinigungsdienstleistungen zu bieten",
+    "Die Verwendung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und somit die Kommunikation mit den Kunden verbessern"
+  ]
 }

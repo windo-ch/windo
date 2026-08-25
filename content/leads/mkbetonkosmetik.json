@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Mkbetonkosmetik sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobilen Kunden in der Kosmetikbranche zu gewährleisten",
+    "Ein modernes Content-Management-System mit einem Baukasten-System würde die Pflege und Aktualisierung der Website erheblich vereinfachen und somit die Kommunikation mit den Kunden verbessern",
+    "Die Ladezeit von 242ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch sollte die Website regelmäßig überprüft werden, um sicherzustellen, dass sie auch bei zunehmendem Traffic und Inhalt weiterhin schnell lädt",
+    "Eine regelmäßige Überprüfung und Optimierung der Suchmaschinen-Einstellungen wäre ratsam, um die Sichtbarkeit von Mkbetonkosmetik in den Suchergebnissen zu verbessern und somit mehr potenzielle Kunden anzusprechen"
+  ]
 }

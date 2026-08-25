@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung ihrer Website priorisieren, da dies für eine gute Nutzererfahrung und eine höhere Konversionrate in der Reinigungsbranche entscheidend ist",
+    "Die Ladezeit von 282ms ist im Vergleich zu anderen Websites relativ langsam, daher empfehle ich eine Analyse und Optimierung der Website-Inhalte und -Code, um die Ladezeit zu verkürzen",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die Angebote und Dienstleistungen der Singer Bettfedernreinigung besser darzustellen und die Nutzererfahrung zu verbessern",
+    "Die Einbindung von Kundenbewertungen und -rezensionen auf der Website würde die Glaubwürdigkeit und Vertrauenswürdigkeit der Firma in der Reinigungsbranche stärken und potenzielle Kunden überzeugen"
+  ]
 }

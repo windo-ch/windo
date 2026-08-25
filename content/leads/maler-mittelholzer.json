@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Benutzererfahrung auf mobilen Geräten zu verbessern, sollten Sie die Website von Maler Mittelholzer mobil-optimieren, da dies heutzutage ein wichtiger Faktor für die Kundengewinnung und -bindung ist",
+    "Die Ladezeit von 232ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten Sie prüfen, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern oder Code zu reduzieren",
+    "Es wäre ratsam, einen Baukasten zu verwenden, um die Website von Maler Mittelholzer einfacher zu gestalten und zu pflegen, da dies die Wartung und Aktualisierung der Inhalte erleichtern würde",
+    "Um die Sichtbarkeit und Reichweite der Website zu erhöhen, sollten Sie eine Suchmaschinenoptimierung (SEO) durchführen, um sicherzustellen, dass die Website von Maler Mittelholzer bei relevanten Suchanfragen in den Suchmaschinen wie Google gut platziert ist"
+  ]
 }

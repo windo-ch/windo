@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Webergarten sollte dringend mobile-optimiert werden, da viele Kunden heutzutage über Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Um die Benutzererfahrung zu verbessern, empfehle ich, die Ladezeit von 217ms zu überprüfen und gegebenenfalls zu optimieren, indem beispielsweise große Bilder komprimiert oder der Code optimiert wird",
+    "Webergarten könnte von einer einfachen und übersichtlichen Navigation profitieren, um Kunden leichter durch die verschiedenen Angebote und Dienstleistungen im Gartenbau zu führen",
+    "Eine regelmäßige Aktualisierung der Website mit neuen Inhalten, wie beispielsweise Blogartikeln über Gartenpflege oder saisonale Angebote, könnte helfen, die Kundenbindung zu stärken und die Sichtbarkeit in Suchmaschinen zu verbessern"
+  ]
 }

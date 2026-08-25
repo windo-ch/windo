@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um das Nutzererlebnis auf mobilen Geräten zu verbessern, sollte die Website sa1.ch dringend eine mobile Optimierung durchführen, da dies heutzutage ein essentielles Kriterium für die Benutzerfreundlichkeit ist",
+    "Die Ladezeit von 255ms ist zwar noch im Rahmen dessen, was als akzeptabel gilt, jedoch könnte eine Optimierung der Bilder und eine Minimierung der CSS- und JavaScript-Dateien die Ladezeit noch weiter reduzieren und so die Nutzerzufriedenheit steigern",
+    "Das Fehlen eines Baukastens macht es schwierig, Inhalte dynamisch zu generieren und zu verwalten, was insbesondere für ein Bauunternehmen wie Sa1 von Vorteil sein könnte, um beispielsweise Referenzen oder Projekte einfach hinzufügen und bearbeiten zu können",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte ist erforderlich, um sicherzustellen, dass potenzielle Kunden auf sa1.ch immer die aktuellsten Informationen über die Dienstleistungen und Projekte von Sa1 finden"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Rdn Schreinerei sollte ihre Website mobile-optimieren, um eine bessere Nutzererfahrung für die zunehmend mobil surfenden Kunden zu gewährleisten",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die Inhalte besser zu organisieren und den Besuchern eine einfachere Orientierung zu bieten",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens würde die Pflege und Aktualisierung der Website-Inhalte erheblich vereinfachen und somit die Kommunikation mit den Kunden verbessern",
+    "Die Rdn Schreinerei könnte ihre Online-Präsenz durch die Einbindung von Bildergalerien oder Videos, die ihre Schreinerarbeiten und -projekte vorstellen, stärken und so potenziellen Kunden einen tieferen Einblick in ihre Arbeit geben"
+  ]
 }

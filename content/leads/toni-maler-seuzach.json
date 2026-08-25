@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten ihre Website mobil-optimieren, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die heutzutage hauptsächlich über mobile Geräte surfen",
+    "Die Ladezeit von 298ms ist akzeptabel, aber es gibt noch Potenzial für Verbesserungen, um die Konversionen zu steigern und die Nutzerzufriedenheit zu erhöhen, insbesondere für die Zielgruppe von Toni Maler Seuzach, die möglicherweise nicht die neuesten Geräte oder schnellen Internetverbindungen hat",
+    "Eine Überarbeitung der Website-Struktur und des Inhalts könnte helfen, die Sichtbarkeit und Erreichbarkeit der Dienstleistungen von Toni Maler Seuzach zu verbessern, indem beispielsweise die verschiedenen Malerdienstleistungen und Referenzen besser hervorgehoben werden",
+    "Es wäre ratsam, regelmäßig Updates und Neuigkeiten auf der Website zu veröffentlichen, um die Besucher zu binden und die Suchmaschinenoptimierung zu verbessern, beispielsweise durch einen Blog, in dem Tipps und Tricks für Malerarbeiten oder Neuigkeiten aus der Branche veröffentlicht werden"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Bettinaeberle sollte dringend eine mobile Optimierung erhalten, um den wachsenden Anteil von mobilen Nutzern besser zu bedienen und die Benutzererfahrung zu verbessern",
+    "Die Ladezeit von 264ms ist im Vergleich zu anderen Websites in der Branche relativ langsam, eine Optimierung der Bilder und eine effizientere Code-Struktur könnten hier Abhilfe schaffen",
+    "Um die Sichtbarkeit und den Ruf von Bettinaeberle zu stärken, wäre es ratsam, regelmäßig aktuelle und informative Inhalte über Fenster und Türen auf der Website zu veröffentlichen",
+    "Eine Überarbeitung der Navigation und eine klarere Strukturierung der Inhalte würden es Besuchern erleichtern, die gewünschten Informationen über die Produkte und Dienstleistungen von Bettinaeberle zu finden"
+  ]
 }

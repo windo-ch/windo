@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Cleaning Master sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Es wäre ratsam, die Ladezeit von 238ms zu überprüfen und gegebenenfalls zu optimieren, um sicherzustellen, dass die Seite schnell genug lädt, um die Aufmerksamkeit der Besucher zu halten",
+    "Die Reinigungsbranche profitiert stark von lokalen Suchanfragen, daher sollte die Website von Cleaning Master für lokale SEO-Optimierung angepasst werden, um mehr Kunden aus der Region anzuziehen",
+    "Eine Überarbeitung der Website-Struktur und -Navigation könnte helfen, die Besucher besser durch die Angebote von Cleaning Master zu führen und die Konversionen zu erhöhen, indem sie einfacher finden, was sie suchen"
+  ]
 }

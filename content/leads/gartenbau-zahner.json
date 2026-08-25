@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Gartenbau Zahner sollte mobil optimiert werden, um eine bessere Benutzererfahrung für die zunehmend mobil agierenden Kunden zu gewährleisten",
+    "Eine Überarbeitung der Seitenstruktur und Inhalte könnte dazu beitragen, dass die Besucher leichter finden, wonach sie suchen, und somit die Konversionsraten steigern",
+    "Es wäre ratsam, eine Suchfunktion auf der Website zu integrieren, um es den Besuchern zu ermöglichen, spezifische Produkte oder Dienstleistungen von Gartenbau Zahner schnell zu finden",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und somit die Kommunikation mit den Kunden verbessern"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Gjira Brows sollte unbedingt eine mobile Optimierung erhalten, um den wachsenden Anteil von Nutzern, die über Smartphones auf die Seite zugreifen, besser zu bedienen und die Benutzererfahrung zu verbessern",
+    "Eine Überarbeitung der Seitennavigation und -struktur würde helfen, die Angebote und Dienstleistungen von Gjira Brows im Transport- und Umzugsbereich besser zu präsentieren und die Nutzer leichter zu den gewünschten Informationen zu führen",
+    "Die Ladezeit von 256ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte eine weitere Optimierung der Bilder und Inhalte die Ladezeit noch weiter reduzieren und die Nutzererfahrung verbessern",
+    "Eine regelmäßige Aktualisierung und Pflege der Website-Inhalte, insbesondere im Bereich der Referenzen und Kundenbewertungen, würde dazu beitragen, das Vertrauen der Nutzer in die Dienstleistungen von Gjira Brows zu stärken und die Website als wichtigen Bestandteil der Unternehmenspräsenz zu etablieren"
+  ]
 }

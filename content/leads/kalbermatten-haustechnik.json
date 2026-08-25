@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Kalbermatten Haustechnik sollte mobil optimiert werden, um den immer grösser werdenden Anteil von Besuchern mit Smartphones besser zu bedienen und die Nutzererfahrung zu verbessern",
+    "Es wäre ratsam, die Ladezeit von 253ms durch Optimierung von Bildern und Code zu reduzieren, um die Benutzerfreundlichkeit zu erhöhen und die Konversionsraten zu steigern",
+    "Die Integration eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website vereinfachen und ermöglichen, regelmässig neue Inhalte zu veröffentlichen, um Kunden und Interessenten von Kalbermatten Haustechnik zu informieren",
+    "Ein regelmässiges Backup und eine Sicherheitsüberprüfung der Website sollten durchgeführt werden, um Datenverlust und Sicherheitsrisiken zu vermeiden und die Verfügbarkeit der Website zu gewährleisten, insbesondere in einer Branche wie der Sanitär- und Heizungsbranche, in der Kunden auf zuverlässige Informationen angewiesen sind"
+  ]
 }

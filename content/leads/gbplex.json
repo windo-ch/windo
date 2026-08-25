@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website gbplex.ch sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer grösser werdende Zahl von Mobilnutzern zu bieten",
+    "Eine Überarbeitung der Seitengeschwindigkeit könnte durch die Implementierung von Browser-Caching und der Komprimierung von Bildern erreicht werden, um die Ladezeit von 236ms zu reduzieren",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder Joomla zu verwenden, um die Wartung und Aktualisierung der Website zu vereinfachen und so den Aufwand für zukünftige Änderungen zu minimieren",
+    "Die Firma Gbplex könnte ihre Online-Präsenz durch die Einbindung von sozialen Medien und einer regelmässigen Aktualisierung des Inhalts auf der Website gbplex.ch stärken und so ihre Sichtbarkeit in der Branche verbessern"
+  ]
 }

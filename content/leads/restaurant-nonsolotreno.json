@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Restaurant Nonsolotreno sollte mobil optimiert werden, um den wachsenden Anteil von Besuchern, die über Smartphones auf die Seite zugreifen, besser zu bedienen und eine bessere Nutzererfahrung zu bieten",
+    "Eine Überarbeitung der Website-Architektur und eine Modernisierung des Designs würden helfen, die Marke des Restaurants zu stärken und eine ansprechendere Präsentation der Speisen und Getränke zu ermöglichen",
+    "Die Ladezeit von 234ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten Maßnahmen ergriffen werden, um die Ladezeit zu reduzieren, wie zum Beispiel die Optimierung von Bildern oder die Verwendung eines Content Delivery Networks",
+    "Die Einbindung von Online-Bestell- und Reservierungsfunktionen auf der Website würde es den Kunden von Restaurant Nonsolotreno ermöglichen, leichter und schneller zu bestellen oder einen Tisch zu reservieren, was zu einer Steigerung der Umsätze und der Kundenzufriedenheit führen könnte"
+  ]
 }

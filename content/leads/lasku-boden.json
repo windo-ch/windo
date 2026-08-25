@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Benutzererfahrung auf mobilen Geräten zu verbessern, empfehle ich, die Website von Lasku Boden mobile-optimiert umzubauen, da dies heutzutage ein wichtiger Faktor für die Kundenbindung in der Bodenbelagsbranche ist",
+    "Die Ladezeit von 183ms ist zwar im Durchschnitt, könnte aber durch Optimierung der Bildgrößen und Code-Struktur noch weiter verbessert werden, um die Nutzerzufriedenheit zu steigern",
+    "Es wäre ratsam, einen regelmäßigen Audit der Website durchzuführen, um sicherzustellen, dass alle Funktionen und Inhalte korrekt funktionieren und up-to-date sind, was insbesondere für eine junge Website wie lasku-boden.ch wichtig ist",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und somit die Kommunikation mit den Kunden und potenziellen Kunden von Lasku Boden verbessern"
+  ]
 }

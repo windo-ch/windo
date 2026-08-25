@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Tcpur-Website sollte unbedingt eine mobile Optimierung erhalten, da mittlerweile die Mehrheit der Nutzer über mobile Geräte surft und eine nicht optimierte Website zu einem schlechten Benutzererlebnis führen kann, was sich negativ auf den Fenster- und Türen-Verkauf auswirken könnte.",
+    "Es wäre ratsam, die Ladezeit von 274ms durch Optimierungen wie Bildkomprimierung oder Code-Minimierung zu reduzieren, um den Nutzern eine schnellere und angenehmere Erfahrung auf der Tcpur-Website zu bieten.",
+    "Ein Baukasten-System könnte für die Website von Tcpur von Vorteil sein, da es die Flexibilität und Wartbarkeit der Website erhöhen und es ermöglichen würde, neue Inhalte und Funktionen leichter zu integrieren, was insbesondere in der Branche für Fenster und Türen, wo ständig neue Produkte und Trends auftauchen, von großem Vorteil sein könnte.",
+    "Ein wichtiger Schritt für die Tcpur-Website wäre es, eine umfassende Suchmaschinenoptimierung durchzuführen, um die Sichtbarkeit in Suchmaschinen wie Google zu erhöhen und somit mehr potenzielle Kunden für Fenster und Türen zu erreichen, was letztendlich zu mehr Umsatz und Wachstum für das Unternehmen führen könnte."
+  ]
 }

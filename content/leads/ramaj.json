@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten dringend eine mobile Optimierung ihrer Website ramaj.ch durchführen, da dies heutzutage ein wichtiger Faktor für die Nutzererfahrung und die Suchmaschinenoptimierung ist, insbesondere in der Bedachungsbranche, wo Kunden oft unterwegs sind und ihre Dienstleister über das Smartphone suchen.",
+    "Die Ladezeit von 201ms ist noch im Rahmen des Akzeptablen, jedoch könnte durch die Optimierung von Bildern und die Verwendung eines Content Delivery Networks die Ladezeit weiter verkürzt werden, um die Nutzerzufriedenheit zu steigern.",
+    "Es wäre ratsam, wenn die Firma Ramaj ihre Website regelmäßig aktualisiert und erweitert, um ihre Kunden über neue Entwicklungen und Angebote in der Bedachungsbranche zu informieren und um ihre Markenpräsenz zu stärken.",
+    "Die Implementierung eines Baukastensystems könnte die Wartung und Pflege der Website ramaj.ch erleichtern und es der Firma Ramaj ermöglichen, ihre Online-Präsenz flexibler und effizienter zu gestalten, was insbesondere für kleine und mittelständische Unternehmen wie Ramaj von Vorteil sein kann."
+  ]
 }

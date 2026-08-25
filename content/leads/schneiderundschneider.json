@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung für ihre Website schneiderundschneider.ch priorisieren, da dies für eine gute Nutzererfahrung und eine höhere Konversionrate in der Malerbranche entscheidend ist",
+    "Eine Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und somit die Online-Präsenz von Schneiderundschneider stärken",
+    "Die Ladezeit von 255ms ist im Vergleich zu anderen Websites relativ langsam, daher wäre es ratsam, die Website zu optimieren, um die Ladezeit zu reduzieren und die Nutzererfahrung zu verbessern",
+    "Es wäre sinnvoll, eine Suchmaschinenoptimierung (SEO) für die Website durchzuführen, um die Sichtbarkeit und den Bekanntheitsgrad von Schneiderundschneider in der Malerbranche zu erhöhen"
+  ]
 }

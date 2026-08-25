@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Hundesalon Che Bello sollte mobil-optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihrem Smartphone surfenden Hundebesitzer zu gewährleisten",
+    "Es wäre ratsam, die Ladezeit von 272ms zu optimieren, um die Konversionen und die Suchmaschinenplatzierung zu verbessern, da viele Besucher eine langsame Seite schnell wieder verlassen",
+    "Eine klare und einfache Navigation sowie eine übersichtliche Struktur der Website würden es den Besuchern erleichtern, die angebotenen Dienstleistungen und Produkte des Hundesalons zu finden und zu buchen",
+    "Die Einbindung von Kundenbewertungen und -empfehlungen auf der Website könnte die Glaubwürdigkeit und den Ruf des Hundesalons Che Bello stärken und potenzielle Kunden davon überzeugen, den Salon zu besuchen"
+  ]
 }

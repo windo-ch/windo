@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Winteler Bedachungen sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobilen Kunden zu gewährleisten, insbesondere in der Bedachungsbranche, in der oft vor Ort recherchiert wird",
+    "Die Ladezeit von 256ms ist zwar nicht schlecht, könnte aber durch eine Optimierung der Bildgrößen und eine effizientere Seitenstruktur noch weiter verbessert werden, um die Konvertierungsraten zu steigern",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder TYPO3 zu verwenden, um die Wartung und Pflege der Website zu vereinfachen und flexibler auf Änderungen reagieren zu können, was in der Bedachungsbranche mit häufigen Preis- und Angebotsschwankungen besonders wichtig ist",
+    "Die Einbindung von Kundenbewertungen und -referenzen auf der Website könnte die Glaubwürdigkeit und Vertrauenswürdigkeit von Winteler Bedachungen erhöhen und potenzielle Kunden davon überzeugen, dass die Firma seriös und kompetent ist, was in der Bedachungsbranche ein wichtiger Faktor für den Erfolg ist"
+  ]
 }

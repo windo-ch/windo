@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Website von Boschfashion mobiloptimieren, da dies heutzutage ein wichtiger Faktor für die Nutzererfahrung und die Suchmaschinenoptimierung ist",
+    "Eine Überarbeitung der Website-Struktur und des Designs könnte dazu beitragen, die Marke Boschfashion noch stärker zu positionieren und die Besucher zu einer längeren Verweildauer auf der Seite zu bewegen",
+    "Die Ladezeit von 274ms ist bereits sehr gut, aber es könnte dennoch sinnvoll sein, die Bilder und anderen Medien auf der Website zu optimieren, um die Ladezeit noch weiter zu verbessern",
+    "Ein regelmäßiges Update der Website-Inhalte und eine aktive Social-Media-Präsenz könnten dazu beitragen, die Sichtbarkeit und den Bekanntheitsgrad der Marke Boschfashion in der Schweizer Modebranche zu erhöhen"
+  ]
 }

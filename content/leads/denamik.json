@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Nutzererfahrung auf mobilen Geräten zu verbessern, sollte die Website denamik.ch mobil-optimiert werden, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit ist",
+    "Die Ladezeit von 207ms ist relativ schnell, jedoch könnte durch die Implementierung von Browser-Caching und die Optimierung von Bildern die Ladezeit noch weiter reduziert werden",
+    "Eine durchdachte Suchmaschinenoptimierung (SEO) würde helfen, die Sichtbarkeit der Website in den Suchergebnissen zu erhöhen und somit potenzielle Kunden aus der Gipser-Branche anzusprechen",
+    "Die Erstellung eines regelmäßig aktualisierten News-Bereichs oder Blogs auf der Website würde es ermöglichen, aktuelle Projekte und Dienstleistungen von Denamik vorzustellen und somit eine stärkere Bindung zu den Kunden aufzubauen"
+  ]
 }

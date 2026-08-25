@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Kaminfeger Markwalder sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit Smartphones surfenden Kunden zu gewährleisten",
+    "Eine Überarbeitung der Seitenstruktur und eine Vereinfachung der Navigation würden helfen, die Besucher auf die wichtigsten Dienstleistungen und Angebote von Kaminfeger Markwalder aufmerksam zu machen",
+    "Es wäre ratsam, ein Content-Management-System wie WordPress oder TYPO3 zu verwenden, um die Inhalte einfacher zu verwalten und regelmäßig zu aktualisieren",
+    "Durch die Implementierung von Suchmaschinenoptimierung (SEO) könnten die Sichtbarkeit und der Online-Auftritt von Kaminfeger Markwalder verbessert werden, um neue Kunden zu gewinnen und die Markenbekanntheit in der Schweizer Kaminfegerbranche zu stärken"
+  ]
 }

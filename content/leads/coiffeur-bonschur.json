@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Website von Coiffeur Bonschur mobile-optimieren, um eine bessere Nutzererfahrung für die immer mehr mobilen Besucher zu gewährleisten",
+    "Die Ladezeit von 274ms ist im Vergleich zu anderen Websites relativ langsam, eine Optimierung der Bilder und des Codes könnte hier Abhilfe schaffen",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder Joomla zu verwenden, um die Wartung und Aktualisierung der Website zu vereinfachen und somit Kosten zu sparen",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte wäre angebracht, um den Besuchern von Coiffeur Bonschur aktuelle Informationen und Angebote präsentieren zu können"
+  ]
 }

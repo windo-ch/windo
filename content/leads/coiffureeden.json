@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Coiffureeden-Website sollte dringend eine mobile Optimierung durchführen, da viele potenzielle Kunden über ihr Smartphone nach Coiffeuren suchen und eine nicht optimierte Website sie davon abhalten könnte, die Dienstleistungen von Coiffureeden zu nutzen.",
+    "Eine weitere Empfehlung wäre, die Ladezeit der Website zu verbessern, da 241ms zwar noch im Rahmen dessen liegt, was als akzeptabel gilt, aber dennoch ein peu langsam ist und die Nutzererfahrung verbessert werden könnte, indem man beispielsweise die Bildgrößen reduziert oder den Code optimiert.",
+    "Es wäre auch ratsam, wenn Coiffureeden einen Baukasten wie WordPress oder Joomla einsetzen würde, um die Website einfacher zu aktualisieren und zu verwalten, da dies die Pflege und das Hinzufügen neuer Inhalte erheblich erleichtern würde.",
+    "Schließlich sollte Coiffureeden ihre Website regelmäßig aktualisieren und pflegen, um sicherzustellen, dass die Inhalte aktuell sind und die Nutzer immer die neuesten Informationen über die Dienstleistungen und Angebote des Coiffeurs erhalten, was auch das Vertrauen der Kunden in die Marke stärken würde."
+  ]
 }

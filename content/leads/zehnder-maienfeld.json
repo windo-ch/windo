@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Zehnder Maienfeld sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden in der Sanitär- und Heizungsbranche zu bieten",
+    "Eine Überarbeitung der Seitenstruktur und eine Vereinfachung der Navigation würden helfen, die Besucher schneller zu den gewünschten Informationen zu führen und somit die Konversionsraten zu steigern",
+    "Die Ladezeit von 263ms ist im Vergleich zu anderen Websites im Durchschnitt, jedoch könnte durch die Optimierung von Bildern und die Minimierung von CSS- und JavaScript-Dateien eine weitere Verbesserung erzielt werden",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und ein Blog mit interessanten Artikeln zu Sanitär- und Heizungsthemen würden helfen, die Besucher zu binden und die Positionierung von Zehnder Maienfeld als Experte in der Branche zu stärken"
+  ]
 }

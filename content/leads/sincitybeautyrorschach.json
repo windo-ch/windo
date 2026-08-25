@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Sincitybeautyrorschach sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere in der Kosmetikbranche, in der viele Kunden über mobile Geräte einkaufen",
+    "Die Ladezeit von 228ms ist zwar im Durchschnitt noch akzeptabel, aber es gibt sicherlich Potenzial für Verbesserungen, um die Nutzererfahrung zu optimieren und die Abbruchrate zu reduzieren",
+    "Es wäre ratsam, eine regelmäßige Sicherheits- und Aktualisierungsprüfung durchzuführen, um sicherzustellen, dass die Website und alle verwendeten Komponenten auf dem neuesten Stand sind und keine Sicherheitslücken aufweisen",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und somit die Effizienz und Produktivität der Betreiber von Sincitybeautyrorschach steigern"
+  ]
 }

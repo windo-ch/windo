@@ -13,7 +13,7 @@ const YEAR_ONE_FEATURES = [
 const AFTER_FEATURES = [
   "Hosting & SSL-Zertifikat (Schweizer Server)",
   "Technische Wartung & Sicherheit",
-  "Kleine Änderungen inklusive",
+  "Änderungen innert 24 Stunden",
   "Support per WhatsApp & E-Mail",
   "Ihre Website gehört Ihnen",
 ];

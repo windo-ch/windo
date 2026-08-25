@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Tanzschule Schlieren sollte ihre Website mobil-optimieren, um eine bessere Nutzererfahrung für die immer mehr mit ihren Smartphones surfenden Kunden zu bieten",
+    "Die Ladezeit von 231ms ist relativ schnell, jedoch könnte durch die Implementierung eines Content Delivery Networks die Ladezeit weiter verbessert werden",
+    "Es wäre ratsam, eine Suche nach Tanzkursen und -events auf der Website zu integrieren, um den Nutzern eine einfachere Navigation und bessere Übersicht zu bieten",
+    "Die Tanzschule Schlieren könnte auch von einer regelmäßigen Aktualisierung ihrer Website profitieren, um ihre Kunden über neue Kurse, Veranstaltungen und Angebote zu informieren und so die Kundenbindung zu stärken"
+  ]
 }

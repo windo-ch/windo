@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Spadinhaustechnik-Website sollte unbedingt eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Die Ladezeit von 313ms ist noch im grünen Bereich, aber es gibt sicherlich Potential für Verbesserungen, um die Nutzererfahrung zu optimieren",
+    "Es wäre ratsam, einen Baukasten für die Website zu erstellen, um künftige Anpassungen und Erweiterungen zu erleichtern und die Wartung zu vereinfachen",
+    "Die Spadinhaustechnik-Website sollte auch eine klarere Struktur und eine bessere Übersicht über die angebotenen Sanitär- und Heizungsdienstleistungen erhalten, um den Nutzern eine einfache und intuitive Navigation zu ermöglichen"
+  ]
 }

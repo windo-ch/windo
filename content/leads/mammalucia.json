@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Mammalucia sollte dringend eine mobile Optimierung erhalten, um den wachsenden Anteil von Besuchern mit Smartphones zu bedienen und eine bessere Nutzererfahrung zu bieten",
+    "Die Ladezeit von 245ms ist zwar im Durchschnitt, könnte aber durch Optimierungen wie Bildkomprimierung und Browser-Caching noch verbessert werden, um die Besucherzufriedenheit zu steigern",
+    "Ein wichtiger Punkt für das Restaurant Mammalucia wäre es, eine einfache und intuitive Online-Reservierungsfunktion auf der Website zu integrieren, um den Gästen eine bequeme Möglichkeit zu bieten, Tische zu reservieren",
+    "Die Verwendung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website von Mammalucia erleichtern und flexibler gestalten, um auf veränderte Anforderungen der Branche schnell reagieren zu können"
+  ]
 }

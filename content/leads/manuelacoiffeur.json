@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Manuelacoiffeur sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zahlreichen Kunden zu gewährleisten, die über ihre Smartphones auf die Seite zugreifen",
+    "Eine Überarbeitung der Seitengestaltung und eine Anpassung an die Bedürfnisse der Coiffeur-Branche könnte dazu beitragen, dass potenzielle Kunden länger auf der Seite verweilen und sich für die Dienstleistungen von Manuelacoiffeur interessieren",
+    "Die Ladezeit von 283ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch eine Optimierung der Bildgrößen und eine Weiterentwicklung der technischen Infrastruktur die Ladezeit noch weiter reduziert werden, um die Konkurrenzfähigkeit zu steigern",
+    "Ein regelmäßiges Update der Website-Inhalte und eine stärkere Fokussierung auf Suchmaschinenoptimierung könnten dazu beitragen, dass Manuelacoiffeur in den Suchmaschinen besser gefunden wird und somit mehr Kunden anzieht"
+  ]
 }

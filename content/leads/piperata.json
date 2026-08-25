@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung für die Website piperata.ch umsetzen, da dies für die Gipserbranche essentiell ist, um Kunden auch auf mobilen Geräten zu erreichen",
+    "Die Ladezeit von 242ms ist im Vergleich zu anderen Websites relativ langsam, eine Optimierung der Bildgrößen und eine Nutzung von Content-Delivery-Networks könnten hier Abhilfe schaffen",
+    "Eine Überarbeitung der Navigation und eine klare Strukturierung der Inhalte auf der Website würden es Kunden erleichtern, die gewünschten Informationen über die Gipserdienstleistungen von Piperata zu finden",
+    "Ein regelmäßiges Update der Website mit aktuellen Referenzen und Projekten würde die Glaubwürdigkeit und den Fachmannschaftscharakter von Piperata unterstreichen und potenzielle Kunden von der Qualität der Arbeit überzeugen"
+  ]
 }

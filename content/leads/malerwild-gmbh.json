@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Malerwild GmbH sollte ihre Website mobile-optimieren, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden in der Gipserbranche zu gewährleisten",
+    "Eine Überarbeitung der Seitenstruktur und Inhalte könnte dazu beitragen, die Ladezeit von 256ms zu reduzieren und somit die Benutzerfreundlichkeit zu verbessern",
+    "Es wäre ratsam, einen Content-Management-System-Baukasten wie WordPress oder TYPO3 zu verwenden, um die Pflege und Aktualisierung der Website zu vereinfachen und flexibler zu gestalten",
+    "Die Malerwild GmbH könnte ihre Online-Präsenz durch die Integration von Kundenbewertungen und -referenzen stärken, um potenziellen Kunden die Qualität ihrer Gipserarbeiten zu demonstrieren und Vertrauen aufzubauen"
+  ]
 }

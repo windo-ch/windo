@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website thecrimeedge.ch sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, dass potenzielle Kunden von Thecrimeedge einfacher finden, wonach sie suchen, insbesondere im Bereich Bedachungen",
+    "Die Ladezeit von 267ms ist im Allgemeinen akzeptabel, jedoch könnte eine Optimierung der Bildgrößen und eine Nutzung von Content Delivery Networks die Ladezeit weiter verbessern und so die Nutzerzufriedenheit steigern",
+    "Ein regelmäßiges Update und eine Pflege der Website-Inhalte sind wichtig, um den Besuchern von thecrimeedge.ch aktuelle Informationen und Angebote im Bereich Bedachungen bereitzustellen und so das Vertrauen in das Unternehmen zu stärken"
+  ]
 }

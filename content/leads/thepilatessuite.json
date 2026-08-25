@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website thepilatessuite.ch sollte mobil optimiert werden, um eine bessere Benutzererfahrung für die meisten Nutzer zu gewährleisten, die über mobile Geräte surfen",
+    "Eine Überarbeitung der Website-Struktur und -Navigation könnte helfen, die Inhalte besser zu organisieren und den Besuchern eine einfachere Suche nach Massagen und Wellness-Angeboten zu ermöglichen",
+    "Die Ladezeit von 267ms ist akzeptabel, aber es könnte hilfreich sein, die Bilder und anderen Medien auf der Website zu optimieren, um die Ladezeit weiter zu reduzieren und die Benutzererfahrung zu verbessern",
+    "Eine regelmäßige Aktualisierung der Inhalte und Angebote auf der Website könnte helfen, die Besucher zu binden und sie dazu anregen, wiederzukommen, um neue Angebote und Massagen zu entdecken"
+  ]
 }

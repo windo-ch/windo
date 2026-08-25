@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Gerbo sollte dringend mobile-optimiert werden, um den wachsenden Anteil von Besuchern mit Smartphones zu berücksichtigen und eine bessere Nutzererfahrung zu bieten",
+    "Eine Überarbeitung der Seitenstruktur und Inhalte könnte helfen, die Ladezeit zu reduzieren und die Navigation für Besucher zu vereinfachen, was insbesondere für ein Handwerksunternehmen wie Gerbo wichtig ist",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und ermöglichen, dass Gerbo ihre Online-Präsenz flexibler und unabhängiger gestalten kann",
+    "Eine regelmäßige Analyse der Website-Daten und Besucherzahlen könnte Gerbo helfen, ihre Online-Marketingstrategie zu optimieren und gezielt auf die Bedürfnisse ihrer Kunden einzugehen, um letztendlich mehr Aufträge und Kunden zu gewinnen"
+  ]
 }

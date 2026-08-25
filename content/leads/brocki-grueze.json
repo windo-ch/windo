@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Brocki Grueze sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Die Ladezeit von 215ms ist im Vergleich zu anderen Websites relativ langsam, es wäre ratsam, die Bilder und andere Elemente zu optimieren, um die Ladezeit zu verkürzen",
+    "Es wäre sinnvoll, wenn Brocki Grueze eine regelmäßige Aktualisierung und Wartung der Website durchführen würde, um sicherzustellen, dass die Informationen aktuell und korrekt sind",
+    "Die Verwendung eines Baukastens könnte die Erstellung und Pflege der Website erleichtern und flexibler machen, insbesondere für eine Elektrofirma wie Brocki Grueze, die möglicherweise häufig neue Produkte oder Dienstleistungen anbieten möchte"
+  ]
 }

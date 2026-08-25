@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Als Webdesign-Berater würde ich Beat Berger empfehlen, die Website auf ein mobile-optimiertes Design umzustellen, da dies die Nutzererfahrung und somit den Erfolg der Website erheblich verbessern kann",
+    "Es wäre außerdem ratsam, die Struktur und Navigation der Website zu überarbeiten, um eine bessere Übersicht und eine einfachere Bedienung für die Besucher zu gewährleisten",
+    "Die Ladezeit von 233ms ist akzeptabel, aber es gibt immer noch Potential für Verbesserungen, indem man die Dateigrößen optimiert und unnötige Elemente entfernt",
+    "Schließlich sollte Beat Berger eine regelmäßige Überprüfung und Pflege der Website durchführen, um sicherzustellen, dass alle Inhalte aktuell und korrekt sind und die Website stets sicher und performsant bleibt"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Titanbikes sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden im Handwerksbereich zu gewährleisten",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die verschiedenen Angebote und Dienstleistungen von Titanbikes besser zu präsentieren und somit die Kundenbindung zu stärken",
+    "Die Ladezeit von 226ms ist zwar im Durchschnitt, könnte aber durch Optimierungen wie Bildkomprimierung und Code-Minifizierung noch weiter verbessert werden, um die Konversionsraten zu steigern",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und -Fotos würde dazu beitragen, die Marke Titanbikes als innovativ und kundenorientiert zu positionieren und somit die Wettbewerbsfähigkeit im Handwerksmarkt zu erhöhen"
+  ]
 }

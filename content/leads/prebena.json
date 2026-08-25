@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Prebena-Website könnte durch eine klarere Strukturierung der Inhalte profitieren, um den Besuchern eine einfachere Navigation und bessere Übersicht über die angebotenen Bedachungsdienstleistungen zu bieten",
+    "Eine regelmäßige Aktualisierung des News- oder Blogbereichs würde helfen, die Besucher zu binden und gleichzeitig die Suchmaschinenoptimierung zu verbessern, was insbesondere für die Branche der Bedachungen wichtig ist",
+    "Die Ladezeit von 289ms ist im Vergleich zu anderen Websites bereits sehr gut, jedoch könnte durch eine Optimierung der Bildgrößen und eine weitere Minimierung der CSS- und JavaScript-Dateien eine noch schnellere Ladezeit erzielt werden",
+    "Eine Einbindung von Kundenbewertungen und -referenzen direkt auf der Website würde die Glaubwürdigkeit und Vertrauenswürdigkeit der Firma Prebena bei potenziellen Kunden erhöhen und somit zu mehr Anfragen und Aufträgen führen"
+  ]
 }

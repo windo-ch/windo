@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Swissplus Haustechnik sollte dringend eine mobile Optimierung erhalten, da viele Kunden heute mit ihrem Smartphone nach Sanitär- und Heizungsdienstleistern suchen",
+    "Eine schnellere Ladezeit als 610ms wäre wünschenswert, um die User Experience zu verbessern und die Abbruchrate zu senken",
+    "Es wäre ratsam, eine klare und einfache Navigation auf der Website zu implementieren, um Kunden leichter zu den gewünschten Informationen über Sanitär- und Heizungslösungen zu führen",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und ein Blog mit interessanten Artikeln über die neuesten Trends in der Sanitär- und Heizungsbranche könnten die Sichtbarkeit und Glaubwürdigkeit von Swissplus Haustechnik erhöhen"
+  ]
 }

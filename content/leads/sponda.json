@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Sponda sollte dringend mobile-optimiert werden, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere in der Handwerksbranche, in der Kunden oft unterwegs nach Dienstleistern suchen",
+    "Um die Usability zu verbessern, könnte Sponda eine klare und einfache Navigation auf der Website implementieren, die es Besuchern ermöglicht, schnell und einfach die gewünschten Informationen zu finden",
+    "Die Ladezeit von 233ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und die Verwendung von Content Delivery Networks die Ladezeit noch weiter verbessert werden, um die Besucherzufriedenheit zu steigern",
+    "Die Implementierung eines Baukastensystems könnte die Wartung und Aktualisierung der Website für Sponda vereinfachen, da es eine flexible und anpassbare Lösung für die Darstellung von Inhalten bietet und somit die Pflege der Website erleichtert"
+  ]
 }

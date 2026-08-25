@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Wartecklaufenburg sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mobilen Besucher zu gewährleisten",
+    "Eine Überarbeitung der Website-Struktur und des Designs könnte dazu beitragen, die Besucher besser auf die Angebote und Dienstleistungen des Restaurants aufmerksam zu machen",
+    "Die Ladezeit von 239ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch eine Optimierung der Bildgrößen und eine Verwendung von modernen Bildkompressionsverfahren die Ladezeit noch weiter reduziert werden",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, wie zum Beispiel die Speisekarte oder Veranstaltungen, könnte dazu beitragen, die Besucher zu binden und die Sichtbarkeit des Restaurants in der lokalen Gastronomie-Szene zu erhöhen"
+  ]
 }

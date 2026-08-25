@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Krippe Schmetterling sollte mobil optimiert werden, um sicherzustellen, dass Eltern und Erziehungsberechtigte die Website auch unterwegs leicht nutzen können",
+    "Eine Überarbeitung der Navigation und eine Vereinfachung der Inhalte würden die Benutzerfreundlichkeit der Website verbessern und es Besuchern erleichtern, wichtige Informationen über die Kinderbetreuung zu finden",
+    "Die Ladezeit von 233ms ist im Allgemeinen gut, aber es gibt noch Potenzial für Verbesserungen, indem man beispielsweise die Größe von Bildern optimiert oder den Code der Website überarbeitet",
+    "Eine regelmäßige Aktualisierung der Inhalte und ein Blog mit aktuellen Themen und Tipps zur Kinderbetreuung würden die Website von Krippe Schmetterling attraktiver machen und Besucher dazu anregen, regelmäßig zurückzukehren"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Saladin Maler sollte dringend mobile-optimiert werden, da die meisten Nutzer heutzutage über Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Es wäre ratsam, eine Baukasten-Lösung wie WordPress oder Joomla zu verwenden, um die Wartung und Aktualisierung der Website zu erleichtern und die Kosten für zukünftige Anpassungen zu reduzieren",
+    "Die Ladezeit von 260ms ist zwar noch im Rahmen, aber es gibt sicherlich Möglichkeiten, diese durch Optimierung von Bildern und Code noch weiter zu verbessern, um die Nutzererfahrung zu erhöhen",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte wäre ebenfalls empfehlenswert, um sicherzustellen, dass die angebotenen Dienstleistungen und die Kontaktinformationen von Saladin Maler immer auf dem neuesten Stand sind"
+  ]
 }

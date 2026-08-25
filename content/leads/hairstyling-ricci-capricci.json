@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Benutzererfahrung zu verbessern, sollte die Website von Hairstyling Ricci Capricci mobiloptimiert werden, da viele Kunden wahrscheinlich über ihre Smartphones auf die Seite zugreifen",
+    "Die Ladezeit von 245ms ist im Vergleich zu anderen Websites im Coiffeur-Bereich relativ langsam, eine Optimierung der Bildgrößen und eine Nutzung von Content-Delivery-Networks könnte helfen, diese Zeit zu verkürzen",
+    "Es wäre ratsam, eine klare und einfache Navigation auf der Website zu implementieren, um es den Kunden zu erleichtern, die verschiedenen Dienstleistungen und Angebote von Hairstyling Ricci Capricci zu finden",
+    "Eine regelmäßige Aktualisierung der Website mit neuen Inhalten, wie zum Beispiel Hairstyling-Tipps oder Neuigkeiten aus der Branche, könnte helfen, die Kunden zu binden und die Website zu einem wichtigen Informationspunkt für Coiffeur-Interessierte zu machen"
+  ]
 }

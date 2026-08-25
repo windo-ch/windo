@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Magdalenanails sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Nutzererfahrung und die Suchmaschinenoptimierung ist",
+    "Eine Überarbeitung der Website-Struktur und des Designs könnte dazu beitragen, die Marke Magdalenanails noch stärker im Kosmetik-Markt zu etablieren und eine moderne, ansprechende Oberfläche für die Kunden zu bieten",
+    "Die Ladezeit von 235ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und anderen Mediendaten noch weitere Verbesserungspotenziale gehoben werden",
+    "Eine regelmäßige Aktualisierung und Pflege der Website-Inhalte, insbesondere im Bereich der Kosmetik, wo sich Trends und Angebote ständig ändern, wäre ratsam, um die Kunden über die neuesten Angebote und Dienstleistungen von Magdalenanails zu informieren"
+  ]
 }

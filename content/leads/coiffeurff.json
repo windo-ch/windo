@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Coiffeurff könnte durch die Implementierung eines einfachen Online-Terminbuchungssystems verbessert werden, um Kunden das Buchen von Friseurterminen zu erleichtern und somit die Kundenzufriedenheit zu steigern",
+    "Eine regelmäßige Aktualisierung des News- oder Blogbereichs mit aktuellen Friseurtrends und Angeboten von Coiffeurff könnte die Kundenbindung und die Sichtbarkeit in Suchmaschinen erhöhen",
+    "Die Ladezeit von 486ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch könnte durch die Optimierung von Bildern und die Verwendung eines Content-Delivery-Networks (CDN) die Ladezeit weiter reduziert und die Benutzererfahrung verbessert werden",
+    "Die Einbindung von Kundenbewertungen und -rezensionen auf der Website könnte potenziellen Kunden helfen, eine informierte Entscheidung zu treffen und somit das Vertrauen in die Marke Coiffeurff stärken"
+  ]
 }

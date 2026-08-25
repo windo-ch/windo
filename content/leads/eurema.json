@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website eurema.ch sollte dringend eine Mobile-Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere in der Versicherungsbranche, in der Kunden oft unterwegs nach Informationen suchen",
+    "Die Ladezeit von 277ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch könnte durch die Optimierung von Bildern und die Verwendung eines Content-Delivery-Networks (CDN) die Ladezeit weiter verbessert werden, um die Nutzererfahrung zu erhöhen",
+    "Es wäre ratsam, eine klare und einfache Navigation auf der Website zu implementieren, um den Kunden von Eurema eine bessere Übersicht über die angebotenen Versicherungsdienstleistungen zu bieten und sie so zu den relevanten Informationen zu führen",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte wäre empfehlenswert, um sicherzustellen, dass die Kunden von Eurema immer die aktuellen und relevanten Informationen erhalten, was insbesondere in der Versicherungsbranche, in der sich die Anforderungen und Gesetze häufig ändern, von großer Bedeutung ist"
+  ]
 }

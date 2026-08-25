@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Chinarestauranteintopfundmehr sollte unbedingt mobile-optimiert werden, da viele Kunden über ihre Smartphones nach Restaurants suchen und eine nicht optimierte Seite sie möglicherweise dazu bringt, zu einer Konkurrenzseite zu wechseln",
+    "Es wäre ratsam, eine einfache und intuitive Navigation zu implementieren, um den Besuchern eine bessere Übersicht über das Angebot und die Möglichkeiten des Restaurants zu geben",
+    "Die Ladezeit von 263ms ist im Vergleich zu anderen Websites relativ langsam, daher sollte geprüft werden, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern oder Code zu verkürzen",
+    "Eine regelmäßige Aktualisierung der Website mit neuen Inhalten, wie z.B. monatlichen Spezialangeboten oder Events, würde helfen, die Besucher zu binden und die Sichtbarkeit des Restaurants im Internet zu erhöhen"
+  ]
 }

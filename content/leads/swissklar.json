@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Swissklar sollte dringend mobile-optimiert werden, um den wachsenden Anteil von Mobilnutzern in der Branche Fenster und Türen zu bedienen und eine bessere Nutzererfahrung zu bieten",
+    "Die Ladezeit von 2271ms ist deutlich zu lang und sollte durch Optimierungen wie Bildkomprimierung und Code-Optimierung reduziert werden, um die Nutzerzufriedenheit zu steigern",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder TYPO3 zu verwenden, um die Wartung und Aktualisierung der Website zu erleichtern und flexibler auf veränderte Anforderungen reagieren zu können",
+    "Die Inhalte auf der Website sollten überarbeitet werden, um besser auf die Bedürfnisse und Interessen der Zielgruppe von Swissklar abgestimmt zu sein und eine stärkere Verbindung zu den Kunden aufzubauen"
+  ]
 }

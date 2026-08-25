@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Sf Facilityservices sollte unbedingt eine mobile Optimierung erhalten, um eine bessere Nutzererfahrung für die immer mehr mobilen Besucher zu gewährleisten",
+    "Die Ladezeit von 251ms ist im Vergleich zu anderen Websites in der Reinigungsbranche relativ langsam, eine Optimierung der Bildgrößen und eine Nutzung von Content Delivery Networks könnte hier Abhilfe schaffen",
+    "Es wäre ratsam, einen Baukasten zu verwenden, um die Website flexibler und einfacher zu gestalten, was auch die Pflege und Wartung erleichtern würde",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte wäre empfehlenswert, um den Besuchern aktuelle Informationen und Angebote von Sf Facilityservices präsentieren zu können"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Ich empfehle Nube Kosmetik, die Website mobile-optimiert zu gestalten, um eine bessere Nutzererfahrung für die zunehmende Zahl von Kunden zu bieten, die über Smartphones surfen",
+    "Die Integration eines Content-Management-Systems könnte den Prozess der Aktualisierung von Inhalten wie Produktnachrichten und Blogartikeln bei Nube Kosmetik vereinfachen und damit die Pflege der Website erleichtern",
+    "Um die Sichtbarkeit und Auffindbarkeit von Nube Kosmetik im Internet zu verbessern, sollten spezifische Suchmaschinenoptimierungs-Strategien für die Kosmetikbranche entwickelt und umgesetzt werden",
+    "Die Implementierung von Kundenbewertungen und -rezensionen auf der Website von Nube Kosmetik könnte die Glaubwürdigkeit und das Vertrauen bei potenziellen Kunden stärken und letztendlich zu mehr Konversionen führen"
+  ]
 }

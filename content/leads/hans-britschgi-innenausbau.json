@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Hans Britschgi Innenausbau sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit Smartphones surfenden Kunden zu bieten",
+    "Ein einfacher und übersichtlicher Aufbau der Website würde helfen, die Besucher direkt zu den wichtigsten Informationen über die Schreinerei-Dienstleistungen zu führen",
+    "Die Ladezeit von 224ms ist bereits sehr gut, jedoch könnte durch die Implementierung eines Content Delivery Networks die Ladezeit weiter verbessert werden, um internationalen Kunden eine schnellere Erfahrung zu bieten",
+    "Ein Blog oder eine Galerie mit Referenzen und Beschreibungen der erfolgreich abgeschlossenen Innenausbau-Projekte würde potenziellen Kunden helfen, die Qualität und Professionalität von Hans Britschgi Innenausbau besser zu verstehen und zu bewerten"
+  ]
 }

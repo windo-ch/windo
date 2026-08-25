@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Huber Bedachungen sollte mobil optimiert werden, um eine bessere Benutzererfahrung für die zunehmend mobil agierenden Kunden in der Bedachungsbranche zu gewährleisten",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, die Ladezeit von 269ms zu reduzieren und somit die Nutzerzufriedenheit zu steigern",
+    "Es wäre ratsam, einen regelmäßigen Wartungs- und Update-Prozess für die Website einzuführen, um sicherzustellen, dass die Technologie und der Inhalt auf dem neuesten Stand bleiben",
+    "Die Integration von Kundenbewertungen und -referenzen auf der Website könnte dazu beitragen, das Vertrauen potenzieller Kunden in die Dienstleistungen von Huber Bedachungen zu stärken und somit den Geschäftserfolg zu fördern"
+  ]
 }

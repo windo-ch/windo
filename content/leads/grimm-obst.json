@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Ich empfehle Grimm Obst, die Website mobile-optimiert zu gestalten, um eine bessere Nutzererfahrung für die zunehmend mobilen Kunden in der Landmaschinenbranche zu bieten",
+    "Die Ladezeit von 214ms ist zwar im Durchschnitt, könnte aber durch Optimierung der Bildgrößen und Nutzung eines Content Delivery Networks weiter verbessert werden, um die Konkurrenzfähigkeit von Grimm Obst zu stärken",
+    "Die Implementierung eines Baukastensystems würde die Wartung und Aktualisierung der Website erleichtern und Grimm Obst ermöglichen, flexibler auf veränderte Marktbedürfnisse zu reagieren",
+    "Um die Sichtbarkeit und Reichweite von Grimm Obst im Internet zu erhöhen, sollte die Website regelmäßig mit relevanten und qualitativ hochwertigen Inhalten gefüllt werden, die speziell auf die Bedürfnisse von Kunden in der Landmaschinenbranche zugeschnitten sind"
+  ]
 }

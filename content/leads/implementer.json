@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website implementer.ch sollte dringend eine Mobile-Optimierung erhalten, da die meisten Nutzer heutzutage über Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Die Ladezeit von 286ms ist zwar noch im grünen Bereich, aber es gibt sicherlich Möglichkeiten, diese durch Optimierung von Bildern und Code noch weiter zu reduzieren, um den Nutzern ein noch besseres Erlebnis zu bieten",
+    "Es wäre ratsam, eine klare Auflistung der Leistungen und Referenzen von Implementer auf der Website zu erstellen, um potenziellen Kunden eine bessere Vorstellung von den Angeboten und der Qualität der Arbeit zu geben",
+    "Eine regelmäßige Aktualisierung von News oder einem Blog auf der Website könnte dazu beitragen, die Nutzer zu binden und die Suchmaschinenoptimierung zu verbessern, indem neue Inhalte und Keywords hinzugefügt werden, die für die Branche der Gipser relevant sind"
+  ]
 }

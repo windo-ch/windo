@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Mobi Car sollte dringend mobile-optimiert werden, da die meisten Nutzer heutzutage über ihre Smartphones auf das Internet zugreifen und eine nicht optimierte Seite zu einer hohen Abbruchrate führen kann",
+    "Es wäre ratsam, die Ladezeit von 200ms zu überprüfen und gegebenenfalls zu optimieren, um eine bessere Nutzererfahrung zu gewährleisten, insbesondere in der Versicherungsbranche, in der schnelle und zuverlässige Informationen wichtig sind",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und somit die Kommunikation mit den Kunden verbessern",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Sicherheitszertifikate, wie dem SSL-Zertifikat, ist wichtig, um die Sicherheit der Kunden Daten zu gewährleisten und das Vertrauen in die Marke Mobi Car zu stärken"
+  ]
 }

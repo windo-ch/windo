@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website des Kosmetikstudios Chantal sollte unbedingt mobile-optimiert werden, da die meisten Kunden heute mit ihrem Smartphone surfen und eine schlechte Darstellung auf kleinen Bildschirmen den Eindruck des Studios negativ beeinflussen kann",
+    "Ein weiterer wichtiger Punkt ist die Einbindung von Kundenbewertungen und -empfehlungen auf der Website, um potenziellen Kunden eine realistische Vorstellung von der Qualität des Studios zu geben",
+    "Die Ladezeit von 200ms ist sehr gut, jedoch sollte das Studio auch auf eine benutzerfreundliche Navigation und eine übersichtliche Struktur der Website achten, um die Kunden bei der Suche nach Informationen zu unterstützen",
+    "Um die Sichtbarkeit und den Online-Auftritt des Kosmetikstudios Chantal zu verbessern, wäre es ratsam, eine Search-Engine-Optimization-Strategie zu entwickeln und umzusetzen, um höhere Platzierungen in den Suchmaschinen zu erreichen"
+  ]
 }

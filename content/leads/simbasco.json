@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Simbasco-Website sollte dringend eine mobile Optimierung erhalten, um den wachsenden Anteil von Nutzern zu bedienen, die über Smartphones auf die Website zugreifen",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts wäre ratsam, um den Besuchern eine einfachere Navigation und bessere Informationen über die Yoga- und Wellness-Angebote von Simbasco zu bieten",
+    "Die Ladezeit von 258ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten die Bilder und andere Medien optimiert werden, um die Ladezeit zu verkürzen und die Benutzererfahrung zu verbessern",
+    "Eine regelmäßige Aktualisierung des Contents und der Angebote auf der Website wäre hilfreich, um die Besucher zu binden und sie über neue Entwicklungen und Angebote von Simbasco im Bereich Yoga und Wellness zu informieren"
+  ]
 }

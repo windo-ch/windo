@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten dringend eine mobile-optimierte Version ihrer Website entwickeln, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere für ein Malergeschäft wie Xn Rm Malergeschft Dlb",
+    "Die Ladezeit von 242ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und die Verwendung eines Content Delivery Networks die Ladezeit noch weiter verbessert werden",
+    "Es wäre ratsam, eine klare und einfache Navigation auf der Website zu implementieren, um den Besuchern eine einfache Möglichkeit zu bieten, die verschiedenen Dienstleistungen und Angebote des Malergeschäfts zu finden",
+    "Die Verwendung eines Baukastens wie WordPress oder Joomla könnte die Wartung und Aktualisierung der Website erleichtern und es ermöglichen, regelmäßig neue Inhalte hinzuzufügen, um die Besucher zu binden und die Suchmaschinen zu optimieren"
+  ]
 }

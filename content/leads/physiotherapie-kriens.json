@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Physiotherapie Kriens sollte mobil-optimiert werden, um eine bessere Benutzererfahrung für Patienten zu bieten, die über ihr Smartphone nach Physiotherapie-Angeboten suchen",
+    "Es wäre hilfreich, wenn die Website eine klare und einfache Navigation hätte, um den Besuchern eine schnelle und einfache Suche nach den verschiedenen Therapieangeboten zu ermöglichen",
+    "Die Ladezeit von 278ms ist relativ schnell, jedoch könnte die Website durch die Implementierung von Browser-Caching und der Komprimierung von Bildern noch weiter optimiert werden",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, beispielsweise durch einen Blog über physiotherapeutische Themen, könnte dazu beitragen, die Besucher zu binden und die Website in der Suchmaschinen-Ranking zu verbessern"
+  ]
 }

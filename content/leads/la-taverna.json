@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von La Taverna sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, die Sichtbarkeit von La Taverna in Suchmaschinen zu verbessern und somit mehr Kunden anzuziehen",
+    "Die Ladezeit von 257ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte eine Optimierung der Bildgrößen und -kompression die Ladezeit noch weiter reduzieren und die Nutzererfahrung verbessern",
+    "Eine regelmäßige Aktualisierung des Angebots und der Events auf der Website von La Taverna könnte dazu beitragen, bestehende Kunden zu binden und neue anzuziehen, indem sie ein aktives und lebendiges Bild des Restaurants vermittelt"
+  ]
 }

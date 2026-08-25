@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Nutzererfahrung auf glow-beauty.ch zu verbessern, sollten Sie die Mobile-Optimierung priorisieren, da viele Kunden wahrscheinlich über ihre Smartphones auf die Website zugreifen",
+    "Die Ladezeit von 275ms ist im Vergleich zu anderen Websites relativ langsam, daher wäre es ratsam, die Bilder und anderen Elemente auf der Website zu optimieren, um die Ladezeit zu verkürzen",
+    "Es wäre auch hilfreich, eine klare und einfache Navigation auf der Website zu implementieren, um den Kunden den Zugang zu den verschiedenen Kosmetik-Produkten und -Dienstleistungen zu erleichtern",
+    "Die Einbindung von Kundenbewertungen und -rezensionen auf der Website könnte dazu beitragen, das Vertrauen der Kunden in die Marke Glow Beauty zu stärken und die Conversion-Rate zu erhöhen"
+  ]
 }

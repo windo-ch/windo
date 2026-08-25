@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website der Baumgartner Fahrschule sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, dass potenzielle Kunden schneller und einfacher die benötigten Informationen finden, wie zum Beispiel die Fahrstundenpreise oder die Kontaktmöglichkeiten",
+    "Die Ladezeit von 238ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und die Verwendung von Content Delivery Networks (CDNs) eine weitere Verbesserung erzielt werden",
+    "Es wäre ratsam, eine klare Auflistung der angebotenen Dienstleistungen und Lehrgänge auf der Startseite zu integrieren, um den Besuchern der Baumgartner Fahrschule einen direkten Überblick über das Angebot zu geben und sie so besser auf die Fahrschule zuzuschneiden"
+  ]
 }

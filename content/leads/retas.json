@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Retas sollte dringend mobile-optimiert werden, um den wachsenden Anteil von mobilen Nutzern in der Elektrobranche zu bedienen und eine bessere Benutzererfahrung zu bieten",
+    "Die Ladezeit von 218ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und die Verwendung von Content Delivery Networks die Ladezeit noch weiter verbessert werden",
+    "Um die Sichtbarkeit und den Online-Auftritt von Retas zu stärken, wäre es ratsam, regelmäßig aktualisierte und relevante Inhalte auf der Website zu veröffentlichen, insbesondere im Bereich der Elektrotechnik",
+    "Die Verwendung eines Baukastens könnte die Wartung und Aktualisierung der Website von Retas erleichtern und somit die Kosten und den Zeitaufwand für zukünftige Anpassungen reduzieren"
+  ]
 }

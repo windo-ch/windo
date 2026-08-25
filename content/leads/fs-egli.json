@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Fs Egli-Website sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Nutzererfahrung und die Suchmaschinenoptimierung ist",
+    "Die Ladezeit von 283ms ist im Vergleich zu anderen Websites relativ langsam, es wäre ratsam, die Bilder und anderen Elemente zu optimieren, um die Ladezeit zu verkürzen",
+    "Es wäre hilfreich, wenn die Fs Egli-Website eine klare und übersichtliche Struktur hätte, um den Nutzern eine einfache Navigation zu ermöglichen und sie so zu den gewünschten Informationen zu führen",
+    "Die Fs Egli-Website könnte von einer Überarbeitung der Inhalte profitieren, um diese ansprechender und informativer zu gestalten, insbesondere im Bereich der Reinigungsdienstleistungen, um potenzielle Kunden zu überzeugen"
+  ]
 }

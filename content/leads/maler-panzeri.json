@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Maler Panzeri sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmende Zahl von Besuchern mit mobilen Geräten zu bieten",
+    "Es wäre ratsam, die Ladezeit von 265ms zu überprüfen und gegebenenfalls zu optimieren, um sicherzustellen, dass die Besucher nicht durch lange Ladezeiten abgeschreckt werden",
+    "Eine Überarbeitung der Website-Struktur und -Navigation könnte helfen, die Inhalte besser zu organisieren und den Besuchern eine einfachere Suche nach Informationen über die Dienstleistungen von Maler Panzeri zu ermöglichen",
+    "Die Integration eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und es Maler Panzeri ermöglichen, regelmäßig neue Inhalte und Angebote zu veröffentlichen"
+  ]
 }

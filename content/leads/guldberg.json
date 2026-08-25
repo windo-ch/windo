@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Guldberg sollte unbedingt mobile-optimiert werden, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Es wäre ratsam, die Ladezeit von 268ms zu überprüfen und gegebenenfalls zu optimieren, um eine bessere Nutzererfahrung zu gewährleisten, insbesondere für potenzielle Kunden, die schnell Informationen über Plattenleger-Dienstleistungen benötigen",
+    "Eine Überarbeitung der Website-Struktur und des Inhalts könnte dazu beitragen, dass die Zielgruppe von Guldberg, wie zum Beispiel Bauherren oder Architekten, einfacher die gewünschten Informationen finden und somit mehr über die Dienstleistungen von Guldberg erfahren",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und es Guldberg ermöglichen, regelmäßig neue Inhalte und Angebote zu veröffentlichen, um die Kundenbindung zu stärken und die Sichtbarkeit im Internet zu erhöhen"
+  ]
 }

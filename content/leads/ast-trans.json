@@ -16,5 +16,10 @@
   },
   "hasDesktopScreenshot": true,
   "hasMobileScreenshot": true,
-  "insights": []
+  "insights": [
+    "Die Website von Ast Trans sollte unbedingt eine mobile Optimierung erhalten, da viele potenzielle Kunden über ihre Smartphones nach Umzugsunternehmen suchen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Die Ladezeit von 218ms ist im Vergleich zu anderen Websites sehr schnell, jedoch könnte die Nutzung von Browser-Caching und Content-Delivery-Networks die Ladezeit noch weiter verbessern",
+    "Umzugsunternehmen wie Ast Trans profitieren von einer professionellen und modernen Website, daher wäre es ratsam, die Website in einem Baukastensystem wie WordPress oder TYPO3 zu erstellen, um einfache Wartung und Updates zu ermöglichen",
+    "Die SSL-Verschlüsselung ist korrekt implementiert, jedoch sollte Ast Trans sicherstellen, dass alle externen Links und Ressourcen ebenfalls über HTTPS abgerufen werden, um die Sicherheit der Website zu gewährleisten"
+  ]
 }

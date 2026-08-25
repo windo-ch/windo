@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Gruetligarage sollte ihre Website mobil-optimieren, um eine bessere Benutzererfahrung für die zunehmend mobil agierenden Kunden zu bieten",
+    "Eine Überarbeitung der Inhalte und Struktur der Website könnte helfen, die Besucher besser über die angebotenen Dienstleistungen der Gruetligarage zu informieren und sie so zu einer Kontaktaufnahme zu ermutigen",
+    "Die Ladezeit von 228ms ist im Vergleich zu anderen Websites sehr schnell, jedoch könnte eine weitere Optimierung der Bilder und Inhalte die Ladezeit noch weiter reduzieren und so die Benutzererfahrung verbessern",
+    "Die Gruetligarage könnte auch von einer Integration von Kundenbewertungen und -rezensionen auf ihrer Website profitieren, um so das Vertrauen potenzieller Kunden zu stärken und ihre Glaubwürdigkeit als seriöse Garage und Werkstatt zu unterstreichen"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Hair Meier sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihrem Smartphone surfenden Kunden zu bieten",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die verschiedenen Dienstleistungen und Angebote von Hair Meier übersichtlicher und einfacher zugänglich zu machen",
+    "Die Ladezeit von 395ms ist im Vergleich zu anderen Websites relativ langsam, daher wäre es ratsam, die Website zu optimieren, um eine schnellere Ladezeit zu erzielen und die Nutzerzufriedenheit zu steigern",
+    "Ein regelmäßiges Update der Website-Inhalte und -Fotos würde helfen, die Marke Hair Meier als modern und aktuell zu präsentieren und die Kunden zu binden"
+  ]
 }

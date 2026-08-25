@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website markus-rickenbach.ch sollte unbedingt eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere in der Branche der Psychologie, wo viele Nutzer über mobile Geräte auf Informationen zugreifen",
+    "Die Ladezeit von 396ms ist noch akzeptabel, aber es gibt sicherlich Potential für Verbesserungen, um die Nutzererfahrung zu optimieren und die Abbruchrate zu senken",
+    "Es wäre ratsam, eine klare Struktur und eine einfache Navigation auf der Website zu implementieren, um den Besuchern eine einfache und intuitive Erfahrung zu bieten und sie so zu ermutigen, länger auf der Seite zu bleiben",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und es Markus Rickenbach ermöglichen, regelmäßig neue Inhalte zu veröffentlichen und so die Besucher zu binden"
+  ]
 }

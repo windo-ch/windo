@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website kasa.ch sollte unbedingt eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere für eine Firma wie Kasa, die sich in der Branche Sonstige bewegt",
+    "Die Ladezeit von 249ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch eine Optimierung der Bildgrößen und eine effizientere Verwaltung der Ressourcen die Ladezeit noch weiter reduziert werden, um die Benutzererfahrung zu verbessern",
+    "Es wäre ratsam, eine Baukasten-Lösung in Betracht zu ziehen, um die Wartung und Aktualisierung der Website zu vereinfachen und somit die Kosten und den Zeitaufwand für zukünftige Anpassungen zu reduzieren",
+    "Da die Website bereits seit 2023 online ist, wäre es sinnvoll, die Nutzererfahrung und die Inhalte zu überprüfen und gegebenenfalls anzupassen, um sicherzustellen, dass die Website den aktuellen Bedürfnissen und Erwartungen der Besucher entspricht und somit die Ziele von Kasa optimal unterstützt"
+  ]
 }

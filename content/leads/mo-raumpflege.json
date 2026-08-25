@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Mo Raumpflege sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Eine Überarbeitung der Seitengestaltung und -struktur könnte dazu beitragen, dass potenzielle Kunden einfacher die Leistungen und Vorteile von Mo Raumpflege finden",
+    "Die Ladezeit von 323ms ist im Vergleich zu anderen Websites relativ langsam, daher könnte eine Optimierung der Bildgrössen und eine Überprüfung der verwendeten Skripte und Plugins dazu beitragen, die Ladezeit zu verkürzen",
+    "Eine regelmässige Aktualisierung von Inhalten und eine stärkere Nutzung von Suchmaschinenoptimierung (SEO) könnten dazu beitragen, dass Mo Raumpflege in der Reinigungsbranche besser online sichtbar wird und mehr Kunden anzieht"
+  ]
 }

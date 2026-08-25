@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Kaminfeger Wetzikon sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, dass potenzielle Kunden schneller finden, was sie suchen, und somit die Conversion-Rate erhöhen",
+    "Es wäre ratsam, regelmäßig Updates und neue Inhalte zu veröffentlichen, um die Sichtbarkeit in Suchmaschinen zu verbessern und die Besucher zu binden",
+    "Die Ladezeit von 274ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und der Verwendung eines Content Delivery Networks die Ladezeit noch weiter reduziert werden"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Liegenschaftsverwalter Luzern sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihrem Smartphone surfenden Kunden zu bieten",
+    "Eine Überarbeitung der Seitenstruktur und eine Verbesserung der interne Verlinkung würde die Navigation und das Auffinden von relevanten Informationen erleichtern",
+    "Die Ladezeit von 272ms ist im Vergleich zu anderen Websites noch akzeptabel, aber es gibt sicherlich Potential für Verbesserungen, um die Konkurrenz zu überbieten",
+    "Ein regelmässiges Update der Website-Inhalte und eine aktive Pflege des News-Bereichs würde helfen, die Besucher zu binden und als kompetenter Liegenschaftsverwalter in Luzern zu positionieren"
+  ]
 }

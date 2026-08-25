@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Umzugs Engel sollte die Mobile-Optimierung priorisieren, da die meisten Nutzer heutzutage über mobile Geräte auf Websites zugreifen und eine nicht optimierte Seite zu einem hohen Bounce-Rate führen kann",
+    "Die Ladezeit von 255ms ist im Vergleich zu anderen Websites relativ langsam, daher könnte Umzugs Engel durch die Optimierung von Bildern und der Verwendung eines Content Delivery Networks die Ladezeit verkürzen",
+    "Umzugs Engel könnte von einer Überarbeitung der Website-Struktur profitieren, um eine bessere Nutzererfahrung zu bieten und die Konversionen zu erhöhen, insbesondere durch die Hervorhebung der Kernleistungen und der Vorteile des Unternehmens",
+    "Die Verwendung von SSL ist ein wichtiger Schritt für die Sicherheit der Website, jedoch sollte Umzugs Engel auch auf die regelmäßige Aktualisierung und Wartung der Website achten, um sicherzustellen, dass die Sicherheit und Stabilität der Website gewährleistet sind"
+  ]
 }

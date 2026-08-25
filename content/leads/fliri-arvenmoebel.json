@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Fliri Arvenmoebel sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihrem Smartphone surfenden Kunden zu bieten",
+    "Eine Überarbeitung der Seitenstruktur und Inhalte könnte dazu beitragen, dass die Besucher schneller finden, wonach sie suchen, und somit länger auf der Seite bleiben",
+    "Die Ladezeit von 247ms ist im Vergleich zu anderen Websites bereits sehr gut, jedoch könnte durch eine Optimierung der Bildgrössen und eine weitere Minimierung der CSS- und JavaScript-Dateien noch mehr Geschwindigkeit gewonnen werden",
+    "Eine regelmässige Aktualisierung der Inhalte und ein Blog mit Beiträgen über die Schreinerei und die neuesten Trends in der Branche könnten dazu beitragen, dass die Website von Fliri Arvenmoebel bei Suchmaschinen besser gefunden wird und somit mehr Kunden anzieht"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Goeasy Bowling sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zahlreichen Besucher zu gewährleisten, die über ihr Smartphone auf die Seite zugreifen",
+    "Eine Überarbeitung der Seitengestaltung und eine verbesserte Strukturierung des Inhalts würden dazu beitragen, dass die Besucher leichter finden, wonach sie suchen, insbesondere bei der Suche nach Speisekarten oder Bowling-Angeboten",
+    "Die Ladezeit von 263ms ist im Vergleich zu anderen Websites im Restaurant-Bereich relativ langsam, daher wäre es ratsam, die Bilder und anderen Medien zu optimieren, um die Ladezeit zu verkürzen und die Besucherzufriedenheit zu steigern",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, wie zum Beispiel die Speisekarte oder die Öffnungszeiten, wäre wichtig, um den Besuchern aktuelle Informationen zu bieten und die Treue zu fördern, insbesondere bei einer Marke wie Goeasy Bowling, die sich auf Freizeit und Unterhaltung konzentriert"
+  ]
 }

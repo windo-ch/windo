@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Blumenweber sollte unbedingt mobile-optimiert werden, da dies heutzutage ein wichtiger Faktor für die Nutzererfahrung und die Suchmaschinenoptimierung ist",
+    "Es wäre ratsam, die Ladezeit von 290ms zu überprüfen und gegebenenfalls zu optimieren, um sicherzustellen, dass die Website schnell und effizient lädt",
+    "Eine Überarbeitung der Website-Struktur und -Navigation könnte hilfreich sein, um den Kunden einen einfacheren Zugang zu den verschiedenen Blumenarrangements und Dienstleistungen von Blumenweber zu bieten",
+    "Die Einbindung von Kundenbewertungen und -rezensionen auf der Website könnte dazu beitragen, das Vertrauen und die Glaubwürdigkeit von Blumenweber bei potenziellen Kunden zu erhöhen"
+  ]
 }

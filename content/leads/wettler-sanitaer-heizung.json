@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Wettler Sanitaer Heizung sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer grösser werdende Zahl von Besuchern mit mobilen Geräten zu gewährleisten",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die verschiedenen Dienstleistungen und Angebote von Wettler Sanitaer Heizung besser zu präsentieren und den Besuchern eine einfachere Suche nach Informationen zu ermöglichen",
+    "Die Integration von Kundenbewertungen und -referenzen auf der Website würde die Glaubwürdigkeit und Vertrauenswürdigkeit von Wettler Sanitaer Heizung bei potenziellen Kunden erhöhen",
+    "Eine regelmässige Aktualisierung des News- oder Blog-Bereichs auf der Website würde es Wettler Sanitaer Heizung ermöglichen, sich als Experte in der Sanitär- und Heizungsbranche zu positionieren und gleichzeitig die Suchmaschinenoptimierung zu verbessern"
+  ]
 }

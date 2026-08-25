@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Tonispuhler sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über ihre Smartphones auf die Seite zugreifen",
+    "Die Ladezeit von 284ms ist im Vergleich zu anderen Websites noch akzeptabel, aber es gibt sicherlich Potential für Verbesserungen, um die Konkurrenz zu überbieten",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder Joomla zu verwenden, um die Wartung und Aktualisierung der Website zu vereinfachen und somit mehr Ressourcen für die Kernkompetenzen des Gipser-Unternehmens frei zu machen",
+    "Ein regelmäßiges Update der Website-Inhalte und ein aktives Social-Media-Engagement würden helfen, die Sichtbarkeit und Glaubwürdigkeit von Tonispuhler in der digitalen Welt zu stärken und potenzielle Kunden anzuziehen"
+  ]
 }

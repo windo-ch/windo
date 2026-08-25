@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website martinsreinigung.ch sollte dringend eine Mobile-Optimierung durchführen, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Die Ladezeit von 799ms ist noch im akzeptablen Bereich, aber eine Optimierung der Bilder und eine mögliche Implementierung eines Content Delivery Networks könnten diese Zeit noch weiter reduzieren",
+    "Es wäre ratsam, eine klare Auflistung der angebotenen Reinigungsdienstleistungen auf der Startseite zu integrieren, um potenziellen Kunden einen schnellen Überblick über das Angebot von Martinsreinigung zu geben",
+    "Eine regelmäßige Aktualisierung des Inhalts, beispielsweise durch einen Blog oder ein News-Section, könnte helfen, die Besucher zu binden und die Sichtbarkeit der Website in den Suchmaschinen zu verbessern"
+  ]
 }

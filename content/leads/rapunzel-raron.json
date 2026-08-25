@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Rapunzel Raron sollte dringend eine mobile Optimierung erhalten, da viele Kunden von Coiffeuren heutzutage über ihre Smartphones nach Dienstleistungen suchen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Die Ladezeit von 271ms ist zwar nicht schlecht, aber es gibt sicherlich noch Potenzial für Verbesserungen, um die Nutzererfahrung zu optimieren und die Konkurrenz zu überbieten",
+    "Es wäre ratsam, wenn Rapunzel Raron eine klare Auflistung der angebotenen Dienstleistungen und Preise auf der Website hätte, um potenziellen Kunden eine einfache und transparente Übersicht zu bieten",
+    "Eine regelmäßige Aktualisierung der Website mit neuen Inhalten, wie zum Beispiel Hairstyling-Tipps oder Neuigkeiten aus der Branche, könnte helfen, die Kundenbindung zu stärken und die Sichtbarkeit im Internet zu erhöhen"
+  ]
 }

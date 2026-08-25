@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Nutzererfahrung zu verbessern, empfehle ich, die Website von Coiffeurpagnamenta auf eine mobile-optimierte Version umzustellen, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und Suchmaschinenoptimierung ist.",
+    "Die Ladezeit von 266ms ist noch akzeptabel, könnte aber durch Optimierung der Bildgrößen und des Codes weiter verbessert werden, um die Konkurrenz zu überbieten und eine bessere User Experience zu bieten.",
+    "Da Coiffeurpagnamenta in der Coiffeur-Branche tätig ist, wäre es sinnvoll, ein Portfolio mit Fotos von Frisuren und Stylingarbeiten auf der Website zu integrieren, um potenziellen Kunden ein visuelles Angebot zu präsentieren und die Profession des Unternehmens zu unterstreichen.",
+    "Es wäre ratsam, regelmäßig Updates und Neuigkeiten auf der Website zu veröffentlichen, wie zum Beispiel aktuelle Frisur-Trends, Spezialangebote oder Veranstaltungen, um die Kunden zu informieren und die Website als Informationsquelle für Coiffeur-Dienstleistungen in der Schweiz zu etablieren."
+  ]
 }

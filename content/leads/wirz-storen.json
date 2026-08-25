@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Wirz Storen sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die heutzutage überwiegend mit mobilen Geräten surfen",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, dass potenzielle Kunden einfacher und schneller die gesuchten Informationen über Storen finden",
+    "Die Ladezeit von 261ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch könnte eine Optimierung der Bildgrößen und eine Verwendung von modernen Bildkompressionsverfahren diese Zeit noch weiter reduzieren",
+    "Eine regelmäßige Aktualisierung des Inhalts und eine Integration von Kundenbewertungen oder Referenzen könnten dazu beitragen, das Vertrauen bei potenziellen Kunden zu stärken und die Website von Wirz Storen noch attraktiver zu machen"
+  ]
 }

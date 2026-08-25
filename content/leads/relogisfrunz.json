@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Relogisfrunz sollte dringend eine Mobile-Optimierung durchführen, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und Suchmaschinenoptimierung ist, insbesondere in der Branche Yoga und Wellness, wo viele Nutzer über mobile Geräte auf die Website zugreifen",
+    "Die Ladezeit von 249ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und der Implementierung eines Content Delivery Networks die Ladezeit noch weiter verbessert werden, um die Nutzerzufriedenheit zu steigern",
+    "Es wäre ratsam, eine klare und übersichtliche Struktur für die Website zu erstellen, um den Nutzern eine einfache Navigation und einen guten Überblick über die angebotenen Yoga- und Wellness-Dienstleistungen zu ermöglichen, was insbesondere für neue Besucher wichtig ist",
+    "Die Implementierung eines Blogs oder einer Nachrichtenseite auf der Website von Relogisfrunz könnte dazu beitragen, die Nutzer zu binden und über neue Entwicklungen, Angebote und Events in der Yoga- und Wellness-Branche zu informieren, was auch die Suchmaschinenoptimierung positiv beeinflussen könnte"
+  ]
 }

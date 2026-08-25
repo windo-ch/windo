@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Bundabauundgebaeudeservice sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Nutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Es wäre ratsam, die Ladezeit von 240ms zu überprüfen und gegebenenfalls zu optimieren, um eine bessere Benutzererfahrung zu gewährleisten, insbesondere für potenzielle Kunden, die schnell auf Informationen über Gipser-Dienstleistungen zugreifen möchten",
+    "Die Verwendung eines Baukastens könnte die Wartung und Aktualisierung der Website von Bundabauundgebaeudeservice erleichtern und somit die Online-Präsenz des Unternehmens verbessern",
+    "Eine regelmäßige Überprüfung und Aktualisierung des Inhalts auf der Website wäre empfehlenswert, um sicherzustellen, dass potenzielle Kunden immer auf die aktuellsten Informationen über die Dienstleistungen von Bundabauundgebaeudeservice zugreifen können"
+  ]
 }

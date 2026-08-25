@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website der Viva Bar Lounge sollte dringend eine mobile Optimierung erhalten, da die meisten Nutzer heutzutage über Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Es wäre ratsam, eine einfache und intuitive Navigation zu implementieren, um den Besuchern eine einfache Orientierung auf der Website zu ermöglichen und sie so zu den gewünschten Informationen zu führen",
+    "Die Ladezeit von 332ms ist im Vergleich zu anderen Websites relativ langsam, es wäre daher empfehlenswert, die Bilder und anderen Medien auf der Website zu komprimieren, um die Ladezeit zu verkürzen und so die Nutzererfahrung zu verbessern",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, wie zum Beispiel die Speise- und Getränkekarte oder die Veranstaltungen, würde helfen, die Besucher zu binden und sie so zu wiederkehrenden Kunden der Viva Bar Lounge zu machen"
+  ]
 }

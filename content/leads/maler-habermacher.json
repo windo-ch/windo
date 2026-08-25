@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Maler Habermacher sollte mobile-optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Es wäre ratsam, eine Möglichkeit zur einfachen Kontaktaufnahme wie ein Kontaktformular oder eine klar sichtbare Telefonnummer auf der Startseite zu integrieren, um potenziellen Kunden den ersten Schritt zu erleichtern",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, beispielsweise durch ein Blog, in dem Maler Habermacher über aktuelle Trends, Tipps oder Projekte berichtet, könnte die Sichtbarkeit in Suchmaschinen verbessern und die Expertise des Unternehmens unterstreichen",
+    "Die Ladezeit von 254ms ist im Vergleich zu anderen Websites relativ langsam, daher könnte eine Optimierung der Bildgrößen oder der Verwendung von Content-Delivery-Networks (CDNs) die Ladezeit verkürzen und die Nutzererfahrung verbessern"
+  ]
 }

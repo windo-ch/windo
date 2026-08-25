@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten ihre Website mobile-optimieren, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere für eine Garage wie Da Autopflege, bei der Kunden oft unterwegs nach Dienstleistungen suchen",
+    "Die Ladezeit von 295ms ist noch im grünen Bereich, aber es gibt sicherlich Potenzial für Verbesserungen, um die Nutzererfahrung weiter zu optimieren und die Abbruchraten zu reduzieren",
+    "Eine Überarbeitung der Website-Struktur und des Inhalts könnte hilfreich sein, um potenziellen Kunden ein besseres Verständnis für die angebotenen Dienstleistungen und die Expertise von Da Autopflege zu vermitteln",
+    "Die Einbindung von Kundenbewertungen und -rezensionen auf der Website könnte die Glaubwürdigkeit und das Vertrauen in die Marke Da Autopflege stärken und so den Konversionsgrad erhöhen"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Salon Lucia sollte unbedingt mobile-optimiert werden, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die Kunden besser durch das Angebot von Salon Lucia zu führen und somit die Konversionrate zu erhöhen",
+    "Die Ladezeit von 256ms ist zwar noch im Rahmen, aber es gibt sicherlich Möglichkeiten, diese noch weiter zu reduzieren, um die Benutzererfahrung zu verbessern",
+    "Ein regelmäßiges Update und eine aktive Pflege der Website würden dazu beitragen, dass die Kunden von Salon Lucia immer auf dem neuesten Stand sind und sich auf die Website verlassen können"
+  ]
 }

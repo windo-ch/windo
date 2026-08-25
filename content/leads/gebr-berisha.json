@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Gebr Berisha sollte dringend eine mobile Optimierung erhalten, um den wachsenden Anteil an mobilen Nutzern besser zu bedienen und die Benutzererfahrung zu verbessern",
+    "Ein modernes Content-Management-System mit Baukastenfunktion würde die Pflege und Aktualisierung der Website erheblich vereinfachen und flexibler gestalten",
+    "Die Ladezeit von 256ms ist zwar im Durchschnitt, aber durch Optimierungen wie Bildkomprimierung und Browser-Caching könnte diese Zeit noch weiter reduziert werden, um die Nutzerzufriedenheit zu steigern",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte würde helfen, die Glaubwürdigkeit und Professionalität von Gebr Berisha als Gipser-Unternehmen zu unterstreichen und potenzielle Kunden zu überzeugen"
+  ]
 }

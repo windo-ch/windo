@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Garage Autohof sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Es wäre ratsam, die Ladezeit von 214ms zu überprüfen und gegebenenfalls zu optimieren, um sicherzustellen, dass die Besucher nicht durch lange Ladezeiten abgeschreckt werden",
+    "Eine klare und übersichtliche Struktur der Website würde helfen, die Besucher besser durch die verschiedenen Dienstleistungen von Garage Autohof zu führen und ihre Bedürfnisse zu erfüllen",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und somit die Kommunikation mit den Kunden verbessern"
+  ]
 }

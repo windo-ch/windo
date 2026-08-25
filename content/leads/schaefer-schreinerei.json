@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Schaefer Schreinerei sollte ihre Website mobil-optimieren, um eine bessere Nutzererfahrung für die zunehmende Anzahl von Besuchern zu gewährleisten, die über mobile Geräte auf die Website zugreifen",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde es Besuchern erleichtern, die gewünschten Informationen über die Schreinerei-Dienstleistungen zu finden und somit die Konversionsraten zu erhöhen",
+    "Die Implementierung eines Content-Management-Systems würde es der Schaefer Schreinerei ermöglichen, ihre Website-Inhalte einfacher und regelmäßiger zu aktualisieren, um so ihre Online-Präsenz zu stärken",
+    "Eine Analyse und Optimierung der Suchmaschinenoptimierung (SEO) würde es der Schaefer Schreinerei ermöglichen, ihre Sichtbarkeit in den Suchmaschinen zu verbessern und somit mehr potenzielle Kunden anzuziehen, die nach Schreinerei-Dienstleistungen in der Schweiz suchen"
+  ]
 }

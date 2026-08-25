@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Pferdehaarwerk könnte durch die Integration von Bewegtbildern oder Fotos von Tanzvorführungen und -workshops eine ansprechendere und authentischere Atmosphäre schaffen, um potenzielle Kunden für die Tanzschule zu begeistern",
+    "Ein Überarbeitung des Menüsystems und der Navigation würde es Besuchern erleichtern, die gewünschten Informationen schnell zu finden und sich auf der Website zurechtzufinden",
+    "Die Ladezeit von 319ms ist zwar im Durchschnitt, aber durch die Optimierung von Bildern und der Implementierung eines Content Delivery Networks könnte diese Zeit noch weiter reduziert werden, um eine bessere Nutzererfahrung zu bieten",
+    "Eine regelmäßige Aktualisierung des News- oder Blogbereichs mit Informationen über anstehende Veranstaltungen, Workshops oder Erfolge der Schule würde helfen, eine treue Gemeinschaft aufzubauen und die Sichtbarkeit von Pferdehaarwerk in der Tanzszene zu erhöhen"
+  ]
 }

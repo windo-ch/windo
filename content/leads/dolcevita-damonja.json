@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Dolcevita Damonja sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Nutzererfahrung und die Suchmaschinenoptimierung ist",
+    "Eine Analyse der Ladezeit von 296ms zeigt, dass diese im Vergleich zu anderen Websites noch verbessert werden kann, um eine schnellere und flüssigere Erfahrung für die Besucher zu gewährleisten",
+    "Es wäre ratsam, eine klare und übersichtliche Struktur für die Website zu erstellen, um den Besuchern eine einfache Navigation und einen besseren Überblick über die Angebote von Dolcevita Damonja zu ermöglichen",
+    "Die Verwendung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und somit die Kosten und den Zeitaufwand für die Pflege reduzieren"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Weinbar Roessli könnte ihre Website durch eine Überarbeitung der Menüstruktur und eine einfachere Navigation verbessern, um den Besuchern eine bessere Übersicht über das Angebot zu bieten",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, wie zum Beispiel die Veranstaltungen und Angebote, würde helfen, die Besucher zu binden und die Treue zu fördern",
+    "Die Ladezeit von 942ms ist noch im Rahmen des Akzeptablen, aber eine Optimierung der Bildgrößen und eine Komprimierung der Dateien könnte diese Zeit weiter reduzieren und die Benutzererfahrung verbessern",
+    "Eine Integration von Online-Reservierungs- und Bestellfunktionen würde es den Kunden ermöglichen, ihre Besuche und Bestellungen bequem über die Website vorzunehmen und die Weinbar Roessli könnte so ihre Umsätze steigern"
+  ]
 }

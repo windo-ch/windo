@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Gabbau-Website sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer grösser werdende Zahl von Besuchern zu gewährleisten, die über mobile Geräte auf die Seite zugreifen",
+    "Die Ladezeit von 263ms ist im Vergleich zu anderen Websites in der Immobilienbranche relativ langsam und könnte durch eine Optimierung der Bildgrössen und eine effizientere Verwendung von Ressourcen verbessert werden",
+    "Um die Sichtbarkeit und Auffindbarkeit der Gabbau-Website zu erhöhen, wäre es ratsam, eine umfassende Suchmaschinenoptimierung durchzuführen und relevante Schlüsselwörter wie 'Immobilien Schweiz' oder 'Gabbau Immobilien' gezielt zu verwenden",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und ermöglichen, dass Mitarbeiter der Gabbau ohne umfassende technische Kenntnisse Inhalte hinzufügen und bearbeiten können"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Krebs Sanitaer sollte dringend mobile-optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die heutzutage vorwiegend mit Smartphones im Internet unterwegs sind",
+    "Es wäre ratsam, die Ladezeit von 199ms zu überprüfen und gegebenenfalls zu optimieren, um sicherzustellen, dass die Besucher nicht durch lange Ladezeiten abgeschreckt werden",
+    "Eine moderne und benutzerfreundliche Website würde es Krebs Sanitaer ermöglichen, ihre Dienstleistungen im Sanitär- und Heizungsbereich besser darzustellen und potenzielle Kunden zu überzeugen",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und es dem Unternehmen ermöglichen, regelmäßig neue Inhalte zu veröffentlichen und die Website auf dem neuesten Stand zu halten"
+  ]
 }

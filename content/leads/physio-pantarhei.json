@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Physio Pantarhei sollte dringend eine Mobile-Optimierung durchführen, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere in der Branche der Physiotherapie, in der viele Patienten möglicherweise über ihr Smartphone nach Anbietern suchen.",
+    "Um die Ladezeit von 237ms zu verbessern, könnte Physio Pantarhei in Betracht ziehen, die Größe und Anzahl der auf der Website verwendeten Bilder zu reduzieren, da dies einen erheblichen Einfluss auf die Ladezeit haben kann und somit die Benutzererfahrung verbessern würde.",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte Physio Pantarhei helfen, die Website einfacher zu aktualisieren und zu verwalten, was insbesondere für kleine Unternehmen oder solche mit begrenzten technischen Ressourcen von Vorteil sein kann.",
+    "Es wäre ratsam, wenn Physio Pantarhei regelmäßig Sicherheitsaudits und Updates durchführen würde, um sicherzustellen, dass die SSL-Zertifizierung auf dem aktuellen Stand bleibt und die Website vor potenziellen Sicherheitsrisiken geschützt ist, was in der Branche der Physiotherapie, in der vertrauliche Patientendaten gehandhabt werden, von besonderer Bedeutung ist."
+  ]
 }

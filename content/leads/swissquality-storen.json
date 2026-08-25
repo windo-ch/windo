@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Swissquality Storen sollte dringend mobile-optimiert werden, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere in der Branche von Storen, wo Kunden oft auf ihrem Smartphone nach Anbietern suchen.",
+    "Die Ladezeit von 2377ms ist deutlich zu lang und sollte durch Optimierungen wie Bildkomprimierung oder Code-Optimierung reduziert werden, um die Nutzererfahrung zu verbessern und die Abbruchrate zu senken.",
+    "Es wäre ratsam, eine klare und übersichtliche Struktur für die Website zu erstellen, um den Kunden von Swissquality Storen eine einfache Navigation und eine gute Übersicht über die angebotenen Storen-Produkte und -Dienstleistungen zu bieten.",
+    "Die Integration eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website von Swissquality Storen erleichtern und es ermöglichen, regelmäßig neue Inhalte und Angebote hinzuzufügen, um die Kundenbindung zu stärken und die Sichtbarkeit im Internet zu erhöhen."
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Dbbau Wil sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Es wäre ratsam, die Ladezeit von 271ms zu überprüfen und gegebenenfalls zu optimieren, um eine bessere Nutzererfahrung zu gewährleisten, insbesondere in der Reinigungsbranche, wo schnelle und effiziente Dienstleistungen im Vordergrund stehen",
+    "Eine Überarbeitung der Website-Struktur und -Navigation könnte hilfreich sein, um den Kunden eine einfachere und intuitivere Navigation durch die Angebotspalette von Dbbau Wil zu ermöglichen",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und somit die Kommunikation mit den Kunden und die Darstellung der Dienstleistungen von Dbbau Wil verbessern"
+  ]
 }

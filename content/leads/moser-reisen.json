@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Moser Reisen könnte ihre Website durch eine Überarbeitung der Navigation verbessern, um den Kunden eine einfachere Suche nach Reisezielen und -angeboten zu ermöglichen",
+    "Eine regelmäßige Aktualisierung des Angebots und der Inhalte auf moser-reisen.ch würde helfen, die Kundenbindung zu stärken und die Sichtbarkeit in Suchmaschinen zu erhöhen",
+    "Die Ladezeit von 882ms ist noch im Rahmen des Akzeptablen, jedoch könnte eine Optimierung der Bildgrößen und eine Verwendung von modernen Bildkompressionsverfahren die Ladezeit weiter reduzieren",
+    "Eine Einbindung von Kundenbewertungen und -rezensionen auf der Website würde Moser Reisen helfen, Vertrauen bei potenziellen Kunden aufzubauen und ihre Glaubwürdigkeit zu stärken"
+  ]
 }

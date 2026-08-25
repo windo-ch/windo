@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Coiffeur Casa sollte unbedingt mobile-optimiert werden, da die meisten Kunden heutzutage über ihre Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Es wäre ratsam, eine einfache und intuitive Navigation auf der Website zu implementieren, um den Kunden den Zugang zu den verschiedenen Dienstleistungen und Angeboten von Coiffeur Casa zu erleichtern",
+    "Die Ladezeit von 235ms ist im Vergleich zu anderen Websites relativ langsam, daher sollte die Website von Coiffeur Casa technisch optimiert werden, um die Ladezeit zu verkürzen und die Benutzererfahrung zu verbessern",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und -Bilder würde dazu beitragen, die Kunden von Coiffeur Casa über die neuesten Trends und Angebote im Coiffeur-Bereich zu informieren und die Website attraktiver zu gestalten"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um den hohen Ansprüchen der Restaurant-Branche gerecht zu werden, sollte die Website des Restaurant Spatz Mobile-optimiert werden, um eine bessere Nutzererfahrung auf Smartphones und Tablets zu gewährleisten",
+    "Die Ladezeit von 211ms ist noch im Rahmen dessen, was als akzeptabel gilt, aber Optimierungen in puncto Bildkompression und việc von unnötigen Skripten könnten diese Zeit noch weiter reduzieren und so die Konversion Rate steigern",
+    "Ein zeitgemässes Content-Management-System oder eine entsprechende Lösung würde es dem Restaurant Spatz ermöglichen, Inhalte wie Speisekarten oder Events leichter zu pflegen und aktualisieren, ohne dabei auf externe Hilfe angewiesen zu sein",
+    "Die Implementierung eines Newsletter-Systems oder einer ähnlichen Funktionalität auf der Website würde es dem Restaurant Spatz ermöglichen, seine Kunden über neue Angebote, Events oder Saisonalitäten zu informieren und so die Kundenbindung zu stärken"
+  ]
 }

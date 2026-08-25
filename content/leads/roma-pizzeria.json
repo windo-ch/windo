@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Roma Pizzeria sollte ihre Website mobile-optimiert umgestalten, um den wachsenden Anteil von mobilen Nutzern besser zu bedienen und die Benutzererfahrung zu verbessern",
+    "Ein einfacher und benutzerfreundlicher Online-Bestellprozess würde den Kunden die Möglichkeit bieten, ihre Lieblingsgerichte bequem von zu Hause aus zu bestellen und die Umsätze der Roma Pizzeria zu steigern",
+    "Die Implementierung eines Content-Management-Systems würde es der Roma Pizzeria ermöglichen, ihre Website einfacher und effizienter zu aktualisieren und somit ihre Online-Präsenz zu stärken",
+    "Die Einbindung von sozialen Medien auf der Website der Roma Pizzeria würde es den Kunden ermöglichen, sich über die neuesten Angebote und Aktionen der Pizzeria zu informieren und somit die Kundenbindung zu fördern"
+  ]
 }

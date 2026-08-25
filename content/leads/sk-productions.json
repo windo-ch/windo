@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Ladezeit von 1708ms ist für eine Immobilien-Website wie sk-productions.ch zu lang und sollte durch Optimierungen wie Bildkomprimierung und Code-Minifizierung reduziert werden, um die Nutzererfahrung zu verbessern",
+    "Die Firma Sk Productions könnte von einer klaren und übersichtlichen Navigation profitieren, um den Besuchern eine einfache Suche nach Immobilien zu ermöglichen",
+    "Es wäre ratsam, eine regelmäßige Aktualisierung von Inhalten und Angeboten auf der Website vorzunehmen, um die Besucher zu binden und eine höhere Konversion zu erzielen",
+    "Die Implementierung einer Suchfunktion mit Filtermöglichkeiten wie Lage, Preis und Zimmeranzahl würde die Benutzerfreundlichkeit der Website sk-productions.ch erheblich steigern und den Besuchern das Finden ihrer Traumimmobilie erleichtern"
+  ]
 }

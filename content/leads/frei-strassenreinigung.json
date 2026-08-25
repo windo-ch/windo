@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung ihrer Website frei-strassenreinigung.ch priorisieren, da dies für eine gute Nutzererfahrung und eine bessere Platzierung in den Suchmaschinen essentiell ist, besonders in der Reinigungsbranche, in der Kunden oft unterwegs nach Dienstleistern suchen",
+    "Eine Überarbeitung der Website-Struktur und des Designs könnte dazu beitragen, die Dienstleistungen von Frei Strassenreinigung besser zu präsentieren und potenzielle Kunden zu überzeugen, da das aktuelle Design seit 2018 nicht mehr aktualisiert wurde",
+    "Die Ladezeit von 242ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und die Verwendung von Content Delivery Networks (CDNs) eine weitere Verbesserung erzielt werden, um die Nutzererfahrung zu optimieren",
+    "Die Implementierung eines Baukastensystems könnte die Wartung und Aktualisierung der Website erleichtern und es ermöglichen, neue Funktionen und Inhalte einfacher zu integrieren, was insbesondere für ein Unternehmen wie Frei Strassenreinigung, das sich auf Reinigung spezialisiert hat, von Vorteil sein könnte"
+  ]
 }

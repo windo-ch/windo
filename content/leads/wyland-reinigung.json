@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Wyland Reinigung sollte unbedingt mobile-optimiert werden, um den wachsenden Anteil von Besuchern mit Smartphones zu berücksichtigen und eine bessere Nutzererfahrung zu bieten",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die verschiedenen Dienstleistungen und Angebote von Wyland Reinigung besser zu präsentieren und den Besuchern eine einfachere Orientierung zu ermöglichen",
+    "Die Ladezeit von 250ms ist zwar im Durchschnitt, könnte aber durch Optimierung der Bilder und Code-Struktur noch weiter verbessert werden, um eine schnellere und flüssigere Darstellung der Website zu gewährleisten",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und -Fotos würde dazu beitragen, die Besucher zu binden und ein aktuelles Bild von Wyland Reinigung zu vermitteln, was insbesondere in der Reinigungsbranche, in der Sauberkeit und Ordnung im Vordergrund stehen, von großer Bedeutung ist"
+  ]
 }

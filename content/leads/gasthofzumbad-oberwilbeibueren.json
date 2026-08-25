@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website des Gasthofzumbad Oberwilbeibueren sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mobilen Besucher zu gewährleisten",
+    "Eine Überarbeitung der Menüstruktur und eine Vereinfachung der Navigation würden den Besuchern helfen, sich auf der Website zurechtzufinden und die gewünschten Informationen schneller zu finden",
+    "Es wäre ratsam, regelmäßig aktualisierte Inhalte wie Blogbeiträge oder Veranstaltungshinweise zu veröffentlichen, um die Besucher zu binden und die Suchmaschinenoptimierung zu verbessern",
+    "Die Implementierung eines Online-Bestellsystems oder einer Reservierungsfunktion würde den Service für die Kunden erweitern und den Umsatz potenziell steigern"
+  ]
 }

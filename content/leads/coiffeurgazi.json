@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Coiffeurgazi sollte mobil optimiert werden, um eine bessere Benutzererfahrung für die zahlreichen Kunden zu bieten, die über ihr Smartphone nach Coiffeur-Dienstleistungen suchen",
+    "Ein einfacher und übersichtlicher Aufbau der Website würde es Kunden erleichtern, die angebotenen Dienstleistungen und Preise von Coiffeurgazi zu finden und zu buchen",
+    "Die Ladezeit von 224ms ist im Vergleich zu anderen Websites relativ langsam, daher wäre es ratsam, die Bilder und anderen Medien auf der Website zu optimieren, um die Ladezeit zu verkürzen",
+    "Es wäre auch hilfreich, wenn Coiffeurgazi eine einfache und benutzerfreundliche Online-Terminbuchungsfunktion auf ihrer Website anbieten würde, um Kunden die Möglichkeit zu geben, ihre Termine bequem online zu buchen"
+  ]
 }

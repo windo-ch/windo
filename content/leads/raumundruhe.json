@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Raumundruhe sollte unbedingt mobile-optimiert werden, um eine bessere Nutzererfahrung für die wachsende Zahl von Mobilnutzern in der Gartenbau-Branche zu bieten",
+    "Eine überarbeitete Navigation und ein einfacheres Informationsdesign würden helfen, den Besuchern von raumundruhe.ch eine einfachere Orientierung und einen schnelleren Zugriff auf die verschiedenen Gartenbaudienstleistungen zu ermöglichen",
+    "Die Ladezeit von 253ms ist noch im Rahmen des Akzeptablen, aber eine Optimierung der Bildgrößen und eine effizientere Caching-Strategie könnten diese Zeit noch weiter reduzieren und so die Nutzererfahrung verbessern",
+    "Ein regelmäßiges Update der Website-Inhalte und eine integrierte Blog-Funktion würden es ermöglichen, Kunden und Interessenten über neue Trends und Entwicklungen im Gartenbau auf dem Laufenden zu halten und so die Bindung an die Marke Raumundruhe zu stärken"
+  ]
 }

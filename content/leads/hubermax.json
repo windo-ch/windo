@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Hubermax sollte unbedingt mobile-optimiert werden, um den immer grösser werdenden Anteil von Besuchern mit Smartphones zu erreichen und eine bessere Nutzererfahrung zu bieten",
+    "Ein modernes Content-Management-System mit Baukastenfunktion würde die Pflege und Aktualisierung der Website erheblich vereinfachen und ermöglichen, dass die Mitarbeiter von Hubermax selbständig Inhalte veröffentlichen können",
+    "Die Ladezeit von 255ms ist im Vergleich zu anderen Websites in der Branche relativ langsam, daher sollte die Optimierung der Bilder und die Verwendung eines modernen Cachingsystems in Betracht gezogen werden, um die Ladezeit zu verkürzen",
+    "Die Darstellung der Referenzen und Projekte auf der Website von Hubermax könnte verbessert werden, indem man Fotos und Beschreibungen der abgeschlossenen Bedachungsarbeiten hinzufügt, um potenziellen Kunden ein besseres Bild von der Qualität und dem Angebot von Hubermax zu vermitteln"
+  ]
 }

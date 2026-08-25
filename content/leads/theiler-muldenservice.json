@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Theiler Muldenservice sollte mobile-optimiert werden, um eine bessere Nutzererfahrung für Besucher mit Smartphones oder Tablets zu gewährleisten",
+    "Ein schnellerer Server oder eine Optimierung der Bilder könnte die Ladezeit von 234ms weiter reduzieren und so die Benutzerfreundlichkeit verbessern",
+    "Eine Überarbeitung der Inhalte und eine klarere Strukturierung der Informationen würden helfen, die Besucher besser über das Angebot von Theiler Muldenservice zu informieren",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und eine aktive Pflege der Online-Präsenz würden dazu beitragen, die Sichtbarkeit und Glaubwürdigkeit von Theiler Muldenservice im Internet zu erhöhen"
+  ]
 }

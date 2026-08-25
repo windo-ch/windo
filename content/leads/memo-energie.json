@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Memo Energie sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden in der Elektrobranche zu gewährleisten",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, dass die Kunden von Memo Energie einfacher finden, was sie suchen, und somit eine höhere Konversionsrate erzielt wird",
+    "Die Ladezeit von 364ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch könnte eine Optimierung der Bilder und eine weitere Code-Optimierung diese Zeit noch weiter reduzieren und so die Nutzererfahrung verbessern",
+    "Eine regelmäßige Aktualisierung des Inhalts und eine stärkere Fokussierung auf Suchmaschinenoptimierung könnten dazu beitragen, dass die Website von Memo Energie in den Suchmaschinen besser gefunden wird und somit mehr Kunden anzieht"
+  ]
 }

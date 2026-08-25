@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Kaelin Metall sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobilen Kunden zu gewährleisten, die nach Schlossereidienstleistungen suchen",
+    "Ein Überarbeitung der Inhalte und eine strukturierte Darstellung der Dienstleistungen und Referenzen würde die Website von Kaelin Metall übersichtlicher und attraktiver machen",
+    "Die Ladezeit von 245ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Implementierung von Browser-Caching und der Komprimierung von Bildern eine weitere Verbesserung erzielt werden",
+    "Die Einbindung von Kundenbewertungen und -referenzen auf der Website würde die Glaubwürdigkeit und Vertrauenswürdigkeit von Kaelin Metall als Schlosserei-Betrieb in der Schweiz erhöhen"
+  ]
 }

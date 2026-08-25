@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung für die Website riwei.ch priorisieren, da dies für eine gute Nutzererfahrung und eine höhere Konversionrate in der Gipser-Branche von entscheidender Bedeutung ist",
+    "Die Ladezeit von 249ms ist im Vergleich zu anderen Websites relativ schnell, dennoch könnte eine weitere Optimierung der Bildgrößen und der Verwendung von Browser-Caching die Ladezeit noch weiter reduzieren",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website riwei.ch erleichtern und somit die Kommunikation mit Kunden und Interessenten verbessern",
+    "Um die Sichtbarkeit und den Bekanntheitsgrad der Firma Riwei in der Schweizer Gipser-Branche zu erhöhen, wäre es ratsam, regelmäßig aktuelle Inhalte und Neuigkeiten auf der Website zu veröffentlichen und eine aktive Social-Media-Präsenz aufzubauen"
+  ]
 }

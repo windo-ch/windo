@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Nutzererfahrung auf mobilen Geräten zu verbessern, sollten Sie die Website wohngestaltungen.ch mobil-optimieren, da viele Kunden heute über Smartphones nach Bodenbelägen suchen",
+    "Die Ladezeit von 204ms ist relativ schnell, jedoch sollten Sie regelmäßig die Website-Analyse durchführen, um sicherzustellen, dass die Performance nicht durch neue Inhalte oder Funktionen beeinträchtigt wird",
+    "Die Firma Wohngestaltungen könnte von einer umfassenden Suchmaschinenoptimierung profitieren, um ihre Sichtbarkeit in der Bodenbelagsbranche zu erhöhen und mehr Kunden anzuziehen",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, beispielsweise durch einen Blog über die neuesten Trends und Entwicklungen in der Bodenbelagsbranche, könnte die Kundenbindung und den Informationswert der Website steigern"
+  ]
 }

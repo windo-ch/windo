@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung für die Website restauranthabesha.ch priorisieren, da dies für Restaurants essentiell ist, um Kunden auf mobilen Geräten anzusprechen und Reservierungen oder Bestellungen zu erleichtern",
+    "Die Ladezeit von 258ms ist im Vergleich zu anderen Websites relativ langsam, daher wäre es ratsam, die Bilder und Inhalte auf der Website zu optimieren, um die Ladezeit zu verkürzen und die Benutzererfahrung zu verbessern",
+    "Es fehlt eine klare Auflistung der Spezialitäten und des Menüs auf der Startseite, was Kunden davon abhalten könnte, die Website weiter zu erkunden oder eine Reservierung vorzunehmen",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, wie zum Beispiel die Veröffentlichung von monatlichen Spezialitäten oder Events, könnte dazu beitragen, die Kundenbindung zu stärken und die Sichtbarkeit von Restauranthabesha in der lokalen Restaurant-Szene zu erhöhen"
+  ]
 }

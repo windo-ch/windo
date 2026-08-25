@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Bmkeramik sollte unbedingt eine mobile Optimierung erhalten, da die meisten Nutzer heutzutage über ihre Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Die Ladezeit von 281ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten Sie prüfen, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern oder Code zu reduzieren",
+    "Es wäre ratsam, eine Suche nach Plattenlegern in der Schweiz durchzuführen, um zu sehen, wie die Website von Bmkeramik im Vergleich zu den Wettbewerbern abschneidet und wo es Potenzial für Verbesserungen gibt",
+    "Die Einbindung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und es ermöglichen, regelmäßig neue Inhalte zu veröffentlichen und somit die Nutzer zu binden"
+  ]
 }

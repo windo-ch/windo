@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung für die Website sabato-gipsermaler.ch priorisieren, da dies für eine gute Nutzererfahrung und eine bessere Platzierung in den Suchmaschinen unerlässlich ist",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde es Kunden erleichtern, Ihre Dienstleistungen als Gipsermaler zu finden und zu verstehen",
+    "Die Ladezeit von 225ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte eine Optimierung der Bildgrößen und -kompression die Ladezeit weiter verbessern und so die Nutzererfahrung steigern",
+    "Eine regelmäßige Aktualisierung von Inhalten und Projekten auf der Website würde es ermöglichen, bestehende Kunden zu binden und neue Kunden anzuziehen, indem Sie Ihre Fähigkeiten und Erfolge als Gipsermaler der Firma Sabato Gipsermaler vorstellen"
+  ]
 }

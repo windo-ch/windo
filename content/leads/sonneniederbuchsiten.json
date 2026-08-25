@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung für die Website sonneniederbuchsiten.ch priorisieren, da die meisten Hotelgäste heutzutage über mobile Geräte buchen und recherchieren",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die Benutzererfahrung zu verbessern und den Gastgebern von Sonneniederbuchsiten eine einfachere Möglichkeit bieten, ihre Angebote und Dienstleistungen zu präsentieren",
+    "Die Ladezeit von 279ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte eine Optimierung der Bildgrößen und -auflösungen weitere Verbesserungen bringen und die Gesamterfahrung für die Nutzer noch weiter verbessern",
+    "Eine regelmäßige Aktualisierung und Pflege der Website-Inhalte, insbesondere der Angebote und Veranstaltungen, würde dazu beitragen, dass die Gäste von Sonneniederbuchsiten immer auf dem neuesten Stand sind und die Website als zuverlässige Informationsquelle wahrnehmen"
+  ]
 }

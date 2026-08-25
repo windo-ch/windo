@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Bluemerei sollte ihre Website mobile-optimieren, um eine bessere Nutzererfahrung für die zahlreichen Kunden zu bieten, die über Smartphones auf die Seite zugreifen",
+    "Eine Implementierung eines Content-Management-Systems oder eines Baukastens würde die Pflege und Aktualisierung der Website erheblich vereinfachen und somit die Effizienz der Online-Präsenz der Bluemerei steigern",
+    "Um die Ladezeit von 240ms zu verbessern, könnte die Bluemerei ihre Bilder und anderen Medien optimieren, um die Seitenladegeschwindigkeit zu erhöhen und somit die Nutzererfahrung zu verbessern",
+    "Die Bluemerei könnte auch ihre Online-Präsenz durch die Integration von Kundenbewertungen und -rezensionen auf der Website stärken, um potenziellen Kunden mehr Vertrauen in ihre Dienstleistungen zu vermitteln"
+  ]
 }

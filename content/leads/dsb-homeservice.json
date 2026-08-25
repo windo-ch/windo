@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Dsb Homeservice sollte mobil optimiert werden, um eine bessere Benutzererfahrung für die immer mehr mit Smartphones surfenden Immobilienkäufer und -verkäufer zu bieten",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts würde helfen, die Besucher besser über die Leistungen und Vorteile von Dsb Homeservice zu informieren und sie so zu einer Kontaktaufnahme zu ermutigen",
+    "Die Ladezeit von 233ms ist im Vergleich zu anderen Websites sehr schnell, jedoch könnte durch eine Optimierung der Bildgrößen und eine Komprimierung der Daten die Ladezeit noch weiter reduziert werden",
+    "Eine regelmäßige Aktualisierung des Inhalts und eine integrierte Blog-Funktion würden es ermöglichen, potenzielle Kunden über Neuigkeiten und Trends in der Immobilienbranche zu informieren und so die Glaubwürdigkeit und Sichtbarkeit von Dsb Homeservice zu erhöhen"
+  ]
 }

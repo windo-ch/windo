@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung für die Website coiffeur-zimmer.ch priorisieren, da viele Kunden über ihre Smartphones nach Coiffeur-Dienstleistungen suchen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Die Ladezeit von 314ms ist im Vergleich zu anderen Websites relativ langsam, daher wäre es ratsam, die Bilder und Inhalte zu optimieren, um die Ladezeit zu verkürzen und die Benutzererfahrung zu verbessern",
+    "Es wäre hilfreich, wenn Sie einen Baukasten wie WordPress oder Joomla für die Website verwenden würden, um einfacher Inhalte zu aktualisieren und zu verwalten, ohne dabei Programmierkenntnisse benötigen",
+    "Die SSL-Zertifizierung ist ein wichtiger Schritt für die Sicherheit der Website, jedoch sollten Sie auch regelmäßig Sicherheitsupdates durchführen, um die Daten Ihrer Kunden zu schützen und das Vertrauen in Ihren Coiffeur-Service zu stärken"
+  ]
 }

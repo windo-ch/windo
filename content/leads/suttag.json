@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Suttag sollte dringend eine Mobile-Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzererfahrung und die Suchmaschinenoptimierung ist",
+    "Die Ladezeit von 184ms ist im Vergleich zu anderen Websites relativ langsam, es wäre ratsam, die Website zu optimieren, um die Ladezeit zu verkürzen und die Benutzererfahrung zu verbessern",
+    "Es wäre hilfreich, wenn die Website von Suttag ein Content-Management-System oder einen Baukasten verwenden würde, um die Inhalte einfacher zu verwalten und zu aktualisieren",
+    "Die Website sollte regelmäßig aktualisiert und erweitert werden, um den Besuchern neue Inhalte und Funktionen anzubieten und die Bindung an die Marke Suttag zu stärken"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Malergeschaeft Mbraendle sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden zu gewährleisten",
+    "Es wäre ratsam, die Ladezeit von 240ms zu optimieren, um die Konversionsraten und die Suchmaschinenoptimierung zu verbessern",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und somit die Kommunikation mit den Kunden verbessern",
+    "Ein regelmäßiges Backup und eine Sicherheitsüberprüfung der Website sollten durchgeführt werden, um Datenverluste und Sicherheitsrisiken zu vermeiden und die Professionalität des Malergeschäfts Mbraendle zu unterstreichen"
+  ]
 }

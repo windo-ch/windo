@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Sauttermaler sollte dringend mobile-optimiert werden, da die meisten Nutzer heutzutage über Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Abbruchrate führen kann",
+    "Es wäre ratsam, die Ladezeit von 275ms zu reduzieren, indem man beispielsweise die Größe der Bilddateien minimiert oder ein Content Delivery Network einsetzt, um die Nutzererfahrung zu verbessern",
+    "Die Firma Sauttermaler könnte ihre Website auch durch die Einbindung von Kundenbewertungen und -referenzen stärken, um potenziellen Kunden mehr Vertrauen zu vermitteln und ihre Glaubwürdigkeit in der Malerbranche zu erhöhen",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, wie zum Beispiel durch einen Blog über Malerarbeiten oder Tipps für Hausbesitzer, könnte dazu beitragen, die Sichtbarkeit von Sauttermaler in den Suchmaschinen zu erhöhen und mehr organischen Traffik auf die Website zu lenken"
+  ]
 }

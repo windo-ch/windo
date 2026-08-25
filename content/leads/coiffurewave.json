@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Coiffurewave sollte unbedingt eine mobile Optimierung erhalten, da viele potenzielle Kunden über ihre Smartphones nach Coiffeuren suchen und eine nicht optimierte Seite sie möglicherweise davon abhält, die Dienstleistungen von Coiffurewave zu nutzen",
+    "Es wäre ratsam, eine einfache und benutzerfreundliche Navigation auf der Website zu implementieren, um es den Kunden zu erleichtern, die verschiedenen Dienstleistungen und Angebote von Coiffurewave zu finden",
+    "Die Ladezeit von 200ms ist sehr gut, jedoch sollte Coiffurewave sicherstellen, dass die Website auch bei höherem Traffik oder größeren Bildern und Inhalten weiterhin schnell lädt, um die Benutzererfahrung nicht zu beeinträchtigen",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, wie zum Beispiel das Hinzufügen von neuen Frisur-Trends oder Kundenbewertungen, könnte helfen, die Kunden zu binden und die Sichtbarkeit von Coiffurewave in der Branche zu erhöhen"
+  ]
 }

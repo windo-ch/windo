@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten dringend eine mobile-optimierte Version Ihrer Website entwickeln, um den wachsenden Anteil mobiler Besucher zu bedienen und eine bessere Nutzererfahrung zu bieten",
+    "Die Ladezeit von 267ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch könnte durch Optimierung der Bildgrößen und des Codes eine weitere Verbesserung erzielt werden",
+    "Um Ihre Online-Präsenz zu stärken, empfehle ich, regelmäßig aktuelle Inhalte und Angebote auf Ihrer Website zu veröffentlichen, um Ihre Kunden über neue Dienstleistungen und Aktionen von Steiner Reifenservice zu informieren",
+    "Eine Überarbeitung der Navigation und der Informationsstruktur auf Ihrer Website würde helfen, den Besuchern eine einfachere und intuitivere Erfahrung zu bieten und sie so besser zu den gewünschten Inhalten zu führen"
+  ]
 }

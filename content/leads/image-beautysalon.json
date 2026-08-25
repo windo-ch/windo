@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website ist nicht für Mobilgeräte optimiert. Über 60% Ihrer potenziellen Kunden suchen auf dem Handy — und sehen eine verkleinerte Desktop-Ansicht.",
+    "Ihre Website ist seit 8 Jahren online. Technologie und Design haben sich weiterentwickelt — ein zeitgemässer Auftritt signalisiert: «Wir sind aktiv.»",
+    "Ein Online-Buchungssystem (z.B. mit Kalender-Integration) würde No-Shows reduzieren und den Salon-Alltag vereinfachen.",
+    "Vorher/Nachher-Fotos Ihrer Arbeit würden die Qualität sofort zeigen — Instagram-Integration macht das automatisch."
+  ]
 }

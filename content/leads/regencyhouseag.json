@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website regencyhouseag.ch sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Eine Überarbeitung der Seitenstruktur und des Designs könnte dazu beitragen, die Inhalte besser zu präsentieren und die Besucher zu binden, insbesondere für eine Firma wie Regencyhouseag, die sich in der Branche Sonstige bewegt",
+    "Die Ladezeit von 231ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte eine weitere Optimierung der Bilder und der verwendeten Skripte die Ladezeit noch weiter reduzieren und so die Nutzererfahrung verbessern",
+    "Eine regelmäßige Aktualisierung der Inhalte und eine klarere Kommunikation der Unternehmensleistungen und -ziele auf der Website könnten dazu beitragen, die Glaubwürdigkeit und den Bekanntheitsgrad von Regencyhouseag zu erhöhen"
+  ]
 }

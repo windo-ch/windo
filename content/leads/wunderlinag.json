@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Wunderlinag-Website sollte unbedingt eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Eine Überarbeitung der Website-Struktur und des Designs könnte dazu beitragen, die verschiedenen Arten von Bodenbelägen besser zu präsentieren und die Kunden auf die Angebote der Wunderlinag aufmerksam zu machen",
+    "Die Ladezeit von 225ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch die Optimierung von Bildern und anderen Mediendateien eine weitere Verbesserung erzielt werden",
+    "Eine regelmäßige Aktualisierung des Contents und der Angebote auf der Website könnte dazu beitragen, die Kunden zu binden und neue Kunden anzuziehen, insbesondere in der Branche der Bodenbeläge, in der sich Trends und Technologien ständig weiterentwickeln"
+  ]
 }

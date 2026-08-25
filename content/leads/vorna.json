@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Vorna sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere in der Immobilienbranche, in der viele Nutzer unterwegs nach Objekten suchen",
+    "Die Ladezeit von 353ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten Sie prüfen, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern, Code und Servereinstellungen zu reduzieren",
+    "Es wäre ratsam, einen Baukasten oder ein Content-Management-System zu verwenden, um die Website von Vorna einfacher zu pflegen und zu aktualisieren, was insbesondere für eine Immobilienwebsite wichtig ist, um stets aktuelle Angebote und Informationen bereitzustellen",
+    "Die Website von Vorna sollte auch regelmäßig aktualisiert und erweitert werden, um den Nutzern stets neue und interessante Inhalte zu bieten und um die Positionierung in den Suchmaschinen zu verbessern, was in der heutigen digitalen Welt für den Erfolg einer Immobilienwebsite entscheidend ist"
+  ]
 }

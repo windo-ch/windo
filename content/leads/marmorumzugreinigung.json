@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Marmorumzugreinigung sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil surfenden Kunden im Transport- und Umzugsbereich zu bieten",
+    "Es wäre ratsam, die Ladezeit von 265ms zu überprüfen und gegebenenfalls zu optimieren, um sicherzustellen, dass die Website schnell und effizient lädt",
+    "Die Firma Marmorumzugreinigung könnte von einer Überarbeitung der Website-Navigation profitieren, um den Kunden eine einfachere und intuitivere Suche nach Umzugsdienstleistungen zu ermöglichen",
+    "Eine regelmäßige Aktualisierung und Erweiterung des Inhalts auf der Website von Marmorumzugreinigung könnte dazu beitragen, die Sichtbarkeit und Glaubwürdigkeit der Firma im Internet zu erhöhen und potenzielle Kunden anzuziehen"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Vogelsang Holzbau sollte dringend mobile-optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil surfenden Kunden zu gewährleisten",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, die Ladezeit zu reduzieren und die Navigation zu vereinfachen, was insbesondere für eine Schreinerei wie Vogelsang Holzbau wichtig ist, um potenzielle Kunden schnell und effizient zu informieren",
+    "Ein regelmäßiges Update der Website-Inhalte und ein aktives Social-Media-Engagement könnten dazu beitragen, die Sichtbarkeit und den Bekanntheitsgrad von Vogelsang Holzbau in der Schweizer Schreinereibranche zu erhöhen",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Pflege und Aktualisierung der Website erleichtern und es ermöglichen, neue Funktionen und Inhalte ohne großen technischen Aufwand hinzuzufügen"
+  ]
 }

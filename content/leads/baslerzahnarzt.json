@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website baslerzahnarzt.ch sollte dringend eine mobile Optimierung durchführen, da die meisten Patienten heutzutage ihre Smartphones nutzen, um nach Zahnärzten in ihrer Nähe zu suchen",
+    "Eine Ladezeit von 2337ms ist deutlich zu lang und kann dazu führen, dass potenzielle Patienten die Website verlassen, bevor sie sogar geladen ist",
+    "Es wäre ratsam, die Website auf einen modernen Baukasten umzustellen, um eine bessere Wartbarkeit und Erweiterbarkeit zu gewährleisten",
+    "Die Inhalte auf der Website sollten überarbeitet und aktualisiert werden, um den Patienten aktuelle und relevante Informationen über die Leistungen und Angebote der Baslerzahnarzt-Praxis zu bieten"
+  ]
 }

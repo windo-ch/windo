@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung für die Website hair-point.ch priorisieren, da dies für eine gute Nutzererfahrung und eine höhere Platzierung in den Suchmaschinen essentiell ist",
+    "Die Ladezeit von 413ms ist akzeptabel, jedoch könnte eine Optimierung der Bilder und eine minimale Komprimierung der CSS- und JavaScript-Dateien diese Zeit noch weiter reduzieren",
+    "Um den Online-Auftritt von Hair Point zu stärken, wäre es ratsam, einen regelmäßig aktualisierten Blog oder eine News-Seite zu integrieren, um Kunden über neue Trends, Angebote und Dienstleistungen im Coiffeur-Bereich zu informieren",
+    "Eine Umstellung auf ein Baukastensystem könnte die Wartung und Pflege der Website erleichtern und flexiblere Anpassungsmöglichkeiten bieten, jedoch sollte dies sorgfältig abgewogen werden, um sicherzustellen, dass es den Bedürfnissen von Hair Point entspricht"
+  ]
 }

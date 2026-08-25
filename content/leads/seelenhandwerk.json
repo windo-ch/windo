@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Seelenhandwerk könnte durch eine Überarbeitung der Inhaltsstruktur und eine klarere Darstellung der Dienstleistungen profitieren, um potenziellen Kunden ein besseres Verständnis für das Angebot zu vermitteln",
+    "Eine regelmäßige Aktualisierung der Website mit aktuellen Projekten und Referenzen würde helfen, die Glaubwürdigkeit und den Fachmannschaftsgrad von Seelenhandwerk zu unterstreichen",
+    "Die Implementierung eines Content-Management-Systems würde die Pflege und Wartung der Website erleichtern und es ermöglichen, schneller auf veränderte Anforderungen zu reagieren",
+    "Eine Analyse der Nutzerdaten und eine Optimierung der Website für bessere Konversionsraten, wie zum Beispiel die Platzierung von Kontaktinformationen und einem klaren Call-to-Action, würde die Effektivität der Website von Seelenhandwerk erhöhen"
+  ]
 }

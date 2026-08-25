@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung für die Website holz-isch-heimelig.ch priorisieren, da dies für eine gute Nutzererfahrung und eine bessere Platzierung in den Suchmaschinen essentiell ist",
+    "Die Ladezeit von 270ms ist im Vergleich zu anderen Websites relativ langsam, daher empfehle ich, die Bilder und andere Elemente auf der Website zu optimieren, um die Ladezeit zu verkürzen",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder TYPO3 zu verwenden, um die Website besser zu strukturieren und einfacher zu aktualisieren",
+    "Die Firma Holz Isch Heimelig sollte auch überlegen, ob sie nicht mehr interaktive Elemente wie ein Kontaktformular oder eine Galerie mit Referenzen auf der Website integrieren könnte, um potenzielle Kunden besser anzusprechen und zu überzeugen"
+  ]
 }

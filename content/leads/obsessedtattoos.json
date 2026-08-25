@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Obsessedtattoos sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Nutzererfahrung und die Suchmaschinenoptimierung ist",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die Besucher besser durch das Angebot des Tattoo-Studios zu führen und die relevanten Informationen schneller zugänglich zu machen",
+    "Die Ladezeit von 231ms ist im Vergleich zu anderen Websites relativ langsam, daher wäre es ratsam, die Bilder und anderen Medien auf der Website zu optimieren, um die Ladezeit zu verkürzen",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, wie zum Beispiel das Hinzufügen neuer Tattoo-Beispiele oder das Teilen von Kundenbewertungen, würde helfen, die Besucher zu binden und die Website als Informationsquelle für potenzielle Kunden zu etablieren"
+  ]
 }

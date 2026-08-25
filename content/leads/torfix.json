@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Torfix sollte unbedingt eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Die Ladezeit von 265ms ist zwar im Durchschnitt, könnte aber durch Optimierung der Bilder und des Codes noch verbessert werden, um die User Experience zu erhöhen",
+    "Es wäre ratsam, einen Baukasten zu verwenden, um die Website flexibler und einfacher zu gestalten, insbesondere für die Branche Fenster und Türen, in der Änderungen und Anpassungen häufig vorkommen",
+    "Die Website sollte auch eine klare Auflistung der Dienstleistungen und Produkte von Torfix enthalten, um den Kunden eine einfache und übersichtliche Navigation zu ermöglichen und somit die Conversion Rate zu steigern"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten dringend eine mobile-optimierte Version der Website medspitex.ch entwickeln, da dies für die Nutzerfreundlichkeit und die Suchmaschinenoptimierung von großer Bedeutung ist",
+    "Die Ladezeit von 231ms ist im Vergleich zu anderen Websites relativ langsam, daher empfehle ich, die Bilder und anderen Elemente auf der Website zu optimieren, um die Ladezeit zu verkürzen",
+    "Als Transport- und Umzugsunternehmen sollte Medspitex die Website nutzen, um Kunden zu gewinnen und ihre Dienstleistungen besser darzustellen, daher sollten Sie eine klare und übersichtliche Darstellung der Angebote und Leistungen auf der Website sicherstellen",
+    "Eine regelmäßige Aktualisierung und Pflege der Website ist erforderlich, um sicherzustellen, dass die Informationen aktuell und korrekt sind und dass die Website nicht veraltet wirkt, insbesondere da die Website bereits seit 2018 online ist"
+  ]
 }

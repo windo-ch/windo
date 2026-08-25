@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Fahrschule Bachmann sollte ihre Website mobile-optimieren, um eine bessere Nutzererfahrung für die immer mehr mit Smartphones surfenden Kunden zu bieten",
+    "Eine Überarbeitung der Inhalte und Struktur der Website könnte helfen, die Zielgruppe der jungen Fahrschüler besser anzusprechen und von der Konkurrenz abzuheben",
+    "Die Ladezeit von 250ms ist zwar im Durchschnitt, aber durch eine Optimierung der Bildgrößen und eine weitere Minimierung der CSS-Dateien könnte diese Zeit noch weiter reduziert werden",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, beispielsweise durch einen Blog oder Nachrichtenbereich, würde helfen, die Besucher zu binden und die Sichtbarkeit in den Suchmaschinen zu verbessern"
+  ]
 }

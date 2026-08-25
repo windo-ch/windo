@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten dringend eine mobile-optimierte Version ihrer Website entwickeln, da dies heutzutage ein Muss für jeden gastronomischen Betrieb wie die Piadina Bar Margherita ist, um eine gute Nutzererfahrung zu gewährleisten",
+    "Eine Überarbeitung der Website-Struktur und des Designs könnte dazu beitragen, die Besucher noch besser auf die Angebote und die Atmosphäre der Piadina Bar Margherita aufmerksam zu machen",
+    "Es wäre ratsam, regelmäßig aktuelle Inhalte und Angebote auf der Website zu veröffentlichen, um die Kunden zu binden und neue zu gewinnen, beispielsweise durch die Präsentation von Saison-Menüs oder Events",
+    "Die Ladezeit von 238ms ist im Allgemeinen gut, jedoch könnte durch die Optimierung von Bildern und anderen Medien die Ladezeit noch weiter reduziert werden, um die Nutzererfahrung zu verbessern"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Ladezeit von 2442ms ist für eine Gipser-Website wie malereirb.ch zu lang und sollte durch Optimierungen wie Bildkomprimierung oder Code-Minimierung reduziert werden, um die Nutzererfahrung zu verbessern",
+    "Ein regelmäßiges Update des Contents und der Projekte auf der Website würde helfen, potenzielle Kunden über die aktuellen Leistungen und Referenzen von Malereirb informieren und so das Vertrauen in das Unternehmen stärken",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens würde es Malereirb ermöglichen, Inhalte einfacher und schneller zu verwalten und zu aktualisieren, ohne auf externe Hilfe angewiesen zu sein",
+    "Eine klare und übersichtliche Darstellung der Dienstleistungen und Preise auf der Website würde es potenziellen Kunden erleichtern, die Angebote von Malereirb zu verstehen und so die Wahrscheinlichkeit einer Kontaktaufnahme erhöhen"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Ferreira Reinigung sollte unbedingt eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Es wäre ratsam, die Ladezeit von 281ms zu überprüfen und gegebenenfalls zu optimieren, um sicherzustellen, dass die Website schnell und reibungslos lädt",
+    "Eine Überarbeitung der Website-Struktur und -Navigation könnte dazu beitragen, dass Kunden leichter die gewünschten Informationen finden und somit die Konversionsraten steigern",
+    "Die Einbindung von Kundenbewertungen und -referenzen auf der Website könnte die Glaubwürdigkeit und Vertrauenswürdigkeit von Ferreira Reinigung bei potenziellen Kunden erhöhen und somit den Online-Auftritt stärken"
+  ]
 }

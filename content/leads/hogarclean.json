@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Hogarclean sollte unbedingt eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Die Ladezeit von 293ms ist im Vergleich zu anderen Websites in der Reinigungsbranche relativ langsam, es wäre ratsam, die Ladezeit durch Optimierung von Bildern und Code zu verkürzen",
+    "Es wäre hilfreich, wenn Hogarclean eine klare und übersichtliche Struktur auf der Website implementieren würde, um den Besuchern eine einfache Navigation und einen guten Überblick über die angebotenen Dienstleistungen zu bieten",
+    "Eine regelmäßige Aktualisierung von Inhalten und Angeboten auf der Website würde dazu beitragen, die Besucher zu binden und die Website in der Suchmaschinenrangliste zu verbessern, was insbesondere für ein junges Unternehmen wie Hogarclean, das erst seit 2024 online ist, von großer Bedeutung ist"
+  ]
 }

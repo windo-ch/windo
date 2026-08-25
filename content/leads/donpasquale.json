@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Donpasquale sollte unbedingt mobile-optimiert werden, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere in der Restaurantbranche, in der Kunden oft unterwegs nach Empfehlungen suchen",
+    "Die Ladezeit von 344ms ist zwar nicht schlecht, aber es gibt noch Potential für Verbesserungen, um die Nutzererfahrung zu optimieren und die Abbruchraten zu reduzieren",
+    "Es wäre ratsam, eine klare und übersichtliche Navigation sowie eine einfache Möglichkeit zur Online-Reservierung oder Bestellung auf der Website von Donpasquale zu implementieren, um den Kunden den Einstieg in die Dienstleistungen des Restaurants zu erleichtern",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, wie zum Beispiel die Speisekarte oder Veranstaltungen, wäre notwendig, um die Kunden von Donpasquale über Neuigkeiten und Angebote zu informieren und die Website als zentrales Informationsmedium zu etablieren"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Varicor-Website sollte unbedingt eine mobile Optimierung erhalten, um den immer größer werdenden Anteil an mobilen Nutzern besser zu bedienen und die Benutzererfahrung zu verbessern",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die verschiedenen Reinigungsleistungen von Varicor besser zu präsentieren und den Nutzern eine einfachere Orientierung zu bieten",
+    "Die Ladezeit von 234ms ist im Vergleich zu anderen Websites relativ langsam, eine Optimierung der Bildgrößen und eine Verwendung von Content-Delivery-Networks könnten hier Abhilfe schaffen",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und eine Integration von Kundenbewertungen und -referenzen würden helfen, die Glaubwürdigkeit und Vertrauenswürdigkeit von Varicor bei potenziellen Kunden zu erhöhen"
+  ]
 }

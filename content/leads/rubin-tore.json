@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Rubin Tore sollte dringend eine Mobile-Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Die Ladezeit von 360ms ist im Vergleich zu anderen Websites in der Elektrobranche relativ langsam, daher sollten Sie prüfen, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern oder Code zu reduzieren",
+    "Es wäre ratsam, eine klare und übersichtliche Struktur für die Website zu erstellen, um den Besuchern eine einfache Navigation und ein besseres Verständnis für die Angebote von Rubin Tore zu ermöglichen",
+    "Die Verwendung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und somit die Kommunikation mit den Kunden und Interessenten verbessern"
+  ]
 }

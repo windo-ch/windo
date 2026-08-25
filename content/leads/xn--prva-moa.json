@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Xn Prva Moa sollte mobil optimiert werden, um eine bessere Benutzererfahrung für die zunehmend mobil agierenden Kunden in der Psychologie-Branche zu bieten",
+    "Ein wichtiger Punkt wäre die Implementierung einer responsiven Webdesign-Lösung, um die Ladezeit und die Bedienbarkeit auf verschiedenen Geräten zu verbessern",
+    "Die Firma Xn Prva Moa könnte auch von einer Überarbeitung der Inhalte profitieren, um diese besser an die Bedürfnisse und Erwartungen der Kunden anzupassen und somit eine höhere Konversionsrate zu erzielen",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte sowie der technischen Aspekte, wie zum Beispiel der Ladezeit, wäre ratsam, um den Anforderungen der Branche und den Erwartungen der Kunden gerecht zu werden"
+  ]
 }

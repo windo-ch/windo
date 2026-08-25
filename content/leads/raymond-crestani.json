@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Raymond Crestani sollte mobil-optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobilen Kunden in der Elektrobranche zu gewährleisten",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte dazu beitragen, die Ladezeit von 367ms zu reduzieren und somit die Effizienz der Website zu steigern",
+    "Es wäre ratsam, eine regelmäßige Sicherheits- und Aktualisierungsprüfung durchzuführen, um eine weitere Gewährleistung der Sicherheit durch das vorhandene SSL-Zertifikat zu gewährleisten",
+    "Einzigartige und qualitativ hochwertige Inhalte, wie z.B. Blogbeiträge oder Tutorials zu Elektrothemen, könnten die Website von Raymond Crestani von der Konkurrenz abheben und die Positionierung in der Branche stärken"
+  ]
 }

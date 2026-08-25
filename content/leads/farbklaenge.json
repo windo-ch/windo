@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Farbklaenge sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihren Smartphones surfenden Kunden zu bieten",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts könnte helfen, die Ladezeit zu reduzieren und somit die Benutzerfreundlichkeit zu verbessern",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder Joomla zu verwenden, um die Wartung und Pflege der Website zu vereinfachen und somit mehr Ressourcen für die Malerarbeiten zu haben",
+    "Eine regelmäßige Aktualisierung des Angebots und der Referenzen auf der Website würde helfen, potenzielle Kunden von der Professionalität und den Fähigkeiten von Farbklaenge zu überzeugen"
+  ]
 }

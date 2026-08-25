@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Lehmann Mechanik sollte dringend eine mobile Optimierung erhalten, um eine bessere Nutzererfahrung für die wachsende Zahl von Mobilnutzern zu gewährleisten",
+    "Eine Überarbeitung der Inhalte und Struktur der Website könnte helfen, die Komplexität der angebotenen mechanischen Dienstleistungen besser zu vermitteln und potenzielle Kunden gezielter anzusprechen",
+    "Die Ladezeit von 245ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte eine weitere Optimierung der Bilder und Inhalte die Ladezeit noch weiter reduzieren und somit die Benutzerfreundlichkeit verbessern",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und ein ausgewiesenes Blog oder News-Bereich könnten dazu beitragen, die Website für Suchmaschinen wie Google attraktiver zu machen und somit die Sichtbarkeit von Lehmann Mechanik im Internet zu erhöhen"
+  ]
 }

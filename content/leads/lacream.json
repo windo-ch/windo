@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Lacream sollte unbedingt eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere in der Kosmetikbranche, in der viele Kunden über ihre Smartphones einkaufen",
+    "Die Ladezeit von 190ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten Sie prüfen, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern, Code und Servereinstellungen zu reduzieren, um die Nutzererfahrung zu verbessern",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder eine ähnliche Lösung zu verwenden, um die Wartung und Aktualisierung der Website zu vereinfachen und somit die Kosten und den Zeitaufwand für Lacream zu reduzieren",
+    "Die SSL-Zertifizierung ist ein wichtiger Schritt zur Gewährleistung der Sicherheit der Website, jedoch sollten Sie auch sicherstellen, dass alle anderen Aspekte der Website, wie zum Beispiel die Datenschutzerklärung und die Sicherheit der Zahlungsabwicklung, den aktuellen Standards und Anforderungen der Kosmetikbranche entsprechen"
+  ]
 }

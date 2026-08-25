@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Kieswerk Gryth sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere in der Branche der Landmaschinen, in der viele Kunden möglicherweise auf Baustellen oder unterwegs sind und somit hauptsächlich mobile Geräte nutzen.",
+    "Um die Ladezeit von 368ms zu verbessern, könnte eine Optimierung der Bildgrößen und -formate sowie eine Implementierung eines Content Delivery Networks (CDN) hilfreich sein, da dies die Ladezeiten verkürzen und somit die Benutzererfahrung verbessern würde.",
+    "Die Implementierung eines Baukastensystems könnte die Wartung und Aktualisierung der Website erleichtern und somit die Kosten und den Zeitaufwand für zukünftige Anpassungen reduzieren, was insbesondere für ein Unternehmen wie Kieswerk Gryth, das sich auf die Landmaschinenbranche konzentriert, von Vorteil sein könnte.",
+    "Die Integration von Kundenbewertungen und -referenzen auf der Website könnte dazu beitragen, das Vertrauen potenzieller Kunden in die Marke Kieswerk Gryth zu stärken und somit die Conversion-Rate zu erhöhen, da authentische Kundenstimmen eine wichtige Rolle bei der Entscheidungsfindung spielen, insbesondere in einer Branche, in der Zuverlässigkeit und Qualität von großer Bedeutung sind."
+  ]
 }

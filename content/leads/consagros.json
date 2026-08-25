@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Consagros sollte unbedingt mobile-optimiert werden, da viele Nutzer über Smartphones auf Yoga- und Wellness-Angebote zugreifen",
+    "Um die Benutzererfahrung zu verbessern, könnte Consagros eine einfache und intuitive Navigation auf ihrer Website implementieren, die es Besuchern ermöglicht, schnell zu finden, wonach sie suchen",
+    "Die Ladezeit von 254ms ist im Vergleich zu anderen Websites relativ langsam, daher wäre es ratsam, die Website zu optimieren, um die Ladezeit zu reduzieren und die Nutzererfahrung zu verbessern",
+    "Ein regelmäßiges Update der Website-Inhalte und eine aktive Social-Media-Präsenz würden dazu beitragen, die Sichtbarkeit und Glaubwürdigkeit von Consagros in der Yoga- und Wellness-Branche zu erhöhen"
+  ]
 }

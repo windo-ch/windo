@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten ihre Website coiffeur-nigg.ch mobil-optimieren, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die heutzutage hauptsächlich über mobile Geräte surfen",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die Inhalte besser zu organisieren und den Besuchern eine einfachere Orientierung zu bieten, insbesondere für eine Coiffeur-Firma wie Coiffeur Nigg, bei der eine klare Darstellung der Dienstleistungen und Preise wichtig ist",
+    "Die Ladezeit von 285ms ist im Vergleich zu anderen Websites relativ schnell, aber es gibt immer noch Potenzial für Verbesserungen, beispielsweise durch die Optimierung von Bildern und die Minimierung von CSS- und JavaScript-Dateien, um die Seite noch schneller zu machen",
+    "Es wäre ratsam, regelmäßig Inhalte und Angebote auf der Website zu aktualisieren, um den Besuchern ein aktuelles und attraktives Angebot zu präsentieren und um die Sichtbarkeit in Suchmaschinen zu verbessern, insbesondere in der Branche der Coiffeure, in der sich Trends und Mode schnell ändern"
+  ]
 }

@@ -17,9 +17,9 @@
   "hasDesktopScreenshot": true,
   "hasMobileScreenshot": true,
   "insights": [
-    "Die Website fehlt detaillierten Preisen oder Kostenvoranschlägen, was potenziellen Kunden die Planung erschwert.",
-    "Es werden keine Kundenbewertungen oder konkrete Referenzprojekte mit Ergebnissen präsentiert, um Vertrauen aufzubauen.",
-    "Die Dienstleistungen sind nicht klar in Pakete unterteilt, was die Auswahl für Umzugs- oder Büroreinigung unübersichtlich macht.",
-    "Es gibt keine prominenten Call-to-Action-Buttons wie \"Jetzt Termin buchen\" oder \"Kostenloses Angebot anfordern\"."
+    "Die Website von Arso Reinigung sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mobilen Besucher zu gewährleisten",
+    "Es wäre ratsam, eine klare Auflistung der angebotenen Reinigungsdienstleistungen auf der Startseite zu integrieren, um potenziellen Kunden eine schnelle Übersicht zu bieten",
+    "Eine Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und somit die Kosten reduzieren",
+    "Die Ladezeit von 281ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch könnte durch die Optimierung von Bildern und eine effizientere Code-Struktur eine weitere Verbesserung erzielt werden"
   ]
 }

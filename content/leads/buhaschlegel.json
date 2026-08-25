@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Buhaschlegel-Website sollte dringend eine mobile Optimierung erhalten, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden in der Treuhandbranche zu gewährleisten",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde dazu beitragen, dass Kunden wie potenzielle Mandanten leichter die gewünschten Informationen finden und sich somit einfacher für die Dienstleistungen von Buhaschlegel entscheiden",
+    "Die Ladezeit von 230ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte durch eine Optimierung der Bildgrößen und eine effizientere Verwendung von Ressourcen diese Zeit noch weiter reduziert werden, um die Nutzerzufriedenheit zu steigern",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens würde es Buhaschlegel ermöglichen, Inhalte einfacher und schneller zu aktualisieren, was insbesondere in der Treuhandbranche, in der sich Gesetze und Vorschriften häufig ändern, von großem Vorteil sein kann"
+  ]
 }

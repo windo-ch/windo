@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Rosebeautyroom sollte dringend eine Mobile-Optimierung durchführen, um eine bessere Nutzererfahrung für die zahlreichen Besucher mit Mobilgeräten zu gewährleisten",
+    "Es wäre ratsam, eine Möglichkeit zur einfachen Terminbuchung online einzuführen, um Kunden zu ermöglichen, einfach und schnell einen Termin im Rosebeautyroom zu buchen",
+    "Die Ladezeit von 218ms ist im Vergleich zu anderen Websites in der Kosmetikbranche relativ langsam, es wäre daher empfehlenswert, die Ladezeit durch Optimierung von Bildern und Code zu reduzieren",
+    "Das Einbinden von Kundenbewertungen und -rezensionen auf der Website könnte die Glaubwürdigkeit und Authentizität des Rosebeautyroom erhöhen und potenziellen Kunden helfen, eine informierte Entscheidung zu treffen"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Flurimhaustechnik sollte dringend eine Mobile-Optimierung durchführen, um eine bessere Nutzererfahrung für die zahlreichen Besucher mit Smartphones zu gewährleisten",
+    "Es wäre ratsam, eine klare und übersichtliche Struktur für die verschiedenen Dienstleistungen im Bereich Sanitär und Heizung zu erstellen, um den Kunden eine einfache Navigation zu ermöglichen",
+    "Eine regelmäßige Aktualisierung der Website mit aktuellen Referenzen und Projekten würde helfen, die Glaubwürdigkeit und den Fachmannschaftscharakter von Flurimhaustechnik zu unterstreichen",
+    "Die Ladezeit von 241ms ist zwar noch im Rahmen, aber es gibt sicherlich Potential für Optimierungen, um diese Zeit weiter zu reduzieren und so die Benutzerfreundlichkeit zu verbessern"
+  ]
 }

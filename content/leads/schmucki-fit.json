@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Schmucki Fit sollte dringend mobile-optimiert werden, da die meisten Nutzer heutzutage über ihre Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Abbruchrate führen kann",
+    "Um die Benutzererfahrung zu verbessern, könnte Schmucki Fit eine einfachere und übersichtlichere Navigation auf ihrer Website implementieren, die es den Besuchern ermöglicht, schnell und einfach die gewünschten Informationen zu finden",
+    "Die Ladezeit von 260ms ist relativ schnell, jedoch könnte durch die Implementierung eines Content Delivery Networks (CDN) und die Optimierung der Bilddaten die Ladezeit noch weiter reduziert werden, was zu einer besseren Nutzererfahrung führen würde",
+    "Schmucki Fit könnte auch von einer regelmäßigen Überprüfung und Aktualisierung ihrer Website profitieren, um sicherzustellen, dass die Inhalte aktuell und relevant bleiben und die Besucher immer wieder zurückkehren, um neue Informationen und Angebote zu erhalten"
+  ]
 }

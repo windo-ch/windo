@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Heinzer Mbe sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Es wäre ratsam, eine klare Auflistung der angebotenen Gipser-Dienstleistungen auf der Startseite von heinzer-mbe.ch zu integrieren, um potenziellen Kunden eine schnelle Übersicht zu bieten",
+    "Um die Ladezeit von 263ms weiter zu verbessern, könnte eine Optimierung der Bilddaten und eine Implementierung von Browser-Caching für häufig genutzte Ressourcen in Betracht gezogen werden",
+    "Eine regelmäßige Aktualisierung des Inhalts und eine Integration von Kundenbewertungen oder Referenzen auf der Website könnten dazu beitragen, das Vertrauen potenzieller Kunden in die Dienstleistungen von Heinzer Mbe zu stärken"
+  ]
 }

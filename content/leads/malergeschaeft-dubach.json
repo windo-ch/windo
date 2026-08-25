@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website des Malergeschäfts Dubach sollte dringend mobile-optimiert werden, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere für ein Gipser-Unternehmen, das auf lokalen Kunden angewiesen ist.",
+    "Um die Ladezeit von 399ms zu verbessern, könnten Sie die Bilder auf der Website komprimieren und die Anzahl der HTTP-Anfragen reduzieren, was die Nutzererfahrung und die Suchmaschinenplatzierung positiv beeinflussen würde.",
+    "Ein Baukasten-System würde es dem Malergeschäft Dubach ermöglichen, die Website einfacher zu aktualisieren und zu erweitern, ohne dafür umfangreiche Programmierkenntnisse zu benötigen, was die Wartung und Pflege der Website erleichtern würde.",
+    "Es wäre ratsam, die Website regelmäßig zu aktualisieren und mit frischen Inhalten zu versorgen, um die Kunden und Interessenten des Malergeschäfts Dubach über neue Angebote, Projekte und Dienstleistungen zu informieren und so die Bindung an das Unternehmen zu stärken."
+  ]
 }

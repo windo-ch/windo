@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Haenzi Sanitaer-Website sollte dringend eine mobile Optimierung erhalten, um den wachsenden Anteil an mobilen Nutzern besser zu bedienen und die Nutzererfahrung zu verbessern",
+    "Eine Überarbeitung der Seitenstruktur und -inhalte könnte dazu beitragen, die Ladezeit zu reduzieren und die Seiten zu straffen, um den Nutzern eine bessere Erfahrung zu bieten",
+    "Die Haenzi Sanitaer-Website könnte von einer klaren Auflistung der angebotenen Dienstleistungen und einer einfachen Kontaktmöglichkeit profitieren, um potenzielle Kunden zu gewinnen und die Konversionsrate zu erhöhen",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und eine ansprechende Darstellung der Referenzen und Zertifizierungen der Firma Haenzi Sanitaer könnten dazu beitragen, das Vertrauen der Nutzer zu stärken und die Glaubwürdigkeit der Marke zu erhöhen"
+  ]
 }

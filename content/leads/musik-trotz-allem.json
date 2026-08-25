@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung ihrer Website musik-trotz-allem.ch priorisieren, da dies die Nutzererfahrung und die Suchmaschinenoptimierung für ihre Reinigungs-Dienstleistungen in der Schweiz verbessern würde",
+    "Die Ladezeit von 296ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte die Implementierung eines Content-Delivery-Networks (CDN) die Ladezeit weiter reduzieren und somit die Benutzerfreundlichkeit erhöhen",
+    "Um ihre Online-Präsenz zu stärken, empfehle ich Musik Trotz Allem, regelmäßig aktuelle Inhalte und Neuigkeiten über ihre Reinigungsdienstleistungen auf der Website zu veröffentlichen und somit die Kundenbindung zu fördern",
+    "Die Einbindung von Kundenbewertungen und -rezensionen auf der Website könnte die Glaubwürdigkeit und den Ruf von Musik Trotz Allem in der Reinigungsbranche stärken und potenzielle Kunden von der Qualität ihrer Dienstleistungen überzeugen"
+  ]
 }

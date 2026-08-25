@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Restaurant 90grad sollte unbedingt eine mobile Optimierung erhalten, da viele potenzielle Kunden über ihr Smartphone nach Restaurants suchen und eine nicht optimierte Seite sie möglicherweise davon abhält, das Restaurant zu besuchen",
+    "Eine weitere Empfehlung wäre, die Ladezeit von 237ms zu überprüfen und gegebenenfalls zu optimieren, da Langsamkeit die User Experience beeinträchtigen kann",
+    "Es wäre auch ratsam, eine Möglichkeit für Online-Reservierungen oder Bestellungen auf der Website zu integrieren, um den Kunden einen zusätzlichen Service zu bieten und die Umsätze zu steigern",
+    "Zusätzlich könnte die Einbindung von Bewertungs- und Kommentarfunktionen auf der Website dazu beitragen, dass Kunden ihre Erfahrungen teilen und potenzielle Besucher eine realistische Vorstellung vom Angebot und der Qualität des Restaurants erhalten"
+  ]
 }

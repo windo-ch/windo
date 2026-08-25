@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Hair Dream sollte dringend mobile-optimiert werden, um den immer grösser werdenden Anteil an mobilen Nutzern besser zu bedienen und die Benutzererfahrung zu verbessern",
+    "Es wäre ratsam, den Namen und die Branche der Firma zu überprüfen, da Hair Dream eher auf eine Friseur-Branche hindeutet als auf Fenster und Türen",
+    "Eine Ladezeit von 245ms ist im Allgemeinen akzeptabel, jedoch könnte die Leistung durch Optimierung von Bildern und anderen Elementen noch weiter verbessert werden",
+    "Um die Sichtbarkeit und Erreichbarkeit der Website zu erhöhen, wäre es hilfreich, eine durchdachte Suchmaschinenoptimierung durchzuführen und regelmässig relevante Inhalte zu veröffentlichen"
+  ]
 }

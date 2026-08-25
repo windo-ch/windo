@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Unique Wohlfuehlmode sollte mobile-optimiert werden, um eine bessere Benutzererfahrung für die zunehmend mobil orientierte Zielgruppe zu bieten",
+    "Eine Optimierung der Ladezeit von 494ms auf unter 200ms würde die Nutzerfreundlichkeit und die Suchmaschinenoptimierung verbessern",
+    "Ein regelmäßiges Update und eine Pflege der Website-Inhalte würden helfen, die Besucher zu binden und die Sichtbarkeit im Internet zu erhöhen",
+    "Eine Umstellung auf ein Content-Management-System mit Baukastenfunktionen würde die Wartung und Erweiterung der Website erleichtern und somit die Effizienz steigern"
+  ]
 }

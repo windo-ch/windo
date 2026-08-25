@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Coiffeure Baffy sollte mobil optimiert werden, um eine bessere Benutzererfahrung für die meisten Nutzer zu gewährleisten, die über ihre Smartphones auf die Seite zugreifen",
+    "Es wäre ratsam, eine klare und einfache Navigation zu implementieren, um den Kunden den Zugang zu den verschiedenen Dienstleistungen und Angeboten von Coiffeure Baffy zu erleichtern",
+    "Eine regelmäßige Aktualisierung der Website mit aktuellen Trends und Styles aus der Coiffeur-Branche würde helfen, die Kunden zu binden und neue zu gewinnen",
+    "Die Integration von Kundenbewertungen und -rezensionen auf der Website würde die Glaubwürdigkeit und Vertrauenswürdigkeit von Coiffeure Baffy erhöhen und potenziellen Kunden helfen, eine informierte Entscheidung zu treffen"
+  ]
 }

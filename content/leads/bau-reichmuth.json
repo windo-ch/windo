@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Bau Reichmuth sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihrem Smartphone surfenden Kunden zu bieten",
+    "Ein wichtiger Schritt wäre es, die Ladezeit von 267ms zu optimieren, indem man beispielsweise die Größe der Bilder reduziert oder den Code optimiert, um eine schnellere Darstellung der Website zu ermöglichen",
+    "Es wäre ratsam, einen Baukasten zu verwenden, um die Website flexibler und anpassbarer zu machen, was insbesondere für eine Bedachungsfirma wie Bau Reichmuth wichtig sein kann, um unterschiedliche Arten von Dächern und Bedachungsmaterialien darzustellen",
+    "Die Integration von Kundenbewertungen und -referenzen auf der Website könnte helfen, das Vertrauen potenzieller Kunden in die Dienstleistungen von Bau Reichmuth zu stärken und die Konkurrenzfähigkeit der Firma im Online-Markt zu verbessern"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Rc Gebaeudetechnik sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihrem Smartphone surfenden Kunden zu bieten",
+    "Eine Überarbeitung der Seitenstruktur und eine Verbesserung der internen Verlinkung könnten die Auffindbarkeit wichtiger Inhalte wie Angebote und Referenzen für Sanitär- und Heizungsanlagen verbessern",
+    "Die Ladezeit von 395ms ist zwar noch im Rahmen, aber eine Optimierung der Bilder und eine minimale Komprimierung der Code-Dateien könnten diese Zeit noch weiter reduzieren und so die Konversionrate steigern",
+    "Eine regelmäßige Aktualisierung des News-Bereichs oder die Einbindung eines Blogs, in dem über Neuerungen in der Sanitär- und Heizungsbranche berichtet wird, könnte die Website von Rc Gebaeudetechnik für Suchmaschinen und Nutzer attraktiver machen"
+  ]
 }

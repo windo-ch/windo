@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Tierarzt Rundumxund sollte mobil optimiert werden, um eine bessere Benutzererfahrung für die meisten Nutzer zu gewährleisten, die heutzutage über Smartphones surfen",
+    "Ein wichtiger Punkt wäre auch, die Ladezeit zu optimieren, da 258ms für eine professionelle Website wie die von Tierarzt Rundumxund noch zu lang ist und potenzielle Patienten abschrecken könnte",
+    "Es wäre ratsam, einen regelmäßigen Content-Update-Plan zu erstellen, um die Besucher über aktuelle Entwicklungen und Angebote von Tierarzt Rundumxund zu informieren und so die Bindung zu den Kunden zu stärken",
+    "Ein einfaches und benutzerfreundliches Kontaktformular sowie eine klare Anfahrtbeschreibung und eine Liste der angebotenen Leistungen würden die Website von Tierarzt Rundumxund noch nutzerfreundlicher machen und potenziellen Patienten den ersten Schritt in die Praxis erleichtern"
+  ]
 }

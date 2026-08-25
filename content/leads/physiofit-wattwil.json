@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Physiofit Wattwil sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Die Ladezeit von 2349ms ist deutlich zu lang und sollte durch Optimierungen an den Bildern, dem Code und der Serverkonfiguration verbessert werden, um die Nutzerzufriedenheit zu steigern",
+    "Es wäre ratsam, eine klare und einfache Navigation auf der Website zu implementieren, um den Besuchern eine einfache Orientierung und schnellen Zugriff auf die wichtigsten Informationen zu ermöglichen",
+    "Die Integration von Kundenbewertungen und -rezensionen auf der Website könnte dazu beitragen, das Vertrauen potenzieller Kunden in die Dienstleistungen von Physiofit Wattwil zu stärken und die Konkurrenzfähigkeit zu erhöhen"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website pkunz.ch sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist, insbesondere in der Sanitär- und Heizungsbranche, wo Kunden oft unterwegs nach Lösungen suchen",
+    "Die Ladezeit von 234ms ist im Vergleich zu anderen Websites relativ langsam, daher wäre es ratsam, die Website zu optimieren, um die Benutzererfahrung zu verbessern und die Abbruchrate zu reduzieren",
+    "Es wäre hilfreich, wenn die Website pkunz.ch eine klarere Struktur und eine einfachere Navigation hätte, um den Kunden einen besseren Überblick über die angebotenen Dienstleistungen und Produkte zu geben",
+    "Die Verwendung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website pkunz.ch erleichtern und es ermöglichen, regelmäßig neue Inhalte und Angebote zu veröffentlichen, um die Kunden zu binden und neue zu gewinnen"
+  ]
 }

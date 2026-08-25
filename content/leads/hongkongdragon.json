@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Hongkongdragon sollte unbedingt mobile-optimiert werden, da die meisten Nutzer heutzutage über Smartphones auf Restaurantsuche gehen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Es wäre ratsam, die Ladezeit von 329ms zu optimieren, indem man beispielsweise die Bildgrößen reduziert oder den Code optimiert, um eine bessere Nutzererfahrung zu gewährleisten",
+    "Eine Überarbeitung der Nutzererfahrung und der Benutzeroberfläche würde helfen, die Besucher auf der Website zu halten und sie dazu anzuregen, eine Reservierung oder Bestellung vorzunehmen",
+    "Die Einbindung von Bewertungs- und Kommentarfunktionen auf der Website würde es den Kunden ermöglichen, ihre Erfahrungen mit Hongkongdragon zu teilen und so die Glaubwürdigkeit und Attraktivität des Restaurants zu erhöhen"
+  ]
 }

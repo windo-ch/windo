@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Hairstyle Kaufmann sollte dringend mobile-optimiert werden, da viele potenzielle Kunden über Smartphones auf die Seite zugreifen und eine schlechte Nutzererfahrung vermeiden möchten",
+    "Es wäre ratsam, die Ladezeit von 257ms zu überprüfen und gegebenenfalls zu optimieren, um sicherzustellen, dass die Seite schnell und reibungslos lädt",
+    "Eine Überarbeitung der Seitenstruktur und -inhalte könnte dazu beitragen, dass die Website besser auf die Bedürfnisse von Kunden im Coiffeur-Bereich ausgerichtet ist und somit mehr Konversionen generiert",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und somit die Online-Präsenz von Hairstyle Kaufmann stärken"
+  ]
 }

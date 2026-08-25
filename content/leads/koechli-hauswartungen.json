@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Koechli Hauswartungen sollte mobil optimiert werden, um den immer grösser werdenden Anteil an mobilen Besuchern eine benutzerfreundliche Erfahrung zu bieten",
+    "Um die Erreichung höherer Suchmaschinenranglisten zu unterstützen, wäre es ratsam, eine SEO-Optimierung der Website durchzuführen und dabei insbesondere auf die Inhalte und Struktur der Immobilien-Seiten zu achten",
+    "Die Ladezeit von 266ms ist noch im grünen Bereich, jedoch könnte durch eine Optimierung der Bildgrössen und eine Verbesserung der Serverkonfiguration eine weitere Verbesserung erreicht werden",
+    "Ein regelmässiges Update der Inhalte und eine stärkere Fokussierung auf die Präsentation der Dienstleistungen und des Fachwissens von Koechli Hauswartungen könnten dazu beitragen, die Besucher auf der Website länger zu halten und eine höhere Konversionsrate zu erzielen"
+  ]
 }

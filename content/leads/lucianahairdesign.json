@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Lucianahairdesign sollte unbedingt mobile-optimiert werden, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Die Ladezeit von 2264ms ist deutlich zu lang und sollte durch Optimierungen wie Bildkomprimierung oder Code-Optimierung reduziert werden, um die Nutzerzufriedenheit zu verbessern",
+    "Es wäre ratsam, eine klare und übersichtliche Struktur für die Website zu erstellen, um den Kunden eine einfache Navigation und einen guten Überblick über die angebotenen Dienstleistungen zu ermöglichen",
+    "Die Integration von Kundenbewertungen und -feedbacks auf der Website könnte dazu beitragen, das Vertrauen potenzieller Kunden in die Marke Lucianahairdesign zu stärken und die Glaubwürdigkeit des Unternehmens zu erhöhen"
+  ]
 }

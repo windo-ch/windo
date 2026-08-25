@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Salubria-Website salubria.ch sollte dringend eine Mobile-Optimierung durchführen, um eine bessere Nutzererfahrung für die immer mehr mobilen Besucher zu gewährleisten",
+    "Die Ladezeit von 231ms ist für eine Versicherungswebsite wie Salubria.ch akzeptabel, jedoch könnte durch eine Optimierung der Bildgrößen und eine effizientere Skriptverwaltung noch eine Verbesserung erzielt werden",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder TYPO3 zu verwenden, um die Wartung und Aktualisierung der Website zu vereinfachen und somit Kosten und Zeit zu sparen",
+    "Um die Vertrauenswürdigkeit und Glaubwürdigkeit der Salubria-Marke zu stärken, sollte die Website regelmäßig aktualisiert und mit relevanten Inhalten versorgt werden, die für die Zielgruppe von Interesse sind"
+  ]
 }

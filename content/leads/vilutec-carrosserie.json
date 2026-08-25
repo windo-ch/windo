@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Vilutec Carrosserie sollte mobil optimiert werden, um eine bessere Benutzererfahrung für die zunehmend mobil surfenden Kunden zu gewährleisten",
+    "Es wäre ratsam, eine klare Auflistung der angebotenen Dienstleistungen und Preise auf der Website zu integrieren, um potenziellen Kunden eine bessere Übersicht über das Angebot von Vilutec Carrosserie zu geben",
+    "Die Ladezeit von 221ms ist im Vergleich zu anderen Websites relativ langsam, es wäre daher empfehlenswert, die Website zu optimieren, um eine schnellere Ladezeit zu erzielen und die Benutzererfahrung zu verbessern",
+    "Eine regelmäßige Aktualisierung der Website mit aktuellen Nachrichten, Angeboten oder Projekten von Vilutec Carrosserie könnte dazu beitragen, die Kundenbindung zu stärken und die Website attraktiver zu gestalten"
+  ]
 }

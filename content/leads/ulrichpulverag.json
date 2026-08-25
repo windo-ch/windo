@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website der Ulrichpulverag sollte mobil optimiert werden, um eine bessere Benutzererfahrung für die immer mehr mit ihren Smartphones surfenden Kunden zu bieten",
+    "Die Ladezeit von 226ms ist im Vergleich zu anderen Websites in der Sanitär- und Heizungsbranche relativ langsam, eine Optimierung der Bilder und des Codes könnte hier Abhilfe schaffen",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder Typo3 zu verwenden, um die Wartung und Aktualisierung der Website zu erleichtern und somit auch die Sicherheit zu erhöhen",
+    "Die Ulrichpulverag sollte ihre Online-Präsenz auch über die Website hinaus ausbauen, indem sie beispielsweise auf Social-Media-Plattformen wie Facebook oder Instagram aktiv wird, um mit ihren Kunden in Kontakt zu treten und ihre Marke zu stärken"
+  ]
 }

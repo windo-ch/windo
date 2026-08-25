@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website hga.ch sollte dringend mobile-optimiert werden, um den wachsenden Anteil von Besuchern mit Smartphones zu bedienen und eine bessere Nutzererfahrung zu bieten",
+    "Die Ladezeit von 236ms ist im Vergleich zu anderen Websites in der Sanitär- und Heizungsbranche relativ langsam und könnte durch Optimierungen an Bildern und Code verbessert werden",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder TYPO3 zu verwenden, um die Wartung und Aktualisierung der Website zu vereinfachen und flexibler auf Veränderungen reagieren zu können",
+    "Die Firma Hga sollte ihre Online-Präsenz durch regelmäßige Updates und eine aktive Kommunikation mit Kunden und Interessenten stärken, um ihre Markenbekanntheit und Kundenbindung in der Schweizer Sanitär- und Heizungsbranche zu fördern"
+  ]
 }

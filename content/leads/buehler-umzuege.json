@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung ihrer Website buehler-umzuege.ch priorisieren, da viele Kunden von unterwegs aus nach Umzugsdienstleistungen suchen und eine benutzerfreundliche mobile Erfahrung unerlässlich ist",
+    "Die Ladezeit von 344ms ist im Vergleich zu anderen Websites in der Transport- und Umzugsbranche relativ langsam, daher empfehle ich, die Bilder und Inhalte zu optimieren, um die Ladezeit zu verkürzen",
+    "Es wäre hilfreich, wenn die Firma Buehler Umzüge ihre Website mit einem Baukastensystem wie WordPress oder TYPO3 aufbaut, um einfacher Inhalte zu verwalten und zu aktualisieren",
+    "Eine klare und einfache Navigation auf der Website würde es den Kunden erleichtern, die benötigten Informationen zu finden, insbesondere wenn es um die verschiedenen Umzugsdienstleistungen und Preise geht"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Carmens Coiffeur sollte dringend eine Mobile-Optimierung durchführen, da die meisten Kunden heutzutage über Smartphones auf Websites zugreifen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Um die Ladezeit von 198ms weiter zu reduzieren, könnte die Implementierung eines Content Delivery Networks (CDN) hilfreich sein, da dies die Distanz zwischen dem Nutzer und dem Server verringert",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und ein Blog mit Tipps und Trends aus der Coiffeur-Branche könnten die Kundenbindung stärken und die Sichtbarkeit in Suchmaschinen verbessern",
+    "Die Einbindung von Kundenbewertungen und -rezensionen auf der Website könnte das Vertrauen potenzieller Kunden in Carmens Coiffeur stärken und die Entscheidung für einen Besuch im Salon erleichtern"
+  ]
 }

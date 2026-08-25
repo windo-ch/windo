@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Fusspflege Pedi Lounge sollte ihre Website mobil-optimieren, um den wachsenden Anteil von mobilen Besuchern besser zu bedienen und die Nutzererfahrung zu verbessern",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die Inhalte übersichtlicher zu präsentieren und den Besuchern eine einfacherere Orientierung zu ermöglichen",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens würde die Pflege und Aktualisierung der Website-Inhalte erleichtern und die Effizienz steigern",
+    "Eine regelmäßige Analyse der Website-Daten und -Leistung würde es der Fusspflege Pedi Lounge ermöglichen, gezielte Verbesserungen vorzunehmen und die Website an die Bedürfnisse der Besucher anzupassen"
+  ]
 }

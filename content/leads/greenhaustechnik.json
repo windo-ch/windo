@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Greenhaustechnik sollte unbedingt eine mobile Optimierung erhalten, um eine bessere Nutzererfahrung für die immer mehr mobilen Besucher zu gewährleisten, insbesondere in der Sanitär- und Heizungsbranche, in der Kunden oft unterwegs sind und schnell Informationen benötigen.",
+    "Die Ladezeit von 236ms ist noch im Rahmen des Akzeptablen, jedoch könnte durch eine Optimierung der Bilder und eine Code-Überprüfung die Ladezeit noch weiter reduziert werden, um die Konversionsraten zu steigern und die Nutzerzufriedenheit zu erhöhen.",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder TYPO3 zu verwenden, um die Wartung und Aktualisierung der Website zu vereinfachen und somit die Kosten für zukünftige Anpassungen zu reduzieren, was insbesondere für ein Unternehmen wie Greenhaustechnik mit begrenzten Ressourcen von Vorteil sein könnte.",
+    "Die SSL-Zertifizierung ist korrekt implementiert, jedoch sollte die Website regelmäßig auf Sicherheitslücken und Updates überprüft werden, um die Sicherheit der Besucher und die Integrität der Website zu gewährleisten, was in der heutigen Zeit mit zunehmenden Cyberbedrohungen von entscheidender Bedeutung ist."
+  ]
 }

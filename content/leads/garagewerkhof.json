@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Garagewerkhof sollte dringend mobile-optimiert werden, um eine bessere Nutzererfahrung für die wachsende Zahl von Mobilnutzern in der Elektrobranche zu gewährleisten",
+    "Eine Überarbeitung der Seitenstruktur und Inhalte könnte dazu beitragen, die Ladezeit von 229ms weiter zu reduzieren und somit die Nutzerzufriedenheit zu steigern",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder Joomla zu verwenden, um die Wartung und Aktualisierung der Website zu vereinfachen und somit die Kosten für zukünftige Anpassungen zu senken",
+    "Die Integration von Suchfunktionen und einer klaren Navigationsstruktur auf der Website von Garagewerkhof würde es den Nutzern erleichtern, relevante Informationen und Produkte in der Elektrobranche zu finden und somit die Conversion-Rate zu erhöhen"
+  ]
 }

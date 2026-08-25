@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Blackandwhite Haute Coiffure sollte dringend mobile-optimiert werden, um eine bessere Nutzererfahrung für die zahlreichen Kunden zu bieten, die über ihr Smartphone auf die Seite zugreifen",
+    "Es wäre ratsam, eine moderne CMS-Lösung wie WordPress oder TYPO3 zu implementieren, um die Pflege und Aktualisierung der Inhalte zu vereinfachen und die Sicherheit zu erhöhen",
+    "Die Ladezeit von 239ms ist zwar im Durchschnitt, könnte aber durch Optimierung der Bildgrößen und -formate sowie durch den Einsatz eines Content Delivery Networks noch weiter verbessert werden",
+    "Um die Sichtbarkeit und Auffindbarkeit der Website zu erhöhen, sollten regelmäßig aktuelle und relevante Inhalte wie Blog-Beiträge oder Styling-Tipps veröffentlicht werden, die speziell auf die Bedürfnisse von Kunden in der Schweiz zugeschnitten sind"
+  ]
 }

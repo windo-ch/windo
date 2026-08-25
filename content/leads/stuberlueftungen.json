@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung für die Website stuberlueftungen.ch priorisieren, da viele Kunden in der Sanitär- und Heizungsbranche ihre Dienstleistungen über mobile Geräte suchen",
+    "Die Ladezeit von 241ms ist im Vergleich zu anderen Websites relativ schnell, aber es gibt noch Potenzial für Verbesserungen, um die Benutzererfahrung zu optimieren",
+    "Es wäre ratsam, einen Baukasten für die Website zu verwenden, um die Wartung und Aktualisierung von Inhalten zu vereinfachen und die Konsistenz der Gestaltung zu gewährleisten",
+    "Die Firma Stuberlueftungen sollte ihre Online-Präsenz durch regelmäßige Updates und eine aktive Kommunikation mit Kunden auf der Website und in sozialen Medien stärken, um ihre Markenbekanntheit in der Schweizer Sanitär- und Heizungsbranche zu erhöhen"
+  ]
 }

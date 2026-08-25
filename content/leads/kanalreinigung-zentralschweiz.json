@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Kanalreinigung Zentralschweiz sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mobilen Besucher zu gewährleisten",
+    "Es wäre ratsam, den Geschäftsnamen und die Dienstleistungen von Kanalreinigung Zentralschweiz auf der Startseite klarer und prominenter darzustellen, um die Besucher schnell und effektiv zu informieren",
+    "Die Ladezeit von 252ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten Sie prüfen, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern oder Code zu reduzieren",
+    "Ein regelmäßiges Update und eine Pflege der Website sind wichtig, um die Sicherheit und den Datenschutz zu gewährleisten und um sicherzustellen, dass die Website weiterhin den Anforderungen der Besucher und Suchmaschinen entspricht"
+  ]
 }

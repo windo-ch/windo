@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Sie sollten die Mobile-Optimierung ihrer Website microbladingschweiz.ch priorisieren, da viele potenzielle Kunden über mobile Geräte surfen und eine nicht optimierte Seite zu einer hohen Absprungrate führen kann",
+    "Die Ladezeit von 361ms ist noch im Rahmen, jedoch könnte eine Optimierung der Bildgrößen und eine effizientere Verwendung von Ressourcen die Nutzererfahrung weiter verbessern",
+    "Eine Überarbeitung der Inhalte und eine stärkere Fokussierung auf die spezifischen Dienstleistungen und Vorteile von Microbladingschweiz im Bereich der Kosmetik könnte die Konversionrate erhöhen",
+    "Eine regelmäßige Aktualisierung von Blogbeiträgen oder News zu aktuellen Trends und Entwicklungen in der Kosmetikbranche könnte die Sichtbarkeit und Glaubwürdigkeit von Microbladingschweiz bei Suchmaschinen und potenziellen Kunden verbessern"
+  ]
 }

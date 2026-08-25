@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website der Hairfashionfactory sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil surfenden Kunden zu gewährleisten",
+    "Eine Überarbeitung der Seitenstruktur und des Inhalts wäre ratsam, um die Besucher besser über die Dienstleistungen und Angebote der Coiffeur-Branche zu informieren",
+    "Die Ladezeit von 278ms ist im Vergleich zu anderen Websites relativ langsam, eine Optimierung der Bilder und eine Nutzung von Content-Delivery-Networks könnten hier Abhilfe schaffen",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und eine Integration von Kundenbewertungen und -feedbacks würde die Glaubwürdigkeit und den Ruf der Hairfashionfactory stärken"
+  ]
 }

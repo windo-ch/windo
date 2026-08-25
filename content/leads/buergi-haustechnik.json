@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Buergi Haustechnik sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zahlreichen Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Es wäre ratsam, eine umfassende Suchfunktion auf der Website zu integrieren, um es Kunden zu erleichtern, spezifische Sanitär- und Heizungslösungen zu finden",
+    "Um die Konkurrenzfähigkeit von Buergi Haustechnik im digitalen Markt zu stärken, sollte die Website regelmäßig mit aktuellen Inhalten und Angeboten aktualisiert werden",
+    "Die Ladezeit von 236ms ist im Vergleich zu anderen Websites bereits sehr gut, jedoch könnte durch die Optimierung von Bildern und die Minimierung von CSS- und JavaScript-Dateien eine weitere Verbesserung erzielt werden"
+  ]
 }

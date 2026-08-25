@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Restaurant Egli sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die zahlreichen Besucher zu gewährleisten, die über ihr Smartphone nach Restaurants in der Nähe suchen",
+    "Eine Überarbeitung der Seitenstruktur und eine Vereinfachung der Navigation würden es den Besuchern erleichtern, die gewünschten Informationen wie Speisekarte, Öffnungszeiten und Kontaktmöglichkeiten schnell zu finden",
+    "Die Ladezeit von 261ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch könnte durch eine Optimierung der Bildgrößen und eine Verbesserung der Serverkonfiguration eine weitere Beschleunigung erreicht werden",
+    "Eine regelmäßige Aktualisierung der Website mit aktuellen Angeboten, Events und Nachrichten aus dem Restaurant Egli würde die Besucher binden und eine treue Gemeinschaft aufbauen, die das Restaurant wiederholt besucht"
+  ]
 }

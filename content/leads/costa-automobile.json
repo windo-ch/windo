@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Costa Automobile sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit Smartphones surfenden Kunden zu bieten",
+    "Eine Überarbeitung der Seitenstruktur und eine Verbesserung der Ladezeit könnten dazu beitragen, dass die Besucher länger auf der Seite bleiben und mehr über die Angebote von Costa Automobile erfahren",
+    "Die Integration von Kundenbewertungen und -rezensionen auf der Website könnte die Glaubwürdigkeit und Vertrauenswürdigkeit von Costa Automobile im Autohandel stärken",
+    "Eine regelmäßige Aktualisierung der Inhalte und Angebote auf der Website würde helfen, die Besucher zu binden und sie dazu anregen, wiederzukehren, um neue Informationen und Angebote zu entdecken"
+  ]
 }

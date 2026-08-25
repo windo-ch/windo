@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Ncrt sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Nutzererfahrung und die Suchmaschinenoptimierung ist",
+    "Eine Überarbeitung der Inhalte und Struktur der Website könnte dazu beitragen, die Besucher besser über die Reinigungsdienstleistungen von Ncrt zu informieren und sie zum Kauf anzuregen",
+    "Die Ladezeit von 257ms ist im Vergleich zu anderen Websites relativ schnell, jedoch könnte eine weitere Optimierung der Bilder und Inhalte die Ladezeit noch weiter reduzieren und die Nutzererfahrung verbessern",
+    "Eine regelmäßige Aktualisierung der Website und ihrer Inhalte wäre ratsam, um die Besucher über neue Entwicklungen und Angebote von Ncrt auf dem Laufenden zu halten und die Website nicht zu statisch erscheinen zu lassen"
+  ]
 }

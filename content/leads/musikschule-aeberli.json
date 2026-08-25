@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Musikschule Aeberli könnte ihre Website durch eine Überarbeitung der Navigation und eine klarere Strukturierung der Inhalte verbessern, um den Besuchern eine einfachere Orientierung zu ermöglichen",
+    "Eine Optimierung der Ladezeit von 996ms wäre ratsam, um die Benutzererfahrung zu verbessern und die Abbruchrate zu reduzieren",
+    "Die Musikschule Aeberli sollte ihre Website regelmäßig aktualisieren, um ihre Besucher über neue Kurse, Veranstaltungen und Angebote zu informieren und eine aktive Community aufzubauen",
+    "Eine Integration von sozialen Medien und einer Newsletter-Funktion würde es der Musikschule Aeberli ermöglichen, ihre Zielgruppe besser zu erreichen und eine stärkere Bindung zu ihren Kunden aufzubauen"
+  ]
 }

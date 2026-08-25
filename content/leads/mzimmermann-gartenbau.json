@@ -15,5 +15,12 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website ist nicht für Mobilgeräte optimiert. Über 60% Ihrer potenziellen Kunden suchen auf dem Handy — und sehen eine verkleinerte Desktop-Ansicht.",
+    "Ihre Website ist seit 8 Jahren online. Technologie und Design haben sich weiterentwickelt — ein zeitgemässer Auftritt signalisiert: «Wir sind aktiv.»",
+    "Die Website basiert auf einer Baukasten-Vorlage. Das spart Kosten, begrenzt aber Design, Ladegeschwindigkeit und Google-Sichtbarkeit.",
+    "Saisonale Fotos Ihrer Projekte würden die Website das ganze Jahr über aktuell wirken lassen.",
+    "Ein Galerie-Bereich mit abgeschlossenen Gartenprojekten zeigt Ihr Können sofort."
+  ]
 }

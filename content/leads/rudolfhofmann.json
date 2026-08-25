@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website rudolfhofmann.ch sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Ein wichtiger Punkt für die Reinigungsbranche ist die Darstellung von Referenzen und Zertifizierungen, daher wäre es sinnvoll, diese auf der Startseite von rudolfhofmann.ch prominent zu präsentieren",
+    "Um die Ladezeit von 234ms weiter zu verbessern, könnte eine Analyse der verwendeten Bilder und Skripte durchgeführt werden, um diese zu optimieren und somit die Gesamtleistung der Website zu steigern",
+    "Die Einbindung eines Content-Management-Systems oder eines Baukastens könnte die Wartung und Aktualisierung der Website rudolfhofmann.ch erleichtern und flexibler gestalten, was insbesondere für regelmäßige Nachrichten oder Angebote in der Reinigungsbranche von Vorteil sein könnte"
+  ]
 }

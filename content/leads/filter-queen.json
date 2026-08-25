@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Nutzererfahrung zu verbessern, sollte die Website von Filter Queen mobiloptimiert werden, da viele Kunden wahrscheinlich über Smartphones auf die Seite zugreifen werden, und dies würde die Benutzerfreundlichkeit und die Suchmaschinenoptimierung verstärken",
+    "Die Ladezeit von 420ms ist relativ langsam und könnte potenzielle Kunden abschrecken, daher wäre es ratsam, die Website zu optimieren, um die Ladezeit zu verkürzen und so die Kundenzufriedenheit zu steigern",
+    "Ein wichtiges Ziel für Filter Queen könnte es sein, eine klare und übersichtliche Navigation auf der Website zu implementieren, um Kunden leichter zu ermöglichen, die gewünschten Informationen und Produkte zu finden und so den Umsatz zu steigern",
+    "Die Verwendung eines Baukastens könnte die Wartung und Aktualisierung der Website erleichtern und gleichzeitig die Kosten reduzieren, was besonders für ein Unternehmen wie Filter Queen, das sich auf Reinigung spezialisiert hat, von Vorteil sein könnte, um sich auf das Kerngeschäft zu konzentrieren"
+  ]
 }

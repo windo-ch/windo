@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Nikoli Reinigung sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer grösser werdende Zahl von Mobilnutzern zu gewährleisten",
+    "Eine Überarbeitung der Seitenstruktur und -inhalte könnte dazu beitragen, dass potenzielle Kunden die Dienstleistungen von Nikoli Reinigung besser verstehen und leichter finden können",
+    "Die Ladezeit von 369ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch könnte eine Optimierung der Bilder und eine Weiterentwicklung der Seitencodierung die Ladezeit weiter verbessern und so die Benutzerfreundlichkeit steigern",
+    "Eine regelmässige Aktualisierung der Website-Inhalte, beispielsweise durch einen Blog oder Nachrichtenbereich, könnte dazu beitragen, dass die Website von Nikoli Reinigung für Suchmaschinen wie Google attraktiver wird und so mehr Besucher anzieht"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Um die Erreichung einer breiteren Zielgruppe zu gewährleisten, sollte die Website coiffeur-rahb.ch mobil optimiert werden, da viele potenzielle Kunden über ihre Smartphones auf Dienstleistungen wie die von Coiffeur Rahb zugreifen",
+    "Die Ladezeit von 202ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch könnte durch eine Optimierung der Bildgrößen und eine effizientere Verwendung von Ressourcen eine weitere Verbesserung erzielt werden",
+    "Es wäre ratsam, einen regelmäßigen Blog oder eine News-Seite auf der Website zu integrieren, um Kunden über aktuelle Trends, Angebote und Neuigkeiten im Bereich der Coiffure zu informieren und so eine stärkere Kundenbindung aufzubauen",
+    "Durch die Implementierung eines einfachen Online-Buchungssystems könnte Coiffeur Rahb den Kunden einen zusätzlichen Service bieten und gleichzeitig den eigenen Arbeitsablauf effizienter gestalten, was zu einer höheren Kundenzufriedenheit führen könnte"
+  ]
 }

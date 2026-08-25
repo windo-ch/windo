@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Guentert Bau sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit ihren Smartphones surfenden Kunden zu bieten",
+    "Eine Überarbeitung der Inhalte und eine stärkere Fokussierung auf die Gartenbau-Dienstleistungen von Guentert Bau könnte die Website attraktiver machen und potenzielle Kunden besser ansprechen",
+    "Die Ladezeit von 249ms ist im Vergleich zu anderen Websites relativ langsam, eine Optimierung der Bilder und eine Überprüfung der verwendeten Skripte könnten dazu beitragen, die Ladezeit zu verkürzen",
+    "Eine regelmäßige Aktualisierung der Website mit neuen Inhalten, wie zum Beispiel Blog-Beiträgen über Gartenbau-Tipps oder Neuigkeiten aus der Branche, könnte dazu beitragen, die Besucher zu binden und die Sichtbarkeit von Guentert Bau im Internet zu erhöhen"
+  ]
 }

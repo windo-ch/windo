@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Homeandgardenservices könnte durch eine Überarbeitung der Inhaltsstruktur und eine stärkere Fokussierung auf die Bedürfnisse von Immobilienkunden verbessert werden, indem beispielsweise eine klarere Gliederung der Dienstleistungen und eine einfacherere Navigation implementiert werden",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte und eine stärkere Nutzung von Suchmaschinenoptimierung (SEO) könnten dazu beitragen, die Sichtbarkeit und den Bekanntheitsgrad von Homeandgardenservices im Internet zu erhöhen",
+    "Die Ladezeit von 398ms ist im Vergleich zu anderen Websites noch immer relativ langsam, daher könnte eine Optimierung der Bildgrößen und eine Verwendung von Content-Delivery-Networks (CDNs) die Ladezeit verkürzen und die Benutzererfahrung verbessern",
+    "Eine Implementierung von Kundenbewertungen und -rezensionen auf der Website könnte die Glaubwürdigkeit und das Vertrauen von potenziellen Kunden in die Dienstleistungen von Homeandgardenservices stärken und somit den Umsatz und die Kundenbindung fördern"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Saner Rheintal sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die meisten Besucher zu gewährleisten, die über Smartphones auf die Seite zugreifen",
+    "Einbau eines Content-Management-Systems wäre sinnvoll, um die Inhalte einfacher und effizienter zu verwalten und zu aktualisieren",
+    "Die Ladezeit von 272ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten Sie prüfen, ob es Möglichkeiten gibt, die Ladezeit durch Optimierung von Bildern oder Code zu verkürzen",
+    "Es wäre ratsam, einen Blog oder eine Nachrichtenseite auf der Website zu integrieren, um Kunden und Interessenten über Neuigkeiten und Trends in der Gipserbranche zu informieren und so die Bindung an die Marke Saner Rheintal zu stärken"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Malerei Baer sollte dringend mobile-optimiert werden, um den wachsenden Anteil von Mobilnutzern zu bedienen und die Benutzererfahrung zu verbessern",
+    "Die Ladezeit von 282ms ist im Vergleich zu anderen Websites relativ langsam, es wäre ratsam, die Bilder und Inhalte zu optimieren, um die Ladezeit zu verkürzen",
+    "Es fehlt auf der Website von Malerei Baer an einer klaren Auflistung der angebotenen Dienstleistungen und Preise, was es potenziellen Kunden erschwert, eine fundierte Entscheidung zu treffen",
+    "Die Website könnte von einer Überarbeitung der Navigation und einer verbesserten Struktur profitieren, um den Besuchern eine einfachere Orientierung und bessere Erfahrung zu bieten"
+  ]
 }

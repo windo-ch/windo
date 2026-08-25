@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Donag Reinigungen sollten ihre Website mobil-optimieren, um eine bessere Benutzererfahrung für ihre Kunden zu gewährleisten, da viele Nutzer heutzutage über mobile Geräte auf Websites zugreifen",
+    "Die Ladezeit von 255ms ist im Vergleich zu anderen Websites relativ langsam, daher sollten die Donag Reinigungen ihre Website optimieren, um eine schnellere Ladezeit zu erzielen und so die Benutzererfahrung zu verbessern",
+    "Es wäre ratsam, wenn die Donag Reinigungen ihre Dienstleistungen und Angebote auf der Website detaillierter und übersichtlicher darstellen würden, um potenziellen Kunden eine bessere Vorstellung von ihren Reinigungsleistungen zu geben",
+    "Die Donag Reinigungen sollten auch überlegen, ob sie ihre Website mit einem Content-Management-System wie WordPress oder einem anderen Baukasten erstellen, um einfacher und schneller Inhalte zu verwalten und zu aktualisieren"
+  ]
 }

@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website des Therapiezentrumblumenwiese sollte mobil optimiert werden, um eine bessere Benutzererfahrung für die meisten Nutzer zu gewährleisten, die über Smartphones surfen",
+    "Es wäre ratsam, eine klare Auflistung der angebotenen Floristik-Dienstleistungen und Produkte auf der Startseite zu integrieren, um den Besuchern eine schnelle Übersicht zu bieten",
+    "Eine Suche nach 'Florist in der Nähe' oder 'Blumenlieferung' in Suchmaschinen wie Google könnte verbessert werden, indem die Website mit relevanten Schlüsselwörtern und einer lokalen Optimierung für die Region ausgestattet wird",
+    "Eine regelmäßige Aktualisierung des Angebots und der Inhalte auf der Website könnte dazu beitragen, die Besucher zu binden und eine höhere Konversionsrate zu erzielen, zum Beispiel durch die Präsentation von Saisonblumen oder besonderen Angeboten"
+  ]
 }

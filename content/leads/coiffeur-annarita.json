@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Coiffeur Annarita sollte unbedingt eine mobile Optimierung erhalten, da viele Kunden wahrscheinlich über ihre Smartphones nach Coiffeur-Dienstleistungen suchen und eine benutzerunfreundliche mobileDarstellung den Besucherverlust fördern kann",
+    "Die Ladezeit von 245ms ist zwar nicht schlecht, aber eine Optimierung der Bilder und Inhalte könnte diese Zeit noch weiter reduzieren und somit die Benutzererfahrung verbessern",
+    "Es wäre ratsam, eine einfache und intuitive Navigation auf der Website zu implementieren, um den Besuchern eine einfache und schnelle Suche nach den gewünschten Dienstleistungen zu ermöglichen",
+    "Eine regelmäßige Aktualisierung der Website mit neuen Inhalten, wie zum Beispiel Hairstyling-Trends oder Spezialangeboten, könnte helfen, die Besucher zu binden und somit die Kundenbeziehungen zu stärken"
+  ]
 }

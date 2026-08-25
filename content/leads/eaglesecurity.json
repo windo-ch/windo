@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Eaglesecurity-Website sollte dringend eine mobile Optimierung erhalten, um eine bessere Nutzererfahrung für die zunehmend mobilen Kunden in der Treuhandbranche zu bieten",
+    "Es wäre ratsam, eine moderne Baukasten-Lösung zu implementieren, um die Wartung und Aktualisierung der Website zu vereinfachen und so den technischen Aufwand zu reduzieren",
+    "Die Ladezeit von 225ms ist im Vergleich zu anderen Websites in der Branche relativ langsam, daher sollte die Eaglesecurity-Website optimiert werden, um eine schnellere Ladezeit zu erzielen und so die Benutzerzufriedenheit zu steigern",
+    "Die Integration vonResponsive-Design-Elementen würde es ermöglichen, dass die Website auf verschiedenen Geräten und Bildschirmen korrekt dargestellt wird und so die Usability für die Kunden von Eaglesecurity verbessert wird"
+  ]
 }

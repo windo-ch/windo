@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Tundt sollte mobil optimiert werden, um eine bessere Nutzererfahrung für die immer mehr mit Smartphones surfenden Kunden zu gewährleisten",
+    "Ein Überarbeitung des Designs und der Struktur der Website würde helfen, die Dienstleistungen von Tundt als Plattenleger besser zu präsentieren und potenziellen Kunden eine einfache Navigation zu bieten",
+    "Die Ladezeit von 215ms ist zwar im Durchschnitt, aber es gibt sicherlich Möglichkeiten, diese durch Optimierung von Bildern und Code zu verbessern, um die Konkurrenzfähigkeit der Website zu steigern",
+    "Ein regelmäßiges Update der Website mit aktuellen Referenzen und Projekten von Tundt würde helfen, die Glaubwürdigkeit und das Vertrauen bei potenziellen Kunden zu stärken und die Website als wichtigen Teil der Marketingstrategie zu etablieren"
+  ]
 }

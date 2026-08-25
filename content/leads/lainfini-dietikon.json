@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website ist nicht für Mobilgeräte optimiert. Über 60% Ihrer potenziellen Kunden suchen auf dem Handy — und sehen eine verkleinerte Desktop-Ansicht.",
+    "Online-Terminbuchung würde Patienten und Ihr Team entlasten.",
+    "Behandlungsschwerpunkte klar strukturiert — damit Patienten sofort wissen, ob sie bei Ihnen richtig sind.",
+    "Ein klarer Call-to-Action auf der Startseite — «Jetzt anrufen» oder «Offerte anfragen» — würde Besucher direkter zum Handeln bewegen."
+  ]
 }

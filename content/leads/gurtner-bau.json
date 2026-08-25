@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Gurtner Bau sollte dringend mobile-optimiert werden, um eine bessere Nutzererfahrung für die zunehmend mobil agierenden Kunden zu gewährleisten",
+    "Ein schnellerer Server oder eine Optimierung der Bilder könnte die Ladezeit von 254ms weiter reduzieren und so die Benutzerfreundlichkeit verbessern",
+    "Es wäre ratsam, einen Baukasten wie WordPress oder Joomla zu verwenden, um die Wartung und Aktualisierung der Website zu vereinfachen und so den Aufwand für Gurtner Bau zu minimieren",
+    "Eine regelmäßige Überprüfung und Aktualisierung der Website-Inhalte würde dazu beitragen, die Kunden von Gurtner Bau besser zu informieren und so das Vertrauen in das Unternehmen zu stärken"
+  ]
 }

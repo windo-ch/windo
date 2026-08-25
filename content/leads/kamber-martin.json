@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Kamber Martin sollte dringend eine mobile Optimierung erhalten, da dies heutzutage ein wichtiger Faktor für die Benutzerfreundlichkeit und die Suchmaschinenoptimierung ist",
+    "Es wäre ratsam, eine klare Auflistung der verschiedenen Fenster- und Türenmodelle auf der Website zu erstellen, um den Kunden eine bessere Übersicht über das Angebot zu geben",
+    "Eine Integration von Kundenbewertungen und -referenzen auf der Website könnte die Glaubwürdigkeit und das Vertrauen bei potenziellen Kunden von Kamber Martin stärken",
+    "Eine regelmäßige Aktualisierung der Website-Inhalte, beispielsweise durch einen Blog oder eine Nachrichtenseite, könnte dazu beitragen, die Website bei Suchmaschinen wie Google besser zu positionieren und somit mehr Besucher anzuziehen"
+  ]
 }

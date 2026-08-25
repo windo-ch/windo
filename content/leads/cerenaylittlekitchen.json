@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Cerenaylittlekitchen sollte unbedingt eine mobile Optimierung erhalten, um den wachsenden Anteil von Besuchern mit Smartphones besser zu bedienen und die Nutzererfahrung zu verbessern",
+    "Eine Überarbeitung der Menüstruktur und eine einfachere Navigation würden es den Besuchern erleichtern, die gewünschten Informationen über das Restaurant und seine Angebote zu finden",
+    "Die Ladezeit von 222ms ist im Vergleich zu anderen Websites im Restaurantbereich relativ langsam, eine Optimierung der Bildgrößen und eine Nutzung von Content-Delivery-Networks könnten hier Abhilfe schaffen",
+    "Eine regelmäßige Aktualisierung der Website mit neuen Inhalten, wie z.B. monatlichen Spezialangeboten oder Events, würde helfen, die Besucher zu binden und die Sichtbarkeit von Cerenaylittlekitchen in der lokalen Restaurantszene zu erhöhen"
+  ]
 }

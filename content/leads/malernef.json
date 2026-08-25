@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Website von Malernef sollte dringend eine Mobile-Optimierung erhalten, um eine bessere Nutzererfahrung für die zunehmend mobil surfenden Kunden zu gewährleisten",
+    "Eine Reduzierung der Ladezeit von 454ms auf unter 200ms durch Optimierung der Bildgrößen und Code-Struktur würde die Benutzerfreundlichkeit und die Suchmaschinenoptimierung verbessern",
+    "Ein Baukastensystem wie WordPress oder TYPO3 würde es Malernef ermöglichen, Inhalte einfacher zu verwalten und zu aktualisieren, ohne dabei auf externe Hilfe angewiesen zu sein",
+    "Die Integration von Kundenbewertungen und -referenzen auf der Website würde die Glaubwürdigkeit und Vertrauenswürdigkeit von Malernef als Gipser-Unternehmen in der Schweiz erhöhen"
+  ]
 }

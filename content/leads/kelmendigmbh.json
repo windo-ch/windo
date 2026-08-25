@@ -15,5 +15,11 @@
     "slowLoad": false
   },
   "hasDesktopScreenshot": true,
-  "hasMobileScreenshot": true
+  "hasMobileScreenshot": true,
+  "insights": [
+    "Die Kelmendigmbh-Website sollte unbedingt eine mobile Optimierung erhalten, um eine bessere Nutzererfahrung für die immer mehr mit Smartphones surfenden Kunden in der Reinigungsbranche zu gewährleisten",
+    "Eine Überarbeitung der Website-Struktur und -Navigation würde helfen, die Inhalte übersichtlicher zu gestalten und den Besuchern eine einfachere Orientierung zu ermöglichen",
+    "Die Ladezeit von 288ms ist im Vergleich zu anderen Websites noch akzeptabel, jedoch könnte durch die Optimierung von Bildern und eine effizientere Codierung eine weitere Verbesserung erzielt werden",
+    "Die Implementierung eines Content-Management-Systems oder eines Baukastens würde die Pflege und Aktualisierung der Website-Inhalte erheblich vereinfachen und somit die Kommunikation mit den Kunden in der Reinigungsbranche verbessern"
+  ]
 }
