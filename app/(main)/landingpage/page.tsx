@@ -50,7 +50,7 @@ const REFERENCES = [
     name: 'Dr. Obrenovic',
     domain: 'drobrenovic.ch',
     screenshot: '/images/drobrenovic-after.png',
-    caption: 'Zahnarztpraxis Zug. Neue Website in 10 Arbeitstagen.',
+    caption: 'Zahnarztpraxis Erlenbach ZH. Neue Website in 10 Arbeitstagen.',
     href: 'https://drobrenovic.ch',
   },
   {
