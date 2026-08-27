@@ -69,7 +69,7 @@ export default function LeadOffer({ lead }: { lead: LeadContent }) {
               59.—
             </p>
             <p className="text-xs text-white/40 mb-1">
-              CHF / Monat · monatlich kündbar · exkl. MWSt 8.1%
+              CHF / Monat · exkl. MWSt 8.1%
             </p>
             <p className="text-xs text-white/30 mb-6">
               oder CHF 590/Jahr (2 Monate geschenkt)

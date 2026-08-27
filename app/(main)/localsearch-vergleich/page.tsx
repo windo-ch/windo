@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "localsearch Alternative Schweiz — windo.ch",
   description:
-    "Individuell statt Vorlage. Monatlich kündbar statt 3-Jahres-Vertrag. Direkte Betreuung statt Hotline. Der sachliche Vergleich für Schweizer KMU.",
+    "Individuell statt Vorlage. Direkte Betreuung statt Hotline. Die Website gehört Ihnen — nicht der Plattform. Der sachliche Vergleich für Schweizer KMU.",
   alternates: { canonical: "https://www.windo.ch/localsearch-vergleich" },
 };
 
@@ -58,7 +58,7 @@ const LEISTUNG_ROWS = [
   {
     label: "Mindestlaufzeit",
     ls: "Typisch 36 Monate ²",
-    windo: "✓ Monatlich kündbar (ab Jahr 2)",
+    windo: "✓ Keine Bindung (ab Jahr 2)",
   },
   {
     label: "Website gehört Ihnen",
@@ -122,7 +122,7 @@ const FAQ_ITEMS = [
   },
   {
     q: "Was kostet es insgesamt?",
-    a: "Ab CHF 1\u2019990 — erstes Jahr komplett: Website, Hosting, Betreuung und Support. Ab Jahr 2: CHF 59/Mt. oder CHF 590/Jahr. Monatlich kündbar, keine Mindestlaufzeit.",
+    a: "Ab CHF 1\u2019990 — erstes Jahr komplett: Website, Hosting, Betreuung und Support. Ab Jahr 2: CHF 59/Mt. oder CHF 590/Jahr. Sie können jederzeit gehen und nehmen alles mit.",
   },
   {
     q: "Warum CHF 59 im Monat, wenn die Website mir gehört?",
@@ -134,7 +134,7 @@ const FAQ_ITEMS = [
   },
   {
     q: "Bin ich an einen Vertrag gebunden?",
-    a: "Nicht nach dem ersten Jahr. Das erste Jahr ist komplett: Sie zahlen einmal, sind zwölf Monate abgedeckt. Danach monatlich kündbar — Sie können jederzeit gehen und nehmen alles mit.",
+    a: "Nicht nach dem ersten Jahr. Das erste Jahr ist komplett: Sie zahlen einmal, sind zwölf Monate abgedeckt. Danach sind Sie frei — Sie können jederzeit gehen und nehmen alles mit.",
   },
   {
     q: 'Sind Ihre Websites wirklich schneller?',
@@ -201,7 +201,7 @@ export default function VergleichPage() {
           Für Schweizer KMU
         </p>
         <h1 className="text-4xl md:text-5xl font-bold leading-tight max-w-2xl mb-6 tracking-tight">
-          Individuell. Persönlich.<br />Monatlich kündbar.
+          Individuell. Persönlich.<br />Wirklich Ihres.
         </h1>
         <p className="text-lg text-gray-400 max-w-xl mb-4 leading-relaxed">
           Sie prüfen einen Grossanbieter — oder wollen weg.
@@ -464,7 +464,7 @@ export default function VergleichPage() {
             Ihre neue Website — erstes Jahr komplett
           </h2>
           <p className="text-gray-400 text-sm mb-10">
-            Website, Hosting, Betreuung & Support in einem Preis. Danach CHF 59/Mt. — monatlich kündbar.
+            Website, Hosting, Betreuung & Support in einem Preis. Danach CHF 59/Mt. — die Website gehört Ihnen.
           </p>
           <div className="grid gap-6 sm:grid-cols-3 mb-10">
             {PACKAGES.map((pkg) => (
@@ -508,7 +508,7 @@ export default function VergleichPage() {
                 <p className="text-4xl font-bold text-white tracking-tight leading-none mb-1">
                   59.—
                 </p>
-                <p className="text-xs text-white/40">CHF / Monat · monatlich kündbar</p>
+                <p className="text-xs text-white/40">CHF / Monat · exkl. MWSt 8.1%</p>
               </div>
               <div className="text-sm text-gray-400">
                 oder CHF 590/Jahr{" "}

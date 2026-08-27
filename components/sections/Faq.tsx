@@ -30,7 +30,7 @@ const faqs = [
   {
     question: 'Was passiert, wenn ich kündige?',
     answer:
-      'Sie behalten Ihre Website und alle Inhalte. Sie können sie selbst hosten oder zu einem anderen Anbieter wechseln — wir helfen bei der Übergabe. Monatlich kündbar, keine Mindestlaufzeit.',
+      'Sie behalten Ihre Website und alle Inhalte. Sie können sie selbst hosten oder zu einem anderen Anbieter wechseln — wir helfen bei der Übergabe. Keine versteckten Klauseln.',
   },
   {
     question: 'Wer steht hinter windo.ch?',

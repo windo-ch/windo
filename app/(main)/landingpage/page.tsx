@@ -130,7 +130,7 @@ export default function LandingpagePage() {
             990.—
           </p>
           <p className="text-gray-400 text-sm mb-2">CHF — Website, Hosting, Betreuung & Support. Alles inklusive.</p>
-          <p className="text-gray-500 text-sm">Ab Jahr 2: CHF 59/Mt. oder CHF 590/Jahr. Monatlich kündbar.</p>
+          <p className="text-gray-500 text-sm">Ab Jahr 2: CHF 59/Mt. oder CHF 590/Jahr. Die Website gehört Ihnen.</p>
           <p className="text-xs text-gray-600 mt-4">Alle Preise exkl. MWSt 8.1%.</p>
         </div>
       </div>

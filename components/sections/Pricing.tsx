@@ -38,7 +38,7 @@ export default function Pricing() {
               'SEO & Schema-Markup',
               'Hosting & Betreuung inklusive',
               'Änderungen innert 24 Stunden',
-              'Monatlich kündbar',
+              'Die Website gehört Ihnen',
             ].map((item) => (
               <li key={item} className="flex items-start gap-2.5 text-sm text-gray-400">
                 <span className="text-glow mt-0.5 shrink-0">✓</span>

@@ -127,7 +127,7 @@ export function PricingSection({ pricing }: PricingProps) {
       </div>
 
       <p className="mt-5 text-xs text-gray-400">
-        Ab Jahr 2: CHF 59/Monat oder CHF 590/Jahr. Monatlich kündbar. Alle Preise exkl. MWSt 8.1%.
+        Ab Jahr 2: CHF 59/Monat oder CHF 590/Jahr. Alle Preise exkl. MWSt 8.1%.
       </p>
     </section>
   );

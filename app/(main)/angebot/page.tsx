@@ -4,7 +4,7 @@ import { AvailabilityBadge } from '@/components/ui/AvailabilityBadge';
 export const metadata: Metadata = {
   title: 'Angebot — windo.ch',
   description:
-    "Professionelle Websites für Schweizer KMU. Basis ab CHF 1'990 — erstes Jahr komplett. Danach CHF 59/Mt. Monatlich kündbar.",
+    "Professionelle Websites für Schweizer KMU. Basis ab CHF 1'990 — erstes Jahr komplett. Danach CHF 59/Mt. — die Website gehört Ihnen.",
   alternates: { canonical: 'https://www.windo.ch/angebot' },
 };
 
@@ -84,7 +84,7 @@ const FAQ = [
   },
   {
     q: 'Was passiert nach dem ersten Jahr?',
-    a: 'Die Website gehört Ihnen und läuft weiter. Für Hosting, Wartung und Support zahlen Sie CHF 59/Mt. oder CHF 590/Jahr. Monatlich kündbar, keine Mindestlaufzeit.',
+    a: 'Die Website gehört Ihnen und läuft weiter. Für Hosting, Wartung und Support zahlen Sie CHF 59/Mt. oder CHF 590/Jahr. Sie können jederzeit gehen und nehmen alles mit.',
   },
   {
     q: "Was zählt als 'kleine Änderung'?",
@@ -92,7 +92,7 @@ const FAQ = [
   },
   {
     q: 'Bin ich an einen Vertrag gebunden?',
-    a: 'Nein. Nach dem ersten Jahr monatlich kündbar. Ihre Website und alle Inhalte gehören Ihnen. Wenn Sie gehen wollen, übergebe ich Ihnen alles.',
+    a: 'Nein. Nach dem ersten Jahr sind Sie komplett frei. Ihre Website und alle Inhalte gehören Ihnen. Wenn Sie gehen wollen, übergebe ich Ihnen alles.',
   },
   {
     q: 'Muss ich Texte oder Bilder liefern?',
@@ -253,7 +253,7 @@ export default function AngebotPage() {
               <p className="text-5xl font-bold text-bg-dark tracking-tight leading-none mb-1">
                 59.—
               </p>
-              <p className="text-xs text-gray-400 mb-6">CHF pro Monat · monatlich kündbar</p>
+              <p className="text-xs text-gray-400 mb-6">CHF pro Monat · exkl. MWSt 8.1%</p>
               <ul className="space-y-2">
                 {MONTHLY_INCLUDES.map((f) => (
                   <li key={f} className="flex items-start gap-2 text-sm text-gray-600">

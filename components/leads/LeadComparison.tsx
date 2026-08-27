@@ -9,7 +9,7 @@ export default function LeadComparison({ lead }: { lead: LeadContent }) {
     { label: "Texte", ls: "Nicht inklusive", windo: "✓ Inklusive" },
     { label: "Ladegeschwindigkeit", ls: "Oft langsam (Vorlage)", windo: "✓ Schnell — ohne Ballast" },
     { label: "Ansprechpartner", ls: "Callcenter", windo: "✓ Direkt per WhatsApp" },
-    { label: "Vertragslaufzeit", ls: "3 Jahre", windo: "Monatlich kündbar" },
+    { label: "Vertragslaufzeit", ls: "3 Jahre", windo: "Keine Bindung" },
     { label: "Website gehört Ihnen", ls: "✕", windo: "✓" },
   ];
 
